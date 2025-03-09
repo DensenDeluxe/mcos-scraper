@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Kombiniertes Skript:
-1. Führt den Login durch, navigiert zu den Cannabis-Blüten und scraped die Produktdaten.
-2. Speichert die Daten in "cannabis_strains.json".
-3. Liest die JSON-Daten ein, fragt nach Sortieroptionen und erstellt eine PDF-Tabelle.
+1. Sprachauswahl (Deutsch, Englisch, Französisch, Spanisch)
+2. Führt den Login durch, navigiert zu den Cannabis-Blüten und scraped die Produktdaten.
+3. Speichert die Daten in "cannabis_strains.json".
+4. Liest die JSON-Daten ein, fragt nach Sortieroptionen und erstellt eine mehrsprachige PDF-Tabelle.
 """
 
 import time
@@ -22,33 +23,200 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 from fpdf import FPDF
 
-def scrape_products():
+# Übersetzungen für die verschiedenen Sprachen
+translations = {
+    "de": {
+        "language_selection": "Bitte wählen Sie Ihre Sprache:\n1. Deutsch\n2. Englisch\n3. Französisch\n4. Spanisch\nAuswahl: ",
+        "username_prompt": "📝 Benutzername/E-Mail: ",
+        "password_prompt": "🔑 Passwort: ",
+        "starting_webdriver": "🚀 Starte WebDriver...",
+        "open_login": "🌐 Öffne Login-Seite...",
+        "waiting_for_login_fields": "🔍 Warte auf Login-Felder...",
+        "login_fields_found": "✅ Login-Felder gefunden.",
+        "enter_login_data": "📩 Login-Daten eingeben...",
+        "click_login_button": "🖱️ Klicke auf Login-Button...",
+        "cookie_accepted": "✅ Cookie-Banner akzeptiert.",
+        "no_cookie_banner": "ℹ️ Kein Cookie-Banner gefunden oder bereits geschlossen.",
+        "wait_for_redirect": "⏳ Warte 5 Sekunden auf Weiterleitung...",
+        "current_url": "📍 Aktuelle URL nach Login: {}",
+        "logged_in": "✅ Erfolgreich eingeloggt! Wechsle zur Produktseite...",
+        "manual_navigation": "⚠️ Keine Weiterleitung erkannt! Manuell zu den Blüten wechseln...",
+        "load_all_products": "🔄 Lade alle Produkte...",
+        "click_load_more": "🖱️ Klicke auf 'Mehr laden'...",
+        "all_products_loaded": "✅ Alle Produkte geladen!",
+        "search_products": "🔍 Suche nach Produkten auf der Seite...",
+        "all_products_visible": "✅ Alle Produkte sichtbar. Starte Scraping...",
+        "no_products_found": "⚠️ Keine Produkte gefunden. Prüfe die HTML-Struktur.",
+        "scraping_product": "✅ {} - {} | THC: {}%, CBD: {}%, Preis: {} €/g",
+        "scraping_error": "⚠️ Fehler beim Scraping eines Produkts: {}",
+        "products_saved": "✅ {} Produkte erfolgreich gespeichert in 'cannabis_strains.json'.",
+        "pdf_sort_menu": "\n🔍 Wie möchtest du die Ergebnisse sortieren?\n1️⃣ Preis pro Gramm THC\n2️⃣ Preis pro Gramm CBD\n3️⃣ Preis pro Gramm\n4️⃣ THC-Gehalt\n5️⃣ CBD-Gehalt\n6️⃣ Name\nGib die Nummer deiner Wahl ein: ",
+        "invalid_input": "❌ Ungültige Eingabe! Beende das Programm.",
+        "sort_order_prompt": "\n🔼 Aufsteigend (a) oder 🔽 Absteigend (d)? (a/d): ",
+        "pdf_title": "MCOS Grassorten vom {} sortiert {} nach {}",
+        "pdf_saved": "\n✅ PDF gespeichert: {}",
+        "col_num": "#",
+        "col_name": "Name",
+        "col_type": "Typ",
+        "col_thc": "THC (%)",
+        "col_cbd": "CBD (%)",
+        "col_price": "Preis pro g",
+        "col_price_thc": "Preis pro g THC",
+        "col_price_cbd": "Preis pro g CBD"
+    },
+    "en": {
+        "language_selection": "Please select your language:\n1. German\n2. English\n3. French\n4. Spanish\nChoice: ",
+        "username_prompt": "📝 Username/Email: ",
+        "password_prompt": "🔑 Password: ",
+        "starting_webdriver": "🚀 Starting WebDriver...",
+        "open_login": "🌐 Opening login page...",
+        "waiting_for_login_fields": "🔍 Waiting for login fields...",
+        "login_fields_found": "✅ Login fields found.",
+        "enter_login_data": "📩 Entering login data...",
+        "click_login_button": "🖱️ Clicking on login button...",
+        "cookie_accepted": "✅ Cookie banner accepted.",
+        "no_cookie_banner": "ℹ️ No cookie banner found or already closed.",
+        "wait_for_redirect": "⏳ Waiting 5 seconds for redirect...",
+        "current_url": "📍 Current URL after login: {}",
+        "logged_in": "✅ Logged in successfully! Navigating to product page...",
+        "manual_navigation": "⚠️ No redirect detected! Manually navigating to product page...",
+        "load_all_products": "🔄 Loading all products...",
+        "click_load_more": "🖱️ Clicking 'Load more'...",
+        "all_products_loaded": "✅ All products loaded!",
+        "search_products": "🔍 Searching for products on the page...",
+        "all_products_visible": "✅ All products visible. Starting scraping...",
+        "no_products_found": "⚠️ No products found. Check HTML structure.",
+        "scraping_product": "✅ {} - {} | THC: {}%, CBD: {}%, Price: {} €/g",
+        "scraping_error": "⚠️ Error scraping a product: {}",
+        "products_saved": "✅ {} products successfully saved in 'cannabis_strains.json'.",
+        "pdf_sort_menu": "\n🔍 How would you like to sort the results?\n1️⃣ Price per gram THC\n2️⃣ Price per gram CBD\n3️⃣ Price per gram\n4️⃣ THC content\n5️⃣ CBD content\n6️⃣ Name\nEnter your choice: ",
+        "invalid_input": "❌ Invalid input! Exiting.",
+        "sort_order_prompt": "\n🔼 Ascending (a) or 🔽 Descending (d)? (a/d): ",
+        "pdf_title": "MCOS Strains from {} sorted {} by {}",
+        "pdf_saved": "\n✅ PDF saved: {}",
+        "col_num": "#",
+        "col_name": "Name",
+        "col_type": "Type",
+        "col_thc": "THC (%)",
+        "col_cbd": "CBD (%)",
+        "col_price": "Price per g",
+        "col_price_thc": "Price per g THC",
+        "col_price_cbd": "Price per g CBD"
+    },
+    "fr": {
+        "language_selection": "Veuillez sélectionner votre langue:\n1. Allemand\n2. Anglais\n3. Français\n4. Espagnol\nChoix: ",
+        "username_prompt": "📝 Nom d'utilisateur/Email: ",
+        "password_prompt": "🔑 Mot de passe: ",
+        "starting_webdriver": "🚀 Démarrage du WebDriver...",
+        "open_login": "🌐 Ouverture de la page de connexion...",
+        "waiting_for_login_fields": "🔍 Attente des champs de connexion...",
+        "login_fields_found": "✅ Champs de connexion trouvés.",
+        "enter_login_data": "📩 Saisie des données de connexion...",
+        "click_login_button": "🖱️ Clic sur le bouton de connexion...",
+        "cookie_accepted": "✅ Bannière de cookie acceptée.",
+        "no_cookie_banner": "ℹ️ Aucune bannière de cookie trouvée ou déjà fermée.",
+        "wait_for_redirect": "⏳ Attente de 5 secondes pour la redirection...",
+        "current_url": "📍 URL actuelle après la connexion: {}",
+        "logged_in": "✅ Connecté avec succès! Navigation vers la page produit...",
+        "manual_navigation": "⚠️ Aucune redirection détectée! Navigation manuelle vers la page produit...",
+        "load_all_products": "🔄 Chargement de tous les produits...",
+        "click_load_more": "🖱️ Clic sur 'Charger plus'...",
+        "all_products_loaded": "✅ Tous les produits chargés!",
+        "search_products": "🔍 Recherche des produits sur la page...",
+        "all_products_visible": "✅ Tous les produits sont visibles. Début du scraping...",
+        "no_products_found": "⚠️ Aucun produit trouvé. Vérifiez la structure HTML.",
+        "scraping_product": "✅ {} - {} | THC: {}%, CBD: {}%, Prix: {} €/g",
+        "scraping_error": "⚠️ Erreur lors du scraping d'un produit: {}",
+        "products_saved": "✅ {} produits enregistrés avec succès dans 'cannabis_strains.json'.",
+        "pdf_sort_menu": "\n🔍 Comment souhaitez-vous trier les résultats?\n1️⃣ Prix par gramme THC\n2️⃣ Prix par gramme CBD\n3️⃣ Prix par gramme\n4️⃣ Teneur en THC\n5️⃣ Teneur en CBD\n6️⃣ Nom\nEntrez votre choix: ",
+        "invalid_input": "❌ Entrée invalide! Arrêt du programme.",
+        "sort_order_prompt": "\n🔼 Ascendant (a) ou 🔽 Descendant (d)? (a/d): ",
+        "pdf_title": "MCOS Variétés du {} triées {} par {}",
+        "pdf_saved": "\n✅ PDF enregistré: {}",
+        "col_num": "#",
+        "col_name": "Nom",
+        "col_type": "Type",
+        "col_thc": "THC (%)",
+        "col_cbd": "CBD (%)",
+        "col_price": "Prix par g",
+        "col_price_thc": "Prix par g THC",
+        "col_price_cbd": "Prix par g CBD"
+    },
+    "es": {
+        "language_selection": "Por favor seleccione su idioma:\n1. Alemán\n2. Inglés\n3. Francés\n4. Español\nElección: ",
+        "username_prompt": "📝 Nombre de usuario/Correo electrónico: ",
+        "password_prompt": "🔑 Contraseña: ",
+        "starting_webdriver": "🚀 Iniciando WebDriver...",
+        "open_login": "🌐 Abriendo página de inicio de sesión...",
+        "waiting_for_login_fields": "🔍 Esperando los campos de inicio de sesión...",
+        "login_fields_found": "✅ Campos de inicio de sesión encontrados.",
+        "enter_login_data": "📩 Ingresando datos de inicio de sesión...",
+        "click_login_button": "🖱️ Haciendo clic en el botón de inicio de sesión...",
+        "cookie_accepted": "✅ Banner de cookies aceptado.",
+        "no_cookie_banner": "ℹ️ No se encontró banner de cookies o ya está cerrado.",
+        "wait_for_redirect": "⏳ Esperando 5 segundos para la redirección...",
+        "current_url": "📍 URL actual después del inicio de sesión: {}",
+        "logged_in": "✅ ¡Inicio de sesión exitoso! Navegando a la página de productos...",
+        "manual_navigation": "⚠️ ¡No se detectó redirección! Navegando manualmente a la página de productos...",
+        "load_all_products": "🔄 Cargando todos los productos...",
+        "click_load_more": "🖱️ Haciendo clic en 'Cargar más'...",
+        "all_products_loaded": "✅ ¡Todos los productos cargados!",
+        "search_products": "🔍 Buscando productos en la página...",
+        "all_products_visible": "✅ Todos los productos visibles. Iniciando scraping...",
+        "no_products_found": "⚠️ No se encontraron productos. Verifique la estructura HTML.",
+        "scraping_product": "✅ {} - {} | THC: {}%, CBD: {}%, Precio: {} €/g",
+        "scraping_error": "⚠️ Error al hacer scraping de un producto: {}",
+        "products_saved": "✅ {} productos guardados exitosamente en 'cannabis_strains.json'.",
+        "pdf_sort_menu": "\n🔍 ¿Cómo le gustaría ordenar los resultados?\n1️⃣ Precio por gramo de THC\n2️⃣ Precio por gramo de CBD\n3️⃣ Precio por gramo\n4️⃣ Contenido de THC\n5️⃣ Contenido de CBD\n6️⃣ Nombre\nIngrese su elección: ",
+        "invalid_input": "❌ Entrada no válida! Saliendo.",
+        "sort_order_prompt": "\n🔼 Ascendente (a) o 🔽 Descendente (d)? (a/d): ",
+        "pdf_title": "MCOS Variedades del {} ordenadas {} por {}",
+        "pdf_saved": "\n✅ PDF guardado: {}",
+        "col_num": "#",
+        "col_name": "Nombre",
+        "col_type": "Tipo",
+        "col_thc": "THC (%)",
+        "col_cbd": "CBD (%)",
+        "col_price": "Precio por g",
+        "col_price_thc": "Precio por g THC",
+        "col_price_cbd": "Precio por g CBD"
+    }
+}
+
+def choose_language():
+    # Verwende zunächst die englische Standardversion des Auswahltexts,
+    # da diese den meisten Usern verständlich sein dürfte.
+    lang_choice = input(translations["en"]["language_selection"]).strip()
+    mapping = {"1": "de", "2": "en", "3": "fr", "4": "es"}
+    return mapping.get(lang_choice, "en")
+
+def scrape_products(t):
     """Führt den Login durch und scraped die Produktdaten von der Zielseite."""
-    print("🚀 Starte WebDriver...")
+    print(t["starting_webdriver"])
     driver = webdriver.Chrome()
 
-    print("🌐 Öffne Login-Seite...")
+    print(t["open_login"])
     driver.get("https://medcanonestop.com/wp-login.php")
 
     # Login-Felder suchen
     try:
-        print("🔍 Warte auf Login-Felder...")
+        print(t["waiting_for_login_fields"])
         username_input = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.ID, "input_1"))
         )
         password_input = driver.find_element(By.ID, "input_2")
         login_button = driver.find_element(By.ID, "gform_submit_button_0")
-        print("✅ Login-Felder gefunden.")
+        print(t["login_fields_found"])
     except Exception as e:
-        print("❌ Fehler: Konnte Login-Felder nicht finden!", e)
+        print(t["invalid_input"], e)
         driver.quit()
         exit(1)
 
     # Benutzer gibt Zugangsdaten ein
-    username = input("📝 Benutzername/E-Mail: ")
-    password = getpass.getpass("🔑 Passwort: ")
+    username = input(t["username_prompt"])
+    password = getpass.getpass(t["password_prompt"])
 
-    print("📩 Login-Daten eingeben...")
+    print(t["enter_login_data"])
     username_input.send_keys(username)
     password_input.send_keys(password)
     
@@ -58,57 +226,57 @@ def scrape_products():
             EC.element_to_be_clickable((By.CSS_SELECTOR, "button.cmplz-btn.cmplz-accept"))
         )
         cookie_button.click()
-        print("✅ Cookie-Banner akzeptiert.")
+        print(t["cookie_accepted"])
         time.sleep(2)
     except Exception as e:
-        print("ℹ️ Kein Cookie-Banner gefunden oder bereits geschlossen.", e)
+        print(t["no_cookie_banner"], e)
 
-    print("🖱️ Klicke auf Login-Button...")
+    print(t["click_login_button"])
     try:
         login_button.click()
     except Exception as e:
-        print("❌ Fehler beim Klicken auf den Login-Button:", e)
+        print(t["invalid_input"], e)
         driver.quit()
         exit(1)
 
     # Nach Login zur Produktseite navigieren
-    print("⏳ Warte 5 Sekunden auf Weiterleitung...")
+    print(t["wait_for_redirect"])
     time.sleep(5)
     current_url = driver.current_url
-    print(f"📍 Aktuelle URL nach Login: {current_url}")
+    print(t["current_url"].format(current_url))
 
     if "mein-konto" in current_url or "dashboard" in current_url:
-        print("✅ Erfolgreich eingeloggt! Wechsle zur Produktseite...")
+        print(t["logged_in"])
         driver.get("https://medcanonestop.com/cannabisblueten/")
         time.sleep(5)
     else:
-        print("⚠️ Keine Weiterleitung erkannt! Manuell zu den Blüten wechseln...")
+        print(t["manual_navigation"])
         driver.get("https://medcanonestop.com/cannabisblueten/")
         time.sleep(5)
 
     # Alle Produkte laden ("Mehr laden"-Button klicken)
-    print("🔄 Lade alle Produkte...")
+    print(t["load_all_products"])
     while True:
         try:
             load_more_button = WebDriverWait(driver, 5).until(
                 EC.element_to_be_clickable((By.CLASS_NAME, "load-more-archive"))
             )
-            print("🖱️ Klicke auf 'Mehr laden'...")
+            print(t["click_load_more"])
             driver.execute_script("arguments[0].click();", load_more_button)
             time.sleep(3)
         except Exception:
-            print("✅ Alle Produkte geladen!")
+            print(t["all_products_loaded"])
             break
 
     # Überprüfen, ob Produkte geladen wurden
-    print("🔍 Suche nach Produkten auf der Seite...")
+    print(t["search_products"])
     try:
         WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.CLASS_NAME, "product-info"))
         )
-        print("✅ Alle Produkte sichtbar. Starte Scraping...")
+        print(t["all_products_visible"])
     except Exception as e:
-        print("❌ Fehler: Produkte konnten nicht gefunden werden. Prüfe die Seite manuell.", e)
+        print(t["invalid_input"], e)
         driver.quit()
         exit(1)
 
@@ -116,7 +284,7 @@ def scrape_products():
     products = []
     product_cards = driver.find_elements(By.CLASS_NAME, "product-info")
     if not product_cards:
-        print("⚠️ Keine Produkte gefunden. Prüfe die HTML-Struktur.")
+        print(t["no_products_found"])
 
     for card in product_cards:
         try:
@@ -133,7 +301,6 @@ def scrape_products():
             price_text = card.find_element(By.CLASS_NAME, "price-from").text.replace("Ab ", "").replace("€", "").replace(",", ".").strip()
             price_value = float(price_text) if price_text else 0.0
 
-            # Produktdaten speichern
             products.append({
                 "name": name,
                 "type": genetics,
@@ -142,71 +309,57 @@ def scrape_products():
                 "price_per_g": price_value
             })
 
-            print(f"✅ {name} - {genetics} | THC: {thc_value}%, CBD: {cbd_value}%, Preis: {price_value} €/g")
+            print(t["scraping_product"].format(name, genetics, thc_value, cbd_value, price_value))
         except Exception as e:
-            print(f"⚠️ Fehler beim Scraping eines Produkts: {e}")
+            print(t["scraping_error"].format(e))
 
-    # Daten in JSON speichern
     with open("cannabis_strains.json", "w", encoding="utf-8") as f:
         json.dump(products, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ {len(products)} Produkte erfolgreich gespeichert in 'cannabis_strains.json'.")
+    print(t["products_saved"].format(len(products)))
     driver.quit()
     return products
 
-def create_pdf():
+def create_pdf(t):
     """Liest die gespeicherten Produktdaten ein, sortiert sie und erstellt ein PDF."""
-    # Daten aus JSON laden
     try:
         with open("cannabis_strains.json", "r", encoding="utf-8") as f:
             products = json.load(f)
     except Exception as e:
-        print("❌ Fehler beim Laden der JSON-Daten:", e)
+        print(t["invalid_input"], e)
         exit(1)
 
     if not products:
-        print("❌ Keine Daten zum Sortieren gefunden!")
+        print(t["invalid_input"])
         exit()
 
-    # Menü zur Auswahl der Sortierung
-    print("\n🔍 Wie möchtest du die Ergebnisse sortieren?")
-    print("1️⃣ Preis pro Gramm THC")
-    print("2️⃣ Preis pro Gramm CBD")
-    print("3️⃣ Preis pro Gramm")
-    print("4️⃣ THC-Gehalt")
-    print("5️⃣ CBD-Gehalt")
-    print("6️⃣ Name")
-    sort_option = input("Gib die Nummer deiner Wahl ein: ").strip()
+    sort_option = input(t["pdf_sort_menu"]).strip()
 
     sort_keys = {
-        "1": ("price_per_g_thc", "Preis pro Gramm THC"),
-        "2": ("price_per_g_cbd", "Preis pro Gramm CBD"),
-        "3": ("price_per_g", "Preis pro Gramm"),
-        "4": ("thc", "THC-Gehalt"),
-        "5": ("cbd", "CBD-Gehalt"),
-        "6": ("name", "Name")
+        "1": ("price_per_g_thc", t["col_price_thc"]),
+        "2": ("price_per_g_cbd", t["col_price_cbd"]),
+        "3": ("price_per_g", t["col_price"]),
+        "4": ("thc", t["col_thc"]),
+        "5": ("cbd", t["col_cbd"]),
+        "6": ("name", t["col_name"])
     }
     sort_data = sort_keys.get(sort_option)
     if not sort_data:
-        print("❌ Ungültige Eingabe! Beende das Programm.")
+        print(t["invalid_input"])
         exit()
 
     sort_key, sort_text = sort_data
 
-    # Sortierreihenfolge abfragen
-    order_option = input("\n🔼 Aufsteigend (a) oder 🔽 Absteigend (d)? (a/d): ").strip().lower()
+    order_option = input(t["sort_order_prompt"]).strip().lower()
     reverse_order = order_option == "d"
-    order_text = "absteigend" if reverse_order else "aufsteigend"
+    order_text = "absteigend" if reverse_order else "aufsteigend"  # Für den PDF-Titel wird hier der Originaltext genutzt
 
-    # Aktuelles Datum & Uhrzeit holen
     current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
     filename_time = datetime.now().strftime("%d-%m-%Y-%H-%M")
 
-    # Dynamische PDF-Überschrift & Dateiname
-    pdf_title = f"MCOS Grassorten vom {current_time} sortiert {order_text} nach {sort_text}"
+    pdf_title = t["pdf_title"].format(current_time, order_text, sort_text)
     pdf_filename = f"mcos-{filename_time}.pdf"
 
-    # Berechnungen für Preis pro Gramm THC & CBD
     for product in products:
         if product["thc"] > 0:
             product["price_per_g_thc"] = f"{round(product['price_per_g'] / (product['thc'] / 100), 2):.2f} €"
@@ -220,7 +373,6 @@ def create_pdf():
 
         product["price_per_g"] = f"{product['price_per_g']:.2f} €"
 
-    # Angepasste Sortierung: Falls der Wert numerisch ist, wird er direkt verwendet, ansonsten aus dem formatierten String extrahiert
     try:
         sorted_products = sorted(
             products,
@@ -229,29 +381,28 @@ def create_pdf():
             reverse=reverse_order
         )
     except Exception as e:
-        print("❌ Fehler beim Sortieren der Daten:", e)
+        print(t["invalid_input"], e)
         exit(1)
 
-    # Nummerierung hinzufügen
     for i, product in enumerate(sorted_products, start=1):
         product["num"] = i
 
-    # DataFrame für PDF-Tabelle erstellen
     df = pd.DataFrame(sorted_products, columns=["num", "name", "type", "thc", "cbd", "price_per_g", "price_per_g_thc", "price_per_g_cbd"])
-    df.columns = ["#", "Name", "Typ", "THC (%)", "CBD (%)", "Preis pro g", "Preis pro g THC", "Preis pro g CBD"]
+    df.columns = [
+        t["col_num"], t["col_name"], t["col_type"],
+        t["col_thc"], t["col_cbd"],
+        t["col_price"], t["col_price_thc"], t["col_price_cbd"]
+    ]
 
-    # PDF-Erstellung
     pdf = FPDF(orientation="L", unit="mm", format="A4")
     pdf.set_auto_page_break(auto=True, margin=15)
     pdf.add_page()
 
-    # Nutze eine UTF-8 kompatible Schriftart (stelle sicher, dass "DejaVuSans.ttf" im selben Verzeichnis liegt)
     pdf.add_font("DejaVu", "", "DejaVuSans.ttf", uni=True)
     pdf.set_font("DejaVu", "", 12)
     pdf.cell(277, 8, pdf_title, ln=True, align="C")
     pdf.ln(8)
 
-    # Tabellenkopf erstellen
     pdf.set_font("DejaVu", "", 9)
     column_widths = [10, 60, 30, 20, 20, 30, 45, 45]
     columns = df.columns.tolist()
@@ -259,22 +410,20 @@ def create_pdf():
         pdf.cell(column_widths[i], 6, col, border=1, align="C")
     pdf.ln()
 
-    # Tabelleninhalt schreiben
     pdf.set_font("DejaVu", "", 8)
     for _, row in df.iterrows():
         for i, col in enumerate(columns):
             pdf.cell(column_widths[i], 6, str(row[col]), border=1, align="C")
         pdf.ln()
 
-    # PDF speichern
     pdf.output(pdf_filename, "F")
-    print(f"\n✅ PDF gespeichert: {pdf_filename}")
+    print(t["pdf_saved"].format(pdf_filename))
 
 def main():
-    # Zuerst Produkte scrapen
-    products = scrape_products()
-    # Anschließend PDF aus den gescrapten Daten erstellen
-    create_pdf()
+    lang = choose_language()
+    t = translations[lang]
+    products = scrape_products(t)
+    create_pdf(t)
 
 if __name__ == '__main__':
     main()
