@@ -1,30 +1,37 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Kombiniertes Skript:
+MCOS Multi-Language Scraper & PDF Generator
+
+Dieses Skript führt folgende Schritte aus:
 1. Sprachauswahl (Deutsch, Englisch, Französisch, Spanisch)
-2. Führt den Login durch, navigiert zu den Cannabis-Blüten und scraped die Produktdaten.
-3. Speichert die Daten in "cannabis_strains.json".
-4. Liest die JSON-Daten ein, fragt nach Sortieroptionen und erstellt eine mehrsprachige PDF-Tabelle.
+2. Login auf der Zielseite, Navigation zu den Cannabis-Blüten und Scraping der Produktdaten.
+3. Speicherung der Daten in "cannabis_strains.json".
+4. Einlesen der Daten, Sortierabfrage und Erstellung einer mehrsprachigen PDF-Tabelle.
+
+Voraussetzungen:
+- Selenium
+- fpdf2
+- pandas
+- Die Schriftart-Datei "DejaVuSans.ttf" muss im selben Verzeichnis liegen.
 """
 
-import time
 import json
 import getpass
+import time
 from datetime import datetime
+from typing import Any, Dict, List
 
-# Selenium-Imports für das Scraping
+import pandas as pd
+from fpdf import FPDF
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# PDF-Erstellung Imports
-import pandas as pd
-from fpdf import FPDF
 
 # Übersetzungen für die verschiedenen Sprachen
-translations = {
+TRANSLATIONS: Dict[str, Dict[str, str]] = {
     "de": {
         "language_selection": "Bitte wählen Sie Ihre Sprache:\n1. Deutsch\n2. Englisch\n3. Französisch\n4. Spanisch\nAuswahl: ",
         "username_prompt": "📝 Benutzername/E-Mail: ",
@@ -183,22 +190,33 @@ translations = {
     }
 }
 
-def choose_language():
-    # Verwende zunächst die englische Standardversion des Auswahltexts,
-    # da diese den meisten Usern verständlich sein dürfte.
-    lang_choice = input(translations["en"]["language_selection"]).strip()
+
+def choose_language() -> str:
+    """
+    Fordert den Benutzer zur Sprachauswahl auf und gibt den entsprechenden Sprachcode zurück.
+    Standard ist Englisch ("en").
+    """
+    lang_choice = input(TRANSLATIONS["en"]["language_selection"]).strip()
     mapping = {"1": "de", "2": "en", "3": "fr", "4": "es"}
     return mapping.get(lang_choice, "en")
 
-def scrape_products(t):
-    """Führt den Login durch und scraped die Produktdaten von der Zielseite."""
+
+def scrape_products(t: Dict[str, str]) -> List[Dict[str, Any]]:
+    """
+    Führt den Login durch und scraped die Produktdaten.
+
+    Args:
+        t: Übersetzungs-Dictionary für die gewählte Sprache.
+
+    Returns:
+        Eine Liste von Dictionaries, die die Produktdaten enthalten.
+    """
     print(t["starting_webdriver"])
     driver = webdriver.Chrome()
 
     print(t["open_login"])
     driver.get("https://medcanonestop.com/wp-login.php")
 
-    # Login-Felder suchen
     try:
         print(t["waiting_for_login_fields"])
         username_input = WebDriverWait(driver, 10).until(
@@ -208,18 +226,17 @@ def scrape_products(t):
         login_button = driver.find_element(By.ID, "gform_submit_button_0")
         print(t["login_fields_found"])
     except Exception as e:
-        print(t["invalid_input"], e)
+        print(f"{t['invalid_input']} {e}")
         driver.quit()
         exit(1)
 
-    # Benutzer gibt Zugangsdaten ein
     username = input(t["username_prompt"])
     password = getpass.getpass(t["password_prompt"])
 
     print(t["enter_login_data"])
     username_input.send_keys(username)
     password_input.send_keys(password)
-    
+
     # Cookie-Banner schließen, falls vorhanden
     try:
         cookie_button = WebDriverWait(driver, 5).until(
@@ -229,17 +246,16 @@ def scrape_products(t):
         print(t["cookie_accepted"])
         time.sleep(2)
     except Exception as e:
-        print(t["no_cookie_banner"], e)
+        print(f"{t['no_cookie_banner']} {e}")
 
     print(t["click_login_button"])
     try:
         login_button.click()
     except Exception as e:
-        print(t["invalid_input"], e)
+        print(f"{t['invalid_input']} {e}")
         driver.quit()
         exit(1)
 
-    # Nach Login zur Produktseite navigieren
     print(t["wait_for_redirect"])
     time.sleep(5)
     current_url = driver.current_url
@@ -254,7 +270,6 @@ def scrape_products(t):
         driver.get("https://medcanonestop.com/cannabisblueten/")
         time.sleep(5)
 
-    # Alle Produkte laden ("Mehr laden"-Button klicken)
     print(t["load_all_products"])
     while True:
         try:
@@ -268,7 +283,6 @@ def scrape_products(t):
             print(t["all_products_loaded"])
             break
 
-    # Überprüfen, ob Produkte geladen wurden
     print(t["search_products"])
     try:
         WebDriverWait(driver, 10).until(
@@ -276,28 +290,24 @@ def scrape_products(t):
         )
         print(t["all_products_visible"])
     except Exception as e:
-        print(t["invalid_input"], e)
+        print(f"{t['invalid_input']} {e}")
         driver.quit()
         exit(1)
 
-    # Produkte scrapen
-    products = []
+    products: List[Dict[str, Any]] = []
     product_cards = driver.find_elements(By.CLASS_NAME, "product-info")
     if not product_cards:
         print(t["no_products_found"])
 
     for card in product_cards:
         try:
-            # Produktname & Genetik
             name = card.find_element(By.CLASS_NAME, "product-info_title").text
             genetics = card.find_element(By.CLASS_NAME, "genetik").text
 
-            # THC & CBD-Werte (Erster Wert: THC, zweiter Wert: CBD)
             thc_values = card.find_elements(By.CLASS_NAME, "thc-value")
             thc_value = float(thc_values[0].text.replace("%", "").replace(",", ".").strip()) if thc_values else 0.0
             cbd_value = float(thc_values[1].text.replace("%", "").replace(",", ".").strip()) if len(thc_values) > 1 else 0.0
 
-            # Preis
             price_text = card.find_element(By.CLASS_NAME, "price-from").text.replace("Ab ", "").replace("€", "").replace(",", ".").strip()
             price_value = float(price_text) if price_text else 0.0
 
@@ -320,13 +330,19 @@ def scrape_products(t):
     driver.quit()
     return products
 
-def create_pdf(t):
-    """Liest die gespeicherten Produktdaten ein, sortiert sie und erstellt ein PDF."""
+
+def create_pdf(t: Dict[str, str]) -> None:
+    """
+    Liest die gespeicherten Produktdaten, sortiert sie und erstellt ein PDF.
+
+    Args:
+        t: Übersetzungs-Dictionary für die gewählte Sprache.
+    """
     try:
         with open("cannabis_strains.json", "r", encoding="utf-8") as f:
-            products = json.load(f)
+            products: List[Dict[str, Any]] = json.load(f)
     except Exception as e:
-        print(t["invalid_input"], e)
+        print(f"{t['invalid_input']} {e}")
         exit(1)
 
     if not products:
@@ -334,7 +350,6 @@ def create_pdf(t):
         exit()
 
     sort_option = input(t["pdf_sort_menu"]).strip()
-
     sort_keys = {
         "1": ("price_per_g_thc", t["col_price_thc"]),
         "2": ("price_per_g_cbd", t["col_price_cbd"]),
@@ -347,12 +362,11 @@ def create_pdf(t):
     if not sort_data:
         print(t["invalid_input"])
         exit()
-
     sort_key, sort_text = sort_data
 
     order_option = input(t["sort_order_prompt"]).strip().lower()
     reverse_order = order_option == "d"
-    order_text = "absteigend" if reverse_order else "aufsteigend"  # Für den PDF-Titel wird hier der Originaltext genutzt
+    order_text = "absteigend" if reverse_order else "aufsteigend"
 
     current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
     filename_time = datetime.now().strftime("%d-%m-%Y-%H-%M")
@@ -365,29 +379,34 @@ def create_pdf(t):
             product["price_per_g_thc"] = f"{round(product['price_per_g'] / (product['thc'] / 100), 2):.2f} €"
         else:
             product["price_per_g_thc"] = "---"
-
         if product["cbd"] > 0:
             product["price_per_g_cbd"] = f"{round(product['price_per_g'] / (product['cbd'] / 100), 2):.2f} €"
         else:
             product["price_per_g_cbd"] = "---"
-
         product["price_per_g"] = f"{product['price_per_g']:.2f} €"
 
     try:
         sorted_products = sorted(
             products,
-            key=lambda x: float(x[sort_key]) if isinstance(x[sort_key], (int, float))
-                else float(x[sort_key].replace(" €", "").strip()),
+            key=lambda x: float(x[sort_key])
+            if isinstance(x[sort_key], (int, float))
+            else float(x[sort_key].replace(" €", "").strip()),
             reverse=reverse_order
         )
     except Exception as e:
-        print(t["invalid_input"], e)
+        print(f"{t['invalid_input']} {e}")
         exit(1)
 
     for i, product in enumerate(sorted_products, start=1):
         product["num"] = i
 
-    df = pd.DataFrame(sorted_products, columns=["num", "name", "type", "thc", "cbd", "price_per_g", "price_per_g_thc", "price_per_g_cbd"])
+    df = pd.DataFrame(
+        sorted_products,
+        columns=[
+            "num", "name", "type", "thc", "cbd",
+            "price_per_g", "price_per_g_thc", "price_per_g_cbd"
+        ]
+    )
     df.columns = [
         t["col_num"], t["col_name"], t["col_type"],
         t["col_thc"], t["col_cbd"],
@@ -419,11 +438,14 @@ def create_pdf(t):
     pdf.output(pdf_filename, "F")
     print(t["pdf_saved"].format(pdf_filename))
 
-def main():
+
+def main() -> None:
+    """Hauptfunktion: Führt Sprachauswahl, Scraping und PDF-Erstellung aus."""
     lang = choose_language()
-    t = translations[lang]
+    t = TRANSLATIONS[lang]
     products = scrape_products(t)
     create_pdf(t)
+
 
 if __name__ == '__main__':
     main()
