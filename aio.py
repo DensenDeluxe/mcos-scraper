@@ -377,7 +377,6 @@ def create_pdf(t: Dict[str, str]) -> None:
     order_text = t["descending"] if reverse_order else t["ascending"]
 
     current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
-    # Der PDF-Titel nutzt nun das aktuelle Datum, aber der Dateiname ist fest "mcos.pdf"
     pdf_title = t["pdf_title"].format(current_time, order_text, sort_text)
     pdf_filename = "mcos.pdf"
 
@@ -414,11 +413,18 @@ def create_pdf(t: Dict[str, str]) -> None:
             "price_per_g", "price_per_g_thc", "price_per_g_cbd"
         ]
     )
-    df.columns = [
+    # Ursprüngliche Spaltenüberschriften
+    headers = [
         t["col_num"], t["col_name"], t["col_type"],
         t["col_thc"], t["col_cbd"],
         t["col_price"], t["col_price_thc"], t["col_price_cbd"]
     ]
+    # Füge neben der sortierten Spalte einen Pfeil ein
+    arrow = "↓" if reverse_order else "↑"
+    for i, header in enumerate(headers):
+        if header == sort_text:
+            headers[i] = f"{header} {arrow}"
+    df.columns = headers
 
     pdf = FPDF(orientation="L", unit="mm", format="A4")
     pdf.set_auto_page_break(auto=True, margin=15)
