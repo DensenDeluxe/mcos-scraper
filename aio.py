@@ -30,7 +30,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-# Übersetzungen für die verschiedenen Sprachen
+# Übersetzungen für die verschiedenen Sprachen inklusive Sortierrichtungen
 TRANSLATIONS: Dict[str, Dict[str, str]] = {
     "de": {
         "language_selection": "Bitte wählen Sie Ihre Sprache:\n1. Deutsch\n2. Englisch\n3. Französisch\n4. Spanisch\nAuswahl: ",
@@ -60,6 +60,8 @@ TRANSLATIONS: Dict[str, Dict[str, str]] = {
         "pdf_sort_menu": "\n🔍 Wie möchtest du die Ergebnisse sortieren?\n1️⃣ Preis pro Gramm THC\n2️⃣ Preis pro Gramm CBD\n3️⃣ Preis pro Gramm\n4️⃣ THC-Gehalt\n5️⃣ CBD-Gehalt\n6️⃣ Name\nGib die Nummer deiner Wahl ein: ",
         "invalid_input": "❌ Ungültige Eingabe! Beende das Programm.",
         "sort_order_prompt": "\n🔼 Aufsteigend (a) oder 🔽 Absteigend (d)? (a/d): ",
+        "ascending": "aufsteigend",
+        "descending": "absteigend",
         "pdf_title": "MCOS Grassorten vom {} sortiert {} nach {}",
         "pdf_saved": "\n✅ PDF gespeichert: {}",
         "col_num": "#",
@@ -99,6 +101,8 @@ TRANSLATIONS: Dict[str, Dict[str, str]] = {
         "pdf_sort_menu": "\n🔍 How would you like to sort the results?\n1️⃣ Price per gram THC\n2️⃣ Price per gram CBD\n3️⃣ Price per gram\n4️⃣ THC content\n5️⃣ CBD content\n6️⃣ Name\nEnter your choice: ",
         "invalid_input": "❌ Invalid input! Exiting.",
         "sort_order_prompt": "\n🔼 Ascending (a) or 🔽 Descending (d)? (a/d): ",
+        "ascending": "ascending",
+        "descending": "descending",
         "pdf_title": "MCOS Strains from {} sorted {} by {}",
         "pdf_saved": "\n✅ PDF saved: {}",
         "col_num": "#",
@@ -137,7 +141,9 @@ TRANSLATIONS: Dict[str, Dict[str, str]] = {
         "products_saved": "✅ {} produits enregistrés avec succès dans 'cannabis_strains.json'.",
         "pdf_sort_menu": "\n🔍 Comment souhaitez-vous trier les résultats?\n1️⃣ Prix par gramme THC\n2️⃣ Prix par gramme CBD\n3️⃣ Prix par gramme\n4️⃣ Teneur en THC\n5️⃣ Teneur en CBD\n6️⃣ Nom\nEntrez votre choix: ",
         "invalid_input": "❌ Entrée invalide! Arrêt du programme.",
-        "sort_order_prompt": "\n🔼 Ascendant (a) ou 🔽 Descendant (d)? (a/d): ",
+        "sort_order_prompt": "\n🔼 Ascendant (a) ou Descendant (d)? (a/d): ",
+        "ascending": "ascendant",
+        "descending": "descendant",
         "pdf_title": "MCOS Variétés du {} triées {} par {}",
         "pdf_saved": "\n✅ PDF enregistré: {}",
         "col_num": "#",
@@ -176,7 +182,9 @@ TRANSLATIONS: Dict[str, Dict[str, str]] = {
         "products_saved": "✅ {} productos guardados exitosamente en 'cannabis_strains.json'.",
         "pdf_sort_menu": "\n🔍 ¿Cómo le gustaría ordenar los resultados?\n1️⃣ Precio por gramo de THC\n2️⃣ Precio por gramo de CBD\n3️⃣ Precio por gramo\n4️⃣ Contenido de THC\n5️⃣ Contenido de CBD\n6️⃣ Nombre\nIngrese su elección: ",
         "invalid_input": "❌ Entrada no válida! Saliendo.",
-        "sort_order_prompt": "\n🔼 Ascendente (a) o 🔽 Descendente (d)? (a/d): ",
+        "sort_order_prompt": "\n🔼 Ascendente (a) o Descendente (d)? (a/d): ",
+        "ascending": "ascendente",
+        "descending": "descendente",
         "pdf_title": "MCOS Variedades del {} ordenadas {} por {}",
         "pdf_saved": "\n✅ PDF guardado: {}",
         "col_num": "#",
@@ -366,7 +374,7 @@ def create_pdf(t: Dict[str, str]) -> None:
 
     order_option = input(t["sort_order_prompt"]).strip().lower()
     reverse_order = order_option == "d"
-    order_text = "absteigend" if reverse_order else "aufsteigend"
+    order_text = t["descending"] if reverse_order else t["ascending"]
 
     current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
     filename_time = datetime.now().strftime("%d-%m-%Y-%H-%M")
