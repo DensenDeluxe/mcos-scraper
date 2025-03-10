@@ -7,7 +7,7 @@ Dieses Skript führt folgende Schritte aus:
 1. Sprachauswahl (Deutsch, Englisch, Französisch, Spanisch)
 2. Login auf der Zielseite, Navigation zu den Cannabis-Blüten und Scraping der Produktdaten.
 3. Speicherung der Daten in "cannabis_strains.json".
-4. Einlesen der Daten, Sortierabfrage und Erstellung einer mehrsprachigen PDF-Tabelle.
+4. Einlesen der Daten, Sortierabfrage und Erstellung einer mehrsprachigen PDF-Tabelle (Dateiname: mcos.pdf).
 
 Voraussetzungen:
 - Selenium
@@ -377,10 +377,9 @@ def create_pdf(t: Dict[str, str]) -> None:
     order_text = t["descending"] if reverse_order else t["ascending"]
 
     current_time = datetime.now().strftime("%d.%m.%Y %H:%M")
-    filename_time = datetime.now().strftime("%d-%m-%Y-%H-%M")
-
+    # Der PDF-Titel nutzt nun das aktuelle Datum, aber der Dateiname ist fest "mcos.pdf"
     pdf_title = t["pdf_title"].format(current_time, order_text, sort_text)
-    pdf_filename = f"mcos-{filename_time}.pdf"
+    pdf_filename = "mcos.pdf"
 
     for product in products:
         if product["thc"] > 0:
