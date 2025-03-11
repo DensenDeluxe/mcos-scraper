@@ -8,12 +8,13 @@ from datetime import datetime
 from tqdm import tqdm
 from typing import Any, Dict, List, Optional
 import re
+import sys
 
 # Konfiguration
 MAX_CONCURRENT_REQUESTS = 10
 RETRY_ATTEMPTS = 5          # Anzahl der Versuche pro Request
 INITIAL_BACKOFF = 1         # Sekunden
-SLEEP_INTERVAL = 300        # 5 Minuten zwischen den Zyklen
+SLEEP_INTERVAL = 3600       # Für das finale Projekt (1 Stunde); zum Testen ggf. einen kleineren Wert setzen
 
 # Zielordner für Bilder und JSONs
 IMAGE_FOLDER = "images"
@@ -82,7 +83,7 @@ async def scrape_product(session: aiohttp.ClientSession, url: str) -> dict:
       - Weitere Attribute, Preis (Einzelpreis oder Preisspanne)
       - Bewertungen, Wirkungen, Aroma, Terpene, medizinische Effekte
       - Lieferstatus, Bild-URL
-      - Produktart: "Cannabisblüten" (falls ein Link mit href="/cannabisblueten/" vorhanden) oder "Extrakte"
+      - Produktart: "Cannabisblüten" (falls ein Link mit href="/cannabisblueten/" vorhanden ist) oder "Extrakte"
       - Timestamp und URL
     """
     if url in product_cache:
@@ -280,9 +281,10 @@ async def download_images_for_products(products: List[Dict[str, Any]]) -> None:
                 product["image_path"] = local_path if os.path.exists(local_path) else None
 
 def update_product_json(product_data: dict) -> dict:
-    """Schreibt (oder aktualisiert) die separate JSON für ein Produkt in JSON_FOLDER.
-       Es wird geprüft, ob der neue Datensatz (ohne Timestamp) von dem letzten abweicht.
-       Falls nicht – es sei denn, mehr als 1 Stunde ist vergangen – wird kein neuer Eintrag angehängt.
+    """
+    Schreibt (oder aktualisiert) die separate JSON für ein Produkt in JSON_FOLDER.
+    Es wird geprüft, ob der neue Datensatz (ohne Timestamp) von dem letzten abweicht.
+    Falls nicht – es sei denn, mehr als 1 Stunde ist vergangen – wird kein neuer Eintrag angehängt.
     """
     filename = sanitize_filename(product_data["title"]) + ".json"
     filepath = os.path.join(JSON_FOLDER, filename)
@@ -295,14 +297,13 @@ def update_product_json(product_data: dict) -> dict:
         last = history[-1]
         new_ts = datetime.fromisoformat(product_data["timestamp"])
         last_ts = datetime.fromisoformat(last["timestamp"])
-        # Wenn sich Daten (außer timestamp) unterscheiden, oder mehr als 1 Stunde vergangen ist:
         if should_append(product_data, last) or (new_ts - last_ts).total_seconds() >= 3600:
             history.append(product_data)
     else:
         history.append(product_data)
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
-    return history[-1]  # Liefert den aktuellsten Datensatz zurück
+    return history[-1]
 
 async def run_scraping_cycle() -> None:
     global product_cache, failed_urls
@@ -348,12 +349,37 @@ async def run_scraping_cycle() -> None:
                 f.write(url + "\n")
         print(f"{len(failed_urls)} URLs konnten nicht abgerufen werden. Details in 'failed_urls.txt'.")
 
+# Neue Funktion: Wartezeit, die entweder durch normalen Sleep oder durch Tastendruck (Leertaste) beendet werden kann.
+async def wait_for_space_or_timeout(timeout: int):
+    async def wait_for_space():
+        # Diese Implementierung verwendet msvcrt, was unter Windows funktioniert.
+        # Unter Unix müsste ein alternativer Ansatz gewählt werden.
+        if sys.platform == "win32":
+            import msvcrt
+            loop = asyncio.get_running_loop()
+            def check_space():
+                while True:
+                    if msvcrt.kbhit():
+                        key = msvcrt.getch()
+                        if key == b' ':
+                            return
+            await loop.run_in_executor(None, check_space)
+        else:
+            # Unter Unix: blockiert input() – dies ist nur ein Platzhalter.
+            await asyncio.to_thread(input, "Drücke Leertaste und Enter, um manuell einen neuen Durchlauf zu starten: ")
+    # Warte parallel auf Timeout oder Space
+    sleep_task = asyncio.create_task(asyncio.sleep(timeout))
+    space_task = asyncio.create_task(wait_for_space())
+    done, pending = await asyncio.wait([sleep_task, space_task], return_when=asyncio.FIRST_COMPLETED)
+    for task in pending:
+        task.cancel()
+
 async def main_loop() -> None:
     while True:
         print("\n--- Neuer Scraping-Zyklus gestartet ---")
         await run_scraping_cycle()
-        print(f"Warte {SLEEP_INTERVAL} Sekunden bis zum nächsten Zyklus...\n")
-        await asyncio.sleep(SLEEP_INTERVAL)
+        print(f"Warte {SLEEP_INTERVAL} Sekunden bis zum nächsten Zyklus oder drücke die Leertaste, um sofort neu zu starten...")
+        await wait_for_space_or_timeout(SLEEP_INTERVAL)
 
 if __name__ == '__main__':
     asyncio.run(main_loop())

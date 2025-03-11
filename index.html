@@ -94,7 +94,7 @@
       </div>
     </div>
     
-    <!-- Chart-Bereich: Beim Auswählen eines Produkts wird dessen Verlauf geladen -->
+    <!-- Chart-Bereich -->
     <div class="chart-container mb-5">
       <canvas id="priceChart"></canvas>
     </div>
@@ -127,10 +127,25 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
   <script>
-    let indexData = {}; // Wir bauen hier ein Objekt, in dem der Schlüssel der Produktname ist
+    let indexData = {};
     let chart;
     let dataTable;
 
+    // Hilfsfunktionen für Formatierung
+    function formatPrice(value) {
+      if (typeof value === 'number') {
+        return value.toFixed(2).replace('.', ',') + ' €';
+      }
+      return value;
+    }
+    
+    function formatTHC(value) {
+      if (typeof value === 'number') {
+        return value.toFixed(1).replace('.', ',') + ' %';
+      }
+      return value;
+    }
+    
     // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt
     async function fetchIndex() {
       try {
@@ -138,12 +153,9 @@
         const response = await fetch('index.json?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der index.json');
         let data = await response.json();
-        // Falls data ein Array ist, erstelle ein Objekt mit title als Schlüssel:
         if (Array.isArray(data)) {
           indexData = {};
-          data.forEach(prod => {
-            indexData[prod.title] = prod;
-          });
+          data.forEach(prod => { indexData[prod.title] = prod; });
         } else {
           indexData = data;
         }
@@ -169,7 +181,7 @@
       });
     }
     
-    // Tabelle: Index-Daten anzeigen, Produkttyp als data-Attribut setzen
+    // Tabelle: Index-Daten anzeigen, inkl. Formatierung
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
@@ -177,23 +189,25 @@
                      .sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
-        const thcValue = (latest.thc !== undefined && latest.thc !== null) ? latest.thc : "n/a";
-        const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd : "n/a";
+        const thcValue = (latest.thc !== undefined && latest.thc !== null) ? formatTHC(latest.thc) : "n/a";
+        const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd.toFixed(1).replace('.', ',') + ' %' : "n/a";
+        
         let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
         let priceMinOrder = 0, priceMaxOrder = 0;
         if (latest.price) {
           if (latest.price.value !== undefined) {
-            priceMin = latest.price.value;
-            priceMax = latest.price.value;
+            priceMin = formatPrice(latest.price.value);
+            priceMax = formatPrice(latest.price.value);
             priceMinOrder = parseFloat(latest.price.value);
             priceMaxOrder = parseFloat(latest.price.value);
           } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            priceMin = latest.price.min;
-            priceMax = latest.price.max;
+            priceMin = formatPrice(latest.price.min);
+            priceMax = formatPrice(latest.price.max);
             priceMinOrder = parseFloat(latest.price.min);
             priceMaxOrder = parseFloat(latest.price.max);
           }
         }
+        
         let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
         if (latest.price && latest.thc && latest.thc > 0) {
           let avgPrice;
@@ -203,10 +217,11 @@
             avgPrice = (parseFloat(latest.price.min) + parseFloat(latest.price.max)) / 2;
           }
           if (avgPrice !== undefined) {
-            pricePerGramTHC = (avgPrice * 100 / latest.thc).toFixed(2);
-            pricePerGramTHCOrder = parseFloat(pricePerGramTHC);
+            pricePerGramTHC = formatPrice(avgPrice * 100 / latest.thc);
+            pricePerGramTHCOrder = parseFloat((avgPrice * 100 / latest.thc).toFixed(2));
           }
         }
+        
         const tr = document.createElement('tr');
         tr.setAttribute("data-product-type", latest.product_type || "n/a");
         tr.innerHTML = `<td>${product}</td>
@@ -227,7 +242,7 @@
       });
     }
     
-    // Beim Ändern des Dropdowns: Lade Verlauf der ausgewählten Sorte (separate JSON)
+    // Beim Ändern des Dropdowns: Lade Verlauf der ausgewählten Sorte (separate JSON) und aktualisiere den Chart
     async function loadProductHistory(product) {
       if (!product) {
         if (chart) { chart.destroy(); }
@@ -291,7 +306,7 @@
       });
     }
     
-    // Filterung nach Produkttyp
+    // Filterung der Tabelle nach Produkttyp
     function applyProductTypeFilter() {
       const showExtrakte = document.getElementById('filterExtrakte').checked;
       const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
@@ -305,7 +320,7 @@
       });
     }
     
-    // Spalten-Toggle
+    // Spalten-Toggle mit DataTables-API
     function setupColumnToggles() {
       $('.column-toggle').off('change').on('change', function() {
         const column = dataTable.column($(this).attr('data-column'));
