@@ -49,7 +49,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:12:41.536882",
       "url": "https://medcanonestop.com/medcan_product/420-sungrown-27-1-ca-lly/"
+    },
+    {
+      "title": "420 Sungrown 27/1 CA LLY",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.51,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Sungrown_Legendary-Larry_LLY.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:32:52.832606",
+      "url": "https://medcanonestop.com/medcan_product/420-sungrown-27-1-ca-lly/"
     }
   ],
-  "last_updated": "2025-03-12T00:12:41.536882"
+  "last_updated": "2025-03-12T00:32:52.832606"
 }

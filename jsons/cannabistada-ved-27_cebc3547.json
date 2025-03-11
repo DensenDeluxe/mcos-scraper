@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:11:18.692521",
       "url": "https://medcanonestop.com/medcan_product/cannabistada-ved-27-ventura-dawg/"
+    },
+    {
+      "title": "CannabiStada VED 27",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:40.451709",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-ved-27-ventura-dawg/"
     }
   ],
-  "last_updated": "2025-03-12T00:11:18.692521"
+  "last_updated": "2025-03-12T00:30:40.451709"
 }

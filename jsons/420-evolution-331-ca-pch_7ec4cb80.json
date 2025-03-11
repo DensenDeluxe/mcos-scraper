@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:28.258325",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-33-1-ca-pch/"
+    },
+    {
+      "title": "420 Evolution 33/1 CA PCH",
+      "thc": {
+        "value": 33.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Peach-Chementine_PCH.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:29:44.060418",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-33-1-ca-pch/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:28.258325"
+  "last_updated": "2025-03-12T00:29:44.060418"
 }

@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:07.231121",
       "url": "https://medcanonestop.com/medcan_product/gm-25-1-supernova/"
+    },
+    {
+      "title": "GM Supernova 25:01",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.43,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/687.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:45.676138",
+      "url": "https://medcanonestop.com/medcan_product/gm-25-1-supernova/"
     }
   ],
-  "last_updated": "2025-03-12T00:13:07.231121"
+  "last_updated": "2025-03-12T00:30:45.676138"
 }

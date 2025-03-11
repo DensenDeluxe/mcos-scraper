@@ -2,7 +2,7 @@
   "title": "Cannamedical Sativa classic NM GD",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-gelato-dream/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:41:27.777318",
+  "last_updated": "2025-03-12T00:31:08.308797",
   "history": [
     {
       "title": "Cannamedical Sativa classic NM GD",
@@ -80,6 +80,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gelato-Dream.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:27.777318",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-gelato-dream/"
+    },
+    {
+      "title": "Cannamedical Sativa classic NM GD",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.31,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gelato-Dream.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:26:25.012772",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-gelato-dream/"
+    },
+    {
+      "title": "Cannamedical Sativa classic NM GD",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.31,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gelato-Dream.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:31:08.308797",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-gelato-dream/"
     }
   ]

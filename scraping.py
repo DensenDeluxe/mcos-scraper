@@ -227,6 +227,14 @@ async def download_images_for_products(products):
                 await _
             pbar_img.close()
 
+def update_manifest():
+    """Erstellt/aktualisiert die Datei manifest.json im Hauptverzeichnis mit einer Liste aller JSON-Dateien im JSON_FOLDER."""
+    files = [f for f in os.listdir(JSON_FOLDER) if f.endswith('.json')]
+    files.sort()
+    with open("manifest.json", "w", encoding="utf-8") as mf:
+        json.dump(files, mf, ensure_ascii=False, indent=2)
+    print("Manifest aktualisiert:", files)
+
 async def wait_with_countdown(wait_time):
     """Zeigt einen Countdown im Terminal an; SPACE bricht das Warten ab."""
     for remaining in range(wait_time, 0, -1):
@@ -250,7 +258,7 @@ async def run_scraping_cycle():
                 failed_list = [line.strip() for line in f if line.strip()]
             if failed_list:
                 tasks_failed = [scrape_product(session, url) for url in failed_list]
-                if tasks_failed:  # Nur wenn es Aufgaben gibt
+                if tasks_failed:
                     pbar_fail = tqdm(total=len(tasks_failed), desc="Failed URLs", dynamic_ncols=True,
                                      bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}] Success: {postfix}",
                                      postfix=f"Success: 0, Fail: 0")
@@ -297,6 +305,8 @@ async def run_scraping_cycle():
     if failed_urls:
         with open("failed_urls.txt", "w", encoding="utf-8") as f:
             f.writelines(f"{url}\n" for url in failed_urls)
+    # 5. Manifest aktualisieren
+    update_manifest()
 
 async def main_loop():
     while not exit_event.is_set():
@@ -306,7 +316,7 @@ async def main_loop():
         await wait_with_countdown(SLEEP_INTERVAL)
 
 if __name__ == '__main__':
-    # Starte einen separaten Thread, der fortlaufend auf ESC prüft
+    # Starte den ESC-Prüfthread
     escape_thread = threading.Thread(target=check_for_escape, daemon=True)
     escape_thread.start()
     try:

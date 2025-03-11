@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:12.934844",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gsc/"
+    },
+    {
+      "title": "Tilray THC18 Spotlight Porto GSC",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/776.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:31:32.562364",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gsc/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:12.934844"
+  "last_updated": "2025-03-12T00:31:32.562364"
 }

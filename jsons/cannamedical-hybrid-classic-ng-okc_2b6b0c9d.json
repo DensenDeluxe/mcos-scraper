@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:12:19.425453",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-ng-orange-kush-cake/"
+    },
+    {
+      "title": "Cannamedical Hybrid Classic NG OKC",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 14.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Orange-Kush-Cake-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:33:02.522100",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-ng-orange-kush-cake/"
     }
   ],
-  "last_updated": "2025-03-12T00:12:19.425453"
+  "last_updated": "2025-03-12T00:33:02.522100"
 }

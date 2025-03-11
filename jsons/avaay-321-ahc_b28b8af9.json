@@ -2,7 +2,7 @@
   "title": "avaay 32/1 AHC",
   "url": "https://medcanonestop.com/medcan_product/avaay-32-1-ahc/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:49:21.198493",
+  "last_updated": "2025-03-12T00:28:16.584914",
   "history": [
     {
       "title": "avaay 32/1 AHC",
@@ -80,6 +80,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/AHC_bud.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:49:21.198493",
+      "url": "https://medcanonestop.com/medcan_product/avaay-32-1-ahc/"
+    },
+    {
+      "title": "avaay 32/1 AHC",
+      "thc": {
+        "value": 32.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/AHC_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:16.584914",
       "url": "https://medcanonestop.com/medcan_product/avaay-32-1-ahc/"
     }
   ]

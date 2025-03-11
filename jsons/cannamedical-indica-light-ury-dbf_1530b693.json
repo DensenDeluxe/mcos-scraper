@@ -2,7 +2,7 @@
   "title": "Cannamedical Indica light URY DBF",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-ury-dbf/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:43:37.590663",
+  "last_updated": "2025-03-12T00:28:25.231997",
   "history": [
     {
       "title": "Cannamedical Indica light URY DBF",
@@ -68,6 +68,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:43:37.590663",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-ury-dbf/"
+    },
+    {
+      "title": "Cannamedical Indica light URY DBF",
+      "thc": {
+        "value": 17.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:26:22.302241",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-ury-dbf/"
+    },
+    {
+      "title": "Cannamedical Indica light URY DBF",
+      "thc": {
+        "value": 17.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:25.231997",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-ury-dbf/"
     }
   ]

@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:11:56.820611",
       "url": "https://medcanonestop.com/medcan_product/remexian-22-1-huw-humble-warrior/"
+    },
+    {
+      "title": "Remexian 22/1 HUW",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/734.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:31:28.882322",
+      "url": "https://medcanonestop.com/medcan_product/remexian-22-1-huw-humble-warrior/"
     }
   ],
-  "last_updated": "2025-03-12T00:11:56.820611"
+  "last_updated": "2025-03-12T00:31:28.882322"
 }

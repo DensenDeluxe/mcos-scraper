@@ -101,7 +101,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:49:57.472515",
       "url": "https://medcanonestop.com/medcan_product/mgf-bm-26-1/"
+    },
+    {
+      "title": "MGF BM 26/1",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:26:33.598252",
+      "url": "https://medcanonestop.com/medcan_product/mgf-bm-26-1/"
+    },
+    {
+      "title": "MGF BM 26/1",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:05.851622",
+      "url": "https://medcanonestop.com/medcan_product/mgf-bm-26-1/"
     }
   ],
-  "last_updated": "2025-03-11T23:49:57.472515"
+  "last_updated": "2025-03-12T00:28:05.851622"
 }

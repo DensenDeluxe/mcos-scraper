@@ -2,7 +2,7 @@
   "title": "Vasco PR 21/1",
   "url": "https://medcanonestop.com/medcan_product/vasco-pr-21-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:11:08.176588",
+  "last_updated": "2025-03-12T00:29:31.229454",
   "history": [
     {
       "title": "Vasco PR 21/1",
@@ -80,6 +80,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Vasco-PR-PT.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:11:08.176588",
+      "url": "https://medcanonestop.com/medcan_product/vasco-pr-21-1/"
+    },
+    {
+      "title": "Vasco PR 21/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Vasco-PR-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:29:31.229454",
       "url": "https://medcanonestop.com/medcan_product/vasco-pr-21-1/"
     }
   ]

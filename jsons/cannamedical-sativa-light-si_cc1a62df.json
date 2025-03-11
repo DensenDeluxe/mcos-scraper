@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:12:59.972431",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-light-strawberry-ice/"
+    },
+    {
+      "title": "Cannamedical Sativa light SI",
+      "thc": {
+        "value": 16.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.14,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Strawberry-Ice.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:03.768752",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-light-strawberry-ice/"
     }
   ],
-  "last_updated": "2025-03-12T00:12:59.972431"
+  "last_updated": "2025-03-12T00:27:03.768752"
 }

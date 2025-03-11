@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:09:33.624791",
       "url": "https://medcanonestop.com/medcan_product/somai-canify-1010/"
+    },
+    {
+      "title": "SOMAI CANIFY 10:10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 2.75,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Oral-Solution-10_10.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:31:17.533866",
+      "url": "https://medcanonestop.com/medcan_product/somai-canify-1010/"
     }
   ],
-  "last_updated": "2025-03-12T00:09:33.624791"
+  "last_updated": "2025-03-12T00:31:17.533866"
 }

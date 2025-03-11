@@ -53,7 +53,7 @@
       width: 100% !important;
       height: auto !important;
     }
-    /* Detail Modal: Bild oben, responsiv */
+    /* Detail Modal */
     .detail-img {
       max-width: 100%;
       height: auto;
@@ -62,7 +62,6 @@
     .detail-section {
       margin-bottom: 1rem;
     }
-    /* Sortierpfeile anpassen */
     table.dataTable thead .sorting:after {
       content: "⇅";
       float: right;
@@ -84,7 +83,6 @@
       font-size: 0.8em;
       margin-left: 5px;
     }
-    /* Modal Anpassungen */
     .modal-content {
       background-color: #2c2c2c;
       color: #e0e0e0;
@@ -92,7 +90,6 @@
     .modal-header, .modal-footer {
       border-color: #444;
     }
-    /* Footer */
     footer {
       position: fixed;
       right: 20px;
@@ -100,7 +97,6 @@
       font-size: 0.9em;
       color: #aaa;
     }
-    /* Links */
     a {
       color: #66b2ff;
     }
@@ -126,7 +122,7 @@
       <canvas id="priceChart"></canvas>
     </div>
     
-    <!-- Tabelle -->
+    <!-- Interaktive Tabelle -->
     <table id="pricesTable" class="table table-striped">
       <thead>
         <tr>
@@ -182,21 +178,7 @@
     let dataTable;
     let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
     
-    // Array mit den Namen der Produkt-JSON-Dateien (anpassen, falls nötig)
-    const productFiles = [
-      "demecan-typ-2_30f1079b.json",
-      "drapalin-301-kukis_0c18d53d.json",
-      "imc-cannabisextrakt-251-t100_bbb6844d.json",
-      "madrecan-211-mdr_ffd3d9ef.json",
-      "navcora-thc-22-spotlight-porto-h_6d5f99d9.json",
-      "pedanios-221-gth-ca_6e1c37ae.json",
-      "remexian-301-crx-gsh_65f47a4b.json",
-      "south-african-271-mungo_1240b9fd.json",
-      "tyson-20-261-nyc-diesel_081ec99c.json",
-      "wellford-231-pik_ce894b40.json"
-    ];
-    
-    // Hilfsfunktionen
+    // Hilfsfunktionen zur Extraktion der inneren numerischen Werte
     function getNumeric(obj) {
       return (typeof obj === 'object' && obj.value !== undefined) ? obj.value : obj;
     }
@@ -226,6 +208,7 @@
       return cbd;
     }
     
+    // Gültigkeitsprüfung eines Produkts
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (!prod.price) return false;
@@ -240,23 +223,30 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Alle JSON-Dateien aus dem Ordner "jsons" laden
+    // Manifest laden und alle Produkt-JSONs einlesen
     async function fetchIndex() {
       indexData = {};
-      for (let file of productFiles) {
-        try {
-          const timestamp = new Date().getTime();
-          const response = await fetch('./jsons/' + file + '?ts=' + timestamp);
-          if (!response.ok) throw new Error('Fehler beim Laden von ' + file);
-          const data = await response.json();
-          let prod = (data.history && data.history.length) ? data.history[data.history.length - 1] : data;
-          prod._filename = file;
-          if (isValidProduct(prod)) {
-            indexData[prod.title] = prod;
+      try {
+        const timestamp = new Date().getTime();
+        const manifestResponse = await fetch('./manifest.json?ts=' + timestamp);
+        if (!manifestResponse.ok) throw new Error('Manifest konnte nicht geladen werden.');
+        const productFiles = await manifestResponse.json();
+        for (let file of productFiles) {
+          try {
+            const response = await fetch('./jsons/' + file + '?ts=' + timestamp);
+            if (!response.ok) throw new Error('Fehler beim Laden von ' + file);
+            const data = await response.json();
+            let prod = (data.history && data.history.length) ? data.history[data.history.length - 1] : data;
+            prod._filename = file;
+            if (isValidProduct(prod)) {
+              indexData[prod.title] = prod;
+            }
+          } catch (error) {
+            console.error(error);
           }
-        } catch (error) {
-          console.error(error);
         }
+      } catch (error) {
+        console.error(error);
       }
       updateProductSelect();
       updateTable();
@@ -428,7 +418,6 @@
     async function loadProductHistory(product) {
       if (!product) {
         if (chart) { chart.destroy(); }
-        console.log("Kein Produkt ausgewählt – Chart gelöscht");
         return;
       }
       try {
@@ -445,7 +434,6 @@
     function updateChart(historyData) {
       if (!historyData || historyData.length === 0) {
         if (chart) { chart.destroy(); }
-        console.log("Keine historischen Daten vorhanden");
         return;
       }
       let labels = [];

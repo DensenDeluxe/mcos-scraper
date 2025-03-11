@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:49.643195",
       "url": "https://medcanonestop.com/medcan_product/avaay-23-1-rg-royal-gorilla/"
+    },
+    {
+      "title": "avaay 23/1 RG",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.04,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/RG_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:32:24.471768",
+      "url": "https://medcanonestop.com/medcan_product/avaay-23-1-rg-royal-gorilla/"
     }
   ],
-  "last_updated": "2025-03-12T00:13:49.643195"
+  "last_updated": "2025-03-12T00:32:24.471768"
 }

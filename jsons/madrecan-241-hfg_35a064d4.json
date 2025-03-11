@@ -2,7 +2,7 @@
   "title": "madrecan 24/1 HFG",
   "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-hfg/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:10:44.820706",
+  "last_updated": "2025-03-12T00:28:53.815941",
   "history": [
     {
       "title": "madrecan 24/1 HFG",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3883.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:10:44.820706",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-hfg/"
+    },
+    {
+      "title": "madrecan 24/1 HFG",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3883.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:53.815941",
       "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-hfg/"
     }
   ]

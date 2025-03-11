@@ -2,7 +2,7 @@
   "title": "NAVCORA THC 22 Spotlight Porto H",
   "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-headband/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:44:19.246566",
+  "last_updated": "2025-03-12T00:28:06.642795",
   "history": [
     {
       "title": "NAVCORA THC 22 Spotlight Porto H",
@@ -46,6 +46,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:44:19.246566",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-headband/"
+    },
+    {
+      "title": "NAVCORA THC 22 Spotlight Porto H",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:26:12.753146",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-headband/"
+    },
+    {
+      "title": "NAVCORA THC 22 Spotlight Porto H",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:06.642795",
       "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-headband/"
     }
   ]

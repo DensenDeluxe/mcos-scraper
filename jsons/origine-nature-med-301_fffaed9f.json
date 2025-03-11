@@ -101,7 +101,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:44:13.102002",
       "url": "https://medcanonestop.com/medcan_product/origine-nature-med-30-1/"
+    },
+    {
+      "title": "Origine Nature Med 30/1",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:26:26.376139",
+      "url": "https://medcanonestop.com/medcan_product/origine-nature-med-30-1/"
+    },
+    {
+      "title": "Origine Nature Med 30/1",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:01.329811",
+      "url": "https://medcanonestop.com/medcan_product/origine-nature-med-30-1/"
     }
   ],
-  "last_updated": "2025-03-11T23:44:13.102002"
+  "last_updated": "2025-03-12T00:28:01.329811"
 }

@@ -2,7 +2,7 @@
   "title": "Remexian 20/1 AVA FRY",
   "url": "https://medcanonestop.com/medcan_product/remexian-20-1-ava-fry/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:12:52.472482",
+  "last_updated": "2025-03-12T00:27:39.944436",
   "history": [
     {
       "title": "Remexian 20/1 AVA FRY",
@@ -80,6 +80,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8425.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:12:52.472482",
+      "url": "https://medcanonestop.com/medcan_product/remexian-20-1-ava-fry/"
+    },
+    {
+      "title": "Remexian 20/1 AVA FRY",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8425.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:39.944436",
       "url": "https://medcanonestop.com/medcan_product/remexian-20-1-ava-fry/"
     }
   ]

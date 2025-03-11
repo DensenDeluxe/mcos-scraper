@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:09.347101",
       "url": "https://medcanonestop.com/medcan_product/bedrolite/"
+    },
+    {
+      "title": "Bedrolite",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 7.5,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 16.66,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:32:02.635026",
+      "url": "https://medcanonestop.com/medcan_product/bedrolite/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:09.347101"
+  "last_updated": "2025-03-12T00:32:02.635026"
 }

@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:53.659587",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-prt-bmk/"
+    },
+    {
+      "title": "Remexian 27/1 PRT BMK",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/6850_24173_673c90a5234e0_20241119_140229.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:32:57.835355",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-prt-bmk/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:53.659587"
+  "last_updated": "2025-03-12T00:32:57.835355"
 }

@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:11:21.101791",
       "url": "https://medcanonestop.com/medcan_product/mother-28-gf-can/"
+    },
+    {
+      "title": "Mother 28 GF CAN",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:38.119595",
+      "url": "https://medcanonestop.com/medcan_product/mother-28-gf-can/"
     }
   ],
-  "last_updated": "2025-03-12T00:11:21.101791"
+  "last_updated": "2025-03-12T00:30:38.119595"
 }

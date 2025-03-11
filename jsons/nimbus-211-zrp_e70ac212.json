@@ -2,7 +2,7 @@
   "title": "Nimbus 21/1 ZRP",
   "url": "https://medcanonestop.com/medcan_product/nimbus-21-1-zrp-zour-apple/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:12:57.966604",
+  "last_updated": "2025-03-12T00:28:22.002374",
   "history": [
     {
       "title": "Nimbus 21/1 ZRP",
@@ -90,6 +90,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:12:57.966604",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-21-1-zrp-zour-apple/"
+    },
+    {
+      "title": "Nimbus 21/1 ZRP",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:22.002374",
       "url": "https://medcanonestop.com/medcan_product/nimbus-21-1-zrp-zour-apple/"
     }
   ]

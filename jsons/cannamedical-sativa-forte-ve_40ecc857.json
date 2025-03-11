@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:09:53.222246",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-ve/"
+    },
+    {
+      "title": "Cannamedical Sativa forte VE",
+      "thc": {
+        "value": 22.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.93,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/VenomZ-Eve.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:00.823504",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-ve/"
     }
   ],
-  "last_updated": "2025-03-12T00:09:53.222246"
+  "last_updated": "2025-03-12T00:30:00.823504"
 }

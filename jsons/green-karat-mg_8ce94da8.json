@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:36.276038",
       "url": "https://medcanonestop.com/medcan_product/green-karat-mg-modified-gas/"
+    },
+    {
+      "title": "Green Karat MG",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.6,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/08/Green-Karat-MG-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:06.544110",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-mg-modified-gas/"
     }
   ],
-  "last_updated": "2025-03-11T23:42:36.276038"
+  "last_updated": "2025-03-12T00:27:06.544110"
 }

@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:00.300567",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-gg4-gorilla-glue/"
+    },
+    {
+      "title": "Cannamedical CM 20/1 GG4",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.65,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/Gorilla-Glue-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:32:13.787711",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-gg4-gorilla-glue/"
     }
   ],
-  "last_updated": "2025-03-11T23:41:00.300567"
+  "last_updated": "2025-03-12T00:32:13.787711"
 }

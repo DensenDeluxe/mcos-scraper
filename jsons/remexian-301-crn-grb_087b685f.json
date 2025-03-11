@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:52.981461",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-crn-grb/"
+    },
+    {
+      "title": "Remexian 30/1 CRN GRB",
+      "thc": {
+        "value": 32.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.05,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:36.081475",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-crn-grb/"
     }
   ],
-  "last_updated": "2025-03-12T00:13:52.981461"
+  "last_updated": "2025-03-12T00:28:36.081475"
 }

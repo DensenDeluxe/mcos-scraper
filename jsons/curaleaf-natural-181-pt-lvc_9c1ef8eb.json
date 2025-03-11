@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:11:45.901566",
       "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-18-1-pt-lvc/"
+    },
+    {
+      "title": "Curaleaf Natural 18/1 PT LVC",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.78,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:32:45.964374",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-18-1-pt-lvc/"
     }
   ],
-  "last_updated": "2025-03-12T00:11:45.901566"
+  "last_updated": "2025-03-12T00:32:45.964374"
 }

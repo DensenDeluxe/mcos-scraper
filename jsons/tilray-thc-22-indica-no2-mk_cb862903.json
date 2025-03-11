@@ -41,7 +41,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:42.242826",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-indica-master-kush-no-2/"
+    },
+    {
+      "title": "TILRAY THC 22 Indica No.2 MK",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/4907.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:29:16.915834",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-indica-master-kush-no-2/"
     }
   ],
-  "last_updated": "2025-03-11T23:42:42.242826"
+  "last_updated": "2025-03-12T00:29:16.915834"
 }

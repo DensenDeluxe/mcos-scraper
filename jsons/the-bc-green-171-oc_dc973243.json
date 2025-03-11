@@ -2,7 +2,7 @@
   "title": "The BC Green 17/1 OC",
   "url": "https://medcanonestop.com/medcan_product/the-bc-green-17-1-ocr/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:09:51.756565",
+  "last_updated": "2025-03-12T00:28:00.471072",
   "history": [
     {
       "title": "The BC Green 17/1 OC",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:09:51.756565",
+      "url": "https://medcanonestop.com/medcan_product/the-bc-green-17-1-ocr/"
+    },
+    {
+      "title": "The BC Green 17/1 OC",
+      "thc": {
+        "value": 18.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.91,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:28:00.471072",
       "url": "https://medcanonestop.com/medcan_product/the-bc-green-17-1-ocr/"
     }
   ]

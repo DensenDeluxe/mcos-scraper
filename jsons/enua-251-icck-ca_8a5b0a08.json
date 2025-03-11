@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:53:44.981997",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-icck-ca/"
+    },
+    {
+      "title": "enua 25/1 ICCK CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3809.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:04.046821",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-icck-ca/"
     }
   ],
-  "last_updated": "2025-03-11T23:53:44.981997"
+  "last_updated": "2025-03-12T00:27:04.046821"
 }

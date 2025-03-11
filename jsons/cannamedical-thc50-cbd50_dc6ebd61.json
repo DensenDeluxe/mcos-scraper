@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:07:50.691634",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-thc50cbd50/"
+    },
+    {
+      "title": "Cannamedical THC50 CBD50",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 8.93,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 43.33,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:31:15.867112",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc50cbd50/"
     }
   ],
-  "last_updated": "2025-03-12T00:07:50.691634"
+  "last_updated": "2025-03-12T00:31:15.867112"
 }

@@ -2,7 +2,7 @@
   "title": "CNBS Gelo 20/1",
   "url": "https://medcanonestop.com/medcan_product/cnbs-gelo-20-1-gelonade/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:42:03.926239",
+  "last_updated": "2025-03-12T00:27:49.656121",
   "history": [
     {
       "title": "CNBS Gelo 20/1",
@@ -68,6 +68,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/742.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:03.926239",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-gelo-20-1-gelonade/"
+    },
+    {
+      "title": "CNBS Gelo 20/1",
+      "thc": {
+        "value": 20.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/742.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:26:25.244715",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-gelo-20-1-gelonade/"
+    },
+    {
+      "title": "CNBS Gelo 20/1",
+      "thc": {
+        "value": 20.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/742.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:49.656121",
       "url": "https://medcanonestop.com/medcan_product/cnbs-gelo-20-1-gelonade/"
     }
   ]

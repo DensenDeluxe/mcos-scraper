@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:23.844209",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-ma-ls/"
+    },
+    {
+      "title": "Cannamedical Sativa Forte MA LS",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8342.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:49.342329",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-ma-ls/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:23.844209"
+  "last_updated": "2025-03-12T00:30:49.342329"
 }

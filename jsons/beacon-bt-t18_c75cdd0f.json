@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:07:52.612474",
       "url": "https://medcanonestop.com/medcan_product/beacon-bt-t18/"
+    },
+    {
+      "title": "Beacon BT T18",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/5882.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:08.590640",
+      "url": "https://medcanonestop.com/medcan_product/beacon-bt-t18/"
     }
   ],
-  "last_updated": "2025-03-12T00:07:52.612474"
+  "last_updated": "2025-03-12T00:30:08.590640"
 }

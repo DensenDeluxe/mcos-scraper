@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:39.452941",
       "url": "https://medcanonestop.com/medcan_product/imc-cannabisblueten-oog-thc-25-outdoor-og-kush/"
+    },
+    {
+      "title": "IMC OOG THC 25 Outdoor",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2262.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:32:07.569734",
+      "url": "https://medcanonestop.com/medcan_product/imc-cannabisblueten-oog-thc-25-outdoor-og-kush/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:39.452941"
+  "last_updated": "2025-03-12T00:32:07.569734"
 }

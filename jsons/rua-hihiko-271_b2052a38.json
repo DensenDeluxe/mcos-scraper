@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:11:42.528431",
       "url": "https://medcanonestop.com/medcan_product/rua-hihiko-27-1/"
+    },
+    {
+      "title": "Rua Hihiko 27/1",
+      "thc": {
+        "value": 26.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/4733.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:31:31.443305",
+      "url": "https://medcanonestop.com/medcan_product/rua-hihiko-27-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:11:42.528431"
+  "last_updated": "2025-03-12T00:31:31.443305"
 }

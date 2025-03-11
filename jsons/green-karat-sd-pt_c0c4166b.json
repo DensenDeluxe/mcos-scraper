@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:10:00.245197",
       "url": "https://medcanonestop.com/medcan_product/green-karat-sd-pt-supreme-diesel/"
+    },
+    {
+      "title": "Green Karat SD PT",
+      "thc": {
+        "value": 27.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Green-Karat-SD-Supreme-Diesel.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:33:10.040526",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-sd-pt-supreme-diesel/"
     }
   ],
-  "last_updated": "2025-03-12T00:10:00.245197"
+  "last_updated": "2025-03-12T00:33:10.040526"
 }

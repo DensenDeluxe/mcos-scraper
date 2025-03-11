@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:17.894255",
       "url": "https://medcanonestop.com/medcan_product/aurora-24-1-pink-kush/"
+    },
+    {
+      "title": "Aurora 24/1 PNK CA",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 11.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/AURORA-24_1-PNK-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:30.130619",
+      "url": "https://medcanonestop.com/medcan_product/aurora-24-1-pink-kush/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:17.894255"
+  "last_updated": "2025-03-12T00:27:30.130619"
 }

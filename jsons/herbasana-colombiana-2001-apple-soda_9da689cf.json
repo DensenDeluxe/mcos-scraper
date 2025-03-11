@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:54.840562",
       "url": "https://medcanonestop.com/medcan_product/herbasana-colombiana-2001-apple-soda/"
+    },
+    {
+      "title": "Herbasana Colombiana 20:01 Apple Soda",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/Apple-Soda.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:29:54.310231",
+      "url": "https://medcanonestop.com/medcan_product/herbasana-colombiana-2001-apple-soda/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:54.840562"
+  "last_updated": "2025-03-12T00:29:54.310231"
 }

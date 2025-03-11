@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:44:09.339928",
       "url": "https://medcanonestop.com/medcan_product/remexian-21-1-isl/"
+    },
+    {
+      "title": "Remexian 21/1 ISL",
+      "thc": {
+        "value": 20.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:33:08.367734",
+      "url": "https://medcanonestop.com/medcan_product/remexian-21-1-isl/"
     }
   ],
-  "last_updated": "2025-03-11T23:44:09.339928"
+  "last_updated": "2025-03-12T00:33:08.367734"
 }

@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:48.196409",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-25-spotlight-porto-pink-kush/"
+    },
+    {
+      "title": "TILRAY THC 25 Spotlight Porto PK",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:32.543657",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-25-spotlight-porto-pink-kush/"
     }
   ],
-  "last_updated": "2025-03-12T00:13:48.196409"
+  "last_updated": "2025-03-12T00:30:32.543657"
 }

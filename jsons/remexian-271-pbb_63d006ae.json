@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:12:22.213209",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-pbb/"
+    },
+    {
+      "title": "Remexian 27/1 PBB",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 17.83,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5311.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:41.855767",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-pbb/"
     }
   ],
-  "last_updated": "2025-03-12T00:12:22.213209"
+  "last_updated": "2025-03-12T00:27:41.855767"
 }

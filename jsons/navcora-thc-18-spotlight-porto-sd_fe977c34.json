@@ -63,7 +63,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:50:02.506370",
       "url": "https://medcanonestop.com/medcan_product/navcora-thc-18-spotlight-porto-sd/"
+    },
+    {
+      "title": "NAVCORA THC 18 Spotlight Porto SD",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/415.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:47.356202",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc-18-spotlight-porto-sd/"
     }
   ],
-  "last_updated": "2025-03-11T23:50:02.506370"
+  "last_updated": "2025-03-12T00:27:47.356202"
 }

@@ -85,7 +85,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:26:56.697679",
       "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e1-27-flawless-victory/"
+    },
+    {
+      "title": "Top Shelf Medical S1E1-27 FV",
+      "thc": {
+        "value": 25.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:26:21.503800",
+      "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e1-27-flawless-victory/"
+    },
+    {
+      "title": "Top Shelf Medical S1E1-27 FV",
+      "thc": {
+        "value": 25.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:29:30.413516",
+      "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e1-27-flawless-victory/"
     }
   ],
-  "last_updated": "2025-03-11T23:26:56.697679"
+  "last_updated": "2025-03-12T00:29:30.413516"
 }

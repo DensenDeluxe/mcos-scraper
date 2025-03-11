@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:10:06.619442",
       "url": "https://medcanonestop.com/medcan_product/vayamed-10-50/"
+    },
+    {
+      "title": "Vayamed 10/50",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 14.26,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 18.59,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:27:03.209543",
+      "url": "https://medcanonestop.com/medcan_product/vayamed-10-50/"
     }
   ],
-  "last_updated": "2025-03-12T00:10:06.619442"
+  "last_updated": "2025-03-12T00:27:03.209543"
 }

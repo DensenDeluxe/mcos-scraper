@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:50.135509",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-tangie-chem/"
+    },
+    {
+      "title": "Cannamedical Sativa forte TC",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.92,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tangie-Chem-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:30:54.169648",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-tangie-chem/"
     }
   ],
-  "last_updated": "2025-03-12T00:13:50.135509"
+  "last_updated": "2025-03-12T00:30:54.169648"
 }
