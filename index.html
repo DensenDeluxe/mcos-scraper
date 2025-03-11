@@ -123,7 +123,6 @@
     let dataTable;
     let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
     
-    // Formatierungsfunktionen
     function formatPrice(value) {
       if (typeof value === 'number') {
         return value.toFixed(2).replace('.', ',') + ' €';
@@ -138,10 +137,6 @@
       return value;
     }
     
-    // Ein Produkt gilt als gültig, wenn:
-    // - Der Titel vorhanden und nicht "101-C 50:0" ist.
-    // - Der Preis (Einzelpreis oder Preisspanne) ungleich 0 ist.
-    // - Nicht gleichzeitig THC und CBD beide 0 sind.
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (prod.price === null) return false;
@@ -156,7 +151,6 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Index.json laden; falls es ein Array ist, in Objekt umwandeln
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -180,7 +174,6 @@
       }
     }
     
-    // Dropdown aus Index
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
@@ -195,7 +188,6 @@
       });
     }
     
-    // Tabelle: Zeilendaten per DataTables-API aktualisieren; standardmäßig nach "Preis pro Gramm THC" (Spalte Index 3) sortieren
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -241,7 +233,6 @@
           }
         }
         
-        // Erstelle Zeile als Array für DataTables und setze zusätzlich ein data-Attribut für den Produkttyp
         const row = [
           product,
           thcValue,
@@ -271,24 +262,16 @@
           lengthChange: false,
           paging: true,
           order: [[3, "asc"]],
-          language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" },
-          createdRow: function(row, data, dataIndex) {
-            // Setze das data-Attribut "data-product-type" auf Basis der indexData
-            const productName = data[0];
-            const prod = indexData[productName];
-            $(row).attr("data-product-type", prod ? prod.product_type : "n/a");
-          }
+          language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
         dataTable.clear();
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      console.log("Tabelle aktualisiert.");
       applyProductTypeFilter();
     }
     
-    // Detail-Modal: Lade Detaildaten aus separater JSON und zeige sie im Modal
     async function loadProductDetails(product) {
       if (!product) return;
       const sanitized = product.trim().replace(/[^\w\-]/g, "_");
@@ -304,7 +287,6 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Modal; Bild wird oben angezeigt
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
@@ -365,32 +347,34 @@
       detailModal.show();
     }
     
-    // Bei Klick auf eine Tabellenzeile: Detailansicht laden
+    // Beim Klick auf eine Tabellenzeile: Detailansicht laden und Dropdown setzen
     $('#pricesTable tbody').on('click', 'tr', function() {
       const product = $(this).find('td:first').text();
+      // Setze den Wert im Dropdown-Menü
+      $('#productSelect').val(product);
       loadProductDetails(product);
     });
     
-    // Falls Filter-Checkboxen noch existieren, hier Beispiel (wenn nicht vorhanden, kann diese Funktion entfallen)
+    // (Optional: Falls noch Filter-Checkboxen vorhanden sind)
     function applyProductTypeFilter() {
-      // In diesem Beispiel sind keine Filtercheckboxen mehr vorhanden, daher einfach ausführen
-      // Alternativ: Diese Funktion kann entfernt werden, wenn keine Filter benötigt werden.
-      console.log("applyProductTypeFilter ausgeführt");
+      const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
+      const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
+      $('#pricesTable tbody tr').each(function() {
+        const prodType = $(this).attr('data-product-type');
+        if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
+          $(this).hide();
+        } else {
+          $(this).show();
+        }
+      });
     }
     
-    // Initialer Abruf und Setup
     $(document).ready(function() {
       fetchIndex().then(() => {
-        console.log("Index geladen.");
+        // DataTable wird beim ersten Laden initialisiert
       });
     });
     
-    // Dropdown-Änderung: Lade Verlauf der ausgewählten Sorte (Chart aktualisieren)
-    document.getElementById('productSelect').addEventListener('change', function() {
-      loadProductHistory(this.value);
-    });
-    
-    // Update der Chart-Daten für den ausgewählten Strain
     async function loadProductHistory(product) {
       if (!product) {
         if (chart) { chart.destroy(); }
@@ -410,7 +394,6 @@
       }
     }
     
-    // Update der Chart-Daten
     function updateChart(historyData) {
       if (!historyData || historyData.length === 0) {
         if (chart) { chart.destroy(); }
@@ -440,7 +423,6 @@
         }
       });
       
-      // Falls nur ein Datenpunkt vorhanden ist, dupliziere ihn
       if (historyData.length === 1) {
         labels.push(labels[0]);
         minPrices.push(minPrices[0]);
