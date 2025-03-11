@@ -34,6 +34,28 @@
     .detail-section {
       margin-bottom: 1rem;
     }
+    /* Benutzerdefinierte Sortierpfeile für DataTables */
+    table.dataTable thead .sorting:after {
+      content: "⇅";
+      float: right;
+      opacity: 0.3;
+      font-size: 0.8em;
+      margin-left: 5px;
+    }
+    table.dataTable thead .sorting_asc:after {
+      content: "▲";
+      float: right;
+      opacity: 1;
+      font-size: 0.8em;
+      margin-left: 5px;
+    }
+    table.dataTable thead .sorting_desc:after {
+      content: "▼";
+      float: right;
+      opacity: 1;
+      font-size: 0.8em;
+      margin-left: 5px;
+    }
   </style>
 </head>
 <body>
@@ -119,10 +141,7 @@
       return value;
     }
     
-    // Ein Produkt gilt als gültig, wenn:
-    // - Der Titel nicht leer ist und nicht "101-C 50:0" lautet.
-    // - Der Preis (Einzelpreis oder Preisspanne) ungleich 0 ist.
-    // - Nicht gleichzeitig THC und CBD beide 0 sind.
+    // Gültiges Produkt: Titel vorhanden, nicht "101-C 50:0", Preis ungleich 0 und nicht THC & CBD beide 0
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (prod.price === null) return false;
@@ -176,7 +195,7 @@
       });
     }
     
-    // Tabelle: Zeilendaten per DataTables-API aktualisieren
+    // Tabelle: Zeilendaten per DataTables-API aktualisieren und standardmäßig nach "Preis pro gramm THC" sortieren (Spalte 3)
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -222,6 +241,7 @@
           }
         }
         
+        // Erstelle Zeile als Array für DataTables
         const row = [
           product,
           thcValue,
@@ -234,7 +254,6 @@
         rowsData.push(row);
       });
       
-      // DataTable initialisieren, Suchfeld und "Zeilen anzeigen" deaktiviert
       if (!dataTable) {
         dataTable = $('#pricesTable').DataTable({
           data: rowsData,
@@ -251,7 +270,7 @@
           searching: false,
           lengthChange: false,
           paging: true,
-          order: [[3, "asc"]], // Standardmäßig nach "Preis pro gramm THC" sortieren (Spalte Index 3)
+          order: [[3, "asc"]], // Standardmäßig nach Spalte 3 sortieren
           language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
@@ -259,7 +278,7 @@
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      // Nach dem Zeichnen der Tabelle die Filterfunktion aufrufen
+      // Nach Zeichnen der Tabelle Filterfunktion aufrufen
       applyProductTypeFilter();
     }
     
@@ -279,7 +298,7 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Modal; Bild wird oben angezeigt
+    // Zeige Detailinformationen in einem Modal; Bild oben anzeigen
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
@@ -346,7 +365,7 @@
       loadProductDetails(product);
     });
     
-    // Filterung der Tabelle nach Produkttyp
+    // Filterung der Tabelle nach Produkttyp (hier: Daten direkt über das Attribut auslesen)
     function applyProductTypeFilter() {
       const showExtrakte = document.getElementById('filterExtrakte').checked;
       const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
@@ -363,7 +382,7 @@
     // Initialer Abruf und Setup
     $(document).ready(function() {
       fetchIndex().then(() => {
-        // DataTable und alle anderen Funktionen sind nun initialisiert.
+        // DataTable wird beim ersten Laden initialisiert
       });
     });
   </script>
