@@ -64,10 +64,11 @@
     let chart;
     let dataTable;
 
-    // JSON neu laden
+    // JSON neu laden mit Cache-Buster
     async function fetchData() {
       try {
-        const response = await fetch('prices.json');
+        const timestamp = new Date().getTime();
+        const response = await fetch('prices.json?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der JSON-Daten');
         const data = await response.json();
         allData = data;
@@ -111,7 +112,7 @@
                         <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
         tbody.appendChild(tr);
       }
-      // DataTable ggf. neu initialisieren
+      // Falls schon DataTable initialisiert wurde, zerstören
       if (dataTable) {
         dataTable.destroy();
       }
