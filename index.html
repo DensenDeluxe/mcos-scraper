@@ -80,16 +80,18 @@
       }
     }
     
+    // Alphabetisch sortierte Produkte im Dropdown-Menü
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       // Vorherige Optionen entfernen (außer Default)
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
-      for (const product in allData) {
+      const products = Object.keys(allData).sort((a, b) => a.localeCompare(b));
+      products.forEach(product => {
         const option = document.createElement('option');
         option.value = product;
         option.textContent = product;
         select.appendChild(option);
-      }
+      });
     }
     
     function updateTable() {
