@@ -94,7 +94,7 @@
       </div>
     </div>
     
-    <!-- Chart-Bereich -->
+    <!-- Chart-Bereich: Verlauf der ausgewählten Sorte -->
     <div class="chart-container mb-5">
       <canvas id="priceChart"></canvas>
     </div>
@@ -131,7 +131,7 @@
     let chart;
     let dataTable;
 
-    // Hilfsfunktionen für Formatierung
+    // Formatierungsfunktionen
     function formatPrice(value) {
       if (typeof value === 'number') {
         return value.toFixed(2).replace('.', ',') + ' €';
@@ -146,7 +146,7 @@
       return value;
     }
     
-    // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt
+    // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt.
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -155,7 +155,11 @@
         let data = await response.json();
         if (Array.isArray(data)) {
           indexData = {};
-          data.forEach(prod => { indexData[prod.title] = prod; });
+          data.forEach(prod => { 
+            if (prod.title && prod.title.trim() !== "") { // Nur nicht-leere Einträge
+              indexData[prod.title] = prod; 
+            }
+          });
         } else {
           indexData = data;
         }
@@ -171,7 +175,7 @@
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
       const products = Object.keys(indexData).filter(product => {
-        return indexData[product].price !== null;
+        return indexData[product].title.trim() !== "" && indexData[product].price !== null;
       }).sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const option = document.createElement('option');
@@ -181,16 +185,16 @@
       });
     }
     
-    // Tabelle: Index-Daten anzeigen, inkl. Formatierung
+    // Tabelle: Index-Daten anzeigen, leere Einträge ignorieren, mit angepasster Berechnung
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
-      const products = Object.keys(indexData).filter(product => indexData[product].price !== null)
+      const products = Object.keys(indexData).filter(product => indexData[product].title.trim() !== "" && indexData[product].price !== null)
                      .sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
         const thcValue = (latest.thc !== undefined && latest.thc !== null) ? formatTHC(latest.thc) : "n/a";
-        const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd.toFixed(1).replace('.', ',') + ' %' : "n/a";
+        const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? (latest.cbd).toFixed(1).replace('.', ',') + ' %' : "n/a";
         
         let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
         let priceMinOrder = 0, priceMaxOrder = 0;
@@ -209,16 +213,23 @@
         }
         
         let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
+        // Hier: Berechnung des Preises pro Gramm THC basierend auf dem "letzten min Preis"
+        // Formel: (letzter min Preis * 100 / THC) * ((THC + CBD) / THC)
         if (latest.price && latest.thc && latest.thc > 0) {
-          let avgPrice;
+          let basePrice;
           if (latest.price.value !== undefined) {
-            avgPrice = parseFloat(latest.price.value);
+            basePrice = parseFloat(latest.price.value);
           } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            avgPrice = (parseFloat(latest.price.min) + parseFloat(latest.price.max)) / 2;
+            basePrice = parseFloat(latest.price.min); // Wir nutzen den min Preis als Basis
           }
-          if (avgPrice !== undefined) {
-            pricePerGramTHC = formatPrice(avgPrice * 100 / latest.thc);
-            pricePerGramTHCOrder = parseFloat((avgPrice * 100 / latest.thc).toFixed(2));
+          if (basePrice !== undefined) {
+            let factor = 1;
+            if (latest.cbd !== undefined && latest.cbd > 0) {
+              factor = (latest.thc + latest.cbd) / latest.thc;
+            }
+            const calculated = basePrice * 100 / latest.thc * factor;
+            pricePerGramTHC = formatPrice(calculated);
+            pricePerGramTHCOrder = parseFloat(calculated.toFixed(2));
           }
         }
         
@@ -233,9 +244,7 @@
                         <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
         tbody.appendChild(tr);
       });
-      if (dataTable) {
-        dataTable.destroy();
-      }
+      if (dataTable) { dataTable.destroy(); }
       dataTable = $('#pricesTable').DataTable({
         responsive: true,
         language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
@@ -320,7 +329,7 @@
       });
     }
     
-    // Spalten-Toggle mit DataTables-API
+    // Spalten-Toggle via DataTables API
     function setupColumnToggles() {
       $('.column-toggle').off('change').on('change', function() {
         const column = dataTable.column($(this).attr('data-column'));
