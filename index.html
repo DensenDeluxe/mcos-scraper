@@ -22,9 +22,6 @@
       width: 100% !important;
       height: auto !important;
     }
-    .filter-panel {
-      margin-bottom: 20px;
-    }
     /* Detail Modal: Bild oben, responsiv */
     .detail-img {
       max-width: 100%;
@@ -46,61 +43,6 @@
       <select id="productSelect" class="form-select">
         <option value="">-- Alle Produkte --</option>
       </select>
-    </div>
-    
-    <!-- Ausklappbare Filter-Box -->
-    <div class="filter-panel">
-      <button class="btn btn-secondary mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#filterOptions" aria-expanded="false" aria-controls="filterOptions">
-        Filteroptionen anzeigen
-      </button>
-      <div class="collapse" id="filterOptions">
-        <div class="card card-body">
-          <!-- Filter nach Produkttyp -->
-          <div class="mb-3">
-            <label class="form-label">Produkttyp filtern:</label>
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="Extrakte" id="filterExtrakte" checked>
-              <label class="form-check-label" for="filterExtrakte">Extrakte anzeigen</label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="Cannabisblüten" id="filterCannabisblueten" checked>
-              <label class="form-check-label" for="filterCannabisblueten">Cannabisblüten anzeigen</label>
-            </div>
-          </div>
-          <!-- Spaltensteuerung -->
-          <div>
-            <label class="form-label">Spalten ein-/ausblenden:</label>
-            <div class="form-check">
-              <input class="form-check-input column-toggle" type="checkbox" data-column="0" id="colProdukt" checked>
-              <label class="form-check-label" for="colProdukt">Produkt</label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input column-toggle" type="checkbox" data-column="1" id="colTHC" checked>
-              <label class="form-check-label" for="colTHC">THC Wert</label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input column-toggle" type="checkbox" data-column="2" id="colCBD" checked>
-              <label class="form-check-label" for="colCBD">CBD Wert</label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input column-toggle" type="checkbox" data-column="3" id="colPreisProTHC" checked>
-              <label class="form-check-label" for="colPreisProTHC">Preis pro gramm THC</label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input column-toggle" type="checkbox" data-column="4" id="colMinPreis" checked>
-              <label class="form-check-label" for="colMinPreis">Letzter min Preis</label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input column-toggle" type="checkbox" data-column="5" id="colMaxPreis" checked>
-              <label class="form-check-label" for="colMaxPreis">Letzter max Preis</label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input column-toggle" type="checkbox" data-column="6" id="colUpdate" checked>
-              <label class="form-check-label" for="colUpdate">Letztes Update</label>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
     
     <!-- Chart-Bereich: Verlauf der ausgewählten Sorte -->
@@ -174,10 +116,7 @@
       return value;
     }
     
-    // Ein Produkt ist gültig, wenn:
-    // - Der Titel vorhanden und nicht "101-C 50:0" ist.
-    // - Der Preis (Einzelpreis oder min/max) ungleich 0 ist.
-    // - Nicht gleichzeitig THC und CBD beide 0 sind.
+    // Gültige Produkte: Titel vorhanden, nicht "101-C 50:0", Preis ungleich 0 und nicht THC & CBD beide 0
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (prod.price === null) return false;
@@ -192,7 +131,7 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Index.json laden; falls Array, in Objekt umwandeln.
+    // Index.json laden; falls Array, in Objekt umwandeln
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -220,7 +159,9 @@
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
-      const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product])).sort((a, b) => a.localeCompare(b));
+      const products = Object.keys(indexData)
+                            .filter(product => isValidProduct(indexData[product]))
+                            .sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const option = document.createElement('option');
         option.value = product;
@@ -229,7 +170,7 @@
       });
     }
     
-    // Tabelle: Zeilen anhand der validen Index-Daten aufbauen
+    // Tabelle: Zeilendaten per DataTables-API aktualisieren
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -288,7 +229,7 @@
         rowsData.push(row);
       });
       
-      // Initialisiere DataTable einmalig, danach update per API
+      // Initialisiere DataTable einmalig mit Suchfeld und Length-Change deaktiviert
       if (!dataTable) {
         dataTable = $('#pricesTable').DataTable({
           data: rowsData,
@@ -302,6 +243,9 @@
             { title: "Letztes Update" }
           ],
           responsive: true,
+          searching: false,    // Suchfeld deaktiviert
+          lengthChange: false, // "Zeilen anzeigen" Dropdown deaktiviert
+          paging: true,
           language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
@@ -309,15 +253,6 @@
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      // Nach dem Zeichnen die Filterfunktion anwenden
-      applyProductTypeFilter();
-      // Zusätzlich: Setze data-product-type-Attribute in den Zeilen
-      $('#pricesTable tbody tr').each(function(i) {
-        const product = dataTable.cell(i, 0).data();
-        // Hole den Produkttyp aus dem Index (falls vorhanden)
-        const prodType = indexData[product] ? indexData[product].product_type : "n/a";
-        $(this).attr('data-product-type', prodType);
-      });
     }
     
     // Detail-Modal: Lade Detaildaten aus separater JSON und zeige sie im Modal
@@ -336,7 +271,7 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Modal; Bild ganz oben
+    // Zeige Detailinformationen in einem Modal; Bild wird oben angezeigt
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
@@ -397,51 +332,16 @@
       detailModal.show();
     }
     
-    // Beim Klick auf eine Tabellenzeile: Detailansicht laden
+    // Bei Klick auf eine Tabellenzeile: Detailansicht laden
     $('#pricesTable tbody').on('click', 'tr', function() {
       const product = $(this).find('td:first').text();
       loadProductDetails(product);
     });
     
-    // Filterung der Tabelle nach Produkttyp
-    function applyProductTypeFilter() {
-      const showExtrakte = document.getElementById('filterExtrakte').checked;
-      const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
-      $('#pricesTable tbody tr').each(function() {
-        const prodType = $(this).attr('data-product-type');
-        if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
-          $(this).hide();
-        } else {
-          $(this).show();
-        }
-      });
-    }
-    
-    // Spalten-Toggle via DataTables API
-    function setupColumnToggles() {
-      $('.column-toggle').off('change').on('change', function() {
-        const column = dataTable.column($(this).attr('data-column'));
-        column.visible(!column.visible());
-      });
-    }
-    
-    // Alle 10 Minuten wird der Index neu geladen
-    setInterval(fetchIndex, 600000);
-    
-    // Dropdown-Änderung: Lade Verlauf der ausgewählten Sorte
-    document.getElementById('productSelect').addEventListener('change', function() {
-      loadProductHistory(this.value);
-    });
-    
-    // Filter-Checkboxen: Bei Änderung Filterfunktion ausführen
-    $('#filterExtrakte, #filterCannabisblueten').on('change', function() {
-      applyProductTypeFilter();
-    });
-    
     // Initialer Abruf und Setup
     $(document).ready(function() {
       fetchIndex().then(() => {
-        setupColumnToggles();
+        // Keine zusätzlichen Filter- oder Such-Funktionen – alles ist deaktiviert.
       });
     });
   </script>
