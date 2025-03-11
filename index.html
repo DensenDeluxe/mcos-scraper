@@ -13,9 +13,16 @@
       padding: 20px;
       background-color: #f8f9fa;
     }
+    /* Chart-Container nimmt jetzt die volle Breite ein */
     .chart-container {
       position: relative;
+      width: 100%;
       height: 400px;
+    }
+    /* Canvas füllt den Container */
+    #priceChart {
+      width: 100% !important;
+      height: auto !important;
     }
   </style>
 </head>
@@ -81,7 +88,7 @@
       }
     }
     
-    // Nur Produkte mit gültigen Preis-Daten (letztes Entry != null) alphabetisch sortiert im Dropdown
+    // Nur Produkte mit gültigen Preis-Daten alphabetisch sortiert im Dropdown
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
@@ -206,6 +213,7 @@
         },
         options: {
           responsive: true,
+          maintainAspectRatio: false,
           scales: {
             x: {
               display: true,
