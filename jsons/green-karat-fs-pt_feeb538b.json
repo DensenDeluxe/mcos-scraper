@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:39:38.377645",
       "url": "https://medcanonestop.com/medcan_product/green-karat-fs-pt-fiji-sunset/"
+    },
+    {
+      "title": "Green Karat FS PT",
+      "thc": {
+        "value": 25.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Green-Karat-FS-Fiji-Sunset.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:11:42.246048",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-fs-pt-fiji-sunset/"
     }
   ],
-  "last_updated": "2025-03-11T23:39:38.377645"
+  "last_updated": "2025-03-12T00:11:42.246048"
 }

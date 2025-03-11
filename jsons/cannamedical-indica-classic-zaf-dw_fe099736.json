@@ -2,7 +2,7 @@
   "title": "Cannamedical Indica classic ZAF  DW",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-zaf-dw/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:43:20.719906",
+  "last_updated": "2025-03-12T00:12:50.473781",
   "history": [
     {
       "title": "Cannamedical Indica classic ZAF  DW",
@@ -54,6 +54,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Dank-Wafers.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:43:20.719906",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-zaf-dw/"
+    },
+    {
+      "title": "Cannamedical Indica classic ZAF  DW",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Dank-Wafers.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:12:50.473781",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-zaf-dw/"
     }
   ]

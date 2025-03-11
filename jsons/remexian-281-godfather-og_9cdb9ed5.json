@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:50:57.628435",
       "url": "https://medcanonestop.com/medcan_product/remexian-28-1-gfr/"
+    },
+    {
+      "title": "Remexian 28/1 Godfather OG",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4349.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:12:10.817269",
+      "url": "https://medcanonestop.com/medcan_product/remexian-28-1-gfr/"
     }
   ],
-  "last_updated": "2025-03-11T23:50:57.628435"
+  "last_updated": "2025-03-12T00:12:10.817269"
 }

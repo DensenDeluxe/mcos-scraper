@@ -2,7 +2,7 @@
   "title": "enua 27/1 CCK CA",
   "url": "https://medcanonestop.com/medcan_product/enua-27-1-cck-ca/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:27:15.000973",
+  "last_updated": "2025-03-12T00:11:23.797249",
   "history": [
     {
       "title": "enua 27/1 CCK CA",
@@ -28,6 +28,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:27:15.000973",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-cck-ca/"
+    },
+    {
+      "title": "enua 27/1 CCK CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:11:23.797249",
       "url": "https://medcanonestop.com/medcan_product/enua-27-1-cck-ca/"
     }
   ]

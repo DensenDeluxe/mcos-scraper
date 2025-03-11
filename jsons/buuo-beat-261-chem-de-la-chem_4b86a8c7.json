@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:10.443133",
       "url": "https://medcanonestop.com/medcan_product/buuo-beat-26-1-chem-de-la-chem/"
+    },
+    {
+      "title": "Buuo Beat 26/1 Chem de la Chem",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/03/Buuo-26_1-Chem-de-La-Chem.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:13:47.925839",
+      "url": "https://medcanonestop.com/medcan_product/buuo-beat-26-1-chem-de-la-chem/"
     }
   ],
-  "last_updated": "2025-03-11T23:42:10.443133"
+  "last_updated": "2025-03-12T00:13:47.925839"
 }

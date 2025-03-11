@@ -63,7 +63,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:03.335651",
       "url": "https://medcanonestop.com/medcan_product/420-sungrown-27-1-ca-zrp/"
+    },
+    {
+      "title": "420 Sungrown 27/1 CA ZRP",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Sungrown_Zour-Apple_ZRP.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:13:45.176641",
+      "url": "https://medcanonestop.com/medcan_product/420-sungrown-27-1-ca-zrp/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:03.335651"
+  "last_updated": "2025-03-12T00:13:45.176641"
 }

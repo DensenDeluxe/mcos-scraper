@@ -2,7 +2,7 @@
   "title": "Vayamed 25/25",
   "url": "https://medcanonestop.com/medcan_product/vayamed-25-25/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:50:12.091185",
+  "last_updated": "2025-03-12T00:13:43.490840",
   "history": [
     {
       "title": "Vayamed 25/25",
@@ -54,6 +54,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:50:12.091185",
+      "url": "https://medcanonestop.com/medcan_product/vayamed-25-25/"
+    },
+    {
+      "title": "Vayamed 25/25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 6.56,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:13:43.490840",
       "url": "https://medcanonestop.com/medcan_product/vayamed-25-25/"
     }
   ]

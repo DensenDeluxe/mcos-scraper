@@ -2,7 +2,7 @@
   "title": "CM 24/1 OG Kush",
   "url": "https://medcanonestop.com/medcan_product/cm-24-1-og-kush/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:54:28.980719",
+  "last_updated": "2025-03-12T00:12:20.868402",
   "history": [
     {
       "title": "CM 24/1 OG Kush",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5875.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:54:28.980719",
+      "url": "https://medcanonestop.com/medcan_product/cm-24-1-og-kush/"
+    },
+    {
+      "title": "CM 24/1 OG Kush",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.42,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5875.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:12:20.868402",
       "url": "https://medcanonestop.com/medcan_product/cm-24-1-og-kush/"
     }
   ]

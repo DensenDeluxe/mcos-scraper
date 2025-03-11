@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:54:19.796640",
       "url": "https://medcanonestop.com/medcan_product/balancial-21-1-pt-purple-dream/"
+    },
+    {
+      "title": "Balancial 21/1 PT Purple Dream",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Purple-Dream-21.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:11:06.446878",
+      "url": "https://medcanonestop.com/medcan_product/balancial-21-1-pt-purple-dream/"
     }
   ],
-  "last_updated": "2025-03-11T23:54:19.796640"
+  "last_updated": "2025-03-12T00:11:06.446878"
 }

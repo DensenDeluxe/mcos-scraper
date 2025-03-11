@@ -2,7 +2,7 @@
   "title": "ADREX 25:25 Extrakt",
   "url": "https://medcanonestop.com/medcan_product/adrex-25-25/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:43:22.394829",
+  "last_updated": "2025-03-12T00:13:44.889271",
   "history": [
     {
       "title": "ADREX 25:25 Extrakt",
@@ -80,6 +80,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:43:22.394829",
+      "url": "https://medcanonestop.com/medcan_product/adrex-25-25/"
+    },
+    {
+      "title": "ADREX 25:25 Extrakt",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.9,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:13:44.889271",
       "url": "https://medcanonestop.com/medcan_product/adrex-25-25/"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "Grow 27 PL",
   "url": "https://medcanonestop.com/medcan_product/grow-27-pl/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:49:03.259689",
+  "last_updated": "2025-03-12T00:11:59.893494",
   "history": [
     {
       "title": "Grow 27 PL",
@@ -80,6 +80,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:49:03.259689",
+      "url": "https://medcanonestop.com/medcan_product/grow-27-pl/"
+    },
+    {
+      "title": "Grow 27 PL",
+      "thc": {
+        "value": 25.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:11:59.893494",
       "url": "https://medcanonestop.com/medcan_product/grow-27-pl/"
     }
   ]

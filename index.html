@@ -92,7 +92,7 @@
     .modal-header, .modal-footer {
       border-color: #444;
     }
-    /* Footer am unteren rechten Rand */
+    /* Footer */
     footer {
       position: fixed;
       right: 20px;
@@ -100,7 +100,7 @@
       font-size: 0.9em;
       color: #aaa;
     }
-    /* Links im Dark Mode */
+    /* Links */
     a {
       color: #66b2ff;
     }
@@ -121,12 +121,12 @@
       </select>
     </div>
     
-    <!-- Chart-Bereich: Verlauf der ausgewählten Sorte -->
+    <!-- Chart-Bereich -->
     <div class="chart-container mb-5">
       <canvas id="priceChart"></canvas>
     </div>
     
-    <!-- Interaktive Tabelle -->
+    <!-- Tabelle -->
     <table id="pricesTable" class="table table-striped">
       <thead>
         <tr>
@@ -143,7 +143,7 @@
     </table>
   </div>
   
-  <!-- Detail-Modal für Produktdetails -->
+  <!-- Detail-Modal -->
   <div class="modal fade" id="detailModal" tabindex="-1" aria-labelledby="detailModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-scrollable">
       <div class="modal-content">
@@ -152,7 +152,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen"></button>
         </div>
         <div class="modal-body" id="detailBody">
-          <!-- Detailinformationen werden hier dynamisch eingefügt -->
+          <!-- Dynamischer Inhalt -->
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
@@ -166,18 +166,15 @@
     &copy; Daniel Pett <span id="currentYear"></span>
   </footer>
   
-  <!-- jQuery (für DataTables) -->
+  <!-- Scripte -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <!-- Bootstrap JS Bundle -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-  <!-- DataTables JS -->
   <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap5.min.js"></script>
-  <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
   <script>
-    // Aktualisiere das Jahr im Footer
+    // Jahr im Footer aktualisieren
     document.getElementById('currentYear').textContent = new Date().getFullYear();
     
     let indexData = {};
@@ -185,7 +182,7 @@
     let dataTable;
     let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
     
-    // Array mit den Namen aller Produkt-JSON-Dateien im Ordner "jsons"
+    // Array mit den Namen der Produkt-JSON-Dateien (anpassen, falls nötig)
     const productFiles = [
       "demecan-typ-2_30f1079b.json",
       "drapalin-301-kukis_0c18d53d.json",
@@ -199,7 +196,7 @@
       "wellford-231-pik_ce894b40.json"
     ];
     
-    // Hilfsfunktionen, um verschachtelte numerische Werte zu extrahieren
+    // Hilfsfunktionen
     function getNumeric(obj) {
       return (typeof obj === 'object' && obj.value !== undefined) ? obj.value : obj;
     }
@@ -229,7 +226,6 @@
       return cbd;
     }
     
-    // Gültigkeitsprüfung eines Produkts
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (!prod.price) return false;
@@ -244,22 +240,16 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Alle Produkt-JSONs laden und in indexData speichern
+    // Alle JSON-Dateien aus dem Ordner "jsons" laden
     async function fetchIndex() {
       indexData = {};
       for (let file of productFiles) {
         try {
           const timestamp = new Date().getTime();
-          const response = await fetch('jsons/' + file + '?ts=' + timestamp);
+          const response = await fetch('./jsons/' + file + '?ts=' + timestamp);
           if (!response.ok) throw new Error('Fehler beim Laden von ' + file);
           const data = await response.json();
-          let prod;
-          if (data.history) {
-            prod = data.history[data.history.length - 1];
-          } else {
-            prod = data;
-          }
-          // Dateiname zur späteren Detailanzeige speichern
+          let prod = (data.history && data.history.length) ? data.history[data.history.length - 1] : data;
           prod._filename = file;
           if (isValidProduct(prod)) {
             indexData[prod.title] = prod;
@@ -272,7 +262,6 @@
       updateTable();
     }
     
-    // Dropdown aktualisieren
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
@@ -287,7 +276,6 @@
       });
     }
     
-    // Tabelle aktualisieren
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -372,20 +360,14 @@
       applyProductTypeFilter();
     }
     
-    // Detail-Modal laden
     async function loadProductDetails(product) {
       if (!product) return;
       try {
         const timestamp = new Date().getTime();
-        const response = await fetch('jsons/' + product._filename + '?ts=' + timestamp);
+        const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
         const details = await response.json();
-        let latest;
-        if (details.history) {
-          latest = details.history[details.history.length - 1];
-        } else {
-          latest = details;
-        }
+        let latest = (details.history && details.history.length) ? details.history[details.history.length - 1] : details;
         showDetailModal(latest);
       } catch (error) {
         console.error(error);
@@ -421,13 +403,11 @@
       detailModal.show();
     }
     
-    // Tabellenzeile klickbar machen
     $('#pricesTable tbody').on('click', 'tr', function() {
       const product = $(this).find('td:first').text();
       loadProductDetails(indexData[product]);
     });
     
-    // Optional: Filter-Funktion, falls Checkboxen vorhanden
     function applyProductTypeFilter() {
       const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
       const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
@@ -453,7 +433,7 @@
       }
       try {
         const timestamp = new Date().getTime();
-        const response = await fetch('jsons/' + product._filename + '?ts=' + timestamp);
+        const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
         const history = await response.json();
         updateChart(history);
@@ -531,22 +511,6 @@
         loadProductHistory(prod);
       }
     });
-    
-    // Countdown-Funktion: Zeigt den Timer an; SPACE bricht den Countdown ab
-    async function wait_with_countdown(wait_time) {
-      for (let remaining = wait_time; remaining > 0; remaining--) {
-        process.stdout.write(`Neuer Scrape-Durchlauf in ${remaining} Sekunden... (SPACE zum sofortigen Start)\r`);
-        await new Promise(resolve => setTimeout(resolve, 1000));
-        if (msvcrt.kbhit()) {
-          const key = msvcrt.getch();
-          if (key === b' ') {
-            console.log("\nSPACE gedrückt – starte neuen Durchlauf sofort.");
-            return;
-          }
-        }
-      }
-      console.log(" ".repeat(80));
-    }
   </script>
 </body>
 </html>

@@ -63,7 +63,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:03.159024",
       "url": "https://medcanonestop.com/medcan_product/bedrocan-vollspektrumextrakt-50mg-ml/"
+    },
+    {
+      "title": "Bedrocan Afina Vollspektrumextrakt 50mg/ml",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 6.25,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:13:38.098401",
+      "url": "https://medcanonestop.com/medcan_product/bedrocan-vollspektrumextrakt-50mg-ml/"
     }
   ],
-  "last_updated": "2025-03-11T23:42:03.159024"
+  "last_updated": "2025-03-12T00:13:38.098401"
 }

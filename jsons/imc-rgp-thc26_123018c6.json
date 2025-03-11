@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:24:32.160095",
       "url": "https://medcanonestop.com/medcan_product/imc-rgp-thc26/"
+    },
+    {
+      "title": "IMC RGP THC26",
+      "thc": {
+        "value": 27.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8711.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:13:02.470867",
+      "url": "https://medcanonestop.com/medcan_product/imc-rgp-thc26/"
     }
   ],
-  "last_updated": "2025-03-11T23:24:32.160095"
+  "last_updated": "2025-03-12T00:13:02.470867"
 }

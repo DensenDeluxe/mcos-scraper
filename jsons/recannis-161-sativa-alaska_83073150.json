@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:35.112367",
       "url": "https://medcanonestop.com/medcan_product/recannis-16-1-sativa-bereshit/"
+    },
+    {
+      "title": "RE:CANNIS 16/1 Sativa Alaska",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 22.61,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3444.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:12:14.807769",
+      "url": "https://medcanonestop.com/medcan_product/recannis-16-1-sativa-bereshit/"
     }
   ],
-  "last_updated": "2025-03-11T23:41:35.112367"
+  "last_updated": "2025-03-12T00:12:14.807769"
 }

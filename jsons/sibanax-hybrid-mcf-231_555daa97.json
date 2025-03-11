@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:02.135998",
       "url": "https://medcanonestop.com/medcan_product/sibanax-hybrid-mcf-23-1/"
+    },
+    {
+      "title": "Sibanax Hybrid MCF 23/1",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.67,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/697.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:11:24.409211",
+      "url": "https://medcanonestop.com/medcan_product/sibanax-hybrid-mcf-23-1/"
     }
   ],
-  "last_updated": "2025-03-11T23:41:02.135998"
+  "last_updated": "2025-03-12T00:11:24.409211"
 }

@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:13.595243",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-t4n-g-2501-banjo/"
+    },
+    {
+      "title": "Demecan Craft T4N-G 25:01",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/09/Blutenfoto_DEMECAN_Craft-T4N-G_01.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:12:00.876618",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-t4n-g-2501-banjo/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:13.595243"
+  "last_updated": "2025-03-12T00:12:00.876618"
 }

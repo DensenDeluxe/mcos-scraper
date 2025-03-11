@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:50:10.942554",
       "url": "https://medcanonestop.com/medcan_product/kejf-smnz-27-1-siggis-minze/"
+    },
+    {
+      "title": "KEjF. SMNZ 27/1",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2637.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:11:55.284195",
+      "url": "https://medcanonestop.com/medcan_product/kejf-smnz-27-1-siggis-minze/"
     }
   ],
-  "last_updated": "2025-03-11T23:50:10.942554"
+  "last_updated": "2025-03-12T00:11:55.284195"
 }

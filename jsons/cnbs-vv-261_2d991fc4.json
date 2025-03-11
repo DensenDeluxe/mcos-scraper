@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:49:03.517530",
       "url": "https://medcanonestop.com/medcan_product/cnbs-vv-26-1/"
+    },
+    {
+      "title": "CNBS VV 26/1",
+      "thc": {
+        "value": 24.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2690.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:13:47.371951",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-vv-26-1/"
     }
   ],
-  "last_updated": "2025-03-11T23:49:03.517530"
+  "last_updated": "2025-03-12T00:13:47.371951"
 }

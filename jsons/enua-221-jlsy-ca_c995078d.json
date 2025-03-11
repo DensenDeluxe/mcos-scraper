@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:29.032183",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-jlsy-ca-jealousy/"
+    },
+    {
+      "title": "enua 22/1 JLSY CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.68,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.38,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/783.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:11:40.963676",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-jlsy-ca-jealousy/"
     }
   ],
-  "last_updated": "2025-03-11T23:42:29.032183"
+  "last_updated": "2025-03-12T00:11:40.963676"
 }
