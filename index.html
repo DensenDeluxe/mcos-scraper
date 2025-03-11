@@ -146,6 +146,23 @@
       return value;
     }
     
+    // Filterfunktion: Liefert true, wenn ein Produkt gültige Daten hat.
+    // Zusätzlich wird "101-C 50:0" explizit ignoriert.
+    function isValidProduct(prod) {
+      if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
+      if (prod.price === null) return false;
+      let priceValid = true;
+      if (prod.price.value !== undefined) {
+        priceValid = prod.price.value !== 0;
+      } else if (prod.price.min !== undefined && prod.price.max !== undefined) {
+        priceValid = (prod.price.min !== 0 && prod.price.max !== 0);
+      }
+      // Falls sowohl THC als auch CBD 0 sind, wird das Produkt ignoriert
+      const thcValid = prod.thc !== 0;
+      const cbdValid = prod.cbd !== 0;
+      return priceValid && (thcValid || cbdValid);
+    }
+    
     // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt.
     async function fetchIndex() {
       try {
@@ -156,7 +173,7 @@
         if (Array.isArray(data)) {
           indexData = {};
           data.forEach(prod => { 
-            if (prod.title && prod.title.trim() !== "") { // Nur nicht-leere Einträge
+            if (isValidProduct(prod)) { 
               indexData[prod.title] = prod; 
             }
           });
@@ -175,7 +192,7 @@
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
       const products = Object.keys(indexData).filter(product => {
-        return indexData[product].title.trim() !== "" && indexData[product].price !== null;
+        return isValidProduct(indexData[product]);
       }).sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const option = document.createElement('option');
@@ -185,16 +202,16 @@
       });
     }
     
-    // Tabelle: Index-Daten anzeigen, leere Einträge ignorieren, mit angepasster Berechnung
+    // Tabelle: Index-Daten anzeigen; ungültige Einträge (leere Titel, Preise 0, THC/CBD 0) werden ignoriert
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
-      const products = Object.keys(indexData).filter(product => indexData[product].title.trim() !== "" && indexData[product].price !== null)
+      const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product]))
                      .sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
         const thcValue = (latest.thc !== undefined && latest.thc !== null) ? formatTHC(latest.thc) : "n/a";
-        const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? (latest.cbd).toFixed(1).replace('.', ',') + ' %' : "n/a";
+        const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd.toFixed(1).replace('.', ',') + ' %' : "n/a";
         
         let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
         let priceMinOrder = 0, priceMaxOrder = 0;
@@ -213,14 +230,13 @@
         }
         
         let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
-        // Hier: Berechnung des Preises pro Gramm THC basierend auf dem "letzten min Preis"
-        // Formel: (letzter min Preis * 100 / THC) * ((THC + CBD) / THC)
+        // Berechnung: (Letzter min Preis * 100 / THC) * ((THC + CBD) / THC)
         if (latest.price && latest.thc && latest.thc > 0) {
           let basePrice;
           if (latest.price.value !== undefined) {
             basePrice = parseFloat(latest.price.value);
           } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            basePrice = parseFloat(latest.price.min); // Wir nutzen den min Preis als Basis
+            basePrice = parseFloat(latest.price.min);
           }
           if (basePrice !== undefined) {
             let factor = 1;
@@ -244,11 +260,15 @@
                         <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
         tbody.appendChild(tr);
       });
-      if (dataTable) { dataTable.destroy(); }
-      dataTable = $('#pricesTable').DataTable({
-        responsive: true,
-        language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
-      });
+      // DataTable nur einmal initialisieren (verwende clear()/rows.add()/draw(), wenn bereits initialisiert)
+      if (!$.fn.DataTable.isDataTable('#pricesTable')) {
+        dataTable = $('#pricesTable').DataTable({
+          responsive: true,
+          language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
+        });
+      } else {
+        dataTable.clear().rows.add($('#pricesTable tbody tr')).draw();
+      }
     }
     
     // Beim Ändern des Dropdowns: Lade Verlauf der ausgewählten Sorte (separate JSON) und aktualisiere den Chart
