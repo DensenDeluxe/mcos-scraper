@@ -25,10 +25,11 @@
     .filter-panel {
       margin-bottom: 20px;
     }
-    /* Zusätzliche Formatierung für das Detail-Modal */
+    /* Detail Modal: Bild oben, responsiv */
     .detail-img {
       max-width: 100%;
       height: auto;
+      margin-bottom: 1rem;
     }
     .detail-section {
       margin-bottom: 1rem;
@@ -133,7 +134,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen"></button>
         </div>
         <div class="modal-body" id="detailBody">
-          <!-- Details werden dynamisch eingefügt -->
+          <!-- Detailinformationen werden hier dynamisch eingefügt -->
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
@@ -273,7 +274,6 @@
           }
         }
         
-        // Erstelle Zeile als Array für DataTables
         const row = [
           product,
           thcValue,
@@ -316,7 +316,6 @@
         const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
         const details = await response.json();
-        // Nutze den letzten Eintrag als aktuellste Detaildaten
         const latest = details[details.length - 1];
         showDetailModal(latest);
       } catch (error) {
@@ -324,12 +323,17 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Bootstrap-Modal
+    // Zeige Detailinformationen in einem Bootstrap-Modal; Bild wird oben angezeigt
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
       modalTitle.textContent = details.title;
-      let html = `<div class="detail-section"><strong>Kategorie:</strong> ${details.category}</div>`;
+      let html = "";
+      // Bild ganz oben
+      if (details.image_url) {
+        html += `<div class="detail-section"><img src="${details.image_url}" alt="${details.title}" class="detail-img"></div>`;
+      }
+      html += `<div class="detail-section"><strong>Kategorie:</strong> ${details.category}</div>`;
       html += `<div class="detail-section"><strong>THC:</strong> ${formatTHC(details.thc)} &nbsp; <strong>CBD:</strong> ${(details.cbd).toFixed(1).replace('.', ',')} %</div>`;
       html += `<div class="detail-section"><strong>Produkttyp:</strong> ${details.product_type}</div>`;
       html += `<div class="detail-section"><strong>Preis:</strong> `;
@@ -376,9 +380,6 @@
       }
       if (details.url) {
         html += `<div class="detail-section"><strong>Mehr Informationen:</strong> <a href="${details.url}" target="_blank">${details.url}</a></div>`;
-      }
-      if (details.image_url) {
-        html += `<div class="detail-section"><img src="${details.image_url}" alt="${details.title}" class="detail-img"></div>`;
       }
       document.getElementById('detailBody').innerHTML = html;
       detailModal.show();
