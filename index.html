@@ -80,13 +80,16 @@
       }
     }
     
-    // Alphabetisch sortierte Produkte im Dropdown-Menü
+    // Nur Produkte mit einem gültigen Preis (letztes Entry != null) alphabetisch sortiert im Dropdown-Menü anzeigen
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
-      // Vorherige Optionen entfernen (außer Default)
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
-      const products = Object.keys(allData).sort((a, b) => a.localeCompare(b));
-      products.forEach(product => {
+      const filteredProducts = Object.keys(allData).filter(product => {
+        const entries = allData[product];
+        const latest = entries[entries.length - 1];
+        return latest.price !== null;
+      }).sort((a, b) => a.localeCompare(b));
+      filteredProducts.forEach(product => {
         const option = document.createElement('option');
         option.value = product;
         option.textContent = product;
@@ -94,10 +97,17 @@
       });
     }
     
+    // Tabelle: Nur Produkte mit gültigen Preis-Daten anzeigen
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
-      for (const product in allData) {
+      const filteredProducts = Object.keys(allData).filter(product => {
+        const entries = allData[product];
+        const latest = entries[entries.length - 1];
+        return latest.price !== null;
+      }).sort((a, b) => a.localeCompare(b));
+      
+      filteredProducts.forEach(product => {
         const entries = allData[product];
         const latest = entries[entries.length - 1];
         let priceText = 'Keine Daten';
@@ -113,8 +123,7 @@
                         <td>${priceText}</td>
                         <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
         tbody.appendChild(tr);
-      }
-      // Falls schon DataTable initialisiert wurde, zerstören
+      });
       if (dataTable) {
         dataTable.destroy();
       }
@@ -126,6 +135,7 @@
       });
     }
     
+    // Chart: Aktualisiere nur, wenn ein Produkt gewählt wurde
     function updateChart() {
       const selectedProduct = document.getElementById('productSelect').value;
       let labels = [];
@@ -138,7 +148,6 @@
           labels.push(new Date(entry.timestamp).toLocaleString());
           if (entry.price) {
             if (entry.price.value !== undefined) {
-              // Einzelpreis: Min und Max sind identisch
               minPrices.push(entry.price.value);
               maxPrices.push(entry.price.value);
             } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
@@ -199,7 +208,7 @@
       });
     }
     
-    // Alle 10 Minuten (600000 ms) Daten neu laden
+    // Alle 10 Minuten (600000 ms) werden die Daten neu geladen
     setInterval(fetchData, 600000);
     
     // Chart aktualisieren, wenn ein anderes Produkt gewählt wird
