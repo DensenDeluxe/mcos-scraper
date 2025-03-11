@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Nimbus easy 22/1 La Sage",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "La Sage",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.9,
+      "max": 8.25
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.1,
+      "Geschmack": 3.8,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6581.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:52.585617",
+    "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-la-sage/",
+    "image_path": "images\\6581.png"
+  }
+]

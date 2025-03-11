@@ -1,0 +1,57 @@
+[
+  {
+    "title": "24/1 NICE KW",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Kirkwood White",
+      "Herkunft": "Kolumbien",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 6.75
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.1,
+      "Geschmack": 4.0,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image004-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:51.055610",
+    "url": "https://medcanonestop.com/medcan_product/24-1-nice-kw/",
+    "image_path": "images\\image004-1.png"
+  }
+]

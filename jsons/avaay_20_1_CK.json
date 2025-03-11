@@ -1,0 +1,67 @@
+[
+  {
+    "title": "avaay 20/1 CK",
+    "category": "Hybrid",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Critical Kush",
+      "Herkunft": "Südafrika",
+      "Importeur": "avaay Medical",
+      "Anbauer": "FarmaGrowers"
+    },
+    "price": {
+      "min": 6.9,
+      "max": 12.28
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.8,
+      "Geschmack": 4.0,
+      "Effekt": 4.1,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Pfeffer",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Schlaffördernd",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/CK_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:44.207454",
+    "url": "https://medcanonestop.com/medcan_product/avaay-20-1-ck-critical-kush/",
+    "image_path": "images\\CK_bud.png"
+  }
+]

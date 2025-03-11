@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Materia 8BK 30/1",
+    "category": "Hybrid",
+    "thc": 31.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "8 Ball Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Materia Deutschland GmbH",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.24,
+      "max": 10.99
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7818.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:18.564138",
+    "url": "https://medcanonestop.com/medcan_product/materia-8bk-30-1/",
+    "image_path": "images\\7818.png"
+  }
+]

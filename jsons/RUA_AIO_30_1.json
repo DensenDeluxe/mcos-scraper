@@ -1,0 +1,65 @@
+[
+  {
+    "title": "RUA AIO 30/1",
+    "category": "Hybrid",
+    "thc": 31.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "8 Ball Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.65,
+      "max": 15.45
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:09.379375",
+    "url": "https://medcanonestop.com/medcan_product/rua-aio-30-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

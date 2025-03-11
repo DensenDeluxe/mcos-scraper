@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Remexian 24/1 MYW",
+    "category": "Indica",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mystic Wonder",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.3,
+      "Geschmack": 3.5,
+      "Effekt": 3.8,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Krampflösend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/3844.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:05.144097",
+    "url": "https://medcanonestop.com/medcan_product/remexian-24-1-myw/",
+    "image_path": "images\\3844.png"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Grünhorn GG 22/1",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gorilla Glue",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.4,
+      "max": 10.99
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.8,
+      "Geschmack": 3.5,
+      "Effekt": 3.5,
+      "Gesamt": 3.7
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3436.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:42.858954",
+    "url": "https://medcanonestop.com/medcan_product/gruenhorn-gg-22-1/",
+    "image_path": "images\\3436.png"
+  }
+]

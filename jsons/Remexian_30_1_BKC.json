@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Remexian 30/1 BKC",
+    "category": "Indica",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Kyber Crystal",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.29,
+      "max": 10.9
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.9,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5318.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:05.604572",
+    "url": "https://medcanonestop.com/medcan_product/remexian-30-1-bkc/",
+    "image_path": "images\\5318.png"
+  }
+]

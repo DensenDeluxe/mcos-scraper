@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Breezy Organics CGL 25/1",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Lime Haze",
+      "Herkunft": "",
+      "Importeur": "Ilios Santé",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.45
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Kräuter"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Appetitanregend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:38.554499",
+    "url": "https://medcanonestop.com/medcan_product/breezy-organics-cgl-25-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

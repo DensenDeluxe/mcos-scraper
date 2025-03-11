@@ -1,0 +1,72 @@
+[
+  {
+    "title": "enua 22/1 AFSC CA",
+    "category": "Hybrid",
+    "thc": 23.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Animal Face Sherb Crasher",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.95,
+      "max": 14.28
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Holz",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/enua_Freisteller_AFSC-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:24.609794",
+    "url": "https://medcanonestop.com/medcan_product/enua-22-1-afsc-ca/",
+    "image_path": "images\\enua_Freisteller_AFSC-1.png"
+  }
+]

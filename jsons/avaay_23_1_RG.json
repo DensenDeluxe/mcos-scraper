@@ -1,0 +1,67 @@
+[
+  {
+    "title": "avaay 23/1 RG",
+    "category": "Hybrid",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Royal Gorilla",
+      "Herkunft": "Südafrika",
+      "Importeur": "avaay Medical",
+      "Anbauer": "FarmaGrowers"
+    },
+    "price": {
+      "min": 8.05,
+      "max": 10.49
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/RG_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:48.202367",
+    "url": "https://medcanonestop.com/medcan_product/avaay-23-1-rg-royal-gorilla/",
+    "image_path": "images\\RG_bud.png"
+  }
+]

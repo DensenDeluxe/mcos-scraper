@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Supreme 24/1",
+    "category": "Sativa",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Frosted Lemon Cake",
+      "Herkunft": "Dänemark",
+      "Importeur": "WMG Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.19,
+      "max": 12.38
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Aktiv",
+      "Gesprächig",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Holz",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Fokussteigernd",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/485.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:25.602858",
+    "url": "https://medcanonestop.com/medcan_product/supreme-24-1-frosted-lemon-cake/",
+    "image_path": "images\\485.png"
+  }
+]

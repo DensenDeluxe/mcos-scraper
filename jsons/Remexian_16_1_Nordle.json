@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Remexian 16/1 Nordle",
+    "category": "Sativa",
+    "thc": 16.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Nordle",
+      "Herkunft": "Dänemark",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.59,
+      "max": 6.25
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.5,
+      "Geschmack": 3.5,
+      "Effekt": 3.8,
+      "Gesamt": 3.7
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Holz",
+      "Pfeffer",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5741.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:56.295775",
+    "url": "https://medcanonestop.com/medcan_product/remexian-16-1-nordle/",
+    "image_path": "images\\5741.png"
+  }
+]

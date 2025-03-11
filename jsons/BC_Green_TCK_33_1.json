@@ -1,0 +1,63 @@
+[
+  {
+    "title": "BC Green TCK 33/1",
+    "category": "Indica",
+    "thc": 33.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Tiger Cake",
+      "Herkunft": "Portugal",
+      "Importeur": "canymed",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 15.0
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antibakteriell",
+      "Entzündungshemmend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/5114.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:18.158381",
+    "url": "https://medcanonestop.com/medcan_product/bc-green-tck-33-1/",
+    "image_path": "images\\5114.png"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "LOT 420 AB PT",
+    "category": "Hybrid",
+    "thc": 26.7,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Apples & Bananas",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "LOT 420"
+    },
+    "price": {
+      "value": 11.9
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/LOT420_AB.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:42.864761",
+    "url": "https://medcanonestop.com/medcan_product/lot-420-ab-pt/",
+    "image_path": "images\\LOT420_AB.png"
+  }
+]

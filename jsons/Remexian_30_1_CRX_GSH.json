@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Remexian 30/1 CRX GSH",
+    "category": "Hybrid",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato Sherb",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.39,
+      "max": 11.4
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:01.199413",
+    "url": "https://medcanonestop.com/medcan_product/remexian-30-1-crx-gsh/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

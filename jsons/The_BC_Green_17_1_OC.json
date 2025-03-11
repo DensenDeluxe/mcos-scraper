@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The BC Green 17/1 OC",
+    "category": "Indica",
+    "thc": 18.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Orange Crasher",
+      "Herkunft": "Kanada",
+      "Importeur": "canymed",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.9,
+      "max": 7.91
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.9,
+      "Geschmack": 3.7,
+      "Effekt": 3.9,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Entspannt",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:27.875902",
+    "url": "https://medcanonestop.com/medcan_product/the-bc-green-17-1-ocr/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

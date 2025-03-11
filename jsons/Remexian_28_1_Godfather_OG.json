@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Remexian 28/1 Godfather OG",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Godfather OG",
+      "Herkunft": "",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 6.98
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 4.2,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4349.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:19.470662",
+    "url": "https://medcanonestop.com/medcan_product/remexian-28-1-gfr/",
+    "image_path": "images\\4349.png"
+  }
+]

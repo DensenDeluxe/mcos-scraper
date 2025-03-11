@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Bedrobinol",
+    "category": "Sativa",
+    "thc": 14.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Ludina",
+      "Herkunft": "Niederlande",
+      "Importeur": "Bedrocan",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 13.7,
+      "max": 16.66
+    },
+    "ratings": {
+      "Aussehen": 2.9,
+      "Aroma": 3.2,
+      "Geschmack": 3.1,
+      "Effekt": 3.4,
+      "Gesamt": 3.1
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-2-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Entzündungshemmend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:28.768061",
+    "url": "https://medcanonestop.com/medcan_product/bedrobinol/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "enua 27/1 ZKM CA",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Zkittlez Kushmints",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.95,
+      "max": 9.19
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:53.728647",
+    "url": "https://medcanonestop.com/medcan_product/enua-27-1-zkm-ca/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

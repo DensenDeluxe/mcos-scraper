@@ -1,0 +1,71 @@
+[
+  {
+    "title": "420 Evolution 27/1 CA WES",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wedding Singer",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.49,
+      "max": 12.95
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Wedding-Singer_WES.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:29.024189",
+    "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-wes/",
+    "image_path": "images\\Four20_Evolution_Wedding-Singer_WES.png"
+  }
+]

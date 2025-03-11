@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Tilray THC18 Spotlight Porto GWOG",
+    "category": "Indica",
+    "thc": 17.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Galaxy Walker OG",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.9,
+      "max": 13.19
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 3.5,
+      "Geschmack": 3.4,
+      "Effekt": 4.0,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2263.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:39.403128",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gwog/",
+    "image_path": "images\\2263.png"
+  }
+]

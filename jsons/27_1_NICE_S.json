@@ -1,0 +1,62 @@
+[
+  {
+    "title": "27/1 NICE S",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Strawberry Banana",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.2,
+      "Geschmack": 3.9,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/SB_Dried_Freisteller.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:44.273966",
+    "url": "https://medcanonestop.com/medcan_product/27-1-nce-s-strawberry-banana/",
+    "image_path": "images\\SB_Dried_Freisteller.png"
+  }
+]

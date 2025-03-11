@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Aurora THC 25 Extract 1",
+    "category": "Indica",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "Dänemark",
+      "Hersteller": "Aurora Deutschland"
+    },
+    "price": {
+      "min": 3.0,
+      "max": 11.35
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 3.0,
+      "Geschmack": 3.0,
+      "Effekt": 3.0,
+      "Gesamt": 3.5
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:49.007243",
+    "url": "https://medcanonestop.com/medcan_product/aurora-thc-25-extract-1/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

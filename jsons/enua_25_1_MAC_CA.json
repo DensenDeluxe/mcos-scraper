@@ -1,0 +1,56 @@
+[
+  {
+    "title": "enua 25/1 MAC CA",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Miracle Alien Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.58,
+      "max": 12.14
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:53.697080",
+    "url": "https://medcanonestop.com/medcan_product/enua-25-1-mac-ca/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

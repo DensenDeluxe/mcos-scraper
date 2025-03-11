@@ -1,0 +1,61 @@
+[
+  {
+    "title": "South African 27/1 Mungo",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mungo",
+      "Herkunft": "Südafrika",
+      "Importeur": "German Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.48,
+      "max": 13.69
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.7,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:05.416131",
+    "url": "https://medcanonestop.com/medcan_product/south-african-27-1-mungo/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

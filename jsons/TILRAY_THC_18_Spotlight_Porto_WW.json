@@ -1,0 +1,81 @@
+[
+  {
+    "title": "TILRAY THC 18 Spotlight Porto WW",
+    "category": "Hybrid",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "White Widow",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.45,
+      "max": 13.19
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.1,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "GU",
+        "name": "Guaiol"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "NE",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "NE",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "NE",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Muskelentspannend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/741.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:20.359415",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-white-widow/",
+    "image_path": "images\\741.png"
+  }
+]

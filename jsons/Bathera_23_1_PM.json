@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Bathera 23/1 PM",
+    "category": "Sativa",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Permanent Marker",
+      "Herkunft": "Portugal",
+      "Importeur": "Bathera",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.9,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Bathera-24_1-PM.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:57.874921",
+    "url": "https://medcanonestop.com/medcan_product/bathera-23-1-pm/",
+    "image_path": "images\\Bathera-24_1-PM.png"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "IMC CBD12 C01 God Bud",
+    "category": "Hybrid",
+    "thc": 1.0,
+    "cbd": 14.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "God Bud",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GU",
+        "name": "Guaiol"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:35.748225",
+    "url": "https://medcanonestop.com/medcan_product/imc-cbd12-c01-god-bud/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

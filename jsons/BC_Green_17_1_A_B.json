@@ -1,0 +1,61 @@
+[
+  {
+    "title": "BC Green 17/1 A&B",
+    "category": "Sativa",
+    "thc": 17.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Apples & Bananas",
+      "Herkunft": "Kanada",
+      "Importeur": "canymed",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.35,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.1,
+      "Geschmack": 4.0,
+      "Effekt": 4.1,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7942.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:11.594094",
+    "url": "https://medcanonestop.com/medcan_product/bc-green-17-1-ab/",
+    "image_path": "images\\7942.png"
+  }
+]

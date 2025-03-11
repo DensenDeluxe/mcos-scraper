@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Canopy KMI 28",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Kush Mints",
+      "Herkunft": "Kanada",
+      "Importeur": "Spectrum Therapeutics",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.45,
+      "max": 16.64
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/165.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:18.229640",
+    "url": "https://medcanonestop.com/medcan_product/canopy-kmi-28-1-kush-mints/",
+    "image_path": "images\\165.png"
+  }
+]

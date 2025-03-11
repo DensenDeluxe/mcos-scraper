@@ -1,0 +1,63 @@
+[
+  {
+    "title": "IMC THC22 GGA",
+    "category": "Indica",
+    "thc": 21.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Grape",
+      "Herkunft": "Südafrika",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 6.0
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.1,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Beerig",
+      "Cremig",
+      "Erdig"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonene"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/773.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:24.407408",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc22-gga-purple-grape/",
+    "image_path": "images\\773.png"
+  }
+]

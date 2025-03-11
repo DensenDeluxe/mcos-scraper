@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Cannamedical Sativa Classic NM AA",
+    "category": "Sativa",
+    "thc": 18.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Amsterdam Amnesia",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.0,
+      "Geschmack": 4.1,
+      "Effekt": 4.5,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Fokussteigernd",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Amsterdam-Amnesia-1.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:15.564560",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-amsterdam-amnesia/",
+    "image_path": "images\\Amsterdam-Amnesia-1.jpg"
+  }
+]

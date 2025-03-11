@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Cannamedical THC20:CBD5",
+    "category": "Sativa",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "Tangie Chem",
+      "Herkunft": "Nordmazedonien",
+      "Hersteller": "Cannamedical"
+    },
+    "price": {
+      "min": 5.95,
+      "max": 134.9
+    },
+    "ratings": {},
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:04.663852",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-thc20cbd5/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

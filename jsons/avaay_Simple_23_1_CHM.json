@@ -1,0 +1,69 @@
+[
+  {
+    "title": "avaay Simple 23/1 CHM",
+    "category": "Indica",
+    "thc": 23.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Chem OG",
+      "Herkunft": "Portugal",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/CHM_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:49.020835",
+    "url": "https://medcanonestop.com/medcan_product/avaay-simple-23-1-chm/",
+    "image_path": "images\\CHM_bud.png"
+  }
+]

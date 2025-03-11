@@ -1,0 +1,67 @@
+[
+  {
+    "title": "avaay 27/1 DID",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Do-Si-Dos",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.29,
+      "max": 10.0
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Holz",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/DiD_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:35.042717",
+    "url": "https://medcanonestop.com/medcan_product/avaay-27-1-did/",
+    "image_path": "images\\DiD_bud.png"
+  }
+]

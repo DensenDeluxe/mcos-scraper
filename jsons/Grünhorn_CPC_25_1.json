@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Grünhorn CPC 25/1",
+    "category": "Sativa",
+    "thc": 25.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cappuccino",
+      "Herkunft": "",
+      "Importeur": "Grünhorn",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 8.09
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.0,
+      "Geschmack": 3.8,
+      "Effekt": 4.6,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Fokussteigernd",
+      "Schlaffördernd",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:17.803834",
+    "url": "https://medcanonestop.com/medcan_product/gruenhorn-cpc-25-1-cappuccino/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

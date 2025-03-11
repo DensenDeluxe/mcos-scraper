@@ -1,0 +1,63 @@
+[
+  {
+    "title": "TILRAY THC 18 Spotlight Porto ISS",
+    "category": "Sativa",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Island Sweet Skunk",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.47,
+      "max": 13.19
+    },
+    "ratings": {
+      "Aussehen": 3.2,
+      "Aroma": 3.4,
+      "Geschmack": 3.5,
+      "Effekt": 3.7,
+      "Gesamt": 3.4
+    },
+    "effects": [
+      "Aktiv",
+      "Appetitanregend"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon",
+      "Mango",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Geraniol"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Energieanregend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/430.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:38.083728",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc-18-spotlight-porto-iss/",
+    "image_path": "images\\430.png"
+  }
+]

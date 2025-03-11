@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Pedanios 31/1 PND CA",
+    "category": "Indica",
+    "thc": 31.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Pink Diesel",
+      "Herkunft": "Kanada",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": "Aurora Cannabis Enterprises Inc."
+    },
+    "price": {
+      "min": 9.55,
+      "max": 19.02
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.5,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Pedanios-27_1-PND-CA_Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:19.986740",
+    "url": "https://medcanonestop.com/medcan_product/pedanios-31-1-pnd-ca/",
+    "image_path": "images\\Pedanios-27_1-PND-CA_Bluete.png"
+  }
+]

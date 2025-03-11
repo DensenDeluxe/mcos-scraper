@@ -1,0 +1,61 @@
+[
+  {
+    "title": "IMC THC27 T03",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gorilla Glue",
+      "Herkunft": "Kanada",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/2145.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:14.133578",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc27-t03-gg4-gorilla-glue/",
+    "image_path": "images\\2145.png"
+  }
+]

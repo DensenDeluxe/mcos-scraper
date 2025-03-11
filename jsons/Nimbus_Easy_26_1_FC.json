@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Nimbus Easy 26/1 FC",
+    "category": "Hybrid",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "French Cookies",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 7.65
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 3.9,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5970.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:08.837001",
+    "url": "https://medcanonestop.com/medcan_product/nimbus-easy-26-1-fc/",
+    "image_path": "images\\5970.png"
+  }
+]

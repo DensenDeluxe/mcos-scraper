@@ -1,0 +1,71 @@
+[
+  {
+    "title": "420 COMPOUND 22/1 CA MWZ",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mellowz",
+      "Herkunft": "",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.4,
+      "max": 14.99
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.0,
+      "Geschmack": 3.8,
+      "Effekt": 4.0,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Holz"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "SE",
+        "name": "Selina-3.7(11)diene"
+      },
+      {
+        "code": "SE",
+        "name": "Selina-4(15)7(11)-diene"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schlaffördernd",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Compound_Mellowz_MWZ.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:54.035340",
+    "url": "https://medcanonestop.com/medcan_product/420-compound-22-1-ca-mwz/",
+    "image_path": "images\\Four20_Compound_Mellowz_MWZ.png"
+  }
+]

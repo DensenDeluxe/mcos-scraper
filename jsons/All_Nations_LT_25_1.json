@@ -1,0 +1,65 @@
+[
+  {
+    "title": "All Nations LT 25/1",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Lemon Tartz",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 9.92
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.6,
+      "Geschmack": 4.6,
+      "Effekt": 4.4,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Diesel",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/ALLNATIONS_LT.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:20.434843",
+    "url": "https://medcanonestop.com/medcan_product/all-nations-lt-25-1/",
+    "image_path": "images\\ALLNATIONS_LT.png"
+  }
+]

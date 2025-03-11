@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Tweed 17/1 Gelato 33",
+    "category": "Hybrid",
+    "thc": 17.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato 33",
+      "Herkunft": "",
+      "Importeur": "CanopyMedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.99,
+      "max": 12.5
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:27.566321",
+    "url": "https://medcanonestop.com/medcan_product/tweed-17-1-gelato-33/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

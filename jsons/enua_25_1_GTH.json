@@ -1,0 +1,61 @@
+[
+  {
+    "title": "enua 25/1 GTH",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Ghost Train Haze",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 10.95
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Fokussteigernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3526.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:38.638066",
+    "url": "https://medcanonestop.com/medcan_product/enua-25-1-gth/",
+    "image_path": "images\\3526.png"
+  }
+]

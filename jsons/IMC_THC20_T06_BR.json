@@ -1,0 +1,71 @@
+[
+  {
+    "title": "IMC THC20 T06 BR",
+    "category": "Indica",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Black Russian",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.8,
+      "max": 7.75
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 3.9,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:36.863996",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc20-t06-br/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

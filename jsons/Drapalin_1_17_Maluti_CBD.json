@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Drapalin 1/17 Maluti CBD",
+    "category": "Indica",
+    "thc": 1.0,
+    "cbd": 17.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Maluti CBD",
+      "Herkunft": "Lesotho",
+      "Importeur": "DRAPALIN Pharmaceuticals",
+      "Anbauer": "MG Health Limited"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Holz",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:38.310288",
+    "url": "https://medcanonestop.com/medcan_product/drapalin-1-17-maluti-cbd/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

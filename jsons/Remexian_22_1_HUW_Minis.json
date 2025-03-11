@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Remexian 22/1 HUW Minis",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Humble Warrior",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.7,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Angeregt",
+      "Begeistert",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Holz",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "PH",
+        "name": "Phytol"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Fokussteigernd",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:35.565091",
+    "url": "https://medcanonestop.com/medcan_product/remexian-22-1-huw-minis/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

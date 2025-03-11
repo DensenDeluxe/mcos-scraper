@@ -1,0 +1,68 @@
+[
+  {
+    "title": "420 Compound 27/1 GAP",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 0.1,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gastro Pop",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.99,
+      "max": 11.99
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.6,
+      "Geschmack": 4.5,
+      "Effekt": 4.5,
+      "Gesamt": 4.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Beerig",
+      "Erdig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "B",
+        "name": "B-Caryophyllene"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Ocimem"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Compound_Gastro-Pop_GAP.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:29.359695",
+    "url": "https://medcanonestop.com/medcan_product/420-compound-27-1-gap/",
+    "image_path": "images\\Four20_Compound_Gastro-Pop_GAP.png"
+  }
+]

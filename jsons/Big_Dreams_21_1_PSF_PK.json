@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Big Dreams 21/1 PSF PK",
+    "category": "Indica",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Pink Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.15,
+      "max": 9.98
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.2,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:55.168032",
+    "url": "https://medcanonestop.com/medcan_product/big-dreams-21-1-psf-pk/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

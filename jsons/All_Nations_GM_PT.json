@@ -1,0 +1,66 @@
+[
+  {
+    "title": "All Nations GM PT",
+    "category": "Indica",
+    "thc": 27.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mac Doughnut",
+      "Herkunft": "Portugal",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.47,
+      "max": 10.0
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/All-Nations-GM-PT.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:54.727929",
+    "url": "https://medcanonestop.com/medcan_product/all-nations-gm-pt/",
+    "image_path": "images\\All-Nations-GM-PT.png"
+  }
+]

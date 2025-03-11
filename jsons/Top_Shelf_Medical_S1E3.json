@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Top Shelf Medical S1E3",
+    "category": "Indica",
+    "thc": 29.7,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wes' Coast Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.99,
+      "max": 12.83
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.6,
+      "Geschmack": 3.6,
+      "Effekt": 4.0,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:41.018487",
+    "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e3/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

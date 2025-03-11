@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Demecan MC Regular Drop 25/01",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Sherbet Mints",
+      "Herkunft": "Kanada",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 12.49
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 5.0,
+      "Geschmack": 5.0,
+      "Effekt": 5.0,
+      "Gesamt": 5.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Holz",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/3734.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:23.303549",
+    "url": "https://medcanonestop.com/medcan_product/demecan-mc-regular-drop-25-01/",
+    "image_path": "images\\3734.png"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "madrecan 18/1 PUC",
+    "category": "Indica",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Punch Cake",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.7,
+      "Geschmack": 3.6,
+      "Effekt": 3.9,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Pfeffer",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3845.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:20.468686",
+    "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-pc/",
+    "image_path": "images\\3845.png"
+  }
+]

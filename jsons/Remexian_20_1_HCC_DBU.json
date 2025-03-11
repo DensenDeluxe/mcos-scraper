@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Remexian 20/1 HCC DBU",
+    "category": "Indica",
+    "thc": 19.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Donkey Butter",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.18,
+      "max": 8.49
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.0,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7861.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:46.439637",
+    "url": "https://medcanonestop.com/medcan_product/big-dreams-20-1-hcc-dbu/",
+    "image_path": "images\\7861.png"
+  }
+]

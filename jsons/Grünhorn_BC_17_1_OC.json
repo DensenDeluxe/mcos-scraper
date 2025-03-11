@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Grünhorn BC 17/1 OC",
+    "category": "Indica",
+    "thc": 18.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Orange Crasher",
+      "Herkunft": "",
+      "Importeur": "canymed",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 8.5
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.4,
+      "Geschmack": 3.8,
+      "Effekt": 3.8,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Entspannt",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:38.431871",
+    "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-17-1-oc/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

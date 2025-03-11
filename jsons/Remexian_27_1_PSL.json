@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Remexian 27/1 PSL",
+    "category": "Indica",
+    "thc": 25.4,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pink Slurricane",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.99,
+      "max": 10.2
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.3,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5306.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:31.501907",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-psl/",
+    "image_path": "images\\5306.png"
+  }
+]

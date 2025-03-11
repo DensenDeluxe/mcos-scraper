@@ -1,0 +1,62 @@
+[
+  {
+    "title": "avaay Signature 26/1 GPM",
+    "category": "Hybrid",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gun Powder Milkshake",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 11.74,
+      "max": 12.69
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.5,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Holz"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/GPM_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:18.969399",
+    "url": "https://medcanonestop.com/medcan_product/avaay-signature-26-1-gpm/",
+    "image_path": "images\\GPM_bud.png"
+  }
+]

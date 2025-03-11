@@ -1,0 +1,66 @@
+[
+  {
+    "title": "aleph red 27/1",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Hokuzai",
+      "Herkunft": "Portugal",
+      "Importeur": "alephSana",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 10.15,
+      "max": 12.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/aleph-red-2.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:52.885326",
+    "url": "https://medcanonestop.com/medcan_product/aleph-red-27-1/",
+    "image_path": "images\\aleph-red-2.png"
+  }
+]

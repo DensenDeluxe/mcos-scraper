@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Oceanic BC",
+    "category": "Indica",
+    "thc": 24.3,
+    "cbd": 0.1,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Oceanic"
+    },
+    "price": {
+      "value": 8.4
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.0,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/Oceanic-BC-Black-Cookies.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:43.088818",
+    "url": "https://medcanonestop.com/medcan_product/oceanic-bc-black-cookies/",
+    "image_path": "images\\Oceanic-BC-Black-Cookies.jpg"
+  }
+]

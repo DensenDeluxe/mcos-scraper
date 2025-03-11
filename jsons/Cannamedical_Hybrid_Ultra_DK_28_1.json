@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cannamedical Hybrid Ultra DK 28/1",
+    "category": "Hybrid",
+    "thc": 29.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Ghost Train Haze",
+      "Herkunft": "Dänemark",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.99,
+      "max": 16.66
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 3.6,
+      "Geschmack": 3.6,
+      "Effekt": 4.2,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Appetitanregend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Ghost-Train-Haze.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:44.597179",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-ultra-dk-28-1/",
+    "image_path": "images\\Ghost-Train-Haze.png"
+  }
+]

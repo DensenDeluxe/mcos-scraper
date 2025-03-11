@@ -1,0 +1,58 @@
+[
+  {
+    "title": "IMC BD THC25",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Set Fire",
+      "Herkunft": "Israel",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.95,
+      "max": 9.98
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:29.849059",
+    "url": "https://medcanonestop.com/medcan_product/imc-bd-thc25/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

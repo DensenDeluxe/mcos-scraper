@@ -1,0 +1,62 @@
+[
+  {
+    "title": "NEDCANN ML 25/01",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Moonlight",
+      "Herkunft": "Kanada",
+      "Importeur": "California's Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.72,
+      "max": 7.9
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.1,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Fokussteigernd",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Moonlight-Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:18.931699",
+    "url": "https://medcanonestop.com/medcan_product/nedcann-ml-25-01/",
+    "image_path": "images\\Moonlight-Bluete.png"
+  }
+]

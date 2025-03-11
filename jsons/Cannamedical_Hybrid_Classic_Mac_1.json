@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Cannamedical Hybrid Classic Mac 1",
+    "category": "Hybrid",
+    "thc": 18.7,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "MAC 1",
+      "Herkunft": "",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.25,
+      "max": 13.2
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.2,
+      "Geschmack": 3.8,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/MAC1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:21.499331",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-mac-1/",
+    "image_path": "images\\MAC1.png"
+  }
+]

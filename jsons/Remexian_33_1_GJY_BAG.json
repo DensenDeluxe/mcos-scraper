@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Remexian 33/1 GJY BAG",
+    "category": "Indica",
+    "thc": 33.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Banana Gas",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.95,
+      "max": 11.99
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Wundheilend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:23.119968",
+    "url": "https://medcanonestop.com/medcan_product/remexian-33-1-gjy-bag/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

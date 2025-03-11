@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Cannabis flos 18/1 LS Ku. Durban Sky",
+    "category": "Sativa",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Durban Sky",
+      "Herkunft": "Lesotho",
+      "Importeur": "Canify",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.68,
+      "max": 9.76
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.9,
+      "Geschmack": 3.7,
+      "Effekt": 4.4,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Durban-Sky.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:27.164337",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-18-1-ls-ku-durban-sky/",
+    "image_path": "images\\Durban-Sky.png"
+  }
+]

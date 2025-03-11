@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cannabis Flos 22/1 UY Ku.Big Buddah",
+    "category": "Hybrid",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Big Buddha",
+      "Herkunft": "Uruguay",
+      "Importeur": "Canify",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.49,
+      "max": 10.71
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesene"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6255_17736_672b324c20884_20241106_100859.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:19.757174",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-22-1-uy-ku-big-buddah/",
+    "image_path": "images\\6255_17736_672b324c20884_20241106_100859.png"
+  }
+]

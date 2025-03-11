@@ -1,0 +1,67 @@
+[
+  {
+    "title": "MediproCan Simba 25/1",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Panther",
+      "Herkunft": "Südafrika",
+      "Importeur": "mediproCan Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.65,
+      "max": 9.98
+    },
+    "ratings": {
+      "Aussehen": 3.4,
+      "Aroma": 3.5,
+      "Geschmack": 3.6,
+      "Effekt": 3.5,
+      "Gesamt": 3.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:29.557852",
+    "url": "https://medcanonestop.com/medcan_product/mediprocan-simba-25-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Cannovum Extrakt 10/15",
+    "category": "Sativa",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "Ethanol",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "",
+      "Hersteller": "Cannovum Cannabis"
+    },
+    "price": {
+      "min": 7.5,
+      "max": 11.45
+    },
+    "ratings": {},
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:52.263851",
+    "url": "https://medcanonestop.com/medcan_product/cannovum-extrakt-10-15/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

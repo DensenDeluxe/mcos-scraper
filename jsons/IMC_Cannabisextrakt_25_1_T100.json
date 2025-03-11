@@ -1,0 +1,36 @@
+[
+  {
+    "title": "IMC Cannabisextrakt 25:1 T100",
+    "category": "Hybrid",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "",
+      "Hersteller": "IMCannabis"
+    },
+    "price": {
+      "min": 2.79,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.9,
+      "Geschmack": 3.6,
+      "Effekt": 4.2,
+      "Gesamt": 4.0
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:26.501161",
+    "url": "https://medcanonestop.com/medcan_product/imc-251-t100/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

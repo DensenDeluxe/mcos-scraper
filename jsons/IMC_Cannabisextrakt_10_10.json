@@ -1,0 +1,36 @@
+[
+  {
+    "title": "IMC Cannabisextrakt 10:10",
+    "category": "Hybrid",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "Dänemark",
+      "Hersteller": "IMCannabis"
+    },
+    "price": {
+      "min": 2.83,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.7,
+      "Geschmack": 3.9,
+      "Effekt": 3.9,
+      "Gesamt": 3.9
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:25.359949",
+    "url": "https://medcanonestop.com/medcan_product/imc-1010-b100/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

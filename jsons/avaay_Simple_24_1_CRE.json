@@ -1,0 +1,63 @@
+[
+  {
+    "title": "avaay Simple 24/1 CRE",
+    "category": "Indica",
+    "thc": 24.6,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Creamy Kee's No.5",
+      "Herkunft": "Südafrika",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.69,
+      "max": 10.95
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Holz",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5846.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:30.460003",
+    "url": "https://medcanonestop.com/medcan_product/avaay-simple-24-1-cre/",
+    "image_path": "images\\5846.png"
+  }
+]

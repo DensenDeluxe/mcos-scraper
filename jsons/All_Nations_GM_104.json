@@ -1,0 +1,67 @@
+[
+  {
+    "title": "All Nations GM 104",
+    "category": "Hybrid",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mac Doughnut",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "All Nations"
+    },
+    "price": {
+      "min": 8.85,
+      "max": 10.35
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.1,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Cremig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schlaffördernd",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/All-Nations-GM-104-MAC-Doughnut.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:33.087278",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-all-nations-gm-104-mac-doughnut/",
+    "image_path": "images\\All-Nations-GM-104-MAC-Doughnut.jpg"
+  }
+]

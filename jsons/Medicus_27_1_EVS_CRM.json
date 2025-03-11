@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Medicus 27/1 EVS CRM",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cereal Milk",
+      "Herkunft": "Israel",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.99,
+      "max": 7.99
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 3.5,
+      "Geschmack": 3.5,
+      "Effekt": 3.7,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:23.799637",
+    "url": "https://medcanonestop.com/medcan_product/medicus-27-1-evs-crm/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

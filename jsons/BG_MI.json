@@ -1,0 +1,67 @@
+[
+  {
+    "title": "BG MI",
+    "category": "Indica",
+    "thc": 26.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "God Bud",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "SKOSHA"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 2.9,
+      "Aroma": 3.0,
+      "Geschmack": 2.9,
+      "Effekt": 3.3,
+      "Gesamt": 3.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Appetitanregend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BG-MI.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:37.987121",
+    "url": "https://medcanonestop.com/medcan_product/bg-mi-god-bud/",
+    "image_path": "images\\BG-MI.jpg"
+  }
+]

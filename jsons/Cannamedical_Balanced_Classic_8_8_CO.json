@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Cannamedical Balanced Classic 8/8 CO",
+    "category": "Hybrid",
+    "thc": 8.0,
+    "cbd": 8.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "California Orange",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": "Maricann Inc"
+    },
+    "price": {
+      "value": 11.0
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.4,
+      "Geschmack": 4.0,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Kräuter",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Fokussteigernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/Cali-O.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:16.385841",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-classic-8-8-california-orange/",
+    "image_path": "images\\Cali-O.png"
+  }
+]

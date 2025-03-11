@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Remexian 27/1 PRT WEC",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wedding Cake",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6869.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:43.086183",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-wec/",
+    "image_path": "images\\6869.png"
+  }
+]

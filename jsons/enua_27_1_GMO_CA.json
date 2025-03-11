@@ -1,0 +1,60 @@
+[
+  {
+    "title": "enua 27/1 GMO CA",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Koko´s Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.99,
+      "max": 9.19
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:06.541612",
+    "url": "https://medcanonestop.com/medcan_product/enua-27-1-gmo-ca/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Cannamedical Cannabisextrakt THC10:CBD10",
+    "category": "Indica",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "Legendary Larry",
+      "Herkunft": "Nordmazedonien",
+      "Hersteller": "Cannamedical"
+    },
+    "price": {
+      "min": 3.3,
+      "max": 99.99
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.0,
+      "Geschmack": 3.0,
+      "Effekt": 2.8,
+      "Gesamt": 3.2
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC10_CBD10.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:08.480737",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-thc10cbd10/",
+    "image_path": "images\\Cannamedical-Cannabisextrakt-THC10_CBD10.jpg"
+  }
+]

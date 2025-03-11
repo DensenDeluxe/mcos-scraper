@@ -1,0 +1,62 @@
+[
+  {
+    "title": "HUALA 20/1 CA DOG",
+    "category": "Indica",
+    "thc": 19.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Chemdog",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.94,
+      "max": 8.0
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.6,
+      "Geschmack": 3.5,
+      "Effekt": 4.0,
+      "Gesamt": 3.7
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7764.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:45.872684",
+    "url": "https://medcanonestop.com/medcan_product/huala-20-1-ca-dog/",
+    "image_path": "images\\7764.png"
+  }
+]

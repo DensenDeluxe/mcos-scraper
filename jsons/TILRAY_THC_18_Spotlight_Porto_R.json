@@ -1,0 +1,77 @@
+[
+  {
+    "title": "TILRAY THC 18 Spotlight Porto R",
+    "category": "Indica",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Rockstar",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.29,
+      "max": 13.19
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.5,
+      "Geschmack": 4.3,
+      "Effekt": 3.8,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:52.282675",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc-18-spotlight-porto-r/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

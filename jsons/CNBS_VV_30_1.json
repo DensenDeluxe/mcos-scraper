@@ -1,0 +1,64 @@
+[
+  {
+    "title": "CNBS VV 30/1",
+    "category": "Indica",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Varnish Vapor",
+      "Herkunft": "Kanada",
+      "Importeur": "Medical CNBS Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 11.49
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Fokussteigernd",
+      "Krampflösend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2690.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:49.823766",
+    "url": "https://medcanonestop.com/medcan_product/cnbs-vv-30-1-varnish-vapor/",
+    "image_path": "images\\2690.png"
+  }
+]

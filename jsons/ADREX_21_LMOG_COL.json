@@ -1,0 +1,62 @@
+[
+  {
+    "title": "ADREX 21 LMOG COL",
+    "category": "Sativa",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Lemon OG",
+      "Herkunft": "Kolumbien",
+      "Importeur": "ADREXpharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.65,
+      "max": 7.29
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 3.8,
+      "Geschmack": 3.5,
+      "Effekt": 3.7,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Aktiv",
+      "Angeregt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/761.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:34.626072",
+    "url": "https://medcanonestop.com/medcan_product/adrex-21-lmog-col-lemon-og/",
+    "image_path": "images\\761.png"
+  }
+]

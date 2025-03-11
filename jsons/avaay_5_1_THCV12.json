@@ -1,0 +1,66 @@
+[
+  {
+    "title": "avaay 5/1 THCV12",
+    "category": "Sativa",
+    "thc": 5.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "THCV12",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.77,
+      "max": 12.03
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 3.3,
+      "Geschmack": 2.5,
+      "Effekt": 3.3,
+      "Gesamt": 3.1
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:29.007956",
+    "url": "https://medcanonestop.com/medcan_product/avaay-5-1-thcv12/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

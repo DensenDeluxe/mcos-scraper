@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Sumo Canada Craft No. 4",
+    "category": "Hybrid",
+    "thc": 23.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Cement Shoes",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "SUMO Cannabis"
+    },
+    "price": {
+      "min": 6.99,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.5,
+      "Geschmack": 3.4,
+      "Effekt": 4.2,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Entspannt"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/SUMO-Canada-Craft-No.-4.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:54.874459",
+    "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-4/",
+    "image_path": "images\\SUMO-Canada-Craft-No.-4.png"
+  }
+]

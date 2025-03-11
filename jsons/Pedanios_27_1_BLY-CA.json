@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Pedanios 27/1 BLY-CA",
+    "category": "Sativa",
+    "thc": 28.4,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Jelly",
+      "Herkunft": "Kanada",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": "Aurora Cannabis Enterprises Inc."
+    },
+    "price": {
+      "min": 8.59,
+      "max": 15.29
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.3,
+      "Geschmack": 4.2,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Pedanios-27_1-BLY-CA_Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:29.170182",
+    "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-bly-ca/",
+    "image_path": "images\\Pedanios-27_1-BLY-CA_Bluete.png"
+  }
+]

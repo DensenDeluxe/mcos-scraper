@@ -1,0 +1,67 @@
+[
+  {
+    "title": "TYSON 2,0 26/1 NYC Diesel",
+    "category": "Sativa",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "NYC Diesel",
+      "Herkunft": "Kanada",
+      "Importeur": "Pharmcann",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 11.99
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.3,
+      "Geschmack": 3.3,
+      "Effekt": 3.5,
+      "Gesamt": 3.4
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Tyson-NY-Diesel.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:16.881787",
+    "url": "https://medcanonestop.com/medcan_product/tyson-20-26-1-nyc-diesel/",
+    "image_path": "images\\Tyson-NY-Diesel.png"
+  }
+]

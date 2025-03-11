@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Social Choice 12/1 GRO DOS",
+    "category": "Indica",
+    "thc": 12.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Do-Si-Dos",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.1,
+      "max": 5.49
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.9,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8480.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:56.707214",
+    "url": "https://medcanonestop.com/medcan_product/social-choice-12-1-gro-dos/",
+    "image_path": "images\\8480.png"
+  }
+]

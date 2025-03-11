@@ -1,0 +1,67 @@
+[
+  {
+    "title": "AURORA TYP 1 ISS",
+    "category": "Sativa",
+    "thc": 19.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Island Sweet Skunk",
+      "Herkunft": "Deutschland",
+      "Importeur": "BfArM",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.74,
+      "max": 13.8
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.1,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Energieanregend",
+      "Entzündungshemmend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/428_1308.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:09.869649",
+    "url": "https://medcanonestop.com/medcan_product/aurora-typ-1-island-sweet-skunk/",
+    "image_path": "images\\428_1308.png"
+  }
+]

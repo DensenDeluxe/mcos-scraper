@@ -1,0 +1,68 @@
+[
+  {
+    "title": "TILRAY THC 25 Spotlight Porto S",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Sirius",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.89,
+      "max": 13.09
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 4.0,
+      "Geschmack": 3.5,
+      "Effekt": 5.0,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Kräuter",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:25.680940",
+    "url": "https://medcanonestop.com/medcan_product/navcora-thc-25-spotlight-porto-sirius/",
+    "image_path": "images\\627.png"
+  }
+]

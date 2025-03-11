@@ -1,0 +1,74 @@
+[
+  {
+    "title": "avaay Khalifa 32/1 KK",
+    "category": "Hybrid",
+    "thc": 32.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Khalifa Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": "Miracle Valley"
+    },
+    "price": {
+      "value": 14.99
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.2,
+      "Geschmack": 4.3,
+      "Effekt": 4.8,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Pfeffer",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "MY",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "MY",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/2025_KK_Bluete_avaayLockUp_1_V1-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:26.197107",
+    "url": "https://medcanonestop.com/medcan_product/avaay-khalifa-32-1-kk/",
+    "image_path": "images\\2025_KK_Bluete_avaayLockUp_1_V1-1.png"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Remexian 27/1 PBB",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Peanut Butter Breath",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 17.83
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5311.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:14.518753",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-pbb/",
+    "image_path": "images\\5311.png"
+  }
+]

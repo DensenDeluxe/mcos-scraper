@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Remexian Balanced CNF MCC",
+    "category": "Hybrid",
+    "thc": 8.5,
+    "cbd": 14.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mango Cheese",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.99,
+      "max": 10.15
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.6,
+      "Geschmack": 4.2,
+      "Effekt": 4.8,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:53.275471",
+    "url": "https://medcanonestop.com/medcan_product/remexian-balanced-cnf-mcc/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

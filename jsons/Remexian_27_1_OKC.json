@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Remexian 27/1 OKC",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Orange Kush Cake",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.3,
+      "Geschmack": 4.1,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Energieanregend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5400.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:11.997806",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-okc/",
+    "image_path": "images\\5400.png"
+  }
+]

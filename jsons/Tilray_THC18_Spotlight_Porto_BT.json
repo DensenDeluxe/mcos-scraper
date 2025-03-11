@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Tilray THC18 Spotlight Porto BT",
+    "category": "Indica",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Black Tuna",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.1,
+      "max": 7.15
+    },
+    "ratings": {
+      "Aussehen": 3.0,
+      "Aroma": 3.0,
+      "Geschmack": 3.5,
+      "Effekt": 5.0,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4507.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:21.155206",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-bt/",
+    "image_path": "images\\4507.png"
+  }
+]

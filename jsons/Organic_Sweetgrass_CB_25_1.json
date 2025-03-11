@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Organic Sweetgrass CB 25/1",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Crunch Berries",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Organic Sweetgrass"
+    },
+    "price": {
+      "min": 8.49,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.9,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Sweetgrass-CB.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:09.446939",
+    "url": "https://medcanonestop.com/medcan_product/organic-sweetgrass-cb-25-1/",
+    "image_path": "images\\Sweetgrass-CB.png"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Cannamedical THC50",
+    "category": "Indica",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "Crazy Rntz",
+      "Herkunft": "Nordmazedonien",
+      "Hersteller": "Cannamedical"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 2.8,
+      "Geschmack": 2.8,
+      "Effekt": 4.0,
+      "Gesamt": 3.5
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:57.474195",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-thc50/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

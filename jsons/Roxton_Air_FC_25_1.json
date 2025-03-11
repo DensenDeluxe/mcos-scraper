@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Roxton Air FC 25/1",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Frosted Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Roxton Air"
+    },
+    "price": {
+      "min": 7.35,
+      "max": 10.95
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.9,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schlaffördernd",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Roxton-Air-FC-Frosted-Cookies.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:05.253294",
+    "url": "https://medcanonestop.com/medcan_product/roxton-air-fc-25-1/",
+    "image_path": "images\\Roxton-Air-FC-Frosted-Cookies.jpg"
+  }
+]

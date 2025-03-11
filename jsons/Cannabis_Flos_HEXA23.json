@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Cannabis Flos HEXA23",
+    "category": "Hybrid",
+    "thc": 26.4,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Iberian Icecream #35",
+      "Herkunft": "Portugal",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.5,
+      "Geschmack": 3.5,
+      "Effekt": 4.2,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antibakteriell",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5267.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:47.066185",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-hexa23/",
+    "image_path": "images\\5267.png"
+  }
+]

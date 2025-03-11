@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Remexian 27/1 SWV",
+    "category": "Sativa",
+    "thc": 28.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Shock Wave",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.95,
+      "max": 10.98
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.5,
+      "Geschmack": 4.3,
+      "Effekt": 4.5,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7925.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:27.000025",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-swv/",
+    "image_path": "images\\7925.png"
+  }
+]

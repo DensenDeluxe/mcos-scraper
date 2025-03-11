@@ -1,0 +1,62 @@
+[
+  {
+    "title": "enua 27/1 TIB CA",
+    "category": "Indica",
+    "thc": 28.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Tickle Burger",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.95,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.1,
+      "Geschmack": 4.0,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Fokussteigernd",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/TickleBurger.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:16.670291",
+    "url": "https://medcanonestop.com/medcan_product/enua-27-1-tib-ca/",
+    "image_path": "images\\TickleBurger.png"
+  }
+]

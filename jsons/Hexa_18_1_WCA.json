@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Hexa 18/1 WCA",
+    "category": "Hybrid",
+    "thc": 19.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wedding Cake",
+      "Herkunft": "Spanien",
+      "Importeur": "hexacan",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.9,
+      "Geschmack": 4.1,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7771.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:14.615032",
+    "url": "https://medcanonestop.com/medcan_product/hexa-18-1-wca/",
+    "image_path": "images\\7771.png"
+  }
+]

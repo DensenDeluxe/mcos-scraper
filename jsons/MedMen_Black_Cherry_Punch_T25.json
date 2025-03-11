@@ -1,0 +1,67 @@
+[
+  {
+    "title": "MedMen Black Cherry Punch T25",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Cherry Punch",
+      "Herkunft": "Kanada",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.3,
+      "Geschmack": 4.1,
+      "Effekt": 4.1,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Holz",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/807.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:25.937971",
+    "url": "https://medcanonestop.com/medcan_product/medmen-bcp-t25-black-cherry-punch/",
+    "image_path": "images\\807.png"
+  }
+]

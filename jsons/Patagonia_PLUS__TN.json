@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Patagonia PLUS+ TN",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "The New",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Patagonia Heritage"
+    },
+    "price": {
+      "min": 7.79,
+      "max": 14.73
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 3.9,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Entspannt"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Germacrene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "MY",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Patagonia-PLUS-TN.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:19.011792",
+    "url": "https://medcanonestop.com/medcan_product/patagonia-plus-tn/",
+    "image_path": "images\\Patagonia-PLUS-TN.png"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Ostara GC",
+    "category": "Hybrid",
+    "thc": 32.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gas Cake",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "All Nations"
+    },
+    "price": {
+      "value": 9.2
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.1,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt"
+    ],
+    "aroma": [
+      "Cremig",
+      "Diesel",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Ostara-GC-Gas-Cake.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:02.856013",
+    "url": "https://medcanonestop.com/medcan_product/ostara-gc-gas-cake/",
+    "image_path": "images\\Ostara-GC-Gas-Cake.jpg"
+  }
+]

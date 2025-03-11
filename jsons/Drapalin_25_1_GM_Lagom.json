@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Drapalin 25/1 GM Lagom",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gush Mints",
+      "Herkunft": "Tschechien",
+      "Importeur": "DRAPALIN Pharmaceuticals",
+      "Anbauer": "Lagom Pharmatech"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.0,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Stressabbauend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/1514.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:27.958790",
+    "url": "https://medcanonestop.com/medcan_product/drapalin-25-1-gm-lagom-gush-mints/",
+    "image_path": "images\\1514.png"
+  }
+]

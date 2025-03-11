@@ -1,0 +1,74 @@
+[
+  {
+    "title": "420 Evolution 22/1 CA MAC",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "MAC 1",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.19,
+      "max": 20.92
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Gesprächig",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "α",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_MAC-1_MAC.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:18.332747",
+    "url": "https://medcanonestop.com/medcan_product/420-evolution-22-1-ca-mac/",
+    "image_path": "images\\Four20_Evolution_MAC-1_MAC.png"
+  }
+]

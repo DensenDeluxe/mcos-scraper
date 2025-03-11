@@ -1,0 +1,66 @@
+[
+  {
+    "title": "IMC THC21 T01 Hindu Kush",
+    "category": "Indica",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Hindu Kush",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.2,
+      "max": 7.99
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 3.0,
+      "Geschmack": 3.0,
+      "Effekt": 4.0,
+      "Gesamt": 3.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GU",
+        "name": "Guaiol"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:15.546864",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc21-t01-hindu-kush/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

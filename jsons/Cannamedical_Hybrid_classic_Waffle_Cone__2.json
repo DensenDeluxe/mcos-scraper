@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Cannamedical Hybrid classic Waffle Cone #2",
+    "category": "Indica",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Waffle Cone #2",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.43,
+      "max": 15.29
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:57.384742",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-waffle-cone-2/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

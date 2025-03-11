@@ -1,0 +1,77 @@
+[
+  {
+    "title": "avaay Signature 29/1 OGC",
+    "category": "Indica",
+    "thc": 29.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Ocean Grown Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.98,
+      "max": 12.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.7,
+      "Geschmack": 4.3,
+      "Effekt": 5.0,
+      "Gesamt": 4.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Mango",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Germacrene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/OGC_Flower_V1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:09.956996",
+    "url": "https://medcanonestop.com/medcan_product/avaay-signature-29-1-ogc/",
+    "image_path": "images\\OGC_Flower_V1.png"
+  }
+]

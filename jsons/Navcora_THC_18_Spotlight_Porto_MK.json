@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Navcora THC 18 Spotlight Porto MK",
+    "category": "Indica",
+    "thc": 16.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Master Kush",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.25,
+      "max": 5.99
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.0,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Floral",
+      "Holz",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "BI",
+        "name": "Bisabolol"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "NE",
+        "name": "α-Humulen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/4907.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:58.852698",
+    "url": "https://medcanonestop.com/medcan_product/navcora-thc-18-spotlight-porto-mk/",
+    "image_path": "images\\4907.png"
+  }
+]

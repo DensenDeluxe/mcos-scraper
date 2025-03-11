@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cannamedical Indica light URY DBF",
+    "category": "Indica",
+    "thc": 17.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Dawg Bud Fusion",
+      "Herkunft": "Uruguay",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 6.99
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 3.6,
+      "Geschmack": 3.6,
+      "Effekt": 4.3,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:31.394995",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-ury-dbf/",
+    "image_path": "images\\Dawg-Bud-Fusion.jpg"
+  }
+]

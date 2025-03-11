@@ -1,0 +1,63 @@
+[
+  {
+    "title": "TILRAY THC 22 Spotlight Porto ISS",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Island Sweet Skunk",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.1,
+      "max": 10.71
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.7,
+      "Geschmack": 4.1,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Aktiv",
+      "Appetitanregend"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon",
+      "Mango",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Geraniol"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Energieanregend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/430.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:37.514425",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-island-sweet-skunk/",
+    "image_path": "images\\430.png"
+  }
+]

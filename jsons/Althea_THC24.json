@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Althea THC24",
+    "category": "Sativa",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "La Sage",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.75
+    },
+    "ratings": {},
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "NE",
+        "name": "Terpinolen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:38.792932",
+    "url": "https://medcanonestop.com/medcan_product/althea-thc24/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

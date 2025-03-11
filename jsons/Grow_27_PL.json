@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Grow 27 PL",
+    "category": "Hybrid",
+    "thc": 25.7,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pink Lilac",
+      "Herkunft": "",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 10.5
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 4.0,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:14.888480",
+    "url": "https://medcanonestop.com/medcan_product/grow-27-pl/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Wellford 23/1 COP",
+    "category": "Sativa",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Critical Orange Punch",
+      "Herkunft": "Kanada",
+      "Importeur": "Therismos",
+      "Anbauer": "Aqualitas"
+    },
+    "price": {
+      "min": 7.95,
+      "max": 11.9
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Wellford-231-COP-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:40.086743",
+    "url": "https://medcanonestop.com/medcan_product/wellford-23-1-cop/",
+    "image_path": "images\\Wellford-231-COP-1.png"
+  }
+]

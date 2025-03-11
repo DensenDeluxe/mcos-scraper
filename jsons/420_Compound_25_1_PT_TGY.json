@@ -1,0 +1,73 @@
+[
+  {
+    "title": "420 Compound 25/1 PT TGY",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Tigerz Eye",
+      "Herkunft": "Portugal",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.35,
+      "max": 14.52
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Compound_Tigerz-Eye_TGY.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:37.502147",
+    "url": "https://medcanonestop.com/medcan_product/420-compound-25-1-pt-tgy/",
+    "image_path": "images\\Four20_Compound_Tigerz-Eye_TGY.png"
+  }
+]

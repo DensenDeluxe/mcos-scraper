@@ -1,0 +1,64 @@
+[
+  {
+    "title": "MCCN No. 2",
+    "category": "Indica",
+    "thc": 22.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Skywalker OG",
+      "Herkunft": "Kolumbien",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.97,
+      "max": 7.95
+    },
+    "ratings": {
+      "Aussehen": 2.9,
+      "Aroma": 3.1,
+      "Geschmack": 2.9,
+      "Effekt": 3.7,
+      "Gesamt": 3.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:39.607344",
+    "url": "https://medcanonestop.com/medcan_product/mccn-no-2/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

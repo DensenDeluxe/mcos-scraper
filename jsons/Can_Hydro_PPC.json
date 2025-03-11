@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Can Hydro PPC",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Punch Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "CAN HYDRO"
+    },
+    "price": {
+      "min": 8.99,
+      "max": 9.52
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.3,
+      "Geschmack": 4.2,
+      "Effekt": 4.2,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Diesel",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "TR",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/CAN-Hydro-PPC.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:56.910812",
+    "url": "https://medcanonestop.com/medcan_product/can-hydro-ppc/",
+    "image_path": "images\\CAN-Hydro-PPC.png"
+  }
+]

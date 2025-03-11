@@ -1,0 +1,68 @@
+[
+  {
+    "title": "IMC THC22 T01",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Hindu Kush",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.45,
+      "max": 12.03
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.2,
+      "Geschmack": 4.0,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/436.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:21.312045",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc22-t01-hindu-kush/",
+    "image_path": "images\\436.png"
+  }
+]

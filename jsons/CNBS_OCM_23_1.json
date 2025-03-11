@@ -1,0 +1,57 @@
+[
+  {
+    "title": "CNBS OCM 23/1",
+    "category": "Sativa",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Orange Cookie Mac",
+      "Herkunft": "Kanada",
+      "Importeur": "Medical CNBS Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.79,
+      "max": 8.99
+    },
+    "ratings": {},
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:36.812465",
+    "url": "https://medcanonestop.com/medcan_product/cnbs-ocm-23-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

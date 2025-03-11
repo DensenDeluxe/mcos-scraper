@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Navcora THC18 Spotlight Porto P",
+    "category": "Hybrid",
+    "thc": 19.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Purps",
+      "Herkunft": "Portugal",
+      "Importeur": "Navcora",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 7.99
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 4.1,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:49.938926",
+    "url": "https://medcanonestop.com/medcan_product/navcora-thc18-spotlight-porto-p/",
+    "image_path": "images\\627.png"
+  }
+]

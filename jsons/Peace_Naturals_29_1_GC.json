@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Peace Naturals 29/1 GC",
+    "category": "Indica",
+    "thc": 29.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "GMO Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 10.99,
+      "max": 16.38
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.0,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image008-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:23.049875",
+    "url": "https://medcanonestop.com/medcan_product/peace-naturals-29-1-gc/",
+    "image_path": "images\\image008-1.png"
+  }
+]

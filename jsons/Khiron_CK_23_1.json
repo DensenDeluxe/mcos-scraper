@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Khiron CK 23/1",
+    "category": "Hybrid",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cinderella Kush",
+      "Herkunft": "Jersey",
+      "Importeur": "KHIRON",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.8,
+      "max": 11.88
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.3,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Khiron-CK-23_1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:32.222436",
+    "url": "https://medcanonestop.com/medcan_product/khiron-ck-23-1/",
+    "image_path": "images\\Khiron-CK-23_1.png"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Greyscales GF 18/1",
+    "category": "Hybrid",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Grape Fuel",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Greyscales by Lot420"
+    },
+    "price": {
+      "value": 8.75
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Diesel",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:19.867670",
+    "url": "https://medcanonestop.com/medcan_product/greyscales-gf-18-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

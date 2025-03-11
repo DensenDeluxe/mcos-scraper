@@ -1,0 +1,68 @@
+[
+  {
+    "title": "IMC THC17 T01",
+    "category": "Indica",
+    "thc": 17.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Hindu Kush",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.75,
+      "max": 22.66
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 4.2,
+      "Geschmack": 4.0,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/438_2068.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:10.227304",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc17-t01-hk-hindu-kush/",
+    "image_path": "images\\438_2068.png"
+  }
+]

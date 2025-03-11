@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Citizen Labs CR 32/1",
+    "category": "Hybrid",
+    "thc": 32.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cali Rain",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Citzien Labs"
+    },
+    "price": {
+      "min": 9.98,
+      "max": 12.15
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 3.7,
+      "Geschmack": 3.6,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Citizenlab_Calirain.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:40.741450",
+    "url": "https://medcanonestop.com/medcan_product/citizen-labs-cr-32-1/",
+    "image_path": "images\\Citizenlab_Calirain.png"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "All Nations GM 30/1",
+    "category": "Indica",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mac Doughnut",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.65,
+      "max": 10.99
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.5,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/All-Nations-GM-PT.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:04.404764",
+    "url": "https://medcanonestop.com/medcan_product/all-nations-gm-30-1/",
+    "image_path": "images\\All-Nations-GM-PT.png"
+  }
+]

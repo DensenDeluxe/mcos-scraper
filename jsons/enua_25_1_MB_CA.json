@@ -1,0 +1,72 @@
+[
+  {
+    "title": "enua 25/1 MB CA",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mega Breath",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.97,
+      "max": 10.49
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Ocimem"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Fokussteigernd",
+      "Krampflösend",
+      "Schlaffördernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MB.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:46.713883",
+    "url": "https://medcanonestop.com/medcan_product/enua-25-1-mb-ca/",
+    "image_path": "images\\MB.png"
+  }
+]

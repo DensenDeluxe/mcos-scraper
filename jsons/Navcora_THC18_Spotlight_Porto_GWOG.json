@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Navcora THC18 Spotlight Porto GWOG",
+    "category": "Indica",
+    "thc": 17.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Galaxy Walker OG",
+      "Herkunft": "Portugal",
+      "Importeur": "Navcora",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.99,
+      "max": 11.95
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 3.8,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2263.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:07.365969",
+    "url": "https://medcanonestop.com/medcan_product/navcora-thc18-spotlight-porto-gwog/",
+    "image_path": "images\\2263.png"
+  }
+]

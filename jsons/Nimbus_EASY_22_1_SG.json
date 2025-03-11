@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Nimbus EASY 22/1 SG",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Strawberry Glue",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.69,
+      "max": 10.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.6,
+      "Geschmack": 3.7,
+      "Effekt": 4.0,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Gesprächig",
+      "Kreativ",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Eudesmol"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2146.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:51.778826",
+    "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-strawberry-glue/",
+    "image_path": "images\\2146.png"
+  }
+]

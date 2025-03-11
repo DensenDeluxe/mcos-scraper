@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Canopy Bakerstreet 20",
+    "category": "Indica",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Hindu Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Spectrum Therapeutics",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.99,
+      "max": 14.5
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.6,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Kräuter",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GU",
+        "name": "Guaiol"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:46.973584",
+    "url": "https://medcanonestop.com/medcan_product/bakerstreet/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

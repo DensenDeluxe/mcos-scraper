@@ -1,0 +1,63 @@
+[
+  {
+    "title": "NICE 17/1 DD",
+    "category": "Indica",
+    "thc": 17.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Dosidos",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.49,
+      "max": 7.15
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.6,
+      "Geschmack": 3.5,
+      "Effekt": 3.9,
+      "Gesamt": 3.7
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image002-1-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:32.803614",
+    "url": "https://medcanonestop.com/medcan_product/nice-17-1-dd/",
+    "image_path": "images\\image002-1-1.png"
+  }
+]

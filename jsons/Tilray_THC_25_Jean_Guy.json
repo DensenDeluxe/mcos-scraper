@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Tilray THC 25 Jean Guy",
+    "category": "Sativa",
+    "thc": 24.7,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Bienville",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.0,
+      "max": 16.99
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 3.4,
+      "Geschmack": 3.6,
+      "Effekt": 3.9,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "GU",
+        "name": "Guaiol"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:10.219424",
+    "url": "https://medcanonestop.com/medcan_product/tilray-craft-25-jean-guy/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "RE:CANNIS 1/15 CBD",
+    "category": "Hybrid",
+    "thc": 1.0,
+    "cbd": 15.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Avidekel",
+      "Herkunft": "Lesotho",
+      "Importeur": "FETTE Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Holz"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:40.380703",
+    "url": "https://medcanonestop.com/medcan_product/recannis-1-15-cbd-avidekel/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "enua 22/1 DB CA",
+    "category": "Hybrid",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pink Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.45,
+      "max": 9.98
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.9,
+      "Geschmack": 3.9,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Floral"
+    ],
+    "terpenes": [
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/8456.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:38.276706",
+    "url": "https://medcanonestop.com/medcan_product/enua-22-1-db-ca/",
+    "image_path": "images\\8456.png"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "madrecan 21/1 WOP",
+    "category": "Indica",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Wonder Punch",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.5,
+      "max": 6.3
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.6,
+      "Geschmack": 3.6,
+      "Effekt": 3.9,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Beerig",
+      "Diesel",
+      "Erdig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5746.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:51.494085",
+    "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-wop/",
+    "image_path": "images\\5746.png"
+  }
+]

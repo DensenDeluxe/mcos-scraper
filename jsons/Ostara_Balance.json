@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Ostara Balance",
+    "category": "Indica",
+    "thc": 8.6,
+    "cbd": 12.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Long Valley Legend",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.0,
+      "Geschmack": 3.5,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/3807.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:35.944077",
+    "url": "https://medcanonestop.com/medcan_product/ostara-balance/",
+    "image_path": "images\\3807.png"
+  }
+]

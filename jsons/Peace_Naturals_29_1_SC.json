@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Peace Naturals 29/1 SC",
+    "category": "Sativa",
+    "thc": 29.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Space Cake",
+      "Herkunft": "Kanada",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.3,
+      "Geschmack": 4.0,
+      "Effekt": 3.7,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Space_Cake.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:04.190139",
+    "url": "https://medcanonestop.com/medcan_product/peace-naturals-29-1-sc/",
+    "image_path": "images\\Peace_Naturals_Space_Cake.png"
+  }
+]

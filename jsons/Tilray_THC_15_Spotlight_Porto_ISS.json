@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Tilray THC 15 Spotlight Porto ISS",
+    "category": "Sativa",
+    "thc": 15.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Island Sweet Skunk",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.45,
+      "max": 6.5
+    },
+    "ratings": {},
+    "effects": [
+      "Begeistert",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:24.010553",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc-15-spotlight-porto-iss/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

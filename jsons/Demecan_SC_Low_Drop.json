@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Demecan SC Low Drop",
+    "category": "Indica",
+    "thc": 17.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Vanilla Ice",
+      "Herkunft": "Kanada",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.25,
+      "max": 10.17
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.1,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Blutenfoto_DEMECAN_Vanilla-Ice_SC-Low-Drop.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:52.203163",
+    "url": "https://medcanonestop.com/medcan_product/demecan-sc-low-drop/",
+    "image_path": "images\\Blutenfoto_DEMECAN_Vanilla-Ice_SC-Low-Drop.png"
+  }
+]

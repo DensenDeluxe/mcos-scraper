@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Aurora 22/1 DNK CA",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Delahaze",
+      "Herkunft": "Dänemark",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": "Aurora Cannabis Enterprises Inc."
+    },
+    "price": {
+      "min": 8.49,
+      "max": 15.25
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Lemon",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Entzündungshemmend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/AURORA-22_1_Bluete-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:47.959649",
+    "url": "https://medcanonestop.com/medcan_product/aurora-22-1-dnk-delahaze/",
+    "image_path": "images\\AURORA-22_1_Bluete-1.png"
+  }
+]

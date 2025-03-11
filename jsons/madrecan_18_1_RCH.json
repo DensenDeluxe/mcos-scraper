@@ -1,0 +1,67 @@
+[
+  {
+    "title": "madrecan 18/1 RCH",
+    "category": "Hybrid",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Remo Chemo",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 5.49
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.7,
+      "Geschmack": 3.7,
+      "Effekt": 4.1,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Pfeffer",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "FE",
+        "name": "Fenchol"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4421.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:04.996459",
+    "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-rch/",
+    "image_path": "images\\4421.png"
+  }
+]

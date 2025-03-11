@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Curaleaf Natural 25/1 PT ZKS",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Zookies",
+      "Herkunft": "Portugal",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.9,
+      "max": 9.98
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8127.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:57.219509",
+    "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-25-1-pt-zks/",
+    "image_path": "images\\8127.png"
+  }
+]

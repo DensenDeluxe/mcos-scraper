@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Khiron PA 20/1",
+    "category": "Sativa",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Amnesia",
+      "Herkunft": "Jersey",
+      "Importeur": "KHIRON",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 10.0
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.1,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Kräuter",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FE",
+        "name": "Fenchol"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "MY",
+        "name": "Pinen"
+      },
+      {
+        "code": "MY",
+        "name": "Terpinolen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Khiron-PA-20-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:20.650069",
+    "url": "https://medcanonestop.com/medcan_product/khiron-pa-20-1/",
+    "image_path": "images\\Khiron-PA-20-1.png"
+  }
+]

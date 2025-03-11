@@ -1,0 +1,66 @@
+[
+  {
+    "title": "LOT 420 GLT 25/1",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato33",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "LOT 420"
+    },
+    "price": {
+      "min": 9.97,
+      "max": 12.95
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Diesel",
+      "Fruchtig",
+      "Menthol",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/LOT-420-GLT-Gelato33.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:49.232289",
+    "url": "https://medcanonestop.com/medcan_product/lot-420-glt-gelato33/",
+    "image_path": "images\\LOT-420-GLT-Gelato33.jpg"
+  }
+]

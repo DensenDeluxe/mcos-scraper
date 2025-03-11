@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Cannabis 1A 18/1",
+    "category": "Indica",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "White Widow",
+      "Herkunft": "Dänemark",
+      "Importeur": "WEECO Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.45,
+      "max": 10.0
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 3.5,
+      "Geschmack": 3.5,
+      "Effekt": 3.9,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/335.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:43.548579",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-white-widow/",
+    "image_path": "images\\335.png"
+  }
+]

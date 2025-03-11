@@ -1,0 +1,67 @@
+[
+  {
+    "title": "aleph purple 26/1",
+    "category": "Hybrid",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Straight Candy Gas",
+      "Herkunft": "Portugal",
+      "Importeur": "alephSana",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.8,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/aleph-purple.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:37.888412",
+    "url": "https://medcanonestop.com/medcan_product/aleph-purple-26-1/",
+    "image_path": "images\\aleph-purple.png"
+  }
+]

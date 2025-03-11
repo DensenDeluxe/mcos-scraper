@@ -1,0 +1,65 @@
+[
+  {
+    "title": "CM 24/1 GP",
+    "category": "Indica",
+    "thc": 22.9,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelati Punch",
+      "Herkunft": "",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.45,
+      "max": 13.99
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.2,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Gelati-Punch.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:49.657721",
+    "url": "https://medcanonestop.com/medcan_product/cm-24-1-gp/",
+    "image_path": "images\\Gelati-Punch.jpg"
+  }
+]

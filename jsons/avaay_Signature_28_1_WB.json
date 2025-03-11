@@ -1,0 +1,68 @@
+[
+  {
+    "title": "avaay Signature 28/1 WB",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Waffle Bites",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": "Habitat Craft Ltd."
+    },
+    "price": {
+      "min": 10.92,
+      "max": 13.99
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.3,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/WB_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:52.939464",
+    "url": "https://medcanonestop.com/medcan_product/avaay-signature-28-1-wb-waffle-bites/",
+    "image_path": "images\\WB_bud.png"
+  }
+]

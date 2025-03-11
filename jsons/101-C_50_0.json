@@ -1,0 +1,36 @@
+[
+  {
+    "title": "101-C 50:0",
+    "category": "Indica",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "Ethanol",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "",
+      "Hersteller": "HEYDAY"
+    },
+    "price": {
+      "min": 12.9,
+      "max": 16.19
+    },
+    "ratings": {
+      "Aussehen": 3.0,
+      "Aroma": 3.0,
+      "Geschmack": 3.0,
+      "Effekt": 3.0,
+      "Gesamt": 3.0
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:35.473321",
+    "url": "https://medcanonestop.com/medcan_product/101-c-500/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

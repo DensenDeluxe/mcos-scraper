@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Cannabis flos 27/1 PRT Ku. Strawberry Banana",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Strawberry Banana",
+      "Herkunft": "Portugal",
+      "Importeur": "Canify",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.9,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.9,
+      "Geschmack": 4.1,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Energieanregend",
+      "Entzündungshemmend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Strawberry-Banana-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:21.406477",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-27-1-prt-ku-strawberry-banana/",
+    "image_path": "images\\Strawberry-Banana-1.png"
+  }
+]

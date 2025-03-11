@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Demecan Craft Blue Z 20:01",
+    "category": "Indica",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Blue Zushi",
+      "Herkunft": "Deutschland",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.99,
+      "max": 15.47
+    },
+    "ratings": {
+      "Aussehen": 3.2,
+      "Aroma": 3.5,
+      "Geschmack": 3.5,
+      "Effekt": 3.8,
+      "Gesamt": 3.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/Bluetenbild-Blue-Z.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:05.112399",
+    "url": "https://medcanonestop.com/medcan_product/craft-blue-z-2001/",
+    "image_path": "images\\Bluetenbild-Blue-Z.png"
+  }
+]

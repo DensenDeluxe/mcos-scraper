@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Cannabis Flos 20/1 Purple Dog Bud",
+    "category": "Hybrid",
+    "thc": 20.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Dog Bud",
+      "Herkunft": "Uruguay",
+      "Importeur": "Canify",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 2.8,
+      "Aroma": 2.8,
+      "Geschmack": 2.5,
+      "Effekt": 3.3,
+      "Gesamt": 2.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Holz",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "BI",
+        "name": "Bisabolol"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/PurpleDogBud-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:32.543135",
+    "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-20-1-pdb-purple-dog-bud/",
+    "image_path": "images\\PurpleDogBud-1.png"
+  }
+]

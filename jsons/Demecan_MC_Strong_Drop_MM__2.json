@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Demecan MC Strong Drop MM #2",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Magic Marker #2",
+      "Herkunft": "Kanada",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 13.95
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3087.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:29.408813",
+    "url": "https://medcanonestop.com/medcan_product/demecan-mc-strong-drop-mm-2/",
+    "image_path": "images\\3087.png"
+  }
+]

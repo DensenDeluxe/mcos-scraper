@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Cookies 22/1 MD",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Medellin",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": "RPK Biopharma"
+    },
+    "price": {
+      "min": 6.3,
+      "max": 8.45
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.7,
+      "Geschmack": 3.6,
+      "Effekt": 3.9,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image002.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:23.213141",
+    "url": "https://medcanonestop.com/medcan_product/cookies-22-1-md/",
+    "image_path": "images\\image002.png"
+  }
+]

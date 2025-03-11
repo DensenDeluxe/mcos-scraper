@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Tilray THC 15 Spotlight Porto Pink Kush",
+    "category": "Hybrid",
+    "thc": 15.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Pink Kush",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.95,
+      "max": 12.12
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.3,
+      "Geschmack": 3.2,
+      "Effekt": 3.8,
+      "Gesamt": 3.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6139.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:01.564567",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc-15-spotlight-porto-pink-kush/",
+    "image_path": "images\\6139.png"
+  }
+]

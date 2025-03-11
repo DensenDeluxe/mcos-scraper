@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Africann GG 30/1",
+    "category": "Indica",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gorilla Glue",
+      "Herkunft": "Südafrika",
+      "Importeur": "Cantourage",
+      "Anbauer": "WeGrow"
+    },
+    "price": {
+      "min": 8.29,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Energieanregend",
+      "Entzündungshemmend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/WeGrow_AfricannGG.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:09.316765",
+    "url": "https://medcanonestop.com/medcan_product/africann-gg-30-1/",
+    "image_path": "images\\WeGrow_AfricannGG.png"
+  }
+]

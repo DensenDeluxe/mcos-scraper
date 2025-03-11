@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Cannabis Flos 22/1 PT Island Sweet Skunk",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Island Sweet Skunk",
+      "Herkunft": "Portugal",
+      "Importeur": "Canify",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 4.0,
+      "Geschmack": 3.5,
+      "Effekt": 3.5,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Aktiv",
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Stressabbauend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:38.304253",
+    "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-island-sweet-skunk/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

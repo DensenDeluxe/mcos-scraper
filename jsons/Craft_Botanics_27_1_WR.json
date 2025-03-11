@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Craft Botanics 27/1 WR",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "White Runtz",
+      "Herkunft": "Kanada",
+      "Importeur": "Montu Therapeutics",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 10.99
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:30.219933",
+    "url": "https://medcanonestop.com/medcan_product/craft-botanics-27-1-wr/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

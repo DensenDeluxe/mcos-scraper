@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Curaleaf Natural 25/1 PT WPT",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wedding Pop Triangle",
+      "Herkunft": "",
+      "Importeur": "Adven",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.95,
+      "max": 10.23
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.6,
+      "Geschmack": 3.4,
+      "Effekt": 3.9,
+      "Gesamt": 3.7
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:02.965062",
+    "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-25-1-pt-wpt/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "title": "NAVCORA THC22 Spotlight Porto ISS",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Island Sweet Skunk",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Holz",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Geraniol"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Energieanregend",
+      "Stressabbauend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:20.709067",
+    "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-island-sweet-skunk/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

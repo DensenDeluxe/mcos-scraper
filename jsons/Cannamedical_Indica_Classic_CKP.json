@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Cannamedical Indica Classic CKP",
+    "category": "Indica",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Cookies Kerosene Punch",
+      "Herkunft": "Dänemark",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.59,
+      "max": 10.49
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Fokussteigernd",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8346.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:28.399247",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-ckp/",
+    "image_path": "images\\8346.png"
+  }
+]

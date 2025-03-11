@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Remexian 30/1 JUC",
+    "category": "Sativa",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Jungle Cake",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 17.85
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6115.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:15.224586",
+    "url": "https://medcanonestop.com/medcan_product/remexian-30-1-juc/",
+    "image_path": "images\\6115.png"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "IMC THC25 T04",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Strawberry OG",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.47,
+      "max": 11.5
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/302.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:06.017611",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc25-t04-strawberry-og/",
+    "image_path": "images\\302.png"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Green Karat CG 30/1",
+    "category": "Indica",
+    "thc": 30.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cool Grapes",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Green Karat"
+    },
+    "price": {
+      "min": 9.6,
+      "max": 11.29
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Entspannt"
+    ],
+    "aroma": [
+      "Diesel",
+      "Fruchtig",
+      "Menthol"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "MY",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Green-Karat-CG-Cool-Grape.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:43.510333",
+    "url": "https://medcanonestop.com/medcan_product/green-karat-cg-30-1/",
+    "image_path": "images\\Green-Karat-CG-Cool-Grape.jpg"
+  }
+]

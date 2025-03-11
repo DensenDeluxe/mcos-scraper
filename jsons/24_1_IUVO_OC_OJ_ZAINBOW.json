@@ -1,0 +1,65 @@
+[
+  {
+    "title": "24/1 IUVO OC OJ ZAINBOW",
+    "category": "Sativa",
+    "thc": 25.9,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "OJ Zainbow",
+      "Herkunft": "Kanada",
+      "Importeur": "IUVO Therapeutics",
+      "Anbauer": "Organnicraft"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/03/021024_OJZainbow_DriedFlower_Hero_Transparent.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:10.923488",
+    "url": "https://medcanonestop.com/medcan_product/24-1-iuvo-oc-oj-zainbow/",
+    "image_path": "images\\021024_OJZainbow_DriedFlower_Hero_Transparent.png"
+  }
+]

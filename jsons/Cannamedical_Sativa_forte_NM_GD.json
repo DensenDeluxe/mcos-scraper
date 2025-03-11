@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cannamedical Sativa forte NM GD",
+    "category": "Sativa",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato Dream",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.93,
+      "max": 13.31
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.5,
+      "Geschmack": 4.2,
+      "Effekt": 4.6,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Fröhlich",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Energieanregend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gelato-Dream.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:54.382323",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-nm-gelato-dream/",
+    "image_path": "images\\Gelato-Dream.jpg"
+  }
+]

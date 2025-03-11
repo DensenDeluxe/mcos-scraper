@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Grünhorn HGH 27/1",
+    "category": "Indica",
+    "thc": 29.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "HGH",
+      "Herkunft": "",
+      "Importeur": "Grünhorn",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.95,
+      "max": 11.9
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.5,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/735.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:13.827366",
+    "url": "https://medcanonestop.com/medcan_product/gruenhorn-hgh-27-1-hgh/",
+    "image_path": "images\\735.png"
+  }
+]

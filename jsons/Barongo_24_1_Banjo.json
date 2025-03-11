@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Barongo 24/1 Banjo",
+    "category": "Sativa",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Banjo",
+      "Herkunft": "Kanada",
+      "Importeur": "WMG Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.1,
+      "max": 14.28
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.4,
+      "Geschmack": 4.2,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Beerig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "TR",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Borongo-banjo.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:27.882303",
+    "url": "https://medcanonestop.com/medcan_product/barongo-24-1-banjo/",
+    "image_path": "images\\Borongo-banjo.png"
+  }
+]

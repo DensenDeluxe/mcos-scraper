@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Remexian 27/1 ECO MYZ",
+    "category": "Sativa",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Munyunz",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.69,
+      "max": 10.2
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.6,
+      "Geschmack": 3.7,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Begeistert",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5317.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:15.084652",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-eco/",
+    "image_path": "images\\5317.png"
+  }
+]

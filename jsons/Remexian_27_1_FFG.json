@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Remexian 27/1 FFG",
+    "category": "Sativa",
+    "thc": 26.2,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Franco's Fullgas",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.99
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/6565.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:29.821373",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-ffg/",
+    "image_path": "images\\6565.png"
+  }
+]

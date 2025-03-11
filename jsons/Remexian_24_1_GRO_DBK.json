@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Remexian 24/1 GRO DBK",
+    "category": "Indica",
+    "thc": 22.6,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Death Bubba Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.98,
+      "max": 9.79
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Fokussteigernd",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:21.014890",
+    "url": "https://medcanonestop.com/medcan_product/remexian-24-1-gro-dbk/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

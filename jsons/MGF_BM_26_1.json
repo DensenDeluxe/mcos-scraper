@@ -1,0 +1,67 @@
+[
+  {
+    "title": "MGF BM 26/1",
+    "category": "Hybrid",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Blue Monkey",
+      "Herkunft": "Portugal",
+      "Importeur": "MGF Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.98,
+      "max": 8.95
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.5,
+      "Geschmack": 4.0,
+      "Effekt": 4.5,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:51.036339",
+    "url": "https://medcanonestop.com/medcan_product/mgf-bm-26-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

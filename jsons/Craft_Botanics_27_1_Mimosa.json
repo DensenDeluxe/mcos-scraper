@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Craft Botanics 27/1 Mimosa",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mimosa",
+      "Herkunft": "Kanada",
+      "Importeur": "Montu Therapeutics",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 10.99
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:11.673656",
+    "url": "https://medcanonestop.com/medcan_product/craft-botanics-27-1-mimosa/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

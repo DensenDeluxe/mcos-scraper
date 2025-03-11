@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Tyson 2,0 30/1 Tiger Milk",
+    "category": "Indica",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Tiger Milk",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Pharmcann",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 10.9,
+      "max": 11.99
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.4,
+      "Geschmack": 4.4,
+      "Effekt": 4.6,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Tyson-Tiger-Milk.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:39.085251",
+    "url": "https://medcanonestop.com/medcan_product/tyson-28-1-tiger-milk/",
+    "image_path": "images\\Tyson-Tiger-Milk.png"
+  }
+]

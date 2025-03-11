@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cannamedical CM 24/1 LLY",
+    "category": "Indica",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Legendary Larry",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.8,
+      "max": 19.04
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.2,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Kräuter",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Legendary-Larry-1.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:06.380701",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-24-1-lly-legendary-larry/",
+    "image_path": "images\\Legendary-Larry-1.jpg"
+  }
+]

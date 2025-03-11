@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Mother 28 B8 CAN Beta 808",
+    "category": "Sativa",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Beta 808",
+      "Herkunft": "Kanada",
+      "Importeur": "ADREXpharma",
+      "Anbauer": "Mother Labs"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.4,
+      "Geschmack": 4.4,
+      "Effekt": 4.4,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Menthol"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6536_22320_67374d3164e64_IMG_1092.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:05.971649",
+    "url": "https://medcanonestop.com/medcan_product/mother-28-b8-can-beta-808/",
+    "image_path": "images\\6536_22320_67374d3164e64_IMG_1092.png"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Cannamedical Indica classic NM KK",
+    "category": "Indica",
+    "thc": 21.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Kerosene Krash",
+      "Herkunft": "",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.85,
+      "max": 15.29
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.5,
+      "Geschmack": 4.0,
+      "Effekt": 5.0,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Entspannt",
+      "Kreativ",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Kerosene-Krash.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:36.019840",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-nm-kerosene-krash/",
+    "image_path": "images\\Kerosene-Krash.jpg"
+  }
+]

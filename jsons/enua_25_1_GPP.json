@@ -1,0 +1,67 @@
+[
+  {
+    "title": "enua 25/1 GPP",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelly Popper",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.1,
+      "max": 9.69
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.8,
+      "Geschmack": 4.6,
+      "Effekt": 4.5,
+      "Gesamt": 4.6
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesene"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6127_21381_6734667d7b623_IMG_1552.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:11.062270",
+    "url": "https://medcanonestop.com/medcan_product/enua-25-1-gpp/",
+    "image_path": "images\\6127_21381_6734667d7b623_IMG_1552.png"
+  }
+]

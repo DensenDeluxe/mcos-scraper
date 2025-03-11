@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Vasco PR",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pavé Runtz",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Vasco"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 5.0,
+      "Geschmack": 5.0,
+      "Effekt": 4.0,
+      "Gesamt": 4.8
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Holz",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "GE",
+        "name": "Germacrene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Vasco-PR-PT.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:50.282979",
+    "url": "https://medcanonestop.com/medcan_product/vasco-pr/",
+    "image_path": "images\\Vasco-PR-PT.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "MGF UP",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Unicorn Pop",
+      "Herkunft": "Portugal",
+      "Importeur": "Tweed",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.9,
+      "Aroma": 4.5,
+      "Geschmack": 4.4,
+      "Effekt": 4.8,
+      "Gesamt": 4.7
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:08.580763",
+    "url": "https://medcanonestop.com/medcan_product/mgf-up/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

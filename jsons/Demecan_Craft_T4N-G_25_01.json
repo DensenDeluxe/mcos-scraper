@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Demecan Craft T4N-G 25:01",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Banjo",
+      "Herkunft": "Kanada",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.95,
+      "max": 16.42
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.5,
+      "Geschmack": 4.2,
+      "Effekt": 4.5,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Bronchienerweiternd",
+      "Entzündungshemmend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/09/Blutenfoto_DEMECAN_Craft-T4N-G_01.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:42.831345",
+    "url": "https://medcanonestop.com/medcan_product/demecan-craft-t4n-g-2501-banjo/",
+    "image_path": "images\\Blutenfoto_DEMECAN_Craft-T4N-G_01.png"
+  }
+]

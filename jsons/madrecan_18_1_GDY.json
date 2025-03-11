@@ -1,0 +1,67 @@
+[
+  {
+    "title": "madrecan 18/1 GDY",
+    "category": "Indica",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Granddaddy OG",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 4.98
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 4.0,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Kräuter",
+      "Pfeffer",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Schmerzstillend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/619.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:39.410961",
+    "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-granddaddy-og/",
+    "image_path": "images\\619.png"
+  }
+]

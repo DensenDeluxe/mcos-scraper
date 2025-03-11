@@ -1,0 +1,61 @@
+[
+  {
+    "title": "CNBS CPJ 31/1",
+    "category": "Indica",
+    "thc": 31.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cap Junky",
+      "Herkunft": "Kanada",
+      "Importeur": "Medical CNBS Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.5,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6760_21120_6733631406210_20241112_123643.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:02.241572",
+    "url": "https://medcanonestop.com/medcan_product/cnbs-cpj-31-1/",
+    "image_path": "images\\6760_21120_6733631406210_20241112_123643.png"
+  }
+]

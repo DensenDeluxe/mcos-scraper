@@ -1,0 +1,61 @@
+[
+  {
+    "title": "26/1 NICE C",
+    "category": "Indica",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cherry Pie",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.2,
+      "Geschmack": 4.3,
+      "Effekt": 4.0,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Beerig",
+      "Floral",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/CP_Dried_Freisteller.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:56.355999",
+    "url": "https://medcanonestop.com/medcan_product/26-1-nce-c-cherry-pie/",
+    "image_path": "images\\CP_Dried_Freisteller.png"
+  }
+]

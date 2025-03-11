@@ -1,0 +1,74 @@
+[
+  {
+    "title": "BOTANICS Purple Cream 22/1",
+    "category": "Hybrid",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Ice Water",
+      "Herkunft": "Tschechien",
+      "Importeur": "Nimbus Health",
+      "Anbauer": "SensiQure"
+    },
+    "price": {
+      "min": 8.47,
+      "max": 11.9
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.1,
+      "Geschmack": 4.0,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "LI",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Purple-Cream-221.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:08.634670",
+    "url": "https://medcanonestop.com/medcan_product/botanics-purple-cream-22-1-purple-ice-water/",
+    "image_path": "images\\Purple-Cream-221.png"
+  }
+]

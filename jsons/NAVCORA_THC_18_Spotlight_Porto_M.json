@@ -1,0 +1,58 @@
+[
+  {
+    "title": "NAVCORA THC 18 Spotlight Porto M",
+    "category": "Indica",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Mango",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.3,
+      "max": 13.19
+    },
+    "ratings": {
+      "Aussehen": 3.3,
+      "Aroma": 3.0,
+      "Geschmack": 3.1,
+      "Effekt": 2.9,
+      "Gesamt": 3.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:26.758427",
+    "url": "https://medcanonestop.com/medcan_product/navcora-thc-18-spotlight-porto-mango/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

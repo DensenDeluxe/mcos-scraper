@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Zoiks 22/1 CHZ",
+    "category": "Sativa",
+    "thc": 21.3,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Colombian Haze",
+      "Herkunft": "Kolumbien",
+      "Importeur": "avaay Medical",
+      "Anbauer": "Clever Leavs"
+    },
+    "price": {
+      "min": 5.5,
+      "max": 6.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.9,
+      "Geschmack": 3.6,
+      "Effekt": 4.1,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/ZOIKS-Colombian-Haze-Cannabis-Flower.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:44.807871",
+    "url": "https://medcanonestop.com/medcan_product/zoiks-22-1-chz/",
+    "image_path": "images\\ZOIKS-Colombian-Haze-Cannabis-Flower.png"
+  }
+]

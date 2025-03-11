@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cannamedical Indica forte NM KK",
+    "category": "Indica",
+    "thc": 22.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Kerosene Krash",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.4,
+      "Geschmack": 4.2,
+      "Effekt": 4.6,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Kreativ",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Energieanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/Kerosene-Krash-1.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:06.798090",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-nm-kerosene-krash/",
+    "image_path": "images\\Kerosene-Krash-1.jpg"
+  }
+]

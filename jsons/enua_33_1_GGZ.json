@@ -1,0 +1,69 @@
+[
+  {
+    "title": "enua 33/1 GGZ",
+    "category": "Hybrid",
+    "thc": 33.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gogurtz",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.95,
+      "max": 11.85
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.5,
+      "Geschmack": 4.4,
+      "Effekt": 4.6,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Diesel",
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/enua_Freisteller_GGZ-2.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:11.629209",
+    "url": "https://medcanonestop.com/medcan_product/enua-30-1-ggz/",
+    "image_path": "images\\enua_Freisteller_GGZ-2.png"
+  }
+]

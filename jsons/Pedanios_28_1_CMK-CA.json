@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Pedanios 28/1 CMK-CA",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Chemango Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.98,
+      "max": 15.23
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.4,
+      "Geschmack": 4.4,
+      "Effekt": 4.4,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Pedanios_31-28_1_CMK-CA_Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:18.474388",
+    "url": "https://medcanonestop.com/medcan_product/pedanios-28-1-cmk-ca/",
+    "image_path": "images\\Pedanios_31-28_1_CMK-CA_Bluete.png"
+  }
+]

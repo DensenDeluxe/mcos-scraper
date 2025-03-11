@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Cannamedical Indica forte MA Crazy Rntz",
+    "category": "Indica",
+    "thc": 23.6,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Crazy Rntz",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.99,
+      "max": 21.42
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.1,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Kräuter",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Crazy-Rntz.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:57.790659",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-crazy-rntz/",
+    "image_path": "images\\Crazy-Rntz.png"
+  }
+]

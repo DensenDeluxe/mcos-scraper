@@ -1,0 +1,67 @@
+[
+  {
+    "title": "aleph amber 20/1",
+    "category": "Hybrid",
+    "thc": 18.3,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mango Kush",
+      "Herkunft": "Portugal",
+      "Importeur": "alephSana",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 8.23
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.9,
+      "Geschmack": 3.9,
+      "Effekt": 3.8,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-amber.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:09.075926",
+    "url": "https://medcanonestop.com/medcan_product/aleph-amber-20-1/",
+    "image_path": "images\\aleph-amber.png"
+  }
+]

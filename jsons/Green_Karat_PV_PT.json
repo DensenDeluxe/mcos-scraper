@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Green Karat PV PT",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pavé S1",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Green Karat"
+    },
+    "price": {
+      "min": 9.8,
+      "max": 10.35
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Menthol",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/Green-Karat-PV-Pave-S1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:25.520575",
+    "url": "https://medcanonestop.com/medcan_product/green-karat-pv-pt/",
+    "image_path": "images\\Green-Karat-PV-Pave-S1.png"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Remexian 30/1 HCC BMS",
+    "category": "Hybrid",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Mountain Side",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.89,
+      "max": 10.94
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.6,
+      "Geschmack": 3.7,
+      "Effekt": 3.9,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7632.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:31.092816",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-hcc-bms/",
+    "image_path": "images\\7632.png"
+  }
+]

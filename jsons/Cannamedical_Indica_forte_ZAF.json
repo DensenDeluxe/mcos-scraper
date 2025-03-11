@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Cannamedical Indica forte ZAF",
+    "category": "Indica",
+    "thc": 22.7,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Cherry Punch",
+      "Herkunft": "",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.3,
+      "Geschmack": 4.4,
+      "Effekt": 4.1,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/4923.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:43.638462",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-zaf/",
+    "image_path": "images\\4923.png"
+  }
+]

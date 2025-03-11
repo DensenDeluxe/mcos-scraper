@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Wellford Aquaponic 26/1 BOC",
+    "category": "Sativa",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Bozy's Cure",
+      "Herkunft": "Kanada",
+      "Importeur": "Therismos",
+      "Anbauer": "Aqualitas"
+    },
+    "price": {
+      "min": 10.2,
+      "max": 15.95
+    },
+    "ratings": {},
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:24.812957",
+    "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-boc/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

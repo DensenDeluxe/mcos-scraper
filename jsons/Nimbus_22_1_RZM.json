@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Nimbus 22/1 RZM",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Runtz Mintz",
+      "Herkunft": "Kanada",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.2,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "NE",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "NE",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Appetitanregend",
+      "Energieanregend",
+      "Entzündungshemmend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/672.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:43.819229",
+    "url": "https://medcanonestop.com/medcan_product/nimbus-22-1-rzm-runtz-mintz/",
+    "image_path": "images\\672.png"
+  }
+]

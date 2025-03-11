@@ -1,0 +1,63 @@
+[
+  {
+    "title": "KEjF. SMNZ 25/1",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "OG Kush Mint",
+      "Herkunft": "Kanada",
+      "Importeur": "Medical CNBS Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.1,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Gesprächig",
+      "Kreativ",
+      "Müde"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/713.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:01.386476",
+    "url": "https://medcanonestop.com/medcan_product/kejf-smnz-25-1-siggis-minze/",
+    "image_path": "images\\713.png"
+  }
+]

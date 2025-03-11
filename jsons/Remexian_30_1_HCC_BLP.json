@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Remexian 30/1 HCC BLP",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Blue Pavé",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.99,
+      "max": 10.8
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.2,
+      "Geschmack": 4.4,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7622.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:49.569954",
+    "url": "https://medcanonestop.com/medcan_product/remexian-30-1-hcc-blp/",
+    "image_path": "images\\7622.png"
+  }
+]

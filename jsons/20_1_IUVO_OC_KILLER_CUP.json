@@ -1,0 +1,64 @@
+[
+  {
+    "title": "20/1 IUVO OC KILLER CUP",
+    "category": "Hybrid",
+    "thc": 21.4,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Killer Cupcake",
+      "Herkunft": "Kanada",
+      "Importeur": "IUVO Therapeutics",
+      "Anbauer": "Organnicraft"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "TR",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/03/Killer_Cupcake_flower.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:20.250611",
+    "url": "https://medcanonestop.com/medcan_product/20-1-iuvo-oc-killer-cup/",
+    "image_path": "images\\Killer_Cupcake_flower.png"
+  }
+]

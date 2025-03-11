@@ -1,0 +1,59 @@
+[
+  {
+    "title": "CM 24/1 OG Kush",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "OG Kush",
+      "Herkunft": "",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.42,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5875.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:09.107243",
+    "url": "https://medcanonestop.com/medcan_product/cm-24-1-og-kush/",
+    "image_path": "images\\5875.png"
+  }
+]

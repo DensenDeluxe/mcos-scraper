@@ -1,0 +1,76 @@
+[
+  {
+    "title": "TILRAY THC18 Spotlight Porto JG",
+    "category": "Hybrid",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Jean Guy",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.98,
+      "max": 13.19
+    },
+    "ratings": {
+      "Aussehen": 3.0,
+      "Aroma": 3.3,
+      "Geschmack": 2.5,
+      "Effekt": 4.0,
+      "Gesamt": 3.2
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Beerig",
+      "Erdig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "TE",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "TE",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:57.011892",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-jean-guy/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

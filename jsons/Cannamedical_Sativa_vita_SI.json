@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Cannamedical Sativa vita SI",
+    "category": "Sativa",
+    "thc": 14.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Strawberry Ice",
+      "Herkunft": "",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.15,
+      "max": 15.29
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.0,
+      "Geschmack": 3.6,
+      "Effekt": 4.2,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6765.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:03.866703",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-vita-si/",
+    "image_path": "images\\6765.png"
+  }
+]

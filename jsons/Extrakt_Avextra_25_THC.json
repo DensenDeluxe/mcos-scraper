@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Extrakt Avextra 25 THC",
+    "category": "",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "Soxhlet",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "",
+      "Hersteller": "Avextra Pharma"
+    },
+    "price": {
+      "min": 5.2,
+      "max": 8.96
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.5,
+      "Geschmack": 4.7,
+      "Effekt": 4.0,
+      "Gesamt": 4.5
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:11.311454",
+    "url": "https://medcanonestop.com/medcan_product/avextra-25-thc/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

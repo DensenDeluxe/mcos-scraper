@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Canopy OGD 25",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "OG Deluxe",
+      "Herkunft": "Kanada",
+      "Importeur": "CanopyMedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.69,
+      "max": 9.9
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Holz",
+      "Kräuter",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "B",
+        "name": "B-Caryophyllene"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/164.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:58.311337",
+    "url": "https://medcanonestop.com/medcan_product/canopy-ogd-25-1-og-deluxe/",
+    "image_path": "images\\164.png"
+  }
+]

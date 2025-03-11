@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Bediol",
+    "category": "Sativa",
+    "thc": 6.3,
+    "cbd": 8.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Elida",
+      "Herkunft": "Niederlande",
+      "Importeur": "Bedrocan",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 10.12,
+      "max": 21.42
+    },
+    "ratings": {
+      "Aussehen": 2.0,
+      "Aroma": 2.0,
+      "Geschmack": 2.0,
+      "Effekt": 1.0,
+      "Gesamt": 1.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-2-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:05.465767",
+    "url": "https://medcanonestop.com/medcan_product/bediol/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

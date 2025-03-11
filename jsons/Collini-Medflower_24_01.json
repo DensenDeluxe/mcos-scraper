@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Collini-Medflower 24:01",
+    "category": "Indica",
+    "thc": 24.0,
+    "cbd": 0.3,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Amber",
+      "Herkunft": "Kanada",
+      "Importeur": "Collini-Medflower",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.0,
+      "Geschmack": 3.5,
+      "Effekt": 3.5,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:41.564144",
+    "url": "https://medcanonestop.com/medcan_product/collini-medflower-2401/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

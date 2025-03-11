@@ -1,0 +1,62 @@
+[
+  {
+    "title": "NICE 17/1 KC",
+    "category": "Indica",
+    "thc": 17.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "LA Kush Cake",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.95,
+      "max": 7.0
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image003-1-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:31.999037",
+    "url": "https://medcanonestop.com/medcan_product/nice-17-1-kc/",
+    "image_path": "images\\image003-1-1.png"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "title": "All Nations FG 25/1",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Frosted Gelato",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "All Nations"
+    },
+    "price": {
+      "min": 8.48,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7928_.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:09.385345",
+    "url": "https://medcanonestop.com/medcan_product/all-nations-fg-25-1/",
+    "image_path": "images\\7928_.png"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "enua 22/1 JFG CA",
+    "category": "Hybrid",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Jet Fuel Gelato",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.45,
+      "max": 8.9
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Cremig",
+      "Diesel",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Kopfschmerzstillend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/686.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:13.547050",
+    "url": "https://medcanonestop.com/medcan_product/enua-22-1-jfg-ca-jet-fuel-gelato/",
+    "image_path": "images\\686.png"
+  }
+]

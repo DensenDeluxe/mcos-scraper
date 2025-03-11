@@ -1,0 +1,67 @@
+[
+  {
+    "title": "IMC THC22 T06 BR",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Black Russian",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.88,
+      "max": 9.98
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.7,
+      "Geschmack": 3.7,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/2638.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:20.156649",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc22-t06-black-russian/",
+    "image_path": "images\\2638.png"
+  }
+]

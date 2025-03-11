@@ -1,0 +1,56 @@
+[
+  {
+    "title": "20/1 IUVO OC LAZER FUEL",
+    "category": "Hybrid",
+    "thc": 21.3,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Lazer Fuel",
+      "Herkunft": "Kanada",
+      "Importeur": "IUVO Therapeutics",
+      "Anbauer": "Organnicraft"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/03/MintCannabis-LazerFuel7g-Budshot_01.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:51.471129",
+    "url": "https://medcanonestop.com/medcan_product/20-1-iuvo-oc-lazer-fuel/",
+    "image_path": "images\\MintCannabis-LazerFuel7g-Budshot_01.png"
+  }
+]

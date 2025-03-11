@@ -1,0 +1,64 @@
+[
+  {
+    "title": "All Nations PE 25/1",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pineapple Express",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "All Nations"
+    },
+    "price": {
+      "min": 8.79,
+      "max": 9.99
+    },
+    "ratings": {},
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Diesel",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "LI",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:35.391431",
+    "url": "https://medcanonestop.com/medcan_product/all-nations-pe-25-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

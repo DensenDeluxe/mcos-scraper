@@ -1,0 +1,68 @@
+[
+  {
+    "title": "GM Colour of Space 26:01",
+    "category": "Indica",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Apple Fritter x Purple Punch",
+      "Herkunft": "Südafrika",
+      "Importeur": "German Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.43,
+      "max": 10.95
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.4,
+      "Geschmack": 4.4,
+      "Effekt": 4.4,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Gesprächig",
+      "Kreativ",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/813.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:16.721112",
+    "url": "https://medcanonestop.com/medcan_product/gm-colour-of-space-26-1-apple-fritters-purple-punch/",
+    "image_path": "images\\813.png"
+  }
+]

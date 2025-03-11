@@ -1,0 +1,66 @@
+[
+  {
+    "title": "BOTANICS Tonic Fuel 22/1",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gary Payton",
+      "Herkunft": "Tschechien",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 10.5
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.3,
+      "Geschmack": 4.1,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/Tonic-Fuel-221-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:42.048411",
+    "url": "https://medcanonestop.com/medcan_product/botanics-tonic-fuel-22-1/",
+    "image_path": "images\\Tonic-Fuel-221-1.png"
+  }
+]

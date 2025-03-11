@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Remexian 24/1 VLI",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Vanilla Ice",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.5
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Cremig",
+      "Kräuter",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5853.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:31.555704",
+    "url": "https://medcanonestop.com/medcan_product/remexian-24-1-vli/",
+    "image_path": "images\\5853.png"
+  }
+]

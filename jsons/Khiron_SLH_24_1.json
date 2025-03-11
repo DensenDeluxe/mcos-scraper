@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Khiron SLH 24/1",
+    "category": "Sativa",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Super Lemon Haze",
+      "Herkunft": "Portugal",
+      "Importeur": "KHIRON",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.89,
+      "max": 12.61
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/KHIRON-SLH-24-1-Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:06.435524",
+    "url": "https://medcanonestop.com/medcan_product/khiron-slh-24-1-super-lemon-haze/",
+    "image_path": "images\\KHIRON-SLH-24-1-Bluete.png"
+  }
+]

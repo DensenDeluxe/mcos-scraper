@@ -1,0 +1,73 @@
+[
+  {
+    "title": "IMC THC22 T02",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "OG Kush",
+      "Herkunft": "Spanien",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.95,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 4.2,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "EU",
+        "name": "Eucalyptol"
+      },
+      {
+        "code": "α",
+        "name": "α-Cedren"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/303.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:37.674491",
+    "url": "https://medcanonestop.com/medcan_product/imc-thc22-t02-og-kush/",
+    "image_path": "images\\303.png"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "title": "enua 22/1 ABG CA",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Sweets",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.39,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.1,
+      "Geschmack": 3.9,
+      "Effekt": 4.1,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Ocimem"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3808.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:45.931747",
+    "url": "https://medcanonestop.com/medcan_product/enua-22-1-abg-ca/",
+    "image_path": "images\\3808.png"
+  }
+]

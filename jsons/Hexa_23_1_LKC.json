@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Hexa 23/1 LKC",
+    "category": "Hybrid",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "LA Kush Cake",
+      "Herkunft": "",
+      "Importeur": "",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 7.2
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.1,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7759.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:24.066386",
+    "url": "https://medcanonestop.com/medcan_product/hexa-23-1-lkc/",
+    "image_path": "images\\7759.png"
+  }
+]

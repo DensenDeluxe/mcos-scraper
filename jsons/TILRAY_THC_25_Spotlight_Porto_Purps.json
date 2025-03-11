@@ -1,0 +1,80 @@
+[
+  {
+    "title": "TILRAY THC 25 Spotlight Porto Purps",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Purps",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.99,
+      "max": 16.99
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 4.1,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "MY",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "MY",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "MY",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:14.629533",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc25-spotlight-porto-purps/",
+    "image_path": "images\\627.png"
+  }
+]

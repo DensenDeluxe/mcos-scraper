@@ -1,0 +1,64 @@
+[
+  {
+    "title": "IMC GPI THC 26",
+    "category": "Hybrid",
+    "thc": 25.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Grapple Pie",
+      "Herkunft": "Israel",
+      "Importeur": "IMCannabis",
+      "Anbauer": "My Green Fields Ltd."
+    },
+    "price": {
+      "min": 6.95,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6559.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:55.631310",
+    "url": "https://medcanonestop.com/medcan_product/imc-gpi-thc-26/",
+    "image_path": "images\\6559.png"
+  }
+]

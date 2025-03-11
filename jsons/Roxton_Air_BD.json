@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Roxton Air BD",
+    "category": "Indica",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Flap Jacks",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Roxton Air"
+    },
+    "price": {
+      "min": 7.99,
+      "max": 9.98
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.1,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7702.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:44.927443",
+    "url": "https://medcanonestop.com/medcan_product/roxton-air-bd/",
+    "image_path": "images\\7702.png"
+  }
+]

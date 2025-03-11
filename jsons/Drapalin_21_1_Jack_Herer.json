@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Drapalin 21/1 Jack Herer",
+    "category": "Sativa",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Jack Herer",
+      "Herkunft": "Tschechien",
+      "Importeur": "DRAPALIN Pharmaceuticals",
+      "Anbauer": "Lagom Pharmatech"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.8,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Aktiv",
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Krampflösend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Drapalin_JackHerer.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:17.373366",
+    "url": "https://medcanonestop.com/medcan_product/drapalin-21-1-jack-herer/",
+    "image_path": "images\\Drapalin_JackHerer.png"
+  }
+]

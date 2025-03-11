@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Demecan CRAFT FCF 31:01",
+    "category": "Indica",
+    "thc": 31.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "First Class Funk",
+      "Herkunft": "Kanada",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 12.5,
+      "max": 20.47
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.2,
+      "Geschmack": 4.0,
+      "Effekt": 4.5,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Gesprächig",
+      "Kreativ",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinene"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Bronchienerweiternd",
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Blutenfoto_DEMECAN_Craft-FCF-020YLqFYtMMHJ4g.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:28.509550",
+    "url": "https://medcanonestop.com/medcan_product/demecan-craft-fcf-3101-first-class-funk/",
+    "image_path": "images\\Blutenfoto_DEMECAN_Craft-FCF-020YLqFYtMMHJ4g.png"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "enua 27/1 ATG CA",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Atlantic Glue 4",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.0
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 3.8,
+      "Geschmack": 3.6,
+      "Effekt": 4.2,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2691.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:45.059867",
+    "url": "https://medcanonestop.com/medcan_product/enua-27-1-atg-atlantic-glue-gg4/",
+    "image_path": "images\\2691.png"
+  }
+]

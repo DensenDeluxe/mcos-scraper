@@ -1,0 +1,54 @@
+[
+  {
+    "title": "MGF CD 22/1",
+    "category": "Hybrid",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cherry Dosidos",
+      "Herkunft": "Portugal",
+      "Importeur": "MGF Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 7.15
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:35.011329",
+    "url": "https://medcanonestop.com/medcan_product/mgf-cd-22-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

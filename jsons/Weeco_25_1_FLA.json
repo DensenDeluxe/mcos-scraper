@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Weeco 25/1 FLA",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Frosted Lemon Angel",
+      "Herkunft": "Dänemark",
+      "Importeur": "WEECO Pharma",
+      "Anbauer": "Schroll Medical"
+    },
+    "price": {
+      "min": 5.8,
+      "max": 11.66
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.8,
+      "Geschmack": 4.1,
+      "Effekt": 4.0,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Kräuter",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Geranylacetat"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Krampflösend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/489.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:06.033944",
+    "url": "https://medcanonestop.com/medcan_product/weeco-25-1-frosted-lemon-angel/",
+    "image_path": "images\\489.png"
+  }
+]

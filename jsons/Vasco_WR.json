@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Vasco WR",
+    "category": "Indica",
+    "thc": 20.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "White Runtz",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Vasco"
+    },
+    "price": {
+      "min": 8.4,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "GE",
+        "name": "Germacrene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Vasco-WR-White-Runtz.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:37.601803",
+    "url": "https://medcanonestop.com/medcan_product/vasco-wr/",
+    "image_path": "images\\Vasco-WR-White-Runtz.png"
+  }
+]

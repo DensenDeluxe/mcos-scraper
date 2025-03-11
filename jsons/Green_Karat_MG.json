@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Green Karat MG",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 0.1,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Modified Gas",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Green Karat"
+    },
+    "price": {
+      "min": 8.6,
+      "max": 11.9
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.2,
+      "Geschmack": 4.0,
+      "Effekt": 4.2,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Kräuter",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Krampflösend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/08/Green-Karat-MG-PT.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:52.614846",
+    "url": "https://medcanonestop.com/medcan_product/green-karat-mg-modified-gas/",
+    "image_path": "images\\Green-Karat-MG-PT.png"
+  }
+]

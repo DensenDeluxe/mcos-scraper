@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Remexian 14/1 WW",
+    "category": "Sativa",
+    "thc": 14.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "White Widow",
+      "Herkunft": "Dänemark",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.2,
+      "max": 15.29
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.5,
+      "Geschmack": 3.5,
+      "Effekt": 3.9,
+      "Gesamt": 3.7
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Kräuter",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antibakteriell",
+      "Entzündungshemmend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/805.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:17.114014",
+    "url": "https://medcanonestop.com/medcan_product/remexian-14-1-white-widow/",
+    "image_path": "images\\805.png"
+  }
+]

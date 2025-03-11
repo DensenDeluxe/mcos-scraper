@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Pedanios 10/10 EQI CA",
+    "category": "Indica",
+    "thc": 10.0,
+    "cbd": 10.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Equiposa",
+      "Herkunft": "Kanada",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": "Aurora Cannabis Enterprises Inc."
+    },
+    "price": {
+      "min": 6.69,
+      "max": 16.42
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/12/Pedanios-10_10-EQI-CA_Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:37.205673",
+    "url": "https://medcanonestop.com/medcan_product/pedanios-10-10-eqi-ca-equiposa/",
+    "image_path": "images\\Pedanios-10_10-EQI-CA_Bluete.png"
+  }
+]

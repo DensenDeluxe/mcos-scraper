@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Remexian 27/1 LNL PUO",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Octane",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.97,
+      "max": 11.5
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.9,
+      "Geschmack": 3.7,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Aktiv",
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Beerig",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/7635.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:13.127725",
+    "url": "https://medcanonestop.com/medcan_product/remexian-27-1-lnl-puo/",
+    "image_path": "images\\7635.png"
+  }
+]

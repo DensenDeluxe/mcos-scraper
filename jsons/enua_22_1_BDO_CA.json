@@ -1,0 +1,69 @@
+[
+  {
+    "title": "enua 22/1 BDO CA",
+    "category": "Indica",
+    "thc": 21.56,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Dolato",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.49,
+      "max": 7.95
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 3.7,
+      "Geschmack": 3.6,
+      "Effekt": 4.0,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/BlackDolato.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:47.304344",
+    "url": "https://medcanonestop.com/medcan_product/enua-22-1-bdo-ca/",
+    "image_path": "images\\BlackDolato.png"
+  }
+]

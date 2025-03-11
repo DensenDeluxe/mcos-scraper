@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Tilray THC18 Spotlight Porto GSC",
+    "category": "Indica",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Girl Scout Cookies",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 6.99
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 4.5,
+      "Geschmack": 5.0,
+      "Effekt": 4.5,
+      "Gesamt": 4.8
+    },
+    "effects": [
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Beerig",
+      "Erdig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/776.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:59.245295",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gsc/",
+    "image_path": "images\\776.png"
+  }
+]

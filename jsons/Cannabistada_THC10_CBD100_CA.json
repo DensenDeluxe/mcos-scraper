@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Cannabistada THC10/CBD100 CA",
+    "category": "Hybrid",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "Kanada",
+      "Hersteller": "STADA"
+    },
+    "price": {
+      "min": 38.78,
+      "max": 62.05
+    },
+    "ratings": {},
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:50.685223",
+    "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd100-ca/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

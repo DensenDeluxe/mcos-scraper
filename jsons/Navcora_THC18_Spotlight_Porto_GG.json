@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Navcora THC18 Spotlight Porto GG",
+    "category": "Hybrid",
+    "thc": 16.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gorilla Glue",
+      "Herkunft": "",
+      "Importeur": "Navcora",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.39,
+      "max": 8.31
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 3.1,
+      "Geschmack": 3.4,
+      "Effekt": 3.7,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3436.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:28.285392",
+    "url": "https://medcanonestop.com/medcan_product/navcora-thc18-spotlight-porto-gg/",
+    "image_path": "images\\3436.png"
+  }
+]

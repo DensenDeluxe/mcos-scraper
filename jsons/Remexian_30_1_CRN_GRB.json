@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Remexian 30/1 CRN GRB",
+    "category": "Indica",
+    "thc": 32.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Garlic Breath",
+      "Herkunft": "Kanada",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.05,
+      "max": 11.4
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 4.8,
+      "Geschmack": 4.8,
+      "Effekt": 5.0,
+      "Gesamt": 4.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:53.838528",
+    "url": "https://medcanonestop.com/medcan_product/remexian-30-1-crn-grb/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

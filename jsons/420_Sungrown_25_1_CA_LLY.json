@@ -1,0 +1,63 @@
+[
+  {
+    "title": "420 Sungrown 25/1 CA LLY",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Legendary Larry",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.35,
+      "max": 13.57
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.5,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Krampflösend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Sungrown_Legendary-Larry_LLY.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:08.704822",
+    "url": "https://medcanonestop.com/medcan_product/420-sungrown-25-1-ca-lly/",
+    "image_path": "images\\Four20_Sungrown_Legendary-Larry_LLY.png"
+  }
+]

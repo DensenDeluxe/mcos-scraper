@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Cannamedical Hybrid light NM CJ",
+    "category": "Hybrid",
+    "thc": 17.4,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Casey Jones",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.4,
+      "Geschmack": 4.4,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Casey-Jones-1.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:26.739925",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-light-nm-casey-jones/",
+    "image_path": "images\\Casey-Jones-1.jpg"
+  }
+]

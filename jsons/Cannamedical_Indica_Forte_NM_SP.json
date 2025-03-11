@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Cannamedical Indica Forte NM SP",
+    "category": "Indica",
+    "thc": 23.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Sugar Bomb Punch",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 11.5
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.8,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Beerig",
+      "Erdig",
+      "Floral",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Sugar-Bomb-Punch.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:32.671887",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-nm-sp/",
+    "image_path": "images\\Sugar-Bomb-Punch.png"
+  }
+]

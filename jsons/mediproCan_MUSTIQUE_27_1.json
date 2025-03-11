@@ -1,0 +1,63 @@
+[
+  {
+    "title": "mediproCan MUSTIQUE 27/1",
+    "category": "Sativa",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Think Fast",
+      "Herkunft": "Portugal",
+      "Importeur": "mediproCan Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Mustique-Think-Fast.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:47.430282",
+    "url": "https://medcanonestop.com/medcan_product/mediprocan-mustique-27-1/",
+    "image_path": "images\\Mustique-Think-Fast.png"
+  }
+]

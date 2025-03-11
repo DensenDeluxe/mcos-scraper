@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Pedanios 27/1 FRG CA",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Farm Gas",
+      "Herkunft": "Kanada",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": "Aurora Cannabis Enterprises Inc."
+    },
+    "price": {
+      "min": 7.89,
+      "max": 16.42
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.9,
+      "Geschmack": 4.1,
+      "Effekt": 4.1,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Pedanios-29_1-FRG-CA_Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:56.558334",
+    "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-farm-gas-frg/",
+    "image_path": "images\\Pedanios-29_1-FRG-CA_Bluete.png"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "avaay 32/1 AHC",
+    "category": "Sativa",
+    "thc": 32.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Amnesia Haze Cake",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 10.35,
+      "max": 13.0
+    },
+    "ratings": {
+      "Aussehen": 4.8,
+      "Aroma": 4.6,
+      "Geschmack": 4.6,
+      "Effekt": 4.8,
+      "Gesamt": 4.7
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Germacrene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/AHC_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:23.779416",
+    "url": "https://medcanonestop.com/medcan_product/avaay-32-1-ahc/",
+    "image_path": "images\\AHC_bud.png"
+  }
+]

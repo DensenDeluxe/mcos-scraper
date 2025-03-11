@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Remexian 22/1 GG4 Mini",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gorilla Glue",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "BI",
+        "name": "Bisabolol"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4419.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:51.452200",
+    "url": "https://medcanonestop.com/medcan_product/remexian-22-1-gg4-mini/",
+    "image_path": "images\\4419.png"
+  }
+]

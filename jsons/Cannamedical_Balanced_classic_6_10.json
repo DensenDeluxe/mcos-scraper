@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Cannamedical Balanced classic 6/10",
+    "category": "Hybrid",
+    "thc": 6.3,
+    "cbd": 9.5,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "California Orange",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.99
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 4.2,
+      "Geschmack": 3.5,
+      "Effekt": 4.0,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Holz",
+      "Kräuter",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/Cali-O.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:25.097122",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-classic-6-10/",
+    "image_path": "images\\Cali-O.png"
+  }
+]

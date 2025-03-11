@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Remexian 25/1 FLC",
+    "category": "Hybrid",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Frosted Lemon Cake",
+      "Herkunft": "Dänemark",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.5,
+      "max": 9.5
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 3.7,
+      "Geschmack": 3.7,
+      "Effekt": 4.2,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Cremig",
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Menthol"
+    ],
+    "terpenes": [
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antibakteriell",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/486.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:34.345287",
+    "url": "https://medcanonestop.com/medcan_product/remexian-25-1-frosted-lemon-cake/",
+    "image_path": "images\\486.png"
+  }
+]

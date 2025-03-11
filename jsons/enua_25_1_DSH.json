@@ -1,0 +1,70 @@
+[
+  {
+    "title": "enua 25/1 DSH",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Dark Shadow Haze",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.45,
+      "max": 11.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Ocimem"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3528.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:20.682715",
+    "url": "https://medcanonestop.com/medcan_product/enua-25-1-dsh/",
+    "image_path": "images\\3528.png"
+  }
+]

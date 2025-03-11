@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Therismos 25/1 BRB",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Bruce Banner",
+      "Herkunft": "Kanada",
+      "Importeur": "Therismos",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.0,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Holz"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Energieanregend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3705.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:52.095293",
+    "url": "https://medcanonestop.com/medcan_product/therismos-25-1-brb-bruce-banner/",
+    "image_path": "images\\3705.png"
+  }
+]

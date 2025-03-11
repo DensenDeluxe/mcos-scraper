@@ -1,0 +1,63 @@
+[
+  {
+    "title": "avaay Signature 23/1 CR",
+    "category": "Sativa",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Crescendo Cookies",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 13.35
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "SE",
+        "name": "Selinadiene"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/CRE_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:11.008662",
+    "url": "https://medcanonestop.com/medcan_product/avaay-signature-23-1-cr-crescendo/",
+    "image_path": "images\\CRE_bud.png"
+  }
+]

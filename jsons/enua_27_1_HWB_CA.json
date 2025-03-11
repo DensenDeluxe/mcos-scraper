@@ -1,0 +1,51 @@
+[
+  {
+    "title": "enua 27/1 HWB CA",
+    "category": "Sativa",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Head with Bang",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/HippieHeadbanger.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:48.201947",
+    "url": "https://medcanonestop.com/medcan_product/enua-27-1-hwb-ca/",
+    "image_path": "images\\HippieHeadbanger.png"
+  }
+]

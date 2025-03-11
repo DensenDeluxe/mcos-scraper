@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Wellford 23/1 PIK",
+    "category": "Indica",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pink Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "Therismos",
+      "Anbauer": "Aqualitas"
+    },
+    "price": {
+      "min": 6.84,
+      "max": 11.49
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.2,
+      "Geschmack": 3.9,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/23_1_PIK-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:19.728284",
+    "url": "https://medcanonestop.com/medcan_product/wellford-23-1-pik/",
+    "image_path": "images\\23_1_PIK-1.png"
+  }
+]

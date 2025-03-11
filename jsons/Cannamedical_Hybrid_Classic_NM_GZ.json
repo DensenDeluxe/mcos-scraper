@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Cannamedical Hybrid Classic NM GZ",
+    "category": "Hybrid",
+    "thc": 20.8,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gorilla Zkittlez",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.8,
+      "max": 19.04
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Angeregt",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Muskelentspannend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gorilla-Zkittlez.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:00.395441",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-nm-gorilla-zkittlez/",
+    "image_path": "images\\Gorilla-Zkittlez.png"
+  }
+]

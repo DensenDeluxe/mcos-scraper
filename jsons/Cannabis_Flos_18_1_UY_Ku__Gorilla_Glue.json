@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cannabis Flos 18/1 UY Ku. Gorilla Glue",
+    "category": "Hybrid",
+    "thc": 18.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gorilla Glue",
+      "Herkunft": "Uruguay",
+      "Importeur": "Canify",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 10.79
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 3.7,
+      "Geschmack": 3.7,
+      "Effekt": 4.0,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "B",
+        "name": "B-Caryophyllene"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "NE",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "NE",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Gorilla-Glue-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:07.345324",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-18-1-uy-ku-gorilla-glue/",
+    "image_path": "images\\Gorilla-Glue-1.png"
+  }
+]

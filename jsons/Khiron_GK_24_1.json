@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Khiron GK 24/1",
+    "category": "Hybrid",
+    "thc": 24.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Green Knight",
+      "Herkunft": "Jersey",
+      "Importeur": "KHIRON",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.8,
+      "max": 10.0
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.4,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/KHIRON-GK-24-1-Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:31.894120",
+    "url": "https://medcanonestop.com/medcan_product/khiron-gk-24-1/",
+    "image_path": "images\\KHIRON-GK-24-1-Bluete.png"
+  }
+]

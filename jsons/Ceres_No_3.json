@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Ceres No.3",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Space Dust",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Plantations Cérès"
+    },
+    "price": {
+      "min": 8.69,
+      "max": 10.49
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Entspannt"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "B",
+        "name": "B-Caryophyllene"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3113.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:40.897409",
+    "url": "https://medcanonestop.com/medcan_product/ceres-no-3/",
+    "image_path": "images\\3113.png"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Therismos 30/1 QSG",
+    "category": "Sativa",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Queen Sangria",
+      "Herkunft": "Kanada",
+      "Importeur": "Therismos",
+      "Anbauer": "Aqualitas"
+    },
+    "price": {
+      "min": 9.99,
+      "max": 12.35
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.5,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Fröhlich",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/30_1_QSG-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:03.488016",
+    "url": "https://medcanonestop.com/medcan_product/therismos-30-1-qsg/",
+    "image_path": "images\\30_1_QSG-1.png"
+  }
+]

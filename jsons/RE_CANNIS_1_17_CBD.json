@@ -1,0 +1,67 @@
+[
+  {
+    "title": "RE:CANNIS 1/17 CBD",
+    "category": "Sativa",
+    "thc": 1.0,
+    "cbd": 17.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Avidekel",
+      "Herkunft": "Israel",
+      "Importeur": "FETTE Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.0,
+      "Geschmack": 3.1,
+      "Effekt": 4.1,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Holz",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/3442.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:20.095289",
+    "url": "https://medcanonestop.com/medcan_product/recannis-1-17-cbd/",
+    "image_path": "images\\3442.png"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "title": "29/1 Amici WC",
+    "category": "Indica",
+    "thc": 29.0,
+    "cbd": 0.1,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wedding Cake",
+      "Herkunft": "Kanada",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.95,
+      "max": 12.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image007-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:55.638121",
+    "url": "https://medcanonestop.com/medcan_product/29-1-amici-wc/",
+    "image_path": "images\\image007-1.png"
+  }
+]

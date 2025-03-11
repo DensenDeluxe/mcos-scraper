@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Tilray THC 15 Spotlight Porto MK",
+    "category": "Indica",
+    "thc": 15.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Master Kush",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.99,
+      "max": 12.12
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4907.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:16.345282",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc-15-spotlight-porto-mk/",
+    "image_path": "images\\4907.png"
+  }
+]

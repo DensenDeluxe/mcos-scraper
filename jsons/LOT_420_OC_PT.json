@@ -1,0 +1,66 @@
+[
+  {
+    "title": "LOT 420 OC PT",
+    "category": "Hybrid",
+    "thc": 26.6,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Orange Cake",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "LOT 420"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.0,
+      "Aroma": 3.0,
+      "Geschmack": 3.5,
+      "Effekt": 3.5,
+      "Gesamt": 3.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/LOT-420-OC-Orange-Cake.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:05.028835",
+    "url": "https://medcanonestop.com/medcan_product/lot-420-oc-pt/",
+    "image_path": "images\\LOT-420-OC-Orange-Cake.jpg"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "title": "All Nations MD PT",
+    "category": "Hybrid",
+    "thc": 23.9,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mac Daddy",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.9,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.7,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/ALLNATIONS_MD-PT.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:23.623162",
+    "url": "https://medcanonestop.com/medcan_product/all-nations-md-pt/",
+    "image_path": "images\\ALLNATIONS_MD-PT.png"
+  }
+]

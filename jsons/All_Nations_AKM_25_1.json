@@ -1,0 +1,60 @@
+[
+  {
+    "title": "All Nations AKM 25/1",
+    "category": "Indica",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Alien Kush Mintz",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "All Nations"
+    },
+    "price": {
+      "min": 8.5,
+      "max": 9.99
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:53.059185",
+    "url": "https://medcanonestop.com/medcan_product/all-nations-akm-25-1/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

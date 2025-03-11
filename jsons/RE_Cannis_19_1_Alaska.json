@@ -1,0 +1,67 @@
+[
+  {
+    "title": "RE:Cannis 19/1 Alaska",
+    "category": "Sativa",
+    "thc": 19.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Alaska",
+      "Herkunft": "Israel",
+      "Importeur": "FETTE Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 5.99
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.3,
+      "Geschmack": 3.7,
+      "Effekt": 3.7,
+      "Gesamt": 3.7
+    },
+    "effects": [
+      "Aktiv",
+      "Gesprächig",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3444.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:57.061406",
+    "url": "https://medcanonestop.com/medcan_product/recannis-19-1-bereshit/",
+    "image_path": "images\\3444.png"
+  }
+]

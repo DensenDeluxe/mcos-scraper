@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Drapalin 27/1 Pink Gas",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Pink Gas",
+      "Herkunft": "Tschechien",
+      "Importeur": "DRAPALIN Pharmaceuticals",
+      "Anbauer": "Lagom Pharmatech"
+    },
+    "price": {
+      "min": 7.49,
+      "max": 10.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Drapalin_PinkGas.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:01.655177",
+    "url": "https://medcanonestop.com/medcan_product/drapalin-27-1-pink-gas/",
+    "image_path": "images\\Drapalin_PinkGas.png"
+  }
+]

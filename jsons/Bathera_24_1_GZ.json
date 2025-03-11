@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Bathera 24/1 GZ",
+    "category": "Indica",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato Zkittlez",
+      "Herkunft": "",
+      "Importeur": "",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend"
+    ],
+    "aroma": [
+      "Holz"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Camphen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:38.871908",
+    "url": "https://medcanonestop.com/medcan_product/bathera-24-1-gz/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Sinceritas Verum 24/1 Kush Mints",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Kush Mints",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Sinceritas GmbH",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.89,
+      "max": 13.09
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 4.0,
+      "Geschmack": 5.0,
+      "Effekt": 5.0,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:31.324872",
+    "url": "https://medcanonestop.com/medcan_product/sinceritas-verum-24-1-kush-mints/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

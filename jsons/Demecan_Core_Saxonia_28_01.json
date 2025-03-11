@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Demecan Core Saxonia 28:01",
+    "category": "Indica",
+    "thc": 27.3,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wedding Cake x Jet Fuel Gelato",
+      "Herkunft": "Deutschland",
+      "Importeur": "DEMECAN",
+      "Anbauer": "Demecan"
+    },
+    "price": {
+      "min": 8.99,
+      "max": 14.69
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.5,
+      "Geschmack": 4.5,
+      "Effekt": 4.7,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Wedding-Cake-X-Jet-Fuel-Gelato.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:29.532058",
+    "url": "https://medcanonestop.com/medcan_product/demecan-core-saxonia-2801/",
+    "image_path": "images\\Wedding-Cake-X-Jet-Fuel-Gelato.png"
+  }
+]

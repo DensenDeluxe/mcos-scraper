@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Adrex 10:10 Extrakt",
+    "category": "",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "CO2",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "Kanada",
+      "Hersteller": "ADREXpharma"
+    },
+    "price": {
+      "min": 3.97,
+      "max": 8.55
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 5.0,
+      "Gesamt": 4.5
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:53.500562",
+    "url": "https://medcanonestop.com/medcan_product/adrex-10-10/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

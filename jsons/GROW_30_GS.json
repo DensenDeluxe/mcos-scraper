@@ -1,0 +1,72 @@
+[
+  {
+    "title": "GROW 30 GS",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato Sherbert",
+      "Herkunft": "Kanada",
+      "Importeur": "Nimbus Health",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 17.85
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Menthol",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "HU",
+        "name": "Humulen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/4390.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:39.746952",
+    "url": "https://medcanonestop.com/medcan_product/grow-30-gs/",
+    "image_path": "images\\4390.png"
+  }
+]

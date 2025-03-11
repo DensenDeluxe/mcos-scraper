@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Drapalin 26/1 Oreoz",
+    "category": "Indica",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Oreoz",
+      "Herkunft": "Tschechien",
+      "Importeur": "DRAPALIN Pharmaceuticals",
+      "Anbauer": "Lagom Pharmatech"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.3,
+      "Geschmack": 4.2,
+      "Effekt": 4.4,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Nuss",
+      "Schokolade",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Drapalin_Oreoz-2.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:04.906261",
+    "url": "https://medcanonestop.com/medcan_product/drapalin-26-1-oreoz/",
+    "image_path": "images\\Drapalin_Oreoz-2.png"
+  }
+]

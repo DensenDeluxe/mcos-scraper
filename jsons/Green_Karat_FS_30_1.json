@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Green Karat FS 30/1",
+    "category": "Hybrid",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Fiji Sunset",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "Green Karat"
+    },
+    "price": {
+      "min": 10.2,
+      "max": 10.7
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "LI",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Green-Karat-FS-Fiji-Sunset.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:19.284145",
+    "url": "https://medcanonestop.com/medcan_product/green-karat-fs-30-1/",
+    "image_path": "images\\Green-Karat-FS-Fiji-Sunset.jpg"
+  }
+]

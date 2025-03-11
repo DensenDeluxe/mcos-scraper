@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Pure Sunfarms 20/1 PK",
+    "category": "Indica",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Pink Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "IUVO Therapeutics",
+      "Anbauer": "Pure Sunfarms"
+    },
+    "price": {
+      "value": 6.25
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "BI",
+        "name": "Bisabolol"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:21.898378",
+    "url": "https://medcanonestop.com/medcan_product/pure-sunfarms-20-1-pink-kush/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

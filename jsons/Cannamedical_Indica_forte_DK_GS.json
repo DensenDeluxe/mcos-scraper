@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Cannamedical Indica forte DK GS",
+    "category": "Indica",
+    "thc": 22.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelat Skyfloater",
+      "Herkunft": "Dänemark",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.98,
+      "max": 15.47
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.7,
+      "Geschmack": 3.3,
+      "Effekt": 3.7,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Gelat-Skyfloater.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:48.848436",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-dk-gs/",
+    "image_path": "images\\Gelat-Skyfloater.png"
+  }
+]

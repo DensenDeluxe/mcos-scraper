@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Bathera 28/1 Velvet Glove",
+    "category": "Sativa",
+    "thc": 29.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Velvet Glove",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.5
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FE",
+        "name": "Fenchol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Bathera-Velvet-Glove.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:36.112126",
+    "url": "https://medcanonestop.com/medcan_product/bathera-28-1-velvet-glove/",
+    "image_path": "images\\Bathera-Velvet-Glove.png"
+  }
+]

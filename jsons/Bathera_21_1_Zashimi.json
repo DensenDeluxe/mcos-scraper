@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Bathera 21/1 Zashimi",
+    "category": "Indica",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Zashimi",
+      "Herkunft": "Portugal",
+      "Importeur": "IUVO Therapeutics",
+      "Anbauer": "Bathera"
+    },
+    "price": {
+      "value": 6.95
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.7,
+      "Geschmack": 3.5,
+      "Effekt": 4.0,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Cremig",
+      "Diesel",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Energieanregend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Bathera-21-1-Zashimi.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:25.022285",
+    "url": "https://medcanonestop.com/medcan_product/bathera-21-1-zashimi/",
+    "image_path": "images\\Bathera-21-1-Zashimi.png"
+  }
+]

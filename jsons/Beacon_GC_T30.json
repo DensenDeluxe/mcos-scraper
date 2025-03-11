@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Beacon GC T30",
+    "category": "Indica",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Garlic Cookies",
+      "Herkunft": "",
+      "Importeur": "ADREXpharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 10.5,
+      "max": 19.02
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.4,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Caryophyllene"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/4887.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:45.119334",
+    "url": "https://medcanonestop.com/medcan_product/beacon-gc-t30/",
+    "image_path": "images\\4887.png"
+  }
+]

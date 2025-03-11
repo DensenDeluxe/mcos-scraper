@@ -1,0 +1,68 @@
+[
+  {
+    "title": "avaay 26/1 SK",
+    "category": "Hybrid",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Sour Kush",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.98,
+      "max": 12.15
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.3,
+      "Geschmack": 3.2,
+      "Effekt": 3.8,
+      "Gesamt": 3.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Lemon",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/SK_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:02.420905",
+    "url": "https://medcanonestop.com/medcan_product/avaay-26-1-sk-sour-kush/",
+    "image_path": "images\\SK_bud.png"
+  }
+]

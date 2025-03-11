@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Demecan MC Strong Drop 26:01",
+    "category": "Indica",
+    "thc": 26.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Zkittlez x Sherb BX1 x Permanent Marker #2",
+      "Herkunft": "Kanada",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.4,
+      "max": 12.98
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.3,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Beerig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Schlaffördernd"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Zkittlez-X-Sherb-X-PM.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:27.830751",
+    "url": "https://medcanonestop.com/medcan_product/demecan-mc-strong-drop-2601/",
+    "image_path": "images\\Zkittlez-X-Sherb-X-PM.png"
+  }
+]

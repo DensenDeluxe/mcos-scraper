@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Cannamedical Hybrid forte NG JLSY",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 0.1,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Jealousy",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 21.52
+    },
+    "ratings": {},
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Muskelentspannend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Jealousy.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:22.161588",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ng-jealousy/",
+    "image_path": "images\\Jealousy.png"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cookies A&B 22/1",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Apples & Bananas",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": "RPK Biopharma"
+    },
+    "price": {
+      "min": 6.29,
+      "max": 8.99
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 4.0,
+      "Geschmack": 4.0,
+      "Effekt": 4.1,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/Cansativa-AB.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:01.014380",
+    "url": "https://medcanonestop.com/medcan_product/cookies-ab-22-1/",
+    "image_path": "images\\Cansativa-AB.png"
+  }
+]

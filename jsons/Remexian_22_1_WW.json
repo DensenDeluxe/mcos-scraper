@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Remexian 22/1 WW",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "White Widow",
+      "Herkunft": "Dänemark",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 5.0,
+      "Geschmack": 5.0,
+      "Effekt": 4.0,
+      "Gesamt": 4.8
+    },
+    "effects": [
+      "Aktiv",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/805.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:26.163187",
+    "url": "https://medcanonestop.com/medcan_product/remexian-22-1-ww/",
+    "image_path": "images\\805.png"
+  }
+]

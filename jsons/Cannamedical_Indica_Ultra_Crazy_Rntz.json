@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Cannamedical Indica Ultra Crazy Rntz",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Crazy Rntz",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 4.1,
+      "Geschmack": 4.0,
+      "Effekt": 4.1,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Fruchtig"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Crazy-Rntz.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:28.786412",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-ultra-crazy-rntz/",
+    "image_path": "images\\Crazy-Rntz.png"
+  }
+]

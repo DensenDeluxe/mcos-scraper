@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Cannabis flos 25/1 PRT Ku. Black Cherry Pie",
+    "category": "Indica",
+    "thc": 26.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Black Cherry Punch",
+      "Herkunft": "Portugal",
+      "Importeur": "Canify",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.4,
+      "Aroma": 4.0,
+      "Geschmack": 4.3,
+      "Effekt": 4.0,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Konzentriert",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Holz",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Fokussteigernd",
+      "Schlaffördernd",
+      "Stimmungsaufhellend",
+      "Übelkeitslindernd"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/BlackCherryPie-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:51.956523",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-25-1-prt-ku-black-cherry-pie/",
+    "image_path": "images\\BlackCherryPie-1.png"
+  }
+]

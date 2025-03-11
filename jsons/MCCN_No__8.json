@@ -1,0 +1,71 @@
+[
+  {
+    "title": "MCCN No. 8",
+    "category": "Indica",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "OG Kush",
+      "Herkunft": "Kolumbien",
+      "Importeur": "Cantourage",
+      "Anbauer": "Encanto Therapeutics"
+    },
+    "price": {
+      "value": 8.0
+    },
+    "ratings": {
+      "Aussehen": 3.3,
+      "Aroma": 4.1,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/5223.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:37.685041",
+    "url": "https://medcanonestop.com/medcan_product/mccn-no-8/",
+    "image_path": "images\\5223.png"
+  }
+]

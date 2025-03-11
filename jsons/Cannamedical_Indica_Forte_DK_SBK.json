@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Cannamedical Indica Forte DK SBK",
+    "category": "Indica",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Sky Berry Kush",
+      "Herkunft": "Dänemark",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.5,
+      "max": 15.0
+    },
+    "ratings": {
+      "Aussehen": 4.8,
+      "Aroma": 4.3,
+      "Geschmack": 4.4,
+      "Effekt": 4.3,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:25.688150",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-dk-sbk/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

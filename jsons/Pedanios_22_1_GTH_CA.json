@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Pedanios 22/1 GTH CA",
+    "category": "Sativa",
+    "thc": 22.0,
+    "cbd": 0.9,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Ghost Train Haze",
+      "Herkunft": "Kanada",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": "Aurora Cannabis Enterprises Inc."
+    },
+    "price": {
+      "min": 7.92,
+      "max": 18.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.4,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert",
+      "Entspannt",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Lemon",
+      "Pfeffer",
+      "Süß",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "EU",
+        "name": "Eucalyptol"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Fokussteigernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Pedanios_22_1_Bluete-NEU.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:07.625934",
+    "url": "https://medcanonestop.com/medcan_product/pedanios-22-1-ghost-train-haze/",
+    "image_path": "images\\Pedanios_22_1_Bluete-NEU.png"
+  }
+]

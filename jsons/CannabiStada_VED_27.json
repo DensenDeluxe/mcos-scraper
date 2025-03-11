@@ -1,0 +1,62 @@
+[
+  {
+    "title": "CannabiStada VED 27",
+    "category": "Hybrid",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Ventura Dawg",
+      "Herkunft": "Kanada",
+      "Importeur": "STADA",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.4,
+      "Geschmack": 4.6,
+      "Effekt": 4.8,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TE",
+        "name": "Terpineol"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Kopfschmerzstillend",
+      "Muskelentspannend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:38.499350",
+    "url": "https://medcanonestop.com/medcan_product/cannabistada-ved-27-ventura-dawg/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "IMC CHD THC22",
+    "category": "Hybrid",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cherry Dosidos",
+      "Herkunft": "Israel",
+      "Importeur": "IMCannabis",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.98
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.4,
+      "Geschmack": 3.1,
+      "Effekt": 3.6,
+      "Gesamt": 3.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Cremig",
+      "Floral",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Fokussteigernd",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:00.648323",
+    "url": "https://medcanonestop.com/medcan_product/imc-chd-thc22/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

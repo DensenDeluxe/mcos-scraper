@@ -1,0 +1,61 @@
+[
+  {
+    "title": "adrex 25 WM COL",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Octagon Kush",
+      "Herkunft": "Kolumbien",
+      "Importeur": "ADREXpharma",
+      "Anbauer": "Pideka"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 5.0,
+      "Aroma": 4.0,
+      "Geschmack": 5.0,
+      "Effekt": 4.0,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:30.494705",
+    "url": "https://medcanonestop.com/medcan_product/adrex-25-wm-col/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

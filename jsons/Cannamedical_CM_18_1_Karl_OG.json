@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cannamedical CM 18/1 Karl OG",
+    "category": "Indica",
+    "thc": 16.4,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Karl OG",
+      "Herkunft": "Nordmazedonien",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.8,
+      "Geschmack": 3.7,
+      "Effekt": 3.9,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Angeregt",
+      "Entspannt",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Karl-OG.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:43.019519",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-18-1-karl-og/",
+    "image_path": "images\\Karl-OG.png"
+  }
+]

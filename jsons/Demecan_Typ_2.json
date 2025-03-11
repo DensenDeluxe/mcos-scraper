@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Demecan Typ 2",
+    "category": "Hybrid",
+    "thc": 16.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Orange Velvet",
+      "Herkunft": "Deutschland",
+      "Importeur": "DEMECAN",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.29,
+      "max": 12.5
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 3.7,
+      "Geschmack": 3.6,
+      "Effekt": 3.5,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Gesprächig",
+      "Kreativ",
+      "Müde"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/395.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:24.298733",
+    "url": "https://medcanonestop.com/medcan_product/demecan-typ-2-orange-velvet/",
+    "image_path": "images\\395.png"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "title": "TILRAY THC 25 Sativa No.2",
+    "category": "Sativa",
+    "thc": 25.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Headband",
+      "Herkunft": "Portugal",
+      "Importeur": "Tilray",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 9.99
+    },
+    "ratings": {},
+    "effects": [
+      "Angeregt",
+      "Appetitanregend",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "NE",
+        "name": "Nerolidol"
+      },
+      {
+        "code": "α",
+        "name": "α-Bisabolol"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:08.293872",
+    "url": "https://medcanonestop.com/medcan_product/tilray-thc-25-sativa-no-2-headband/",
+    "image_path": "images\\446.png"
+  }
+]

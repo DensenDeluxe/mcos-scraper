@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Grünhorn CP 22/1",
+    "category": "Indica",
+    "thc": 22.48,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cherry Pie",
+      "Herkunft": "",
+      "Importeur": "canymed",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.78,
+      "max": 8.49
+    },
+    "ratings": {
+      "Aussehen": 3.6,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.1,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Pfeffer",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6539.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:07.595498",
+    "url": "https://medcanonestop.com/medcan_product/gruenhorn-cp-22-1/",
+    "image_path": "images\\6539.png"
+  }
+]

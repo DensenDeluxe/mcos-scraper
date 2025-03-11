@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Cannabis Flos OHT CKZ 1 RNTZ",
+    "category": "Hybrid",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "RNTZ",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "KnL Cannabis"
+    },
+    "price": {
+      "min": 7.98,
+      "max": 14.73
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.3,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Aktiv",
+      "Begeistert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Fruchtig",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/OHT-CKZ-1-RNTZ.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:41.059384",
+    "url": "https://medcanonestop.com/medcan_product/cannabis-flos-oht-ckz-1-rntz/",
+    "image_path": "images\\OHT-CKZ-1-RNTZ.jpg"
+  }
+]

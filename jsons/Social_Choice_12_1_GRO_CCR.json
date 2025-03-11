@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Social Choice 12/1 GRO CCR",
+    "category": "Hybrid",
+    "thc": 12.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Cookies Cream",
+      "Herkunft": "Portugal",
+      "Importeur": "Remexian Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 4.09,
+      "max": 6.0
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 4.0,
+      "Geschmack": 3.8,
+      "Effekt": 4.0,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8010.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:29.082434",
+    "url": "https://medcanonestop.com/medcan_product/social-choice-12-1-gro-ccr/",
+    "image_path": "images\\8010.png"
+  }
+]

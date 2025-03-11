@@ -1,0 +1,54 @@
+[
+  {
+    "title": "30/1 Amici UL",
+    "category": "Sativa",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Ultra Limelight",
+      "Herkunft": "Kanada",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {},
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Ultra-Limelight.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:29.032224",
+    "url": "https://medcanonestop.com/medcan_product/30-1-amici-ul/",
+    "image_path": "images\\Ultra-Limelight.png"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "SUMO Canada Craft No.1",
+    "category": "Indica",
+    "thc": 28.7,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Mac Deluxe",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": "SUMO Cannabis"
+    },
+    "price": {
+      "min": 8.95,
+      "max": 10.95
+    },
+    "ratings": {
+      "Aussehen": 4.4,
+      "Aroma": 4.3,
+      "Geschmack": 4.2,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Angeregt",
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5407.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:27.304468",
+    "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-1/",
+    "image_path": "images\\5407.png"
+  }
+]

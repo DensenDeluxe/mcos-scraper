@@ -1,0 +1,63 @@
+[
+  {
+    "title": "NICE 20/1 MB",
+    "category": "Indica",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Motor Breath",
+      "Herkunft": "Portugal",
+      "Importeur": "Cansativa",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.49,
+      "max": 8.25
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.6,
+      "Geschmack": 3.6,
+      "Effekt": 4.0,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image004-2-1.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:47:14.591547",
+    "url": "https://medcanonestop.com/medcan_product/nice-20-1-mb/",
+    "image_path": "images\\image004-2-1.png"
+  }
+]

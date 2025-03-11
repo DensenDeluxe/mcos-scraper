@@ -1,0 +1,68 @@
+[
+  {
+    "title": "enua 22/1 JLSY CA",
+    "category": "Indica",
+    "thc": 22.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Jealousy",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.68,
+      "max": 12.38
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.2,
+      "Geschmack": 4.2,
+      "Effekt": 4.3,
+      "Gesamt": 4.3
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Floral",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Entzündungshemmend",
+      "Kopfschmerzstillend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/783.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:26.336592",
+    "url": "https://medcanonestop.com/medcan_product/enua-22-1-jlsy-ca-jealousy/",
+    "image_path": "images\\783.png"
+  }
+]

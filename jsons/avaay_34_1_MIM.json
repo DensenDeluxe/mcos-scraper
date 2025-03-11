@@ -1,0 +1,63 @@
+[
+  {
+    "title": "avaay 34/1 MIM",
+    "category": "Hybrid",
+    "thc": 34.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Midnight Mimosa",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.78,
+      "max": 12.99
+    },
+    "ratings": {
+      "Aussehen": 4.9,
+      "Aroma": 4.4,
+      "Geschmack": 4.4,
+      "Effekt": 4.7,
+      "Gesamt": 4.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Fruchtig",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:15.145255",
+    "url": "https://medcanonestop.com/medcan_product/avaay-34-1-mim/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

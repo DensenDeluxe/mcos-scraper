@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Balancial 21/1 PT Purple Dream",
+    "category": "Hybrid",
+    "thc": 21.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Purple Dream",
+      "Herkunft": "Portugal",
+      "Importeur": "Balancial GmbH",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 6.98,
+      "max": 7.95
+    },
+    "ratings": {},
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Pfeffer",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Purple-Dream-21.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:55.342438",
+    "url": "https://medcanonestop.com/medcan_product/balancial-21-1-pt-purple-dream/",
+    "image_path": "images\\Purple-Dream-21.png"
+  }
+]

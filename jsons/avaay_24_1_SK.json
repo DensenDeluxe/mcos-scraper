@@ -1,0 +1,68 @@
+[
+  {
+    "title": "avaay 24/1 SK",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Sour Kush",
+      "Herkunft": "Südafrika",
+      "Importeur": "avaay Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.39,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.3,
+      "Geschmack": 3.7,
+      "Effekt": 4.3,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Fruchtig",
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schlaffördernd",
+      "Schmerzstillend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:43.459329",
+    "url": "https://medcanonestop.com/medcan_product/avaay-24-1-sk/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

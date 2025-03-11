@@ -1,0 +1,72 @@
+[
+  {
+    "title": "420 Evolution 20/1 CA PLD",
+    "category": "Indica",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Plum Driver",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 11.5
+    },
+    "ratings": {
+      "Aussehen": 3.8,
+      "Aroma": 4.1,
+      "Geschmack": 3.9,
+      "Effekt": 4.1,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Beerig",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Plum-Driver_PLD.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:29.313529",
+    "url": "https://medcanonestop.com/medcan_product/420-evolution-20-1-ca-pld-plum-driver/",
+    "image_path": "images\\Four20_Evolution_Plum-Driver_PLD.png"
+  }
+]

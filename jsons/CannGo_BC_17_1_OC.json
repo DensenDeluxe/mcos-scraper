@@ -1,0 +1,56 @@
+[
+  {
+    "title": "CannGo BC 17/1 OC",
+    "category": "Hybrid",
+    "thc": 17.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Orange Crasher",
+      "Herkunft": "Portugal",
+      "Importeur": "canymed",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.95,
+      "max": 8.95
+    },
+    "ratings": {},
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Cremig",
+      "Erdig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "TE",
+        "name": "Terpinolen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Energieanregend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:03.876212",
+    "url": "https://medcanonestop.com/medcan_product/canngo-bc-17-1-oc/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "title": "avaay Simple 20/1 TNG",
+    "category": "Sativa",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Tangie Chem",
+      "Herkunft": "Portugal",
+      "Importeur": "avaay Medical",
+      "Anbauer": "MHI Cultivo Medicinal"
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.5,
+      "Geschmack": 4.4,
+      "Effekt": 4.1,
+      "Gesamt": 4.2
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "PI",
+        "name": "Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/TNG_Bud@2x.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:59.663658",
+    "url": "https://medcanonestop.com/medcan_product/avaay-20-1-tng-tangie-chem/",
+    "image_path": "images\\TNG_Bud@2x.png"
+  }
+]

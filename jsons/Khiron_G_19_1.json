@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Khiron G 19/1",
+    "category": "Hybrid",
+    "thc": 18.5,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato",
+      "Herkunft": "Portugal",
+      "Importeur": "KHIRON",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 5.48,
+      "max": 9.98
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 3.8,
+      "Geschmack": 3.8,
+      "Effekt": 3.8,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "GE",
+        "name": "Geranylacetat"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/KHIRON-G-19-1-Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:22.464058",
+    "url": "https://medcanonestop.com/medcan_product/khiron-g-19-1-gelato/",
+    "image_path": "images\\KHIRON-G-19-1-Bluete.png"
+  }
+]

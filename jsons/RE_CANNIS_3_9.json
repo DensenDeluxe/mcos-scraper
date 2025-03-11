@@ -1,0 +1,36 @@
+[
+  {
+    "title": "RE:CANNIS 3/9",
+    "category": "",
+    "thc": 0.0,
+    "cbd": 0.0,
+    "attributes": {
+      "Extraktionsverfahren": "Ethanol",
+      "Trägeröl": "MCT-Öl",
+      "Kultivar": "",
+      "Herkunft": "",
+      "Hersteller": "FETTE Pharma"
+    },
+    "price": {
+      "min": 13.95,
+      "max": 52.17
+    },
+    "ratings": {
+      "Aussehen": 3.0,
+      "Aroma": 3.0,
+      "Geschmack": 3.0,
+      "Effekt": 2.0,
+      "Gesamt": 2.8
+    },
+    "effects": [],
+    "aroma": [],
+    "terpenes": [],
+    "medical_uses": [],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:15.019402",
+    "url": "https://medcanonestop.com/medcan_product/recannis-3-9/",
+    "image_path": "images\\extract-icon.svg"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Adrex 20 KBN COL",
+    "category": "Hybrid",
+    "thc": 20.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Kali Banana",
+      "Herkunft": "Kolumbien",
+      "Importeur": "ADREXpharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.5,
+      "Aroma": 3.8,
+      "Geschmack": 3.5,
+      "Effekt": 3.5,
+      "Gesamt": 3.6
+    },
+    "effects": [
+      "Begeistert",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Cremig",
+      "Diesel",
+      "Floral",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:01.803553",
+    "url": "https://medcanonestop.com/medcan_product/adrex-20-kbn-col/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

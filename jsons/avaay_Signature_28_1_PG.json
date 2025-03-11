@@ -1,0 +1,68 @@
+[
+  {
+    "title": "avaay Signature 28/1 PG",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Platinum Garlic",
+      "Herkunft": "Kanada",
+      "Importeur": "avaay Medical",
+      "Anbauer": "Miracle Valley"
+    },
+    "price": {
+      "min": 9.99,
+      "max": 12.99
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.0,
+      "Geschmack": 4.1,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Fruchtig",
+      "Knoblauch",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/PG_bud.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:13.845990",
+    "url": "https://medcanonestop.com/medcan_product/avaay-signature-28-1-pg-platinum-garlic/",
+    "image_path": "images\\PG_bud.png"
+  }
+]

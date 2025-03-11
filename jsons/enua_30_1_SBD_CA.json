@@ -1,0 +1,67 @@
+[
+  {
+    "title": "enua 30/1 SBD CA",
+    "category": "Sativa",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Strawberry Diesel",
+      "Herkunft": "Kanada",
+      "Importeur": "enua Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.1,
+      "Geschmack": 4.0,
+      "Effekt": 4.6,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Aktiv",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      }
+    ],
+    "medical_uses": [
+      "Antidepressiv",
+      "Energieanregend",
+      "Fokussteigernd",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3689.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:56.211878",
+    "url": "https://medcanonestop.com/medcan_product/enua-sbd-30-1-ca/",
+    "image_path": "images\\3689.png"
+  }
+]

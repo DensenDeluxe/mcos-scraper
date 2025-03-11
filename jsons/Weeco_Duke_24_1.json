@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Weeco Duke 24/1",
+    "category": "Hybrid",
+    "thc": 24.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Purple Rain by The Gram",
+      "Herkunft": "Dänemark",
+      "Importeur": "WEECO Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.15,
+      "max": 8.95
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.2,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Gesprächig",
+      "Konzentriert"
+    ],
+    "aroma": [
+      "Beerig",
+      "Floral",
+      "Fruchtig",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "α",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Antispastisch",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/628.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:46:32.046805",
+    "url": "https://medcanonestop.com/medcan_product/weeco-duke-24-1-purple-rain/",
+    "image_path": "images\\628.png"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Canopy Krypton 23",
+    "category": "Indica",
+    "thc": 23.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "91 Krypt",
+      "Herkunft": "Kanada",
+      "Importeur": "Spectrum Therapeutics",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.74,
+      "max": 16.64
+    },
+    "ratings": {
+      "Aussehen": 4.3,
+      "Aroma": 4.1,
+      "Geschmack": 4.1,
+      "Effekt": 4.0,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Entspannt",
+      "Müde"
+    ],
+    "aroma": [
+      "Diesel",
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Schlaffördernd",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/3534.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:41.740984",
+    "url": "https://medcanonestop.com/medcan_product/canopy-krypton-23/",
+    "image_path": "images\\3534.png"
+  }
+]

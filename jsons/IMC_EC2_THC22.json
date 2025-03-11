@@ -1,0 +1,63 @@
+[
+  {
+    "title": "IMC EC2 THC22",
+    "category": "Indica",
+    "thc": 19.9,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "El Chivo",
+      "Herkunft": "Israel",
+      "Importeur": "IMCannabis",
+      "Anbauer": "My Green Fields Ltd."
+    },
+    "price": {
+      "min": 5.99,
+      "max": 7.95
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.6,
+      "Geschmack": 3.9,
+      "Effekt": 4.1,
+      "Gesamt": 3.9
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/6529.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:29.214832",
+    "url": "https://medcanonestop.com/medcan_product/imc-ec2-thc22/",
+    "image_path": "images\\6529.png"
+  }
+]

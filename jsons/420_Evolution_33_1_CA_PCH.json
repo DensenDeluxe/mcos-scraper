@@ -1,0 +1,74 @@
+[
+  {
+    "title": "420 Evolution 33/1 CA PCH",
+    "category": "Indica",
+    "thc": 33.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Peach Chementine",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 12.0,
+      "max": 13.85
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.2,
+      "Geschmack": 4.1,
+      "Effekt": 4.6,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Aktiv",
+      "Appetitanregend",
+      "Gesprächig",
+      "Müde"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Holz",
+      "Lemon",
+      "Süß"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "β",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Energieanregend",
+      "Schmerzstillend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Peach-Chementine_PCH.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:07.213348",
+    "url": "https://medcanonestop.com/medcan_product/420-evolution-33-1-ca-pch/",
+    "image_path": "images\\Four20_Evolution_Peach-Chementine_PCH.png"
+  }
+]

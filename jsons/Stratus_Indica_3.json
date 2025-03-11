@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Stratus Indica 3",
+    "category": "Indica",
+    "thc": 19.9,
+    "cbd": 0.1,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Death Star",
+      "Herkunft": "Kanada",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.7,
+      "Geschmack": 3.9,
+      "Effekt": 3.8,
+      "Gesamt": 3.8
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Holz",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "B",
+        "name": "B-Caryophyllene"
+      },
+      {
+        "code": "OC",
+        "name": "Ocimen"
+      },
+      {
+        "code": "α",
+        "name": "α-Pinen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Stratus-Indica-3.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:41:19.704094",
+    "url": "https://medcanonestop.com/medcan_product/stratus-indica-3/",
+    "image_path": "images\\Stratus-Indica-3.png"
+  }
+]

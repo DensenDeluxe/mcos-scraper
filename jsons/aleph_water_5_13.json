@@ -1,0 +1,63 @@
+[
+  {
+    "title": "aleph water 5/13",
+    "category": "Sativa",
+    "thc": 5.0,
+    "cbd": 13.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Amnesia Balanced",
+      "Herkunft": "",
+      "Importeur": "alephSana",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.49,
+      "max": 12.0
+    },
+    "ratings": {
+      "Aussehen": 4.0,
+      "Aroma": 4.3,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.1
+    },
+    "effects": [
+      "Appetitanregend",
+      "Fröhlich",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Kräuter",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-water.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:37.597453",
+    "url": "https://medcanonestop.com/medcan_product/aleph-water-5-13/",
+    "image_path": "images\\aleph-water.png"
+  }
+]

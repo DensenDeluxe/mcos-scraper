@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Pedanios 31/1 COS CA",
+    "category": "Indica",
+    "thc": 31.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Cosmic Cream",
+      "Herkunft": "Kanada",
+      "Importeur": "Aurora Deutschland",
+      "Anbauer": "Aurora Cannabis Enterprises Inc."
+    },
+    "price": {
+      "min": 8.89,
+      "max": 19.02
+    },
+    "ratings": {
+      "Aussehen": 4.6,
+      "Aroma": 4.4,
+      "Geschmack": 4.4,
+      "Effekt": 4.6,
+      "Gesamt": 4.5
+    },
+    "effects": [
+      "Appetitanregend",
+      "Begeistert",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Fruchtig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "α",
+        "name": "α-Humulen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Krampflösend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Pedanios-31_1-COS-CA_Bluete.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:36.568444",
+    "url": "https://medcanonestop.com/medcan_product/pedanios-31-1-cos-ca/",
+    "image_path": "images\\Pedanios-31_1-COS-CA_Bluete.png"
+  }
+]

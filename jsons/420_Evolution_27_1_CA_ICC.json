@@ -1,0 +1,72 @@
+[
+  {
+    "title": "420 Evolution 27/1 CA ICC",
+    "category": "Indica",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Ice Cream Cake x Kush Mints",
+      "Herkunft": "Kanada",
+      "Importeur": "Four 20 Pharma",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 0.0
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.7,
+      "Geschmack": 4.6,
+      "Effekt": 4.5,
+      "Gesamt": 4.6
+    },
+    "effects": [
+      "Appetitanregend",
+      "Gesprächig",
+      "Konzentriert",
+      "Müde"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer",
+      "Tanne"
+    ],
+    "terpenes": [
+      {
+        "code": "FA",
+        "name": "Farnesen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "TR",
+        "name": "Trans-Caryophyllen"
+      },
+      {
+        "code": "TR",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Appetitanregend",
+      "Krampflösend",
+      "Muskelentspannend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/432.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:25.191772",
+    "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-icc/",
+    "image_path": "images\\432.png"
+  }
+]

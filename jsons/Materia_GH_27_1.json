@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Materia GH 27/1",
+    "category": "Sativa",
+    "thc": 27.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Grape Haze",
+      "Herkunft": "Kanada",
+      "Importeur": "Materia Deutschland GmbH",
+      "Anbauer": ""
+    },
+    "price": {
+      "value": 12.57
+    },
+    "ratings": {
+      "Aussehen": 3.9,
+      "Aroma": 4.0,
+      "Geschmack": 3.9,
+      "Effekt": 4.2,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Begeistert",
+      "Fröhlich",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Beerig",
+      "Diesel",
+      "Erdig",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Energieanregend",
+      "Stimmungsaufhellend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5749.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:10.020796",
+    "url": "https://medcanonestop.com/medcan_product/materia-gh-27-1/",
+    "image_path": "images\\5749.png"
+  }
+]

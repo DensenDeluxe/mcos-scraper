@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Soma OG FG 28/1 GS",
+    "category": "Indica",
+    "thc": 28.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Gelato Sherb",
+      "Herkunft": "Kanada",
+      "Importeur": "canymed",
+      "Anbauer": "Nova Soma"
+    },
+    "price": {
+      "min": 8.75,
+      "max": 9.99
+    },
+    "ratings": {
+      "Aussehen": 4.5,
+      "Aroma": 4.3,
+      "Geschmack": 4.3,
+      "Effekt": 4.4,
+      "Gesamt": 4.4
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Gesprächig"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "LI",
+        "name": "Linalool"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      }
+    ],
+    "medical_uses": [
+      "Appetitanregend",
+      "Entzündungshemmend",
+      "Muskelentspannend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7970.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:42:19.730071",
+    "url": "https://medcanonestop.com/medcan_product/soma-og-fg-28-1/",
+    "image_path": "images\\7970.png"
+  }
+]

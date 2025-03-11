@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Medicus 30/1 EZA WCR",
+    "category": "Sativa",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Wedding Crasher",
+      "Herkunft": "Israel",
+      "Importeur": "Cantourage",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 7.75,
+      "max": 12.99
+    },
+    "ratings": {
+      "Aussehen": 3.7,
+      "Aroma": 3.1,
+      "Geschmack": 3.1,
+      "Effekt": 3.7,
+      "Gesamt": 3.4
+    },
+    "effects": [
+      "Fröhlich",
+      "Gesprächig",
+      "Kreativ"
+    ],
+    "aroma": [
+      "Floral",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:44:20.890355",
+    "url": "https://medcanonestop.com/medcan_product/medicus-30-1-eza-wcr/",
+    "image_path": "images\\flower-icon.svg"
+  }
+]

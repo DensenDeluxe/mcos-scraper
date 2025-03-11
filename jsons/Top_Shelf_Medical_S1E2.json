@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Top Shelf Medical S1E2",
+    "category": "Hybrid",
+    "thc": 30.0,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Unbestrahlt",
+      "Kultivar": "Oasis OG",
+      "Herkunft": "Kanada",
+      "Importeur": "Top Shelf Medical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 9.99,
+      "max": 12.83
+    },
+    "ratings": {
+      "Aussehen": 4.2,
+      "Aroma": 3.9,
+      "Geschmack": 3.8,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Appetitanregend",
+      "Entspannt",
+      "Fröhlich"
+    ],
+    "aroma": [
+      "Erdig",
+      "Floral",
+      "Lemon"
+    ],
+    "terpenes": [
+      {
+        "code": "CA",
+        "name": "Caryophyllen"
+      },
+      {
+        "code": "LI",
+        "name": "Limonen"
+      },
+      {
+        "code": "MY",
+        "name": "Myrcen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Entzündungshemmend",
+      "Stimmungsaufhellend",
+      "Stressabbauend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7534.png",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:43:03.082788",
+    "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e2/",
+    "image_path": "images\\7534.png"
+  }
+]

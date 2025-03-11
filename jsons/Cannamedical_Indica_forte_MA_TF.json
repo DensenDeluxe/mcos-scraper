@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cannamedical Indica forte MA TF",
+    "category": "Indica",
+    "thc": 25.1,
+    "cbd": 1.0,
+    "attributes": {
+      "Bestrahlung": "Bestrahlt",
+      "Kultivar": "Tire Fire",
+      "Herkunft": "Kanada",
+      "Importeur": "Cannamedical",
+      "Anbauer": ""
+    },
+    "price": {
+      "min": 8.49,
+      "max": 21.42
+    },
+    "ratings": {
+      "Aussehen": 4.1,
+      "Aroma": 3.8,
+      "Geschmack": 4.0,
+      "Effekt": 4.3,
+      "Gesamt": 4.0
+    },
+    "effects": [
+      "Entspannt",
+      "Fröhlich",
+      "Müde"
+    ],
+    "aroma": [
+      "Holz",
+      "Lemon",
+      "Pfeffer"
+    ],
+    "terpenes": [
+      {
+        "code": "β",
+        "name": "β-Caryophyllen"
+      },
+      {
+        "code": "β",
+        "name": "β-Myrcen"
+      },
+      {
+        "code": "δ",
+        "name": "δ-Limonen"
+      }
+    ],
+    "medical_uses": [
+      "Angstlösend",
+      "Antidepressiv",
+      "Schlaffördernd",
+      "Schmerzstillend"
+    ],
+    "delivery_status": "lieferbar",
+    "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tire-Fire-1.jpg",
+    "product_type": "Cannabisblüten",
+    "timestamp": "2025-03-11T13:45:16.670795",
+    "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-tire-fire/",
+    "image_path": "images\\Tire-Fire-1.jpg"
+  }
+]
