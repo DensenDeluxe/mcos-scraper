@@ -124,7 +124,7 @@
     </table>
   </div>
   
-  <!-- Detail-Modal -->
+  <!-- Detail-Modal für Produktdetails -->
   <div class="modal fade" id="detailModal" tabindex="-1" aria-labelledby="detailModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-scrollable">
       <div class="modal-content">
@@ -173,7 +173,10 @@
       return value;
     }
     
-    // Filterfunktion: gültige Produkte (Titel vorhanden, Preise ungleich 0, THC und CBD nicht beide 0, und "101-C 50:0" wird ignoriert)
+    // Filterfunktion: Ein Produkt ist gültig, wenn:
+    // - Der Titel nicht leer ist und nicht "101-C 50:0" lautet.
+    // - Der Preis (Einzelpreis oder Preisspanne) ungleich 0 ist.
+    // - Nicht gleichzeitig THC und CBD beide 0 sind.
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (prod.price === null) return false;
@@ -188,7 +191,7 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Index.json laden; falls Array, in Objekt umwandeln
+    // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt.
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -225,10 +228,9 @@
       });
     }
     
-    // Tabelle: Zeige Index-Daten (nur gültige Einträge)
+    // Tabelle: Index-Daten anzeigen; ungültige Einträge ignorieren
     function updateTable() {
-      const tbody = document.querySelector('#pricesTable tbody');
-      tbody.innerHTML = '';
+      const rowsData = [];
       const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product])).sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
@@ -271,24 +273,37 @@
           }
         }
         
-        const tr = document.createElement('tr');
-        tr.setAttribute("data-product-type", latest.product_type || "n/a");
-        tr.innerHTML = `<td>${product}</td>
-                        <td>${thcValue}</td>
-                        <td>${cbdValue}</td>
-                        <td data-order="${pricePerGramTHCOrder}">${pricePerGramTHC}</td>
-                        <td data-order="${priceMinOrder}">${priceMin}</td>
-                        <td data-order="${priceMaxOrder}">${priceMax}</td>
-                        <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
-        tbody.appendChild(tr);
+        // Erstelle Zeile als Array für DataTables
+        const row = [
+          product,
+          thcValue,
+          cbdValue,
+          `<span data-order="${pricePerGramTHCOrder}">${pricePerGramTHC}</span>`,
+          `<span data-order="${priceMinOrder}">${priceMin}</span>`,
+          `<span data-order="${priceMaxOrder}">${priceMax}</span>`,
+          new Date(latest.timestamp).toLocaleString()
+        ];
+        rowsData.push(row);
       });
-      if (!$.fn.DataTable.isDataTable('#pricesTable')) {
+      if (!dataTable) {
         dataTable = $('#pricesTable').DataTable({
+          data: rowsData,
+          columns: [
+            { title: "Produkt" },
+            { title: "THC Wert" },
+            { title: "CBD Wert" },
+            { title: "Preis pro gramm THC" },
+            { title: "Letzter min Preis" },
+            { title: "Letzter max Preis" },
+            { title: "Letztes Update" }
+          ],
           responsive: true,
           language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
-        dataTable.clear().rows.add($('#pricesTable tbody tr')).draw();
+        dataTable.clear();
+        dataTable.rows.add(rowsData);
+        dataTable.draw();
       }
     }
     
@@ -301,7 +316,7 @@
         const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
         const details = await response.json();
-        // Verwende den letzten Eintrag als aktuellste Details
+        // Nutze den letzten Eintrag als aktuellste Detaildaten
         const latest = details[details.length - 1];
         showDetailModal(latest);
       } catch (error) {
@@ -326,7 +341,6 @@
         html += "Keine Daten";
       }
       html += `</div>`;
-      // Attribute
       if (details.attributes && Object.keys(details.attributes).length > 0) {
         html += `<div class="detail-section"><strong>Attribute:</strong><ul>`;
         for (const key in details.attributes) {
@@ -334,7 +348,6 @@
         }
         html += `</ul></div>`;
       }
-      // Ratings
       if (details.ratings && Object.keys(details.ratings).length > 0) {
         html += `<div class="detail-section"><strong>Ratings:</strong><ul>`;
         for (const key in details.ratings) {
@@ -342,7 +355,6 @@
         }
         html += `</ul></div>`;
       }
-      // Effekte, Aroma, Terpene, Medical Uses
       if (details.effects && details.effects.length > 0) {
         html += `<div class="detail-section"><strong>Effekte:</strong> ${details.effects.join(', ')}</div>`;
       }
