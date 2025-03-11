@@ -174,9 +174,9 @@
       return value;
     }
     
-    // Filterfunktion: Ein Produkt ist gültig, wenn:
-    // - Der Titel nicht leer ist und nicht "101-C 50:0" lautet.
-    // - Der Preis (Einzelpreis oder Preisspanne) ungleich 0 ist.
+    // Ein Produkt ist gültig, wenn:
+    // - Der Titel vorhanden und nicht "101-C 50:0" ist.
+    // - Der Preis (Einzelpreis oder min/max) ungleich 0 ist.
     // - Nicht gleichzeitig THC und CBD beide 0 sind.
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
@@ -229,10 +229,12 @@
       });
     }
     
-    // Tabelle: Aktualisiere Zeilendaten über DataTables-API
+    // Tabelle: Zeilen anhand der validen Index-Daten aufbauen
     function updateTable() {
       const rowsData = [];
-      const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product])).sort((a, b) => a.localeCompare(b));
+      const products = Object.keys(indexData)
+                            .filter(product => isValidProduct(indexData[product]))
+                            .sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
         const thcValue = (latest.thc !== undefined && latest.thc !== null) ? formatTHC(latest.thc) : "n/a";
@@ -273,6 +275,7 @@
           }
         }
         
+        // Erstelle Zeile als Array für DataTables
         const row = [
           product,
           thcValue,
@@ -284,6 +287,8 @@
         ];
         rowsData.push(row);
       });
+      
+      // Initialisiere DataTable einmalig, danach update per API
       if (!dataTable) {
         dataTable = $('#pricesTable').DataTable({
           data: rowsData,
@@ -304,8 +309,15 @@
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      // Nach dem Zeichnen der Tabelle die Filterfunktion aufrufen
+      // Nach dem Zeichnen die Filterfunktion anwenden
       applyProductTypeFilter();
+      // Zusätzlich: Setze data-product-type-Attribute in den Zeilen
+      $('#pricesTable tbody tr').each(function(i) {
+        const product = dataTable.cell(i, 0).data();
+        // Hole den Produkttyp aus dem Index (falls vorhanden)
+        const prodType = indexData[product] ? indexData[product].product_type : "n/a";
+        $(this).attr('data-product-type', prodType);
+      });
     }
     
     // Detail-Modal: Lade Detaildaten aus separater JSON und zeige sie im Modal
@@ -324,7 +336,7 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Modal; Bild oben anzeigen
+    // Zeige Detailinformationen in einem Modal; Bild ganz oben
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
@@ -385,7 +397,7 @@
       detailModal.show();
     }
     
-    // Bei Klick auf eine Tabellenzeile: Detailansicht laden
+    // Beim Klick auf eine Tabellenzeile: Detailansicht laden
     $('#pricesTable tbody').on('click', 'tr', function() {
       const product = $(this).find('td:first').text();
       loadProductDetails(product);
@@ -421,7 +433,7 @@
       loadProductHistory(this.value);
     });
     
-    // Filter-Checkboxen
+    // Filter-Checkboxen: Bei Änderung Filterfunktion ausführen
     $('#filterExtrakte, #filterCannabisblueten').on('change', function() {
       applyProductTypeFilter();
     });
