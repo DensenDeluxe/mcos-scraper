@@ -31,7 +31,7 @@
   <div class="container">
     <h1 class="mb-4">Cannabis Preis Tracker</h1>
     
-    <!-- Dropdown für Produkte (aus index.json) -->
+    <!-- Dropdown für Produkte -->
     <div class="mb-4">
       <label for="productSelect" class="form-label">Produkt auswählen:</label>
       <select id="productSelect" class="form-select">
@@ -99,7 +99,7 @@
       <canvas id="priceChart"></canvas>
     </div>
     
-    <!-- Interaktive Tabelle: Wird aus index.json geladen -->
+    <!-- Interaktive Tabelle -->
     <table id="pricesTable" class="table table-striped">
       <thead>
         <tr>
@@ -127,22 +127,26 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
   <script>
-    let indexData = {}; // Enthält aktuellsten Datensatz pro Produkt (aus index.json)
+    let indexData = {}; // Wir bauen hier ein Objekt, in dem der Schlüssel der Produktname ist
     let chart;
     let dataTable;
 
-    // Hilfsfunktion: Einfaches Sanitizing (ähnlich wie im Python-Skript)
-    function sanitize(name) {
-      return name.trim().replace(/[^\w\-]/g, "_");
-    }
-    
-    // Index.json laden (enthält die aktuellsten Daten aller Produkte)
+    // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
         const response = await fetch('index.json?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der index.json');
-        indexData = await response.json();
+        let data = await response.json();
+        // Falls data ein Array ist, erstelle ein Objekt mit title als Schlüssel:
+        if (Array.isArray(data)) {
+          indexData = {};
+          data.forEach(prod => {
+            indexData[prod.title] = prod;
+          });
+        } else {
+          indexData = data;
+        }
         updateProductSelect();
         updateTable();
       } catch (error) {
@@ -150,7 +154,7 @@
       }
     }
     
-    // Dropdown aus Index (nur Produkte mit gültigen Preis-Daten)
+    // Dropdown aus Index
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
@@ -165,7 +169,7 @@
       });
     }
     
-    // Tabelle: Index-Daten anzeigen, zusätzlich wird der Produkttyp als data-Attribut gesetzt
+    // Tabelle: Index-Daten anzeigen, Produkttyp als data-Attribut setzen
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
@@ -173,10 +177,8 @@
                      .sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
-        // THC und CBD
         const thcValue = (latest.thc !== undefined && latest.thc !== null) ? latest.thc : "n/a";
         const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd : "n/a";
-        // Letzter Preis
         let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
         let priceMinOrder = 0, priceMaxOrder = 0;
         if (latest.price) {
@@ -192,7 +194,6 @@
             priceMaxOrder = parseFloat(latest.price.max);
           }
         }
-        // Preis pro gramm THC berechnen
         let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
         if (latest.price && latest.thc && latest.thc > 0) {
           let avgPrice;
@@ -206,7 +207,6 @@
             pricePerGramTHCOrder = parseFloat(pricePerGramTHC);
           }
         }
-        // Erstelle Tabellenzeile; speichere Produkttyp als data-Attribut (für Filter)
         const tr = document.createElement('tr');
         tr.setAttribute("data-product-type", latest.product_type || "n/a");
         tr.innerHTML = `<td>${product}</td>
@@ -227,14 +227,13 @@
       });
     }
     
-    // Wenn im Dropdown ein Produkt ausgewählt wird, lade dessen Verlauf (separate JSON) und aktualisiere den Chart
+    // Beim Ändern des Dropdowns: Lade Verlauf der ausgewählten Sorte (separate JSON)
     async function loadProductHistory(product) {
       if (!product) {
-        // Keine Auswahl -> Chart leeren
         if (chart) { chart.destroy(); }
         return;
       }
-      const sanitized = sanitize(product);
+      const sanitized = product.trim().replace(/[^\w\-]/g, "_");
       try {
         const timestamp = new Date().getTime();
         const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
@@ -246,7 +245,7 @@
       }
     }
     
-    // Chart aktualisieren: Hier werden die historischen Daten (Preise) aus der Produkt-JSON verwendet
+    // Chart: Darstellung der historischen Preisdaten
     function updateChart(historyData) {
       let labels = [];
       let minPrices = [];
@@ -292,7 +291,7 @@
       });
     }
     
-    // Filterung der Tabelle nach Produkttyp
+    // Filterung nach Produkttyp
     function applyProductTypeFilter() {
       const showExtrakte = document.getElementById('filterExtrakte').checked;
       const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
@@ -306,7 +305,7 @@
       });
     }
     
-    // Spalten-Toggle: Mithilfe der DataTables-API werden Spalten ein-/ausgeblendet
+    // Spalten-Toggle
     function setupColumnToggles() {
       $('.column-toggle').off('change').on('change', function() {
         const column = dataTable.column($(this).attr('data-column'));
@@ -314,10 +313,10 @@
       });
     }
     
-    // Alle 10 Minuten (600000 ms) wird der Index neu geladen
+    // Alle 10 Minuten wird der Index neu geladen
     setInterval(fetchIndex, 600000);
     
-    // Dropdown-Änderung: Lade Verlauf für ausgewähltes Produkt
+    // Dropdown-Änderung: Lade Verlauf der ausgewählten Sorte
     document.getElementById('productSelect').addEventListener('change', function() {
       loadProductHistory(this.value);
     });
@@ -327,7 +326,7 @@
       applyProductTypeFilter();
     });
     
-    // Initialer Abruf
+    // Initialer Abruf und Setup
     fetchIndex().then(() => {
       setupColumnToggles();
     });
