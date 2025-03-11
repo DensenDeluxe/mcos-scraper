@@ -13,7 +13,6 @@
       padding: 20px;
       background-color: #f8f9fa;
     }
-    /* Chart-Container in voller Breite */
     .chart-container {
       position: relative;
       width: 100%;
@@ -23,13 +22,8 @@
       width: 100% !important;
       height: auto !important;
     }
-    /* Option Panel */
-    .options-panel {
+    .filter-panel {
       margin-bottom: 20px;
-      padding: 15px;
-      border: 1px solid #ddd;
-      background: #fff;
-      border-radius: 5px;
     }
   </style>
 </head>
@@ -37,7 +31,7 @@
   <div class="container">
     <h1 class="mb-4">Cannabis Preis Tracker</h1>
     
-    <!-- Dropdown-Menü -->
+    <!-- Dropdown für Produkte (aus index.json) -->
     <div class="mb-4">
       <label for="productSelect" class="form-label">Produkt auswählen:</label>
       <select id="productSelect" class="form-select">
@@ -45,57 +39,67 @@
       </select>
     </div>
     
-    <!-- Chart-Bereich -->
-    <div class="chart-container mb-5">
-      <canvas id="priceChart"></canvas>
-    </div>
-    
-    <!-- Options-Bereich (ausklappbar) -->
-    <div class="mb-4">
-      <button class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#optionsPanel" aria-expanded="false" aria-controls="optionsPanel">
-        Optionen anzeigen / ausblenden
+    <!-- Ausklappbare Filter-Box -->
+    <div class="filter-panel">
+      <button class="btn btn-secondary mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#filterOptions" aria-expanded="false" aria-controls="filterOptions">
+        Filteroptionen anzeigen
       </button>
-      <div class="collapse mt-3" id="optionsPanel">
-        <div class="options-panel">
-          <h5>Zeilenfilter</h5>
-          <div class="form-check">
-            <input class="form-check-input" type="checkbox" id="filterExtrakte">
-            <label class="form-check-label" for="filterExtrakte">Extrakte ausblenden</label>
+      <div class="collapse" id="filterOptions">
+        <div class="card card-body">
+          <!-- Filter nach Produkttyp -->
+          <div class="mb-3">
+            <label class="form-label">Produkttyp filtern:</label>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value="Extrakte" id="filterExtrakte" checked>
+              <label class="form-check-label" for="filterExtrakte">Extrakte anzeigen</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value="Cannabisblüten" id="filterCannabisblueten" checked>
+              <label class="form-check-label" for="filterCannabisblueten">Cannabisblüten anzeigen</label>
+            </div>
           </div>
-          <div class="form-check mb-3">
-            <input class="form-check-input" type="checkbox" id="filterCannabis">
-            <label class="form-check-label" for="filterCannabis">Cannabissorten ausblenden</label>
-          </div>
-          <h5>Spalten ein-/ausblenden</h5>
-          <div class="form-check">
-            <input class="form-check-input column-toggle" type="checkbox" id="toggleTHC" data-column="1" checked>
-            <label class="form-check-label" for="toggleTHC">THC Wert</label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input column-toggle" type="checkbox" id="toggleCBD" data-column="2" checked>
-            <label class="form-check-label" for="toggleCBD">CBD Wert</label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input column-toggle" type="checkbox" id="togglePricePerGram" data-column="3" checked>
-            <label class="form-check-label" for="togglePricePerGram">Preis pro gramm THC</label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input column-toggle" type="checkbox" id="togglePriceMin" data-column="4" checked>
-            <label class="form-check-label" for="togglePriceMin">Letzter min Preis</label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input column-toggle" type="checkbox" id="togglePriceMax" data-column="5" checked>
-            <label class="form-check-label" for="togglePriceMax">Letzter max Preis</label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input column-toggle" type="checkbox" id="toggleTimestamp" data-column="6" checked>
-            <label class="form-check-label" for="toggleTimestamp">Letztes Update</label>
+          <!-- Spaltensteuerung -->
+          <div>
+            <label class="form-label">Spalten ein-/ausblenden:</label>
+            <div class="form-check">
+              <input class="form-check-input column-toggle" type="checkbox" data-column="0" id="colProdukt" checked>
+              <label class="form-check-label" for="colProdukt">Produkt</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input column-toggle" type="checkbox" data-column="1" id="colTHC" checked>
+              <label class="form-check-label" for="colTHC">THC Wert</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input column-toggle" type="checkbox" data-column="2" id="colCBD" checked>
+              <label class="form-check-label" for="colCBD">CBD Wert</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input column-toggle" type="checkbox" data-column="3" id="colPreisProTHC" checked>
+              <label class="form-check-label" for="colPreisProTHC">Preis pro gramm THC</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input column-toggle" type="checkbox" data-column="4" id="colMinPreis" checked>
+              <label class="form-check-label" for="colMinPreis">Letzter min Preis</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input column-toggle" type="checkbox" data-column="5" id="colMaxPreis" checked>
+              <label class="form-check-label" for="colMaxPreis">Letzter max Preis</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input column-toggle" type="checkbox" data-column="6" id="colUpdate" checked>
+              <label class="form-check-label" for="colUpdate">Letztes Update</label>
+            </div>
           </div>
         </div>
       </div>
     </div>
     
-    <!-- Interaktive Tabelle -->
+    <!-- Chart-Bereich: Beim Auswählen eines Produkts wird dessen Verlauf geladen -->
+    <div class="chart-container mb-5">
+      <canvas id="priceChart"></canvas>
+    </div>
+    
+    <!-- Interaktive Tabelle: Wird aus index.json geladen -->
     <table id="pricesTable" class="table table-striped">
       <thead>
         <tr>
@@ -123,36 +127,37 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
   <script>
-    let allData = {};
+    let indexData = {}; // Enthält aktuellsten Datensatz pro Produkt (aus index.json)
     let chart;
     let dataTable;
 
-    // JSON neu laden mit Cache-Buster
-    async function fetchData() {
+    // Hilfsfunktion: Einfaches Sanitizing (ähnlich wie im Python-Skript)
+    function sanitize(name) {
+      return name.trim().replace(/[^\w\-]/g, "_");
+    }
+    
+    // Index.json laden (enthält die aktuellsten Daten aller Produkte)
+    async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
-        const response = await fetch('prices.json?ts=' + timestamp);
-        if (!response.ok) throw new Error('Fehler beim Laden der JSON-Daten');
-        const data = await response.json();
-        allData = data;
+        const response = await fetch('index.json?ts=' + timestamp);
+        if (!response.ok) throw new Error('Fehler beim Laden der index.json');
+        indexData = await response.json();
         updateProductSelect();
         updateTable();
-        updateChart();
       } catch (error) {
         console.error(error);
       }
     }
     
-    // Dropdown: Nur Produkte mit gültigen Preis-Daten alphabetisch sortiert
+    // Dropdown aus Index (nur Produkte mit gültigen Preis-Daten)
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
-      const filteredProducts = Object.keys(allData).filter(product => {
-        const entries = allData[product];
-        const latest = entries[entries.length - 1];
-        return latest.price !== null;
+      const products = Object.keys(indexData).filter(product => {
+        return indexData[product].price !== null;
       }).sort((a, b) => a.localeCompare(b));
-      filteredProducts.forEach(product => {
+      products.forEach(product => {
         const option = document.createElement('option');
         option.value = product;
         option.textContent = product;
@@ -160,32 +165,20 @@
       });
     }
     
-    // Tabelle: Erstelle Zeilen mit den zusätzlichen Spalten (THC, CBD) und data-Attribute für Sortierung und Filterung
+    // Tabelle: Index-Daten anzeigen, zusätzlich wird der Produkttyp als data-Attribut gesetzt
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
-      const filteredProducts = Object.keys(allData).filter(product => {
-        const entries = allData[product];
-        const latest = entries[entries.length - 1];
-        return latest.price !== null;
-      }).sort((a, b) => a.localeCompare(b));
-      
-      filteredProducts.forEach(product => {
-        const entries = allData[product];
-        const latest = entries[entries.length - 1];
-        
-        // Extrahiere THC und CBD (sofern vorhanden)
+      const products = Object.keys(indexData).filter(product => indexData[product].price !== null)
+                     .sort((a, b) => a.localeCompare(b));
+      products.forEach(product => {
+        const latest = indexData[product];
+        // THC und CBD
         const thcValue = (latest.thc !== undefined && latest.thc !== null) ? latest.thc : "n/a";
         const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd : "n/a";
-        
-        // Wir nehmen an, dass product_type im Datensatz enthalten ist
-        const productType = latest.product_type || "unbekannt";
-        
-        // Berechnung der Preiswerte
-        let priceMin = 'Keine Daten';
-        let priceMax = 'Keine Daten';
-        let priceMinOrder = 0;
-        let priceMaxOrder = 0;
+        // Letzter Preis
+        let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
+        let priceMinOrder = 0, priceMaxOrder = 0;
         if (latest.price) {
           if (latest.price.value !== undefined) {
             priceMin = latest.price.value;
@@ -199,10 +192,8 @@
             priceMaxOrder = parseFloat(latest.price.max);
           }
         }
-        
-        // Berechnung "Preis pro gramm THC"
-        let pricePerGramTHC = "n/a";
-        let pricePerGramTHCOrder = 0;
+        // Preis pro gramm THC berechnen
+        let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
         if (latest.price && latest.thc && latest.thc > 0) {
           let avgPrice;
           if (latest.price.value !== undefined) {
@@ -215,10 +206,9 @@
             pricePerGramTHCOrder = parseFloat(pricePerGramTHC);
           }
         }
-        
-        // Erstelle eine Tabellenzeile; füge product_type als data-Attribut hinzu (für Filter)
+        // Erstelle Tabellenzeile; speichere Produkttyp als data-Attribut (für Filter)
         const tr = document.createElement('tr');
-        tr.setAttribute('data-product-type', productType.toLowerCase());
+        tr.setAttribute("data-product-type", latest.product_type || "n/a");
         tr.innerHTML = `<td>${product}</td>
                         <td>${thcValue}</td>
                         <td>${cbdValue}</td>
@@ -233,130 +223,114 @@
       }
       dataTable = $('#pricesTable').DataTable({
         responsive: true,
-        language: {
-          url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json"
-        }
+        language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
       });
-      
-      // Wende den Row-Filter an
-      applyRowFilter();
     }
     
-    // Chart: Aktualisiere, wenn ein Produkt im Dropdown gewählt wurde
-    function updateChart() {
-      const selectedProduct = document.getElementById('productSelect').value;
+    // Wenn im Dropdown ein Produkt ausgewählt wird, lade dessen Verlauf (separate JSON) und aktualisiere den Chart
+    async function loadProductHistory(product) {
+      if (!product) {
+        // Keine Auswahl -> Chart leeren
+        if (chart) { chart.destroy(); }
+        return;
+      }
+      const sanitized = sanitize(product);
+      try {
+        const timestamp = new Date().getTime();
+        const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
+        if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
+        const history = await response.json();
+        updateChart(history);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+    
+    // Chart aktualisieren: Hier werden die historischen Daten (Preise) aus der Produkt-JSON verwendet
+    function updateChart(historyData) {
       let labels = [];
       let minPrices = [];
       let maxPrices = [];
-      
-      if (selectedProduct && allData[selectedProduct]) {
-        const entries = allData[selectedProduct];
-        entries.forEach(entry => {
-          labels.push(new Date(entry.timestamp).toLocaleString());
-          if (entry.price) {
-            if (entry.price.value !== undefined) {
-              minPrices.push(entry.price.value);
-              maxPrices.push(entry.price.value);
-            } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
-              minPrices.push(entry.price.min);
-              maxPrices.push(entry.price.max);
-            } else {
-              minPrices.push(null);
-              maxPrices.push(null);
-            }
+      historyData.forEach(entry => {
+        labels.push(new Date(entry.timestamp).toLocaleString());
+        if (entry.price) {
+          if (entry.price.value !== undefined) {
+            minPrices.push(entry.price.value);
+            maxPrices.push(entry.price.value);
+          } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
+            minPrices.push(entry.price.min);
+            maxPrices.push(entry.price.max);
           } else {
             minPrices.push(null);
             maxPrices.push(null);
           }
-        });
-      }
-      
+        } else {
+          minPrices.push(null);
+          maxPrices.push(null);
+        }
+      });
       const ctx = document.getElementById('priceChart').getContext('2d');
-      if (chart) {
-        chart.destroy();
-      }
+      if (chart) { chart.destroy(); }
       chart = new Chart(ctx, {
         type: 'line',
         data: {
           labels: labels,
           datasets: [
-            {
-              label: 'Min Preis',
-              data: minPrices,
-              borderColor: 'rgba(75, 192, 192, 1)',
-              backgroundColor: 'rgba(75, 192, 192, 0.2)',
-              fill: false
-            },
-            {
-              label: 'Max Preis',
-              data: maxPrices,
-              borderColor: 'rgba(255, 99, 132, 1)',
-              backgroundColor: 'rgba(255, 99, 132, 0.2)',
-              fill: false
-            }
+            { label: 'Min Preis', data: minPrices, borderColor: 'rgba(75, 192, 192, 1)', backgroundColor: 'rgba(75, 192, 192, 0.2)', fill: false },
+            { label: 'Max Preis', data: maxPrices, borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)', fill: false }
           ]
         },
         options: {
           responsive: true,
           maintainAspectRatio: false,
           scales: {
-            x: {
-              display: true,
-              title: { display: true, text: 'Zeit' }
-            },
-            y: {
-              display: true,
-              title: { display: true, text: 'Preis' }
-            }
+            x: { display: true, title: { display: true, text: 'Zeit' } },
+            y: { display: true, title: { display: true, text: 'Preis' } }
           },
-          plugins: {
-            legend: { display: true }
-          }
+          plugins: { legend: { display: true } }
         }
       });
     }
     
-    // Zeilenfilter: Wende Filter basierend auf den Checkboxen an
-    function applyRowFilter() {
-      $.fn.dataTable.ext.search = [];
-      $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
-        let row = dataTable.row(dataIndex).node();
-        const productType = $(row).attr('data-product-type');
-        const hideExtrakte = $('#filterExtrakte').prop('checked');
-        const hideCannabis = $('#filterCannabis').prop('checked');
-        // Falls "Extrakte ausblenden" aktiviert ist, entferne Zeilen mit product_type "extrakte"
-        if (hideExtrakte && productType === 'extrakte') {
-          return false;
+    // Filterung der Tabelle nach Produkttyp
+    function applyProductTypeFilter() {
+      const showExtrakte = document.getElementById('filterExtrakte').checked;
+      const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
+      $('#pricesTable tbody tr').each(function() {
+        const prodType = $(this).data('product-type');
+        if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
+          $(this).hide();
+        } else {
+          $(this).show();
         }
-        // Falls "Cannabissorten ausblenden" aktiviert ist, entferne Zeilen mit product_type "cannabissorten" oder "cannabisblüten"
-        if (hideCannabis && (productType === 'cannabissorten' || productType === 'cannabisblüten')) {
-          return false;
-        }
-        return true;
       });
-      dataTable.draw();
     }
     
-    // Bei Änderung der Filter-Checkboxen den Zeilenfilter anwenden
-    $('#filterExtrakte, #filterCannabis').on('change', function() {
-      applyRowFilter();
+    // Spalten-Toggle: Mithilfe der DataTables-API werden Spalten ein-/ausgeblendet
+    function setupColumnToggles() {
+      $('.column-toggle').off('change').on('change', function() {
+        const column = dataTable.column($(this).attr('data-column'));
+        column.visible(!column.visible());
+      });
+    }
+    
+    // Alle 10 Minuten (600000 ms) wird der Index neu geladen
+    setInterval(fetchIndex, 600000);
+    
+    // Dropdown-Änderung: Lade Verlauf für ausgewähltes Produkt
+    document.getElementById('productSelect').addEventListener('change', function() {
+      loadProductHistory(this.value);
     });
     
-    // Spaltentoggle: Verwende DataTables API zum Ein-/Ausblenden einzelner Spalten
-    $('.column-toggle').on('change', function() {
-      const colIndex = $(this).data('column');
-      const column = dataTable.column(colIndex);
-      column.visible(!column.visible());
+    // Filter-Checkboxen
+    $('#filterExtrakte, #filterCannabisblueten').on('change', function() {
+      applyProductTypeFilter();
     });
     
-    // Alle 10 Minuten (600000 ms) werden die Daten neu geladen
-    setInterval(fetchData, 600000);
-    
-    // Chart aktualisieren, wenn ein anderes Produkt gewählt wird
-    document.getElementById('productSelect').addEventListener('change', updateChart);
-    
-    // Initialer Abruf der Daten
-    fetchData();
+    // Initialer Abruf
+    fetchIndex().then(() => {
+      setupColumnToggles();
+    });
   </script>
 </body>
 </html>
