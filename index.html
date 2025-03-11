@@ -41,6 +41,7 @@
       <thead>
         <tr>
           <th>Produkt</th>
+          <th>Preis pro gramm THC</th>
           <th>Letzter Preis</th>
           <th>Letztes Update</th>
         </tr>
@@ -80,7 +81,7 @@
       }
     }
     
-    // Nur Produkte mit einem gültigen Preis (letztes Entry != null) alphabetisch sortiert im Dropdown-Menü anzeigen
+    // Nur Produkte mit gültigen Preis-Daten (letztes Entry != null) alphabetisch sortiert im Dropdown
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
@@ -97,7 +98,7 @@
       });
     }
     
-    // Tabelle: Nur Produkte mit gültigen Preis-Daten anzeigen
+    // Tabelle: Zeige nur Produkte mit gültigen Preis-Daten, inkl. "Preis pro gramm THC"
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
@@ -118,8 +119,22 @@
             priceText = latest.price.min + ' - ' + latest.price.max;
           }
         }
+        // Berechnung "Preis pro gramm THC" falls THC-Wert vorhanden und > 0
+        let pricePerGramTHC = "n/a";
+        if (latest.price && latest.thc && latest.thc > 0) {
+          let avgPrice;
+          if (latest.price.value !== undefined) {
+            avgPrice = latest.price.value;
+          } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
+            avgPrice = (latest.price.min + latest.price.max) / 2;
+          }
+          if (avgPrice !== undefined) {
+            pricePerGramTHC = (avgPrice * 100 / latest.thc).toFixed(2);
+          }
+        }
         const tr = document.createElement('tr');
         tr.innerHTML = `<td>${product}</td>
+                        <td>${pricePerGramTHC}</td>
                         <td>${priceText}</td>
                         <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
         tbody.appendChild(tr);
