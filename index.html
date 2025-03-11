@@ -158,7 +158,7 @@
     let chart;
     let dataTable;
     let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
-
+    
     // Formatierungsfunktionen
     function formatPrice(value) {
       if (typeof value === 'number') {
@@ -192,7 +192,7 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt.
+    // Index.json laden; falls Array, in Objekt umwandeln.
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -229,7 +229,7 @@
       });
     }
     
-    // Tabelle: Index-Daten anzeigen; ungültige Einträge ignorieren
+    // Tabelle: Aktualisiere Zeilendaten über DataTables-API
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product])).sort((a, b) => a.localeCompare(b));
@@ -304,6 +304,8 @@
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
+      // Nach dem Zeichnen der Tabelle die Filterfunktion aufrufen
+      applyProductTypeFilter();
     }
     
     // Detail-Modal: Lade Detaildaten aus separater JSON und zeige sie im Modal
@@ -322,7 +324,7 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Modal; Bild wird oben angezeigt
+    // Zeige Detailinformationen in einem Modal; Bild oben anzeigen
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
@@ -394,7 +396,6 @@
       const showExtrakte = document.getElementById('filterExtrakte').checked;
       const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
       $('#pricesTable tbody tr').each(function() {
-        // Verwende .attr() statt .data()
         const prodType = $(this).attr('data-product-type');
         if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
           $(this).hide();
