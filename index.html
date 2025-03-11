@@ -22,9 +22,6 @@
       width: 100% !important;
       height: auto !important;
     }
-    .filter-panel {
-      margin-bottom: 20px;
-    }
     /* Detail Modal: Bild oben, responsiv */
     .detail-img {
       max-width: 100%;
@@ -79,12 +76,12 @@
     <table id="pricesTable" class="table table-striped">
       <thead>
         <tr>
-          <th>Produkt</th>
+          <th>Handelsname</th>
           <th>THC Wert</th>
           <th>CBD Wert</th>
-          <th>Preis pro gramm THC</th>
-          <th>Letzter min Preis</th>
-          <th>Letzter max Preis</th>
+          <th>Preis pro Gramm THC</th>
+          <th>Tiefstpreis</th>
+          <th>Höchstpreis</th>
           <th>Letztes Update</th>
         </tr>
       </thead>
@@ -195,7 +192,7 @@
       });
     }
     
-    // Tabelle: Zeilendaten per DataTables-API aktualisieren; standardmäßig nach Spalte 3 sortieren
+    // Tabelle: Zeilendaten per DataTables-API aktualisieren; standardmäßig nach "Preis pro Gramm THC" sortieren (Spalte Index 3)
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -241,6 +238,7 @@
           }
         }
         
+        // Erstelle Zeile als Array für DataTables
         const row = [
           product,
           thcValue,
@@ -257,19 +255,19 @@
         dataTable = $('#pricesTable').DataTable({
           data: rowsData,
           columns: [
-            { title: "Produkt" },
+            { title: "Handelsname" },
             { title: "THC Wert" },
             { title: "CBD Wert" },
-            { title: "Preis pro gramm THC" },
-            { title: "Letzter min Preis" },
-            { title: "Letzter max Preis" },
+            { title: "Preis pro Gramm THC" },
+            { title: "Tiefstpreis" },
+            { title: "Höchstpreis" },
             { title: "Letztes Update", orderable: false }
           ],
           responsive: true,
           searching: false,
           lengthChange: false,
           paging: true,
-          order: [[3, "asc"]], // Standardmäßig nach "Preis pro gramm THC" sortieren (Spalte Index 3)
+          order: [[3, "asc"]], // Standardmäßig nach der Spalte "Preis pro Gramm THC"
           language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
@@ -364,8 +362,9 @@
       loadProductDetails(product);
     });
     
-    // Filterung der Tabelle nach Produkttyp (z. B. anhand des data-Attributs)
+    // Filterung der Tabelle nach Produkttyp (hier: data-product-type direkt auslesen)
     function applyProductTypeFilter() {
+      // (Falls Filter-Checkboxen noch verwendet werden – ansonsten ggf. entfernen)
       const showExtrakte = document.getElementById('filterExtrakte').checked;
       const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
       $('#pricesTable tbody tr').each(function() {
@@ -384,6 +383,82 @@
         // DataTable wird beim ersten Laden initialisiert
       });
     });
+    
+    // Update der Chart-Daten für den ausgewählten Strain
+    async function loadProductHistory(product) {
+      if (!product) {
+        if (chart) { chart.destroy(); }
+        return;
+      }
+      const sanitized = product.trim().replace(/[^\w\-]/g, "_");
+      try {
+        const timestamp = new Date().getTime();
+        const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
+        if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
+        const history = await response.json();
+        updateChart(history);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+    
+    // Update der Chart-Daten
+    function updateChart(historyData) {
+      if (!historyData || historyData.length === 0) {
+        if (chart) { chart.destroy(); }
+        return;
+      }
+      let labels = [];
+      let minPrices = [];
+      let maxPrices = [];
+      
+      historyData.forEach(entry => {
+        labels.push(new Date(entry.timestamp).toLocaleString());
+        if (entry.price) {
+          if (entry.price.value !== undefined) {
+            minPrices.push(entry.price.value);
+            maxPrices.push(entry.price.value);
+          } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
+            minPrices.push(entry.price.min);
+            maxPrices.push(entry.price.max);
+          } else {
+            minPrices.push(null);
+            maxPrices.push(null);
+          }
+        } else {
+          minPrices.push(null);
+          maxPrices.push(null);
+        }
+      });
+      // Falls nur ein Datenpunkt vorhanden ist, dupliziere ihn, damit Chart.js eine Linie darstellen kann
+      if (historyData.length === 1) {
+        labels.push(labels[0]);
+        minPrices.push(minPrices[0]);
+        maxPrices.push(maxPrices[0]);
+      }
+      
+      const ctx = document.getElementById('priceChart').getContext('2d');
+      if (chart) { chart.destroy(); }
+      chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: 'Tiefstpreis', data: minPrices, borderColor: 'rgba(75, 192, 192, 1)', backgroundColor: 'rgba(75, 192, 192, 0.2)', fill: false },
+            { label: 'Höchstpreis', data: maxPrices, borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)', fill: false }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            x: { display: true, title: { display: true, text: 'Zeit' } },
+            y: { display: true, title: { display: true, text: 'Preis' } }
+          },
+          plugins: { legend: { display: true } }
+        }
+      });
+    }
   </script>
 </body>
 </html>
