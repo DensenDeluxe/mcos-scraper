@@ -107,17 +107,14 @@
     </div>
   </div>
   
-  <!-- jQuery (für DataTables) -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <!-- Bootstrap JS Bundle -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-  <!-- DataTables JS -->
-  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap5.min.js"></script>
-  <!-- Chart.js -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Skripte mit defer einbinden -->
+  <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script defer src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+  <script defer src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap5.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
-  <script>
+  <script defer>
     let indexData = {};
     let chart;
     let dataTable;
@@ -347,7 +344,6 @@
       detailModal.show();
     }
     
-    // Beim Klick auf eine Tabellenzeile: Detailansicht laden und Dropdown setzen
     $('#pricesTable tbody').on('click', 'tr', function() {
       const product = $(this).find('td:first').text();
       // Setze den Wert im Dropdown-Menü
@@ -355,7 +351,6 @@
       loadProductDetails(product);
     });
     
-    // (Optional: Falls noch Filter-Checkboxen vorhanden sind)
     function applyProductTypeFilter() {
       const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
       const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
@@ -371,7 +366,7 @@
     
     $(document).ready(function() {
       fetchIndex().then(() => {
-        // DataTable wird beim ersten Laden initialisiert
+        // DataTable wird initialisiert
       });
     });
     
