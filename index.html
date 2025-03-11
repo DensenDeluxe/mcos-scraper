@@ -34,7 +34,7 @@
     .detail-section {
       margin-bottom: 1rem;
     }
-    /* Benutzerdefinierte Sortierpfeile für DataTables */
+    /* Sortierpfeile anpassen */
     table.dataTable thead .sorting:after {
       content: "⇅";
       float: right;
@@ -195,7 +195,7 @@
       });
     }
     
-    // Tabelle: Zeilendaten per DataTables-API aktualisieren und standardmäßig nach "Preis pro gramm THC" sortieren (Spalte 3)
+    // Tabelle: Zeilendaten per DataTables-API aktualisieren; standardmäßig nach Spalte 3 sortieren
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -241,7 +241,6 @@
           }
         }
         
-        // Erstelle Zeile als Array für DataTables
         const row = [
           product,
           thcValue,
@@ -264,13 +263,13 @@
             { title: "Preis pro gramm THC" },
             { title: "Letzter min Preis" },
             { title: "Letzter max Preis" },
-            { title: "Letztes Update" }
+            { title: "Letztes Update", orderable: false }
           ],
           responsive: true,
           searching: false,
           lengthChange: false,
           paging: true,
-          order: [[3, "asc"]], // Standardmäßig nach Spalte 3 sortieren
+          order: [[3, "asc"]], // Standardmäßig nach "Preis pro gramm THC" sortieren (Spalte Index 3)
           language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
@@ -278,7 +277,7 @@
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      // Nach Zeichnen der Tabelle Filterfunktion aufrufen
+      // Nach dem Zeichnen der Tabelle die Filterfunktion aufrufen
       applyProductTypeFilter();
     }
     
@@ -298,7 +297,7 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Modal; Bild oben anzeigen
+    // Zeige Detailinformationen in einem Modal; Bild wird oben angezeigt
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
@@ -365,7 +364,7 @@
       loadProductDetails(product);
     });
     
-    // Filterung der Tabelle nach Produkttyp (hier: Daten direkt über das Attribut auslesen)
+    // Filterung der Tabelle nach Produkttyp (z. B. anhand des data-Attributs)
     function applyProductTypeFilter() {
       const showExtrakte = document.getElementById('filterExtrakte').checked;
       const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
