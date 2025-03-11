@@ -1,0 +1,107 @@
+{
+  "title": "Cannamedical Indica forte MA TF",
+  "thc": {
+    "value": 25.1,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.49,
+      "unit": "g"
+    },
+    "max": {
+      "value": 21.42,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tire-Fire-1.jpg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:01.634783",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-tire-fire/",
+  "history": [
+    {
+      "title": "Cannamedical Indica forte MA TF",
+      "thc": {
+        "value": 25.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tire-Fire-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:15:54.938679",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-tire-fire/"
+    },
+    {
+      "title": "Cannamedical Indica forte MA TF",
+      "thc": {
+        "value": 25.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tire-Fire-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:42.736059",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-tire-fire/"
+    },
+    {
+      "title": "Cannamedical Indica forte MA TF",
+      "thc": {
+        "value": 25.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tire-Fire-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:19.261190",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-tire-fire/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:45:19.261190"
+}

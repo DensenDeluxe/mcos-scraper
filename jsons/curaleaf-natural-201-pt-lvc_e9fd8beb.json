@@ -1,0 +1,107 @@
+{
+  "title": "Curaleaf Natural 20/1 PT LVC",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 5.8,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.04,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:20.121710",
+  "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-20-1-pt-lvc/",
+  "history": [
+    {
+      "title": "Curaleaf Natural 20/1 PT LVC",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:16:00.024468",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-20-1-pt-lvc/"
+    },
+    {
+      "title": "Curaleaf Natural 20/1 PT LVC",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:05.287462",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-20-1-pt-lvc/"
+    },
+    {
+      "title": "Curaleaf Natural 20/1 PT LVC",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:14.960998",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-20-1-pt-lvc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:45:14.960998"
+}

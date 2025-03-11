@@ -1,0 +1,69 @@
+{
+  "title": "madrecan 21/1 Mac 2.0",
+  "thc": {
+    "value": 21.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": null,
+      "unit": null
+    }
+  },
+  "delivery_status": "Unbekannt",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:04:50.466241",
+  "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-mac-2-0/",
+  "history": [
+    {
+      "title": "madrecan 21/1 Mac 2.0",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:41.233374",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-mac-2-0/"
+    },
+    {
+      "title": "madrecan 21/1 Mac 2.0",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:19.641193",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-mac-2-0/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:19.641193"
+}

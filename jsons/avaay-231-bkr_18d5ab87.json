@@ -1,0 +1,107 @@
+{
+  "title": "avaay 23/1 BKR",
+  "thc": {
+    "value": 23.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.8,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.75,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BKR_Bud.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:52.615207",
+  "url": "https://medcanonestop.com/medcan_product/avaay-23-1-bkr-black-krush/",
+  "history": [
+    {
+      "title": "avaay 23/1 BKR",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BKR_Bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:12:41.316920",
+      "url": "https://medcanonestop.com/medcan_product/avaay-23-1-bkr-black-krush/"
+    },
+    {
+      "title": "avaay 23/1 BKR",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BKR_Bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:49.855380",
+      "url": "https://medcanonestop.com/medcan_product/avaay-23-1-bkr-black-krush/"
+    },
+    {
+      "title": "avaay 23/1 BKR",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BKR_Bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:30.365491",
+      "url": "https://medcanonestop.com/medcan_product/avaay-23-1-bkr-black-krush/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:30.365491"
+}

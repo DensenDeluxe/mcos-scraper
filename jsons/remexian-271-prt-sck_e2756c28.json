@@ -1,0 +1,107 @@
+{
+  "title": "Remexian 27/1 PRT SCK",
+  "thc": {
+    "value": 27.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.94,
+      "unit": "g"
+    },
+    "max": {
+      "value": 11.0,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:01.002008",
+  "url": "https://medcanonestop.com/medcan_product/remexian-27-1-prt-sck/",
+  "history": [
+    {
+      "title": "Remexian 27/1 PRT SCK",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.94,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:17:53.356537",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-prt-sck/"
+    },
+    {
+      "title": "Remexian 27/1 PRT SCK",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.94,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:20.685965",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-prt-sck/"
+    },
+    {
+      "title": "Remexian 27/1 PRT SCK",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.94,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:05.205525",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-prt-sck/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:05.205525"
+}

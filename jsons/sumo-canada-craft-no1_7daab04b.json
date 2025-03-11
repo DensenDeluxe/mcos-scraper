@@ -1,0 +1,81 @@
+{
+  "title": "SUMO Canada Craft No.1",
+  "thc": {
+    "value": 28.7,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.95,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.95,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5407.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:45.590687",
+  "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-1/",
+  "history": [
+    {
+      "title": "SUMO Canada Craft No.1",
+      "thc": {
+        "value": 28.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5407.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:39.608844",
+      "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-1/"
+    },
+    {
+      "title": "SUMO Canada Craft No.1",
+      "thc": {
+        "value": 28.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5407.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:39.338775",
+      "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:39.338775"
+}

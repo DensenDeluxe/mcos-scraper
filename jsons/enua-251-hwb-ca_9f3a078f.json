@@ -1,0 +1,107 @@
+{
+  "title": "enua 25/1 HWB CA",
+  "thc": {
+    "value": 24.9,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.9,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.4,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/HippieHeadbanger.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:08:26.876683",
+  "url": "https://medcanonestop.com/medcan_product/enua-25-1-hwb-ca/",
+  "history": [
+    {
+      "title": "enua 25/1 HWB CA",
+      "thc": {
+        "value": 24.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/HippieHeadbanger.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:04.695924",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-hwb-ca/"
+    },
+    {
+      "title": "enua 25/1 HWB CA",
+      "thc": {
+        "value": 24.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/HippieHeadbanger.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:58.525151",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-hwb-ca/"
+    },
+    {
+      "title": "enua 25/1 HWB CA",
+      "thc": {
+        "value": 24.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/HippieHeadbanger.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:48:56.569716",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-hwb-ca/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:48:56.569716"
+}

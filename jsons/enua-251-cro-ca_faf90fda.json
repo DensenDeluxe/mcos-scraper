@@ -1,0 +1,69 @@
+{
+  "title": "enua 25/1 CRO CA",
+  "thc": {
+    "value": 25.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 19.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/796.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:20.400645",
+  "url": "https://medcanonestop.com/medcan_product/enua-25-1-cro-ca-crescendo-cookies/",
+  "history": [
+    {
+      "title": "enua 25/1 CRO CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 19.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/796.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:30.974387",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-cro-ca-crescendo-cookies/"
+    },
+    {
+      "title": "enua 25/1 CRO CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 19.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/796.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:40.277551",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-cro-ca-crescendo-cookies/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:40.277551"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "RE:CANNIS 10/1",
+  "thc": {
+    "value": 100.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 10.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 19.25,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 45.95,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:43.692586",
+  "url": "https://medcanonestop.com/medcan_product/recannis-10-1/",
+  "history": [
+    {
+      "title": "RE:CANNIS 10/1",
+      "thc": {
+        "value": 100.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 19.25,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 45.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:25.571178",
+      "url": "https://medcanonestop.com/medcan_product/recannis-10-1/"
+    },
+    {
+      "title": "RE:CANNIS 10/1",
+      "thc": {
+        "value": 100.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 19.25,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 45.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:32.868369",
+      "url": "https://medcanonestop.com/medcan_product/recannis-10-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:32.868369"
+}

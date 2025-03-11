@@ -1,0 +1,69 @@
+{
+  "title": "Aurora 1/16 VSP-CA",
+  "thc": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 16.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": null,
+      "unit": null
+    }
+  },
+  "delivery_status": "Unbekannt",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/AURORA-1_16-VSP-CA_Bluete.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:55.974476",
+  "url": "https://medcanonestop.com/medcan_product/aurora-1-16-vsp-ca-vespera/",
+  "history": [
+    {
+      "title": "Aurora 1/16 VSP-CA",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/AURORA-1_16-VSP-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:37.118037",
+      "url": "https://medcanonestop.com/medcan_product/aurora-1-16-vsp-ca-vespera/"
+    },
+    {
+      "title": "Aurora 1/16 VSP-CA",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/AURORA-1_16-VSP-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:42:06.445471",
+      "url": "https://medcanonestop.com/medcan_product/aurora-1-16-vsp-ca-vespera/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:42:06.445471"
+}

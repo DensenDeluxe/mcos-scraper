@@ -1,0 +1,81 @@
+{
+  "title": "enua 25/1 SSV CA",
+  "thc": {
+    "value": 25.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.98,
+      "unit": "g"
+    },
+    "max": {
+      "value": 12.85,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:46.096498",
+  "url": "https://medcanonestop.com/medcan_product/enua-25-1-ssv-ca/",
+  "history": [
+    {
+      "title": "enua 25/1 SSV CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:30.334667",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-ssv-ca/"
+    },
+    {
+      "title": "enua 25/1 SSV CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:28.927582",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-ssv-ca/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:28.927582"
+}

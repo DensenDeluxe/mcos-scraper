@@ -1,0 +1,107 @@
+{
+  "title": "Tilray Craft THC25 Triangle Mints",
+  "thc": {
+    "value": 25.3,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 12.5,
+      "unit": "g"
+    },
+    "max": {
+      "value": 13.71,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:13.824378",
+  "url": "https://medcanonestop.com/medcan_product/tilray-craft-thc25-triangle-mints/",
+  "history": [
+    {
+      "title": "Tilray Craft THC25 Triangle Mints",
+      "thc": {
+        "value": 25.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.71,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:40.114277",
+      "url": "https://medcanonestop.com/medcan_product/tilray-craft-thc25-triangle-mints/"
+    },
+    {
+      "title": "Tilray Craft THC25 Triangle Mints",
+      "thc": {
+        "value": 25.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.71,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:39.886291",
+      "url": "https://medcanonestop.com/medcan_product/tilray-craft-thc25-triangle-mints/"
+    },
+    {
+      "title": "Tilray Craft THC25 Triangle Mints",
+      "thc": {
+        "value": 25.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.71,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:42:53.044863",
+      "url": "https://medcanonestop.com/medcan_product/tilray-craft-thc25-triangle-mints/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:42:53.044863"
+}

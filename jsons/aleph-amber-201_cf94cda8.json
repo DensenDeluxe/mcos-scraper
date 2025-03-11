@@ -1,0 +1,69 @@
+{
+  "title": "aleph amber 20/1",
+  "thc": {
+    "value": 18.3,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 8.23,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-amber.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:17.456142",
+  "url": "https://medcanonestop.com/medcan_product/aleph-amber-20-1/",
+  "history": [
+    {
+      "title": "aleph amber 20/1",
+      "thc": {
+        "value": 18.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-amber.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:52.551668",
+      "url": "https://medcanonestop.com/medcan_product/aleph-amber-20-1/"
+    },
+    {
+      "title": "aleph amber 20/1",
+      "thc": {
+        "value": 18.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-amber.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:38.900482",
+      "url": "https://medcanonestop.com/medcan_product/aleph-amber-20-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:38.900482"
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Demecan Typ 1 BK",
+  "thc": {
+    "value": 21.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 0.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 5.8,
+      "unit": "g"
+    },
+    "max": {
+      "value": 14.13,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/Bubba-Kush-min-1.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:02.777674",
+  "url": "https://medcanonestop.com/medcan_product/demecan-typ-1-bubba-kush/",
+  "history": [
+    {
+      "title": "Demecan Typ 1 BK",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.13,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/Bubba-Kush-min-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:50.562791",
+      "url": "https://medcanonestop.com/medcan_product/demecan-typ-1-bubba-kush/"
+    },
+    {
+      "title": "Demecan Typ 1 BK",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.13,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/Bubba-Kush-min-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:21.943379",
+      "url": "https://medcanonestop.com/medcan_product/demecan-typ-1-bubba-kush/"
+    },
+    {
+      "title": "Demecan Typ 1 BK",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.13,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/Bubba-Kush-min-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:53:19.019056",
+      "url": "https://medcanonestop.com/medcan_product/demecan-typ-1-bubba-kush/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:53:19.019056"
+}

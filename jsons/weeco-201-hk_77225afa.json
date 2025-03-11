@@ -1,0 +1,107 @@
+{
+  "title": "Weeco 20/1 HK",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.69,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.0,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:06:53.501592",
+  "url": "https://medcanonestop.com/medcan_product/weeco-20-1-hk/",
+  "history": [
+    {
+      "title": "Weeco 20/1 HK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:18:22.277413",
+      "url": "https://medcanonestop.com/medcan_product/weeco-20-1-hk/"
+    },
+    {
+      "title": "Weeco 20/1 HK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:26:41.397804",
+      "url": "https://medcanonestop.com/medcan_product/weeco-20-1-hk/"
+    },
+    {
+      "title": "Weeco 20/1 HK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:34.128244",
+      "url": "https://medcanonestop.com/medcan_product/weeco-20-1-hk/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:34.128244"
+}

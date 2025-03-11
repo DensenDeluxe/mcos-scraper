@@ -1,0 +1,91 @@
+{
+  "title": "Cannabis 1A 18/1 Flos Vayamed",
+  "thc": {
+    "value": 18.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 7.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3735.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:10:38.959684",
+  "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-flos-vayamed/",
+  "history": [
+    {
+      "title": "Cannabis 1A 18/1 Flos Vayamed",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3735.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:15:32.522620",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-flos-vayamed/"
+    },
+    {
+      "title": "Cannabis 1A 18/1 Flos Vayamed",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3735.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:24.173629",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-flos-vayamed/"
+    },
+    {
+      "title": "Cannabis 1A 18/1 Flos Vayamed",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3735.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:50:06.078855",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-flos-vayamed/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:50:06.078855"
+}

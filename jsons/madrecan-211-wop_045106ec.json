@@ -1,0 +1,107 @@
+{
+  "title": "madrecan 21/1 WOP",
+  "thc": {
+    "value": 21.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 5.5,
+      "unit": "g"
+    },
+    "max": {
+      "value": 6.3,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5746.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:48.746964",
+  "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-wop/",
+  "history": [
+    {
+      "title": "madrecan 21/1 WOP",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.3,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5746.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:18.220946",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-wop/"
+    },
+    {
+      "title": "madrecan 21/1 WOP",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.3,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5746.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:08.600037",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-wop/"
+    },
+    {
+      "title": "madrecan 21/1 WOP",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.3,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5746.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:42:08.915390",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-wop/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:42:08.915390"
+}

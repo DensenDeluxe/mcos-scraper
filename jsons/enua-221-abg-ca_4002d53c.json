@@ -1,0 +1,81 @@
+{
+  "title": "enua 22/1 ABG CA",
+  "thc": {
+    "value": 22.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.39,
+      "unit": "g"
+    },
+    "max": {
+      "value": 8.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3808.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:06:53.785292",
+  "url": "https://medcanonestop.com/medcan_product/enua-22-1-abg-ca/",
+  "history": [
+    {
+      "title": "enua 22/1 ABG CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3808.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:07.091930",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-abg-ca/"
+    },
+    {
+      "title": "enua 22/1 ABG CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3808.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:49.511025",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-abg-ca/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:49.511025"
+}

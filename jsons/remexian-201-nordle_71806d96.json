@@ -1,0 +1,81 @@
+{
+  "title": "Remexian 20/1 Nordle",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 5.65,
+      "unit": "g"
+    },
+    "max": {
+      "value": 5.7,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:12.024775",
+  "url": "https://medcanonestop.com/medcan_product/remexian-20-1-nordle/",
+  "history": [
+    {
+      "title": "Remexian 20/1 Nordle",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:54.685867",
+      "url": "https://medcanonestop.com/medcan_product/remexian-20-1-nordle/"
+    },
+    {
+      "title": "Remexian 20/1 Nordle",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:42.752263",
+      "url": "https://medcanonestop.com/medcan_product/remexian-20-1-nordle/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:42.752263"
+}

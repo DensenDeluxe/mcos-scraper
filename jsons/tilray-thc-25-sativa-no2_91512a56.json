@@ -1,0 +1,69 @@
+{
+  "title": "TILRAY THC 25 Sativa No.2",
+  "thc": {
+    "value": 25.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 9.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:21.095833",
+  "url": "https://medcanonestop.com/medcan_product/tilray-thc-25-sativa-no-2-headband/",
+  "history": [
+    {
+      "title": "TILRAY THC 25 Sativa No.2",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:58.070964",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-25-sativa-no-2-headband/"
+    },
+    {
+      "title": "TILRAY THC 25 Sativa No.2",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:36.942558",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-25-sativa-no-2-headband/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:36.942558"
+}

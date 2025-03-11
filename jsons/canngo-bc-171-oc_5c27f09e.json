@@ -1,0 +1,81 @@
+{
+  "title": "CannGo BC 17/1 OC",
+  "thc": {
+    "value": 17.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.0,
+      "unit": "g"
+    },
+    "max": {
+      "value": 8.95,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:40.076514",
+  "url": "https://medcanonestop.com/medcan_product/canngo-bc-17-1-oc/",
+  "history": [
+    {
+      "title": "CannGo BC 17/1 OC",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:38.243008",
+      "url": "https://medcanonestop.com/medcan_product/canngo-bc-17-1-oc/"
+    },
+    {
+      "title": "CannGo BC 17/1 OC",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:50:11.503039",
+      "url": "https://medcanonestop.com/medcan_product/canngo-bc-17-1-oc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:50:11.503039"
+}

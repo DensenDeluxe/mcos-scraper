@@ -1,0 +1,81 @@
+{
+  "title": "Khiron SLH 24/1",
+  "thc": {
+    "value": 23.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.89,
+      "unit": "g"
+    },
+    "max": {
+      "value": 12.61,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/KHIRON-SLH-24-1-Bluete.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:06:47.233764",
+  "url": "https://medcanonestop.com/medcan_product/khiron-slh-24-1-super-lemon-haze/",
+  "history": [
+    {
+      "title": "Khiron SLH 24/1",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.61,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/KHIRON-SLH-24-1-Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:15:55.306807",
+      "url": "https://medcanonestop.com/medcan_product/khiron-slh-24-1-super-lemon-haze/"
+    },
+    {
+      "title": "Khiron SLH 24/1",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.61,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/KHIRON-SLH-24-1-Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:04.027507",
+      "url": "https://medcanonestop.com/medcan_product/khiron-slh-24-1-super-lemon-haze/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:45:04.027507"
+}

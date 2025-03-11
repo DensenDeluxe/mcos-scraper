@@ -1,0 +1,81 @@
+{
+  "title": "Sibanax Hybrid MCF 20/1",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.14,
+      "unit": "g"
+    },
+    "max": {
+      "value": 7.8,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/697.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:36.124710",
+  "url": "https://medcanonestop.com/medcan_product/sibanax-hybrid-mcf-20-1/",
+  "history": [
+    {
+      "title": "Sibanax Hybrid MCF 20/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.14,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/697.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:45.394313",
+      "url": "https://medcanonestop.com/medcan_product/sibanax-hybrid-mcf-20-1/"
+    },
+    {
+      "title": "Sibanax Hybrid MCF 20/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.14,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/697.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:54.339313",
+      "url": "https://medcanonestop.com/medcan_product/sibanax-hybrid-mcf-20-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:54.339313"
+}

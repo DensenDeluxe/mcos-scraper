@@ -1,0 +1,47 @@
+{
+  "title": "BC Green TCK 33/1",
+  "thc": {
+    "value": 33.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 15.0,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/5114.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:20.688505",
+  "url": "https://medcanonestop.com/medcan_product/bc-green-tck-33-1/",
+  "history": [
+    {
+      "title": "BC Green TCK 33/1",
+      "thc": {
+        "value": 33.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 15.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/5114.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:41.750160",
+      "url": "https://medcanonestop.com/medcan_product/bc-green-tck-33-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:41.750160"
+}

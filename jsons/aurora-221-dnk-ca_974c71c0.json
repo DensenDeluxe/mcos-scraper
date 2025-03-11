@@ -1,0 +1,107 @@
+{
+  "title": "Aurora 22/1 DNK CA",
+  "thc": {
+    "value": 22.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.49,
+      "unit": "g"
+    },
+    "max": {
+      "value": 15.25,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/AURORA-22_1_Bluete-1.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:25.446694",
+  "url": "https://medcanonestop.com/medcan_product/aurora-22-1-dnk-delahaze/",
+  "history": [
+    {
+      "title": "Aurora 22/1 DNK CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/AURORA-22_1_Bluete-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:25.147048",
+      "url": "https://medcanonestop.com/medcan_product/aurora-22-1-dnk-delahaze/"
+    },
+    {
+      "title": "Aurora 22/1 DNK CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/AURORA-22_1_Bluete-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:28.539701",
+      "url": "https://medcanonestop.com/medcan_product/aurora-22-1-dnk-delahaze/"
+    },
+    {
+      "title": "Aurora 22/1 DNK CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/AURORA-22_1_Bluete-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:44:04.122402",
+      "url": "https://medcanonestop.com/medcan_product/aurora-22-1-dnk-delahaze/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:44:04.122402"
+}

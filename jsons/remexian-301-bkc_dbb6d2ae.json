@@ -1,0 +1,91 @@
+{
+  "title": "Remexian 30/1 BKC",
+  "thc": {
+    "value": 30.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 10.9,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5318.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:39.303155",
+  "url": "https://medcanonestop.com/medcan_product/remexian-30-1-bkc/",
+  "history": [
+    {
+      "title": "Remexian 30/1 BKC",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 10.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5318.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:53.236724",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-bkc/"
+    },
+    {
+      "title": "Remexian 30/1 BKC",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 10.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5318.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:10.799403",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-bkc/"
+    },
+    {
+      "title": "Remexian 30/1 BKC",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 10.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5318.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:56.098284",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-bkc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:56.098284"
+}

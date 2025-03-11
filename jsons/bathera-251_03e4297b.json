@@ -1,0 +1,91 @@
+{
+  "title": "Bathera 25/1",
+  "thc": {
+    "value": 25.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": null,
+      "unit": null
+    }
+  },
+  "delivery_status": "Unbekannt",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:11.784032",
+  "url": "https://medcanonestop.com/medcan_product/bathera-25-1-fine-cookies/",
+  "history": [
+    {
+      "title": "Bathera 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:05.445961",
+      "url": "https://medcanonestop.com/medcan_product/bathera-25-1-fine-cookies/"
+    },
+    {
+      "title": "Bathera 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:48.445853",
+      "url": "https://medcanonestop.com/medcan_product/bathera-25-1-fine-cookies/"
+    },
+    {
+      "title": "Bathera 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:22.387092",
+      "url": "https://medcanonestop.com/medcan_product/bathera-25-1-fine-cookies/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:22.387092"
+}

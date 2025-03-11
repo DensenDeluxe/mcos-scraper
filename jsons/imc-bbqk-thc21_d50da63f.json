@@ -1,0 +1,107 @@
+{
+  "title": "IMC BBQK THC21",
+  "thc": {
+    "value": 21.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 4.99,
+      "unit": "g"
+    },
+    "max": {
+      "value": 5.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:07.122188",
+  "url": "https://medcanonestop.com/medcan_product/imc-bbqk-thc21/",
+  "history": [
+    {
+      "title": "IMC BBQK THC21",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:16.153412",
+      "url": "https://medcanonestop.com/medcan_product/imc-bbqk-thc21/"
+    },
+    {
+      "title": "IMC BBQK THC21",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:37.245916",
+      "url": "https://medcanonestop.com/medcan_product/imc-bbqk-thc21/"
+    },
+    {
+      "title": "IMC BBQK THC21",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:54:07.515419",
+      "url": "https://medcanonestop.com/medcan_product/imc-bbqk-thc21/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:54:07.515419"
+}

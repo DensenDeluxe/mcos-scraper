@@ -1,0 +1,107 @@
+{
+  "title": "MGF PG 18/1",
+  "thc": {
+    "value": 19.3,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.3,
+      "unit": "g"
+    },
+    "max": {
+      "value": 7.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:16.199814",
+  "url": "https://medcanonestop.com/medcan_product/mgf-pg-18-1/",
+  "history": [
+    {
+      "title": "MGF PG 18/1",
+      "thc": {
+        "value": 19.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:28.543184",
+      "url": "https://medcanonestop.com/medcan_product/mgf-pg-18-1/"
+    },
+    {
+      "title": "MGF PG 18/1",
+      "thc": {
+        "value": 19.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:40.168998",
+      "url": "https://medcanonestop.com/medcan_product/mgf-pg-18-1/"
+    },
+    {
+      "title": "MGF PG 18/1",
+      "thc": {
+        "value": 19.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:54:03.584043",
+      "url": "https://medcanonestop.com/medcan_product/mgf-pg-18-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:54:03.584043"
+}

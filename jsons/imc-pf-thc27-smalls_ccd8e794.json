@@ -1,0 +1,107 @@
+{
+  "title": "IMC PF THC27 Smalls",
+  "thc": {
+    "value": 27.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 4.95,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.98,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:48.253561",
+  "url": "https://medcanonestop.com/medcan_product/imc-pf-thc27-smalls/",
+  "history": [
+    {
+      "title": "IMC PF THC27 Smalls",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:55.269743",
+      "url": "https://medcanonestop.com/medcan_product/imc-pf-thc27-smalls/"
+    },
+    {
+      "title": "IMC PF THC27 Smalls",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:26:22.133598",
+      "url": "https://medcanonestop.com/medcan_product/imc-pf-thc27-smalls/"
+    },
+    {
+      "title": "IMC PF THC27 Smalls",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:35.116652",
+      "url": "https://medcanonestop.com/medcan_product/imc-pf-thc27-smalls/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:35.116652"
+}

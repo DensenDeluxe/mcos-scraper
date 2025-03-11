@@ -1,0 +1,69 @@
+{
+  "title": "Cannamedical Hybrid Classic URY WG",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": null,
+      "unit": null
+    }
+  },
+  "delivery_status": "Unbekannt",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/White-Gorilla.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:09.176138",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-ury-wg/",
+  "history": [
+    {
+      "title": "Cannamedical Hybrid Classic URY WG",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/White-Gorilla.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:24.257313",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-ury-wg/"
+    },
+    {
+      "title": "Cannamedical Hybrid Classic URY WG",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/White-Gorilla.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:35.770340",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-ury-wg/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:35.770340"
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Cannamedical Sativa classic NM CL",
+  "thc": {
+    "value": 20.6,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.88,
+      "unit": "g"
+    },
+    "max": {
+      "value": 13.63,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:10:01.123530",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-cl/",
+  "history": [
+    {
+      "title": "Cannamedical Sativa classic NM CL",
+      "thc": {
+        "value": 20.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.88,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.63,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:25.516804",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-cl/"
+    },
+    {
+      "title": "Cannamedical Sativa classic NM CL",
+      "thc": {
+        "value": 20.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.88,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.63,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:39.265892",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-cl/"
+    },
+    {
+      "title": "Cannamedical Sativa classic NM CL",
+      "thc": {
+        "value": 20.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.88,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.63,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:50:01.243830",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-cl/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:50:01.243830"
+}

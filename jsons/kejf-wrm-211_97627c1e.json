@@ -1,0 +1,69 @@
+{
+  "title": "KEjF. WRM 21/1",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": null,
+      "unit": null
+    }
+  },
+  "delivery_status": "Unbekannt",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/743.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:04:58.620166",
+  "url": "https://medcanonestop.com/medcan_product/kejf-wrm-21-1-white-runtz-x-menthol/",
+  "history": [
+    {
+      "title": "KEjF. WRM 21/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/743.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:12:39.470007",
+      "url": "https://medcanonestop.com/medcan_product/kejf-wrm-21-1-white-runtz-x-menthol/"
+    },
+    {
+      "title": "KEjF. WRM 21/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/743.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:14.561271",
+      "url": "https://medcanonestop.com/medcan_product/kejf-wrm-21-1-white-runtz-x-menthol/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:45:14.561271"
+}

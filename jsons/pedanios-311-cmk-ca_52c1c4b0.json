@@ -1,0 +1,81 @@
+{
+  "title": "Pedanios 31/1 CMK-CA",
+  "thc": {
+    "value": 28.5,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.35,
+      "unit": "g"
+    },
+    "max": {
+      "value": 14.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Pedanios_31-28_1_CMK-CA_Bluete.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:11.186743",
+  "url": "https://medcanonestop.com/medcan_product/pedanios-31-1-cmk-ca/",
+  "history": [
+    {
+      "title": "Pedanios 31/1 CMK-CA",
+      "thc": {
+        "value": 28.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Pedanios_31-28_1_CMK-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:26:40.218386",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-31-1-cmk-ca/"
+    },
+    {
+      "title": "Pedanios 31/1 CMK-CA",
+      "thc": {
+        "value": 28.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Pedanios_31-28_1_CMK-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:50:16.471334",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-31-1-cmk-ca/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:50:16.471334"
+}

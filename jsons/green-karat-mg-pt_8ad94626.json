@@ -1,0 +1,81 @@
+{
+  "title": "Green Karat MG PT",
+  "thc": {
+    "value": 24.8,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 0.1,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.3,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.6,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3425.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:06:50.784941",
+  "url": "https://medcanonestop.com/medcan_product/green-karat-mg-pt/",
+  "history": [
+    {
+      "title": "Green Karat MG PT",
+      "thc": {
+        "value": 24.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.6,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3425.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:14.474447",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-mg-pt/"
+    },
+    {
+      "title": "Green Karat MG PT",
+      "thc": {
+        "value": 24.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.6,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3425.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:28:09.257535",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-mg-pt/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:28:09.257535"
+}

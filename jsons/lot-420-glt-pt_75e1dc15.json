@@ -1,0 +1,81 @@
+{
+  "title": "Lot 420 GLT PT",
+  "thc": {
+    "value": 25.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.97,
+      "unit": "g"
+    },
+    "max": {
+      "value": 18.42,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/LOT-420-GLT-Gelato33.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:10.607764",
+  "url": "https://medcanonestop.com/medcan_product/lot-420-glt-pt/",
+  "history": [
+    {
+      "title": "Lot 420 GLT PT",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 18.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/LOT-420-GLT-Gelato33.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:59.250183",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-glt-pt/"
+    },
+    {
+      "title": "Lot 420 GLT PT",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 18.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/LOT-420-GLT-Gelato33.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:56.123923",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-glt-pt/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:56.123923"
+}

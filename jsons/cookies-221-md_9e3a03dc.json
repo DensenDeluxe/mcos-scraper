@@ -1,0 +1,81 @@
+{
+  "title": "Cookies 22/1 MD",
+  "thc": {
+    "value": 22.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.3,
+      "unit": "g"
+    },
+    "max": {
+      "value": 8.45,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image002.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:10:53.086687",
+  "url": "https://medcanonestop.com/medcan_product/cookies-22-1-md/",
+  "history": [
+    {
+      "title": "Cookies 22/1 MD",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image002.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:26.984683",
+      "url": "https://medcanonestop.com/medcan_product/cookies-22-1-md/"
+    },
+    {
+      "title": "Cookies 22/1 MD",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image002.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:55.318543",
+      "url": "https://medcanonestop.com/medcan_product/cookies-22-1-md/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:55.318543"
+}

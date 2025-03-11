@@ -1,0 +1,81 @@
+{
+  "title": "mediproCan Lunaris 19/1",
+  "thc": {
+    "value": 19.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 5.08,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.5,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/Medioprocan-Lunaris-19-1-Motor-Breath.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:37.572512",
+  "url": "https://medcanonestop.com/medcan_product/mediprocan-lunaris-19-1/",
+  "history": [
+    {
+      "title": "mediproCan Lunaris 19/1",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.08,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/Medioprocan-Lunaris-19-1-Motor-Breath.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:42.106641",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-lunaris-19-1/"
+    },
+    {
+      "title": "mediproCan Lunaris 19/1",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.08,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/Medioprocan-Lunaris-19-1-Motor-Breath.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:52.203902",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-lunaris-19-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:52.203902"
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Cannamedical THC20:CBD5",
+  "thc": {
+    "value": 20.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 5.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 5.95,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 134.9,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:20.498800",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-thc20cbd5/",
+  "history": [
+    {
+      "title": "Cannamedical THC20:CBD5",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 134.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:46.919965",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc20cbd5/"
+    },
+    {
+      "title": "Cannamedical THC20:CBD5",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 134.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:55.550614",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc20cbd5/"
+    },
+    {
+      "title": "Cannamedical THC20:CBD5",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 134.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:43:42.396762",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc20cbd5/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:43:42.396762"
+}

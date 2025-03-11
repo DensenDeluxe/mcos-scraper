@@ -1,0 +1,107 @@
+{
+  "title": "IMC Cannabisextrakt 25:25",
+  "thc": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 4.45,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 159.1,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:42.694087",
+  "url": "https://medcanonestop.com/medcan_product/imc-2525/",
+  "history": [
+    {
+      "title": "IMC Cannabisextrakt 25:25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.45,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 159.1,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:20.906090",
+      "url": "https://medcanonestop.com/medcan_product/imc-2525/"
+    },
+    {
+      "title": "IMC Cannabisextrakt 25:25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.45,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 159.1,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:25:43.116752",
+      "url": "https://medcanonestop.com/medcan_product/imc-2525/"
+    },
+    {
+      "title": "IMC Cannabisextrakt 25:25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.45,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 159.1,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:12.419836",
+      "url": "https://medcanonestop.com/medcan_product/imc-2525/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:45:12.419836"
+}

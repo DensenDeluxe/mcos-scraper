@@ -1,0 +1,107 @@
+{
+  "title": "NICE 26/1 LC",
+  "thc": {
+    "value": 26.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.59,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.98,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Lemon-Cookies.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:46.607370",
+  "url": "https://medcanonestop.com/medcan_product/nice-26-1-lc/",
+  "history": [
+    {
+      "title": "NICE 26/1 LC",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Lemon-Cookies.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:15:07.585037",
+      "url": "https://medcanonestop.com/medcan_product/nice-26-1-lc/"
+    },
+    {
+      "title": "NICE 26/1 LC",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Lemon-Cookies.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:48.122206",
+      "url": "https://medcanonestop.com/medcan_product/nice-26-1-lc/"
+    },
+    {
+      "title": "NICE 26/1 LC",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Lemon-Cookies.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:44:28.859472",
+      "url": "https://medcanonestop.com/medcan_product/nice-26-1-lc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:44:28.859472"
+}

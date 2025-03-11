@@ -1,0 +1,55 @@
+{
+  "title": "Remexian 27/1 HMA PYW",
+  "thc": {
+    "value": 27.7,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.79,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:41.578547",
+  "url": "https://medcanonestop.com/medcan_product/remexian-27-1-hma-pyw/",
+  "history": [
+    {
+      "title": "Remexian 27/1 HMA PYW",
+      "thc": {
+        "value": 27.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:43:41.409320",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-hma-pyw/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:43:41.409320"
+}

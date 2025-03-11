@@ -1,0 +1,107 @@
+{
+  "title": "Bathera 28/1 FC",
+  "thc": {
+    "value": 28.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.84,
+      "unit": "g"
+    },
+    "max": {
+      "value": 11.95,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:53.958648",
+  "url": "https://medcanonestop.com/medcan_product/bathera-28-1-fc/",
+  "history": [
+    {
+      "title": "Bathera 28/1 FC",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.84,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:30.503266",
+      "url": "https://medcanonestop.com/medcan_product/bathera-28-1-fc/"
+    },
+    {
+      "title": "Bathera 28/1 FC",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.84,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:06.742942",
+      "url": "https://medcanonestop.com/medcan_product/bathera-28-1-fc/"
+    },
+    {
+      "title": "Bathera 28/1 FC",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.84,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Bathera-25-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:31.172995",
+      "url": "https://medcanonestop.com/medcan_product/bathera-28-1-fc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:31.172995"
+}

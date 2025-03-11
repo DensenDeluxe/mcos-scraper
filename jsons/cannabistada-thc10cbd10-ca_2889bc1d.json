@@ -1,0 +1,107 @@
+{
+  "title": "CannabiStada THC10/CBD10 CA",
+  "thc": {
+    "value": 10.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 10.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 6.95,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 14.26,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:36.296491",
+  "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd10-ca/",
+  "history": [
+    {
+      "title": "CannabiStada THC10/CBD10 CA",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 14.26,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:18:04.317705",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd10-ca/"
+    },
+    {
+      "title": "CannabiStada THC10/CBD10 CA",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 14.26,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:19.549373",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd10-ca/"
+    },
+    {
+      "title": "CannabiStada THC10/CBD10 CA",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 14.26,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:43:29.242689",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd10-ca/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:43:29.242689"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "enua 27/1 ZS CA",
+  "thc": {
+    "value": 27.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.39,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.29,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:18.668472",
+  "url": "https://medcanonestop.com/medcan_product/enua-27-1-zs-ca/",
+  "history": [
+    {
+      "title": "enua 27/1 ZS CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:29.781259",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-zs-ca/"
+    },
+    {
+      "title": "enua 27/1 ZS CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:34.476174",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-zs-ca/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:34.476174"
+}

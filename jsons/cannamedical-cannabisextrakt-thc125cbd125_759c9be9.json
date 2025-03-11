@@ -1,0 +1,60 @@
+{
+  "title": "Cannamedical Cannabisextrakt THC12,5:CBD12,5",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-thc125cbd125/",
+  "product_type": "Cannabisblüten",
+  "last_updated": "2025-03-11T23:21:05.373625",
+  "history": [
+    {
+      "title": "Cannamedical Cannabisextrakt THC12,5:CBD12,5",
+      "thc": {
+        "value": 12.5,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 12.5,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.97,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 129.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC125_CBD125.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:15:05.583169",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc125cbd125/"
+    },
+    {
+      "title": "Cannamedical Cannabisextrakt THC12,5:CBD12,5",
+      "thc": {
+        "value": 12.5,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 12.5,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.97,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 129.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC125_CBD125.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:05.373625",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc125cbd125/"
+    }
+  ]
+}

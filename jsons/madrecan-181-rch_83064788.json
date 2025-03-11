@@ -1,0 +1,69 @@
+{
+  "title": "madrecan 18/1 RCH",
+  "thc": {
+    "value": 18.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 5.49,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4421.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:54.397947",
+  "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-rch/",
+  "history": [
+    {
+      "title": "madrecan 18/1 RCH",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 5.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4421.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:47.135971",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-rch/"
+    },
+    {
+      "title": "madrecan 18/1 RCH",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 5.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4421.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:24.877906",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-rch/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:24.877906"
+}

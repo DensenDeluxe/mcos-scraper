@@ -1,0 +1,107 @@
+{
+  "title": "Cannamedical Sativa classic LS",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.39,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8342.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:10:59.731843",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-ls/",
+  "history": [
+    {
+      "title": "Cannamedical Sativa classic LS",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8342.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:49.046654",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-ls/"
+    },
+    {
+      "title": "Cannamedical Sativa classic LS",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8342.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:43:33.109210",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-ls/"
+    },
+    {
+      "title": "Cannamedical Sativa classic LS",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8342.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:53:26.491545",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-ls/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:53:26.491545"
+}

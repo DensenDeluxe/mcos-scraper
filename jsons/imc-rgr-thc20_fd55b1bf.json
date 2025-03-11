@@ -1,0 +1,107 @@
+{
+  "title": "IMC RGR THC20",
+  "thc": {
+    "value": 19.3,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.79,
+      "unit": "g"
+    },
+    "max": {
+      "value": 7.95,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6533.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:10.368136",
+  "url": "https://medcanonestop.com/medcan_product/imc-rgr-thc20/",
+  "history": [
+    {
+      "title": "IMC RGR THC20",
+      "thc": {
+        "value": 19.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6533.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:26.360630",
+      "url": "https://medcanonestop.com/medcan_product/imc-rgr-thc20/"
+    },
+    {
+      "title": "IMC RGR THC20",
+      "thc": {
+        "value": 19.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6533.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:37.155532",
+      "url": "https://medcanonestop.com/medcan_product/imc-rgr-thc20/"
+    },
+    {
+      "title": "IMC RGR THC20",
+      "thc": {
+        "value": 19.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6533.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:06.163984",
+      "url": "https://medcanonestop.com/medcan_product/imc-rgr-thc20/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:06.163984"
+}

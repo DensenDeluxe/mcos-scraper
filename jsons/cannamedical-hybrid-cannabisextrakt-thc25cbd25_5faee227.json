@@ -1,0 +1,107 @@
+{
+  "title": "Cannamedical Hybrid Cannabisextrakt THC25:CBD25",
+  "thc": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 4.99,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 144.9,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Hybrid-Cannabisextrakt-THC25_CBD25.jpg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:17.490777",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-thc25cbd25/",
+  "history": [
+    {
+      "title": "Cannamedical Hybrid Cannabisextrakt THC25:CBD25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 144.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Hybrid-Cannabisextrakt-THC25_CBD25.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:15:38.842823",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-thc25cbd25/"
+    },
+    {
+      "title": "Cannamedical Hybrid Cannabisextrakt THC25:CBD25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 144.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Hybrid-Cannabisextrakt-THC25_CBD25.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:11.457244",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-thc25cbd25/"
+    },
+    {
+      "title": "Cannamedical Hybrid Cannabisextrakt THC25:CBD25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 144.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Hybrid-Cannabisextrakt-THC25_CBD25.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:49.595109",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-thc25cbd25/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:49.595109"
+}

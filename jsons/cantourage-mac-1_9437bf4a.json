@@ -1,0 +1,81 @@
+{
+  "title": "Cantourage MAC 1+",
+  "thc": {
+    "value": 25.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 0.1,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.8,
+      "unit": "g"
+    },
+    "max": {
+      "value": 14.73,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Miracle-Valley-MAC-1.jpg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:22.792357",
+  "url": "https://medcanonestop.com/medcan_product/cantourage-mac-1/",
+  "history": [
+    {
+      "title": "Cantourage MAC 1+",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.73,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Miracle-Valley-MAC-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:17.694681",
+      "url": "https://medcanonestop.com/medcan_product/cantourage-mac-1/"
+    },
+    {
+      "title": "Cantourage MAC 1+",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.73,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Miracle-Valley-MAC-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:15.995207",
+      "url": "https://medcanonestop.com/medcan_product/cantourage-mac-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:15.995207"
+}

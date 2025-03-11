@@ -1,0 +1,107 @@
+{
+  "title": "Social Choice 15/1 GRO FBD",
+  "thc": {
+    "value": 16.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 4.68,
+      "unit": "g"
+    },
+    "max": {
+      "value": 5.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8011.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:06:58.797459",
+  "url": "https://medcanonestop.com/medcan_product/social-choice-15-1-gro-fbd/",
+  "history": [
+    {
+      "title": "Social Choice 15/1 GRO FBD",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.68,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8011.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:19.343274",
+      "url": "https://medcanonestop.com/medcan_product/social-choice-15-1-gro-fbd/"
+    },
+    {
+      "title": "Social Choice 15/1 GRO FBD",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.68,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8011.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:28:11.095132",
+      "url": "https://medcanonestop.com/medcan_product/social-choice-15-1-gro-fbd/"
+    },
+    {
+      "title": "Social Choice 15/1 GRO FBD",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.68,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8011.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:31.240224",
+      "url": "https://medcanonestop.com/medcan_product/social-choice-15-1-gro-fbd/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:31.240224"
+}

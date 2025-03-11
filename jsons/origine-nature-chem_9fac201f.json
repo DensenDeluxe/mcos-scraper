@@ -1,0 +1,107 @@
+{
+  "title": "Origine Nature Chem",
+  "thc": {
+    "value": 25.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.69,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/ON-Chem-Chem-Dawg-OG.jpg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:40.413163",
+  "url": "https://medcanonestop.com/medcan_product/origine-nature-chem-chemdawg-og/",
+  "history": [
+    {
+      "title": "Origine Nature Chem",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/ON-Chem-Chem-Dawg-OG.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:18:21.996520",
+      "url": "https://medcanonestop.com/medcan_product/origine-nature-chem-chemdawg-og/"
+    },
+    {
+      "title": "Origine Nature Chem",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/ON-Chem-Chem-Dawg-OG.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:11.484746",
+      "url": "https://medcanonestop.com/medcan_product/origine-nature-chem-chemdawg-og/"
+    },
+    {
+      "title": "Origine Nature Chem",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/ON-Chem-Chem-Dawg-OG.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:07.194613",
+      "url": "https://medcanonestop.com/medcan_product/origine-nature-chem-chemdawg-og/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:07.194613"
+}

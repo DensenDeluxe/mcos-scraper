@@ -1,0 +1,107 @@
+{
+  "title": "Tweed 17/1 Gelato 33",
+  "thc": {
+    "value": 17.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.99,
+      "unit": "g"
+    },
+    "max": {
+      "value": 12.5,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:56.786714",
+  "url": "https://medcanonestop.com/medcan_product/tweed-17-1-gelato-33/",
+  "history": [
+    {
+      "title": "Tweed 17/1 Gelato 33",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:18:37.119933",
+      "url": "https://medcanonestop.com/medcan_product/tweed-17-1-gelato-33/"
+    },
+    {
+      "title": "Tweed 17/1 Gelato 33",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:14.486906",
+      "url": "https://medcanonestop.com/medcan_product/tweed-17-1-gelato-33/"
+    },
+    {
+      "title": "Tweed 17/1 Gelato 33",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:50:07.241622",
+      "url": "https://medcanonestop.com/medcan_product/tweed-17-1-gelato-33/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:50:07.241622"
+}

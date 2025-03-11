@@ -1,0 +1,81 @@
+{
+  "title": "Vasco WR",
+  "thc": {
+    "value": 20.1,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.4,
+      "unit": "g"
+    },
+    "max": {
+      "value": 8.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Vasco-WR-White-Runtz.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:54.106242",
+  "url": "https://medcanonestop.com/medcan_product/vasco-wr/",
+  "history": [
+    {
+      "title": "Vasco WR",
+      "thc": {
+        "value": 20.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Vasco-WR-White-Runtz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:27.853390",
+      "url": "https://medcanonestop.com/medcan_product/vasco-wr/"
+    },
+    {
+      "title": "Vasco WR",
+      "thc": {
+        "value": 20.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Vasco-WR-White-Runtz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:27.494091",
+      "url": "https://medcanonestop.com/medcan_product/vasco-wr/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:27.494091"
+}

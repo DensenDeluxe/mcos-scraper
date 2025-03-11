@@ -1,0 +1,81 @@
+{
+  "title": "Nimbus Vita Pura 50:1",
+  "thc": {
+    "value": 50.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 4.31,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 7.7,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:28.066319",
+  "url": "https://medcanonestop.com/medcan_product/nimbus-vita-pura-501/",
+  "history": [
+    {
+      "title": "Nimbus Vita Pura 50:1",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.31,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.7,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:23:37.374128",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-vita-pura-501/"
+    },
+    {
+      "title": "Nimbus Vita Pura 50:1",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.31,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.7,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:32.696631",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-vita-pura-501/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:32.696631"
+}

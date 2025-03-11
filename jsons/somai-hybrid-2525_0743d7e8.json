@@ -1,0 +1,107 @@
+{
+  "title": "SOMAI Hybrid 2,5:25",
+  "thc": {
+    "value": 2.5,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 3.3,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 7.85,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/OralSolutionsBottle25_25.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:12.160696",
+  "url": "https://medcanonestop.com/medcan_product/somai-hybrid-2525-2/",
+  "history": [
+    {
+      "title": "SOMAI Hybrid 2,5:25",
+      "thc": {
+        "value": 2.5,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.3,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.85,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/OralSolutionsBottle25_25.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:15.406057",
+      "url": "https://medcanonestop.com/medcan_product/somai-hybrid-2525-2/"
+    },
+    {
+      "title": "SOMAI Hybrid 2,5:25",
+      "thc": {
+        "value": 2.5,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.3,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.85,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/OralSolutionsBottle25_25.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:25:51.847879",
+      "url": "https://medcanonestop.com/medcan_product/somai-hybrid-2525-2/"
+    },
+    {
+      "title": "SOMAI Hybrid 2,5:25",
+      "thc": {
+        "value": 2.5,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.3,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.85,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/OralSolutionsBottle25_25.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:56.528413",
+      "url": "https://medcanonestop.com/medcan_product/somai-hybrid-2525-2/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:56.528413"
+}

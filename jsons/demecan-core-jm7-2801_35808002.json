@@ -1,0 +1,81 @@
+{
+  "title": "Demecan Core JM7 28:01",
+  "thc": {
+    "value": 27.1,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 8.99,
+      "unit": "g"
+    },
+    "max": {
+      "value": 16.42,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:02.795302",
+  "url": "https://medcanonestop.com/medcan_product/demecan-core-jm7-2801/",
+  "history": [
+    {
+      "title": "Demecan Core JM7 28:01",
+      "thc": {
+        "value": 27.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:16.984660",
+      "url": "https://medcanonestop.com/medcan_product/demecan-core-jm7-2801/"
+    },
+    {
+      "title": "Demecan Core JM7 28:01",
+      "thc": {
+        "value": 27.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:42:19.070016",
+      "url": "https://medcanonestop.com/medcan_product/demecan-core-jm7-2801/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:42:19.070016"
+}

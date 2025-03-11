@@ -1,0 +1,107 @@
+{
+  "title": "CM 24/1 BRY",
+  "thc": {
+    "value": 24.7,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.89,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.95,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Strawberry-OG.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:06.745715",
+  "url": "https://medcanonestop.com/medcan_product/cm-24-1-bry/",
+  "history": [
+    {
+      "title": "CM 24/1 BRY",
+      "thc": {
+        "value": 24.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Strawberry-OG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:24:18.224971",
+      "url": "https://medcanonestop.com/medcan_product/cm-24-1-bry/"
+    },
+    {
+      "title": "CM 24/1 BRY",
+      "thc": {
+        "value": 24.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Strawberry-OG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:11.464201",
+      "url": "https://medcanonestop.com/medcan_product/cm-24-1-bry/"
+    },
+    {
+      "title": "CM 24/1 BRY",
+      "thc": {
+        "value": 24.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Strawberry-OG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:54:32.642601",
+      "url": "https://medcanonestop.com/medcan_product/cm-24-1-bry/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:54:32.642601"
+}

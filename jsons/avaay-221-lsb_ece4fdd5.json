@@ -1,0 +1,69 @@
+{
+  "title": "avaay 22/1 LSB",
+  "thc": {
+    "value": 22.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": null,
+      "unit": null
+    }
+  },
+  "delivery_status": "Unbekannt",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/LSB_bud.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:50.345670",
+  "url": "https://medcanonestop.com/medcan_product/avaay-22-1-lsb-lemon-sherbet/",
+  "history": [
+    {
+      "title": "avaay 22/1 LSB",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/LSB_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:12:48.278482",
+      "url": "https://medcanonestop.com/medcan_product/avaay-22-1-lsb-lemon-sherbet/"
+    },
+    {
+      "title": "avaay 22/1 LSB",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/LSB_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:40.544474",
+      "url": "https://medcanonestop.com/medcan_product/avaay-22-1-lsb-lemon-sherbet/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:40.544474"
+}

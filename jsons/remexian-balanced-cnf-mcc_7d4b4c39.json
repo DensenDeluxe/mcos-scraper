@@ -1,0 +1,107 @@
+{
+  "title": "Remexian Balanced CNF MCC",
+  "thc": {
+    "value": 8.5,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 14.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.99,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.15,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:10:52.465329",
+  "url": "https://medcanonestop.com/medcan_product/remexian-balanced-cnf-mcc/",
+  "history": [
+    {
+      "title": "Remexian Balanced CNF MCC",
+      "thc": {
+        "value": 8.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:20:59.772870",
+      "url": "https://medcanonestop.com/medcan_product/remexian-balanced-cnf-mcc/"
+    },
+    {
+      "title": "Remexian Balanced CNF MCC",
+      "thc": {
+        "value": 8.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:05.711959",
+      "url": "https://medcanonestop.com/medcan_product/remexian-balanced-cnf-mcc/"
+    },
+    {
+      "title": "Remexian Balanced CNF MCC",
+      "thc": {
+        "value": 8.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:53:22.125671",
+      "url": "https://medcanonestop.com/medcan_product/remexian-balanced-cnf-mcc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:53:22.125671"
+}

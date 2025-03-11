@@ -1,0 +1,69 @@
+{
+  "title": "Demecan AG Epic Drop GB",
+  "thc": {
+    "value": 30.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": null,
+      "unit": null
+    }
+  },
+  "delivery_status": "Unbekannt",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/825.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:08:01.473114",
+  "url": "https://medcanonestop.com/medcan_product/demecan-ag-epic-drop-guava-barz/",
+  "history": [
+    {
+      "title": "Demecan AG Epic Drop GB",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/825.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:20:56.826603",
+      "url": "https://medcanonestop.com/medcan_product/demecan-ag-epic-drop-guava-barz/"
+    },
+    {
+      "title": "Demecan AG Epic Drop GB",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/825.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:44:47.755640",
+      "url": "https://medcanonestop.com/medcan_product/demecan-ag-epic-drop-guava-barz/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:44:47.755640"
+}

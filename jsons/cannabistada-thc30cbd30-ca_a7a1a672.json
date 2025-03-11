@@ -1,0 +1,107 @@
+{
+  "title": "Cannabistada THC30/CBD30 CA",
+  "thc": {
+    "value": 30.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 30.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 13.33,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 22.88,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:08.387473",
+  "url": "https://medcanonestop.com/medcan_product/cannabistada-thc30-cbd30-ca/",
+  "history": [
+    {
+      "title": "Cannabistada THC30/CBD30 CA",
+      "thc": {
+        "value": 30.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 30.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 13.33,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 22.88,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:17:27.721988",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc30-cbd30-ca/"
+    },
+    {
+      "title": "Cannabistada THC30/CBD30 CA",
+      "thc": {
+        "value": 30.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 30.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 13.33,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 22.88,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:25:08.594778",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc30-cbd30-ca/"
+    },
+    {
+      "title": "Cannabistada THC30/CBD30 CA",
+      "thc": {
+        "value": 30.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 30.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 13.33,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 22.88,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:44:24.652420",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc30-cbd30-ca/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:44:24.652420"
+}

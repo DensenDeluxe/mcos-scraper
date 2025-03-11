@@ -1,0 +1,107 @@
+{
+  "title": "Cannamedical Indica forte URY DBF",
+  "thc": {
+    "value": 23.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.55,
+      "unit": "g"
+    },
+    "max": {
+      "value": 15.47,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion-1.jpg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:08:19.161638",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ury-dbf/",
+  "history": [
+    {
+      "title": "Cannamedical Indica forte URY DBF",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.55,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:02.193190",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ury-dbf/"
+    },
+    {
+      "title": "Cannamedical Indica forte URY DBF",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.55,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:35.722039",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ury-dbf/"
+    },
+    {
+      "title": "Cannamedical Indica forte URY DBF",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.55,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:53:45.538102",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ury-dbf/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:53:45.538102"
+}

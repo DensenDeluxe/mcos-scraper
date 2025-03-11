@@ -1,0 +1,81 @@
+{
+  "title": "420 Evolution 27/1 CA BUL",
+  "thc": {
+    "value": 27.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.4,
+      "unit": "g"
+    },
+    "max": {
+      "value": 19.25,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Bucket-List_BUL.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:06:55.697053",
+  "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-bul/",
+  "history": [
+    {
+      "title": "420 Evolution 27/1 CA BUL",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 19.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Bucket-List_BUL.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:26:18.624734",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-bul/"
+    },
+    {
+      "title": "420 Evolution 27/1 CA BUL",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 19.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Bucket-List_BUL.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:06.811346",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-bul/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:06.811346"
+}

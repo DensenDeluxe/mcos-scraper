@@ -1,0 +1,107 @@
+{
+  "title": "SUMO MDLX",
+  "thc": {
+    "value": 29.3,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.49,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.66,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8452.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:23.086716",
+  "url": "https://medcanonestop.com/medcan_product/sumo-mdlx/",
+  "history": [
+    {
+      "title": "SUMO MDLX",
+      "thc": {
+        "value": 29.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8452.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:50.664365",
+      "url": "https://medcanonestop.com/medcan_product/sumo-mdlx/"
+    },
+    {
+      "title": "SUMO MDLX",
+      "thc": {
+        "value": 29.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8452.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:28:13.360834",
+      "url": "https://medcanonestop.com/medcan_product/sumo-mdlx/"
+    },
+    {
+      "title": "SUMO MDLX",
+      "thc": {
+        "value": 29.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8452.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:36.033348",
+      "url": "https://medcanonestop.com/medcan_product/sumo-mdlx/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:36.033348"
+}

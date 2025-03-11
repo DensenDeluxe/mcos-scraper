@@ -1,0 +1,107 @@
+{
+  "title": "Beacon PK T24",
+  "thc": {
+    "value": 24.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 5.89,
+      "unit": "g"
+    },
+    "max": {
+      "value": 7.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4520.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:20.941296",
+  "url": "https://medcanonestop.com/medcan_product/beacon-t24-pk/",
+  "history": [
+    {
+      "title": "Beacon PK T24",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4520.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:14:55.614248",
+      "url": "https://medcanonestop.com/medcan_product/beacon-t24-pk/"
+    },
+    {
+      "title": "Beacon PK T24",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4520.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:25:07.395701",
+      "url": "https://medcanonestop.com/medcan_product/beacon-t24-pk/"
+    },
+    {
+      "title": "Beacon PK T24",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4520.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:44:54.872522",
+      "url": "https://medcanonestop.com/medcan_product/beacon-t24-pk/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:44:54.872522"
+}

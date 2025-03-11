@@ -1,0 +1,69 @@
+{
+  "title": "Remexian 20/1 WW",
+  "thc": {
+    "value": 20.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "value": {
+      "value": 6.95,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/805.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:44.720554",
+  "url": "https://medcanonestop.com/medcan_product/remexian-20-1-white-widow/",
+  "history": [
+    {
+      "title": "Remexian 20/1 WW",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/805.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:00.676169",
+      "url": "https://medcanonestop.com/medcan_product/remexian-20-1-white-widow/"
+    },
+    {
+      "title": "Remexian 20/1 WW",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/805.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:21.434533",
+      "url": "https://medcanonestop.com/medcan_product/remexian-20-1-white-widow/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:21.434533"
+}

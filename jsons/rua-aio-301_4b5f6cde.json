@@ -1,0 +1,107 @@
+{
+  "title": "RUA AIO 30/1",
+  "thc": {
+    "value": 31.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.75,
+      "unit": "g"
+    },
+    "max": {
+      "value": 15.45,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:10:42.789477",
+  "url": "https://medcanonestop.com/medcan_product/rua-aio-30-1/",
+  "history": [
+    {
+      "title": "RUA AIO 30/1",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:15:08.106212",
+      "url": "https://medcanonestop.com/medcan_product/rua-aio-30-1/"
+    },
+    {
+      "title": "RUA AIO 30/1",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:02.589960",
+      "url": "https://medcanonestop.com/medcan_product/rua-aio-30-1/"
+    },
+    {
+      "title": "RUA AIO 30/1",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:15.902373",
+      "url": "https://medcanonestop.com/medcan_product/rua-aio-30-1/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:15.902373"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Cannamedical CBD25",
+  "thc": {
+    "value": 2.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "price": {
+    "value": {
+      "value": 9.95,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:07:24.103287",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-cbd25/",
+  "history": [
+    {
+      "title": "Cannamedical CBD25",
+      "thc": {
+        "value": 2.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 9.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:28:15.767911",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cbd25/"
+    },
+    {
+      "title": "Cannamedical CBD25",
+      "thc": {
+        "value": 2.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 9.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:41:54.089524",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cbd25/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:41:54.089524"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Wellford Aquaponic 26/1 CRO",
+  "thc": {
+    "value": 26.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.49,
+      "unit": "g"
+    },
+    "max": {
+      "value": 10.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Bluete_CRO.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:18.624181",
+  "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-cro/",
+  "history": [
+    {
+      "title": "Wellford Aquaponic 26/1 CRO",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Bluete_CRO.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:27:08.914062",
+      "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-cro/"
+    },
+    {
+      "title": "Wellford Aquaponic 26/1 CRO",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Bluete_CRO.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:42:57.989708",
+      "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-cro/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:42:57.989708"
+}

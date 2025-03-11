@@ -1,0 +1,107 @@
+{
+  "title": "Adven 25/25",
+  "thc": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "cbd": {
+    "value": 25.0,
+    "unit": "mg"
+  },
+  "price": {
+    "min": {
+      "value": 4.49,
+      "unit": "ml"
+    },
+    "max": {
+      "value": 9.99,
+      "unit": "ml"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:06:43.686569",
+  "url": "https://medcanonestop.com/medcan_product/adven-25-25/",
+  "history": [
+    {
+      "title": "Adven 25/25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.49,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:57.139664",
+      "url": "https://medcanonestop.com/medcan_product/adven-25-25/"
+    },
+    {
+      "title": "Adven 25/25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.49,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:37.928956",
+      "url": "https://medcanonestop.com/medcan_product/adven-25-25/"
+    },
+    {
+      "title": "Adven 25/25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 4.49,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:39:50.001348",
+      "url": "https://medcanonestop.com/medcan_product/adven-25-25/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:39:50.001348"
+}

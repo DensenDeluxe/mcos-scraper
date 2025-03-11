@@ -1,0 +1,81 @@
+{
+  "title": "Remexian 22/1 FLC",
+  "thc": {
+    "value": 22.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 5.8,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.98,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/487.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:41.330013",
+  "url": "https://medcanonestop.com/medcan_product/remexian-22-1-frosted-lemon-cake/",
+  "history": [
+    {
+      "title": "Remexian 22/1 FLC",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/487.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:43.781782",
+      "url": "https://medcanonestop.com/medcan_product/remexian-22-1-frosted-lemon-cake/"
+    },
+    {
+      "title": "Remexian 22/1 FLC",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/487.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:09.447152",
+      "url": "https://medcanonestop.com/medcan_product/remexian-22-1-frosted-lemon-cake/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:09.447152"
+}

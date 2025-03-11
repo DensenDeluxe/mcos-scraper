@@ -1,0 +1,81 @@
+{
+  "title": "Cannamedical Indica Classic NM SP",
+  "thc": {
+    "value": 21.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.49,
+      "unit": "g"
+    },
+    "max": {
+      "value": 21.52,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Sugar-Bomb-Punch.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:11:07.832741",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-nm-sugarbomb-punch/",
+  "history": [
+    {
+      "title": "Cannamedical Indica Classic NM SP",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Sugar-Bomb-Punch.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:27.246741",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-nm-sugarbomb-punch/"
+    },
+    {
+      "title": "Cannamedical Indica Classic NM SP",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Sugar-Bomb-Punch.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:50:55.966356",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-nm-sugarbomb-punch/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:50:55.966356"
+}

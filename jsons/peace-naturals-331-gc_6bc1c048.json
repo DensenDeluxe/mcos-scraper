@@ -1,0 +1,81 @@
+{
+  "title": "Peace Naturals 33/1 GC",
+  "thc": {
+    "value": 32.2,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 10.09,
+      "unit": "g"
+    },
+    "max": {
+      "value": 14.0,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Peace-Naturals-GMO-Cookies-02.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:09.715058",
+  "url": "https://medcanonestop.com/medcan_product/peace-naturals-33-1-gc/",
+  "history": [
+    {
+      "title": "Peace Naturals 33/1 GC",
+      "thc": {
+        "value": 32.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.09,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Peace-Naturals-GMO-Cookies-02.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:22:57.587675",
+      "url": "https://medcanonestop.com/medcan_product/peace-naturals-33-1-gc/"
+    },
+    {
+      "title": "Peace Naturals 33/1 GC",
+      "thc": {
+        "value": 32.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.09,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Peace-Naturals-GMO-Cookies-02.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:45:05.307889",
+      "url": "https://medcanonestop.com/medcan_product/peace-naturals-33-1-gc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:45:05.307889"
+}

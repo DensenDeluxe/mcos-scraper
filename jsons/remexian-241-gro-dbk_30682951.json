@@ -1,0 +1,107 @@
+{
+  "title": "Remexian 24/1 GRO DBK",
+  "thc": {
+    "value": 22.6,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 6.98,
+      "unit": "g"
+    },
+    "max": {
+      "value": 9.79,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:08:42.863597",
+  "url": "https://medcanonestop.com/medcan_product/remexian-24-1-gro-dbk/",
+  "history": [
+    {
+      "title": "Remexian 24/1 GRO DBK",
+      "thc": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:07.980963",
+      "url": "https://medcanonestop.com/medcan_product/remexian-24-1-gro-dbk/"
+    },
+    {
+      "title": "Remexian 24/1 GRO DBK",
+      "thc": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:26:13.983452",
+      "url": "https://medcanonestop.com/medcan_product/remexian-24-1-gro-dbk/"
+    },
+    {
+      "title": "Remexian 24/1 GRO DBK",
+      "thc": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:49:18.587316",
+      "url": "https://medcanonestop.com/medcan_product/remexian-24-1-gro-dbk/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:49:18.587316"
+}

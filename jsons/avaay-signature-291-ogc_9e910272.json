@@ -1,0 +1,81 @@
+{
+  "title": "avaay Signature 29/1 OGC",
+  "thc": {
+    "value": 29.0,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 9.98,
+      "unit": "g"
+    },
+    "max": {
+      "value": 12.99,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/OGC_Flower_V1.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:09:22.123339",
+  "url": "https://medcanonestop.com/medcan_product/avaay-signature-29-1-ogc/",
+  "history": [
+    {
+      "title": "avaay Signature 29/1 OGC",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/OGC_Flower_V1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:28:21.825149",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-29-1-ogc/"
+    },
+    {
+      "title": "avaay Signature 29/1 OGC",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/OGC_Flower_V1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:43.621600",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-29-1-ogc/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:43.621600"
+}

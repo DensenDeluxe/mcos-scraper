@@ -1,0 +1,107 @@
+{
+  "title": "Cannamedical Indica forte DK GS",
+  "thc": {
+    "value": 22.1,
+    "unit": "%"
+  },
+  "cbd": {
+    "value": 1.0,
+    "unit": "%"
+  },
+  "price": {
+    "min": {
+      "value": 7.98,
+      "unit": "g"
+    },
+    "max": {
+      "value": 15.47,
+      "unit": "g"
+    }
+  },
+  "delivery_status": "lieferbar",
+  "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Gelat-Skyfloater.png",
+  "product_type": "Cannabisblüten",
+  "timestamp": "2025-03-11T23:05:46.497017",
+  "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-dk-gs/",
+  "history": [
+    {
+      "title": "Cannamedical Indica forte DK GS",
+      "thc": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Gelat-Skyfloater.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:13:08.269624",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-dk-gs/"
+    },
+    {
+      "title": "Cannamedical Indica forte DK GS",
+      "thc": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Gelat-Skyfloater.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:21:41.489510",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-dk-gs/"
+    },
+    {
+      "title": "Cannamedical Indica forte DK GS",
+      "thc": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Gelat-Skyfloater.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-11T23:40:19.528481",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-dk-gs/"
+    }
+  ],
+  "last_updated": "2025-03-11T23:40:19.528481"
+}
