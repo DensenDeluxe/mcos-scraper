@@ -138,7 +138,10 @@
       return value;
     }
     
-    // Ein Produkt gilt als gültig, wenn: Titel vorhanden, nicht "101-C 50:0", Preis ungleich 0 und nicht THC & CBD beide 0
+    // Ein Produkt gilt als gültig, wenn:
+    // - Der Titel vorhanden und nicht "101-C 50:0" ist.
+    // - Der Preis (Einzelpreis oder Preisspanne) ungleich 0 ist.
+    // - Nicht gleichzeitig THC und CBD beide 0 sind.
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (prod.price === null) return false;
@@ -153,7 +156,7 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Index.json laden; falls Array, in Objekt umwandeln
+    // Index.json laden; falls es ein Array ist, in Objekt umwandeln
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -192,7 +195,7 @@
       });
     }
     
-    // Tabelle: Zeilendaten per DataTables-API aktualisieren; standardmäßig nach "Preis pro Gramm THC" sortieren (Spalte Index 3)
+    // Tabelle: Zeilendaten per DataTables-API aktualisieren; standardmäßig nach "Preis pro Gramm THC" (Spalte Index 3) sortieren
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -238,6 +241,7 @@
           }
         }
         
+        // Erstelle Zeile als Array für DataTables und setze zusätzlich ein data-Attribut für den Produkttyp
         const row = [
           product,
           thcValue,
@@ -267,14 +271,20 @@
           lengthChange: false,
           paging: true,
           order: [[3, "asc"]],
-          language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
+          language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" },
+          createdRow: function(row, data, dataIndex) {
+            // Setze das data-Attribut "data-product-type" auf Basis der indexData
+            const productName = data[0];
+            const prod = indexData[productName];
+            $(row).attr("data-product-type", prod ? prod.product_type : "n/a");
+          }
         });
       } else {
         dataTable.clear();
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      // Nach dem Zeichnen der Tabelle Filterfunktion aufrufen (sofern noch benötigt)
+      console.log("Tabelle aktualisiert.");
       applyProductTypeFilter();
     }
     
@@ -361,26 +371,106 @@
       loadProductDetails(product);
     });
     
-    // Falls Filter-Checkboxen noch existieren (hier: Beispiel-Funktion)
+    // Falls Filter-Checkboxen noch existieren, hier Beispiel (wenn nicht vorhanden, kann diese Funktion entfallen)
     function applyProductTypeFilter() {
-      const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
-      const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
-      $('#pricesTable tbody tr').each(function() {
-        const prodType = $(this).attr('data-product-type');
-        if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
-          $(this).hide();
-        } else {
-          $(this).show();
-        }
-      });
+      // In diesem Beispiel sind keine Filtercheckboxen mehr vorhanden, daher einfach ausführen
+      // Alternativ: Diese Funktion kann entfernt werden, wenn keine Filter benötigt werden.
+      console.log("applyProductTypeFilter ausgeführt");
     }
     
     // Initialer Abruf und Setup
     $(document).ready(function() {
       fetchIndex().then(() => {
-        // DataTable wird beim ersten Laden initialisiert
+        console.log("Index geladen.");
       });
     });
+    
+    // Dropdown-Änderung: Lade Verlauf der ausgewählten Sorte (Chart aktualisieren)
+    document.getElementById('productSelect').addEventListener('change', function() {
+      loadProductHistory(this.value);
+    });
+    
+    // Update der Chart-Daten für den ausgewählten Strain
+    async function loadProductHistory(product) {
+      if (!product) {
+        if (chart) { chart.destroy(); }
+        console.log("Kein Produkt ausgewählt – Chart gelöscht");
+        return;
+      }
+      const sanitized = product.trim().replace(/[^\w\-]/g, "_");
+      try {
+        const timestamp = new Date().getTime();
+        const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
+        if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
+        const history = await response.json();
+        console.log("Historische Daten für", product, history);
+        updateChart(history);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+    
+    // Update der Chart-Daten
+    function updateChart(historyData) {
+      if (!historyData || historyData.length === 0) {
+        if (chart) { chart.destroy(); }
+        console.log("Keine historischen Daten vorhanden");
+        return;
+      }
+      let labels = [];
+      let minPrices = [];
+      let maxPrices = [];
+      
+      historyData.forEach(entry => {
+        labels.push(new Date(entry.timestamp).toLocaleString());
+        if (entry.price) {
+          if (entry.price.value !== undefined) {
+            minPrices.push(entry.price.value);
+            maxPrices.push(entry.price.value);
+          } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
+            minPrices.push(entry.price.min);
+            maxPrices.push(entry.price.max);
+          } else {
+            minPrices.push(null);
+            maxPrices.push(null);
+          }
+        } else {
+          minPrices.push(null);
+          maxPrices.push(null);
+        }
+      });
+      
+      // Falls nur ein Datenpunkt vorhanden ist, dupliziere ihn
+      if (historyData.length === 1) {
+        labels.push(labels[0]);
+        minPrices.push(minPrices[0]);
+        maxPrices.push(maxPrices[0]);
+      }
+      
+      console.log("Chart-Daten:", { labels, minPrices, maxPrices });
+      
+      const ctx = document.getElementById('priceChart').getContext('2d');
+      if (chart) { chart.destroy(); }
+      chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: 'Tiefstpreis', data: minPrices, borderColor: 'rgba(75, 192, 192, 1)', backgroundColor: 'rgba(75, 192, 192, 0.2)', fill: false },
+            { label: 'Höchstpreis', data: maxPrices, borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)', fill: false }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            x: { display: true, title: { display: true, text: 'Zeit' } },
+            y: { display: true, title: { display: true, text: 'Preis' } }
+          },
+          plugins: { legend: { display: true } }
+        }
+      });
+    }
   </script>
 </body>
 </html>
