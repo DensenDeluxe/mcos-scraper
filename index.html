@@ -22,6 +22,9 @@
       width: 100% !important;
       height: auto !important;
     }
+    .filter-panel {
+      margin-bottom: 20px;
+    }
     /* Detail Modal: Bild oben, responsiv */
     .detail-img {
       max-width: 100%;
@@ -100,7 +103,7 @@
     let chart;
     let dataTable;
     let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
-
+    
     // Formatierungsfunktionen
     function formatPrice(value) {
       if (typeof value === 'number') {
@@ -117,7 +120,7 @@
     }
     
     // Ein Produkt gilt als gültig, wenn:
-    // - Der Titel vorhanden und nicht "101-C 50:0" ist.
+    // - Der Titel nicht leer ist und nicht "101-C 50:0" lautet.
     // - Der Preis (Einzelpreis oder Preisspanne) ungleich 0 ist.
     // - Nicht gleichzeitig THC und CBD beide 0 sind.
     function isValidProduct(prod) {
@@ -134,7 +137,7 @@
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Index.json laden und ggf. in Objekt umwandeln
+    // Index.json laden; falls Array, in Objekt umwandeln
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -158,7 +161,7 @@
       }
     }
     
-    // Dropdown aus Index aktualisieren und, falls keine Auswahl erfolgt, das erste Produkt automatisch setzen
+    // Dropdown aus Index
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
@@ -171,15 +174,9 @@
         option.textContent = product;
         select.appendChild(option);
       });
-      // Wenn noch keine Auswahl getroffen wurde und mindestens ein Produkt existiert, wähle das erste Produkt aus.
-      if (select.value === "" && products.length > 0) {
-        select.value = products[0];
-        // Lade den Verlauf des ersten Produkts und aktualisiere den Chart
-        loadProductHistory(products[0]);
-      }
     }
     
-    // Tabelle aktualisieren: DataTable wird einmal initialisiert (mit absteigender Sortierung nach "Preis pro gramm THC" in Spalte 3)
+    // Tabelle: Zeilendaten per DataTables-API aktualisieren
     function updateTable() {
       const rowsData = [];
       const products = Object.keys(indexData)
@@ -225,7 +222,6 @@
           }
         }
         
-        // Erstelle Zeile als Array für DataTables
         const row = [
           product,
           thcValue,
@@ -238,6 +234,7 @@
         rowsData.push(row);
       });
       
+      // DataTable initialisieren, Suchfeld und "Zeilen anzeigen" deaktiviert
       if (!dataTable) {
         dataTable = $('#pricesTable').DataTable({
           data: rowsData,
@@ -250,11 +247,11 @@
             { title: "Letzter max Preis" },
             { title: "Letztes Update" }
           ],
-          order: [[3, "desc"]], // Standardmäßig absteigend nach "Preis pro gramm THC"
           responsive: true,
           searching: false,
           lengthChange: false,
           paging: true,
+          order: [[3, "asc"]], // Standardmäßig nach "Preis pro gramm THC" sortieren (Spalte Index 3)
           language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
@@ -262,14 +259,8 @@
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      
-      // Nach dem Zeichnen der Tabelle: Falls keine Sorte im Dropdown aktiv ist, wähle das erste aus
-      const select = document.getElementById('productSelect');
-      if (select.value === "" && rowsData.length > 0) {
-        // Das erste Element im Dropdown entspricht dem ersten Produkt aus der sortierten Tabelle
-        select.value = rowsData[0][0];
-        loadProductHistory(rowsData[0][0]);
-      }
+      // Nach dem Zeichnen der Tabelle die Filterfunktion aufrufen
+      applyProductTypeFilter();
     }
     
     // Detail-Modal: Lade Detaildaten aus separater JSON und zeige sie im Modal
@@ -349,22 +340,30 @@
       detailModal.show();
     }
     
-    // Beim Klick auf eine Tabellenzeile: Detailansicht laden
+    // Bei Klick auf eine Tabellenzeile: Detailansicht laden
     $('#pricesTable tbody').on('click', 'tr', function() {
       const product = $(this).find('td:first').text();
       loadProductDetails(product);
     });
     
-    // Dropdown-Änderung: Lade Verlauf der ausgewählten Sorte
-    document.getElementById('productSelect').addEventListener('change', function() {
-      loadProductHistory(this.value);
-    });
+    // Filterung der Tabelle nach Produkttyp
+    function applyProductTypeFilter() {
+      const showExtrakte = document.getElementById('filterExtrakte').checked;
+      const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
+      $('#pricesTable tbody tr').each(function() {
+        const prodType = $(this).attr('data-product-type');
+        if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
+          $(this).hide();
+        } else {
+          $(this).show();
+        }
+      });
+    }
     
     // Initialer Abruf und Setup
     $(document).ready(function() {
       fetchIndex().then(() => {
-        // Keine zusätzlichen Filterfunktionen, da diese nun automatisch beim Update der Tabelle aufgerufen werden.
-        setupColumnToggles();
+        // DataTable und alle anderen Funktionen sind nun initialisiert.
       });
     });
   </script>
