@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:40.969921",
       "url": "https://medcanonestop.com/medcan_product/avaay-24-1-bpm/"
+    },
+    {
+      "title": "avaay 24/1 BPM",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.71,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6764.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:28.134676",
+      "url": "https://medcanonestop.com/medcan_product/avaay-24-1-bpm/"
     }
   ],
-  "last_updated": "2025-03-11T23:41:40.969921"
+  "last_updated": "2025-03-12T00:09:28.134676"
 }

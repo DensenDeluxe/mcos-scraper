@@ -2,7 +2,7 @@
   "title": "Cannabis Flos 22/1 UY Ku. Gorilla Glue",
   "url": "https://medcanonestop.com/medcan_product/cannabis-flos-22-1-uy-ku-gorilla-glue/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:53:51.382950",
+  "last_updated": "2025-03-12T00:10:40.275095",
   "history": [
     {
       "title": "Cannabis Flos 22/1 UY Ku. Gorilla Glue",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Gorilla-Glue-1.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:53:51.382950",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-22-1-uy-ku-gorilla-glue/"
+    },
+    {
+      "title": "Cannabis Flos 22/1 UY Ku. Gorilla Glue",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.54,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Gorilla-Glue-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:40.275095",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-22-1-uy-ku-gorilla-glue/"
     }
   ]

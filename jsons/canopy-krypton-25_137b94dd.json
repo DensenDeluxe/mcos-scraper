@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:16.227234",
       "url": "https://medcanonestop.com/medcan_product/canopy-krypton-25-1/"
+    },
+    {
+      "title": "Canopy Krypton 25",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.5,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.65,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:30.952676",
+      "url": "https://medcanonestop.com/medcan_product/canopy-krypton-25-1/"
     }
   ],
-  "last_updated": "2025-03-11T23:41:16.227234"
+  "last_updated": "2025-03-12T00:10:30.952676"
 }

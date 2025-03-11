@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:48:57.099683",
       "url": "https://medcanonestop.com/medcan_product/bediol/"
+    },
+    {
+      "title": "Bediol",
+      "thc": {
+        "value": 6.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 8.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.12,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:08:48.283079",
+      "url": "https://medcanonestop.com/medcan_product/bediol/"
     }
   ],
-  "last_updated": "2025-03-11T23:48:57.099683"
+  "last_updated": "2025-03-12T00:08:48.283079"
 }

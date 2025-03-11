@@ -41,7 +41,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:40.212300",
       "url": "https://medcanonestop.com/medcan_product/enua-20-1-abg-ca/"
+    },
+    {
+      "title": "enua 20/1 ABG CA",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3808.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:51.222444",
+      "url": "https://medcanonestop.com/medcan_product/enua-20-1-abg-ca/"
     }
   ],
-  "last_updated": "2025-03-11T23:42:40.212300"
+  "last_updated": "2025-03-12T00:10:51.222444"
 }

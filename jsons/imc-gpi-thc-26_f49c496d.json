@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:50:00.062036",
       "url": "https://medcanonestop.com/medcan_product/imc-gpi-thc-26/"
+    },
+    {
+      "title": "IMC GPI THC 26",
+      "thc": {
+        "value": 25.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6559.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:53.058725",
+      "url": "https://medcanonestop.com/medcan_product/imc-gpi-thc-26/"
     }
   ],
-  "last_updated": "2025-03-11T23:50:00.062036"
+  "last_updated": "2025-03-12T00:10:53.058725"
 }

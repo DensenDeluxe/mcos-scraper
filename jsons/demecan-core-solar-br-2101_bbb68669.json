@@ -2,7 +2,7 @@
   "title": "Demecan Core Solar BR 21:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-core-solar-br-2101/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:41:17.663517",
+  "last_updated": "2025-03-12T00:09:26.839349",
   "history": [
     {
       "title": "Demecan Core Solar BR 21:01",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:17.663517",
+      "url": "https://medcanonestop.com/medcan_product/demecan-core-solar-br-2101/"
+    },
+    {
+      "title": "Demecan Core Solar BR 21:01",
+      "thc": {
+        "value": 19.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:26.839349",
       "url": "https://medcanonestop.com/medcan_product/demecan-core-solar-br-2101/"
     }
   ]

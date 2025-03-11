@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:49:32.070269",
       "url": "https://medcanonestop.com/medcan_product/grow-27-dc/"
+    },
+    {
+      "title": "Grow 27 DC",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.28,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/4890.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:24.039447",
+      "url": "https://medcanonestop.com/medcan_product/grow-27-dc/"
     }
   ],
-  "last_updated": "2025-03-11T23:49:32.070269"
+  "last_updated": "2025-03-12T00:09:24.039447"
 }

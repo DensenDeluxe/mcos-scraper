@@ -2,7 +2,7 @@
   "title": "IMC 9PPA THC20",
   "url": "https://medcanonestop.com/medcan_product/imc-9ppa-thc20/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:42:16.123053",
+  "last_updated": "2025-03-12T00:08:58.028703",
   "history": [
     {
       "title": "IMC 9PPA THC20",
@@ -54,6 +54,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6531.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:42:16.123053",
+      "url": "https://medcanonestop.com/medcan_product/imc-9ppa-thc20/"
+    },
+    {
+      "title": "IMC 9PPA THC20",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6531.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:08:58.028703",
       "url": "https://medcanonestop.com/medcan_product/imc-9ppa-thc20/"
     }
   ]

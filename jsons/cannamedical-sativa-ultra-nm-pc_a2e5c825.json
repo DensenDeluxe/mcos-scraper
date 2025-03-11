@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:44:16.268649",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-ultra-nm-pc/"
+    },
+    {
+      "title": "Cannamedical Sativa Ultra NM PC",
+      "thc": {
+        "value": 29.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.91,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Polar-Cookies.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:07:53.677365",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-ultra-nm-pc/"
     }
   ],
-  "last_updated": "2025-03-11T23:44:16.268649"
+  "last_updated": "2025-03-12T00:07:53.677365"
 }

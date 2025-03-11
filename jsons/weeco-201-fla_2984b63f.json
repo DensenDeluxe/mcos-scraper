@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:35.817282",
       "url": "https://medcanonestop.com/medcan_product/weeco-20-1/"
+    },
+    {
+      "title": "Weeco 20/1 FLA",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8354.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:23.698016",
+      "url": "https://medcanonestop.com/medcan_product/weeco-20-1/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:35.817282"
+  "last_updated": "2025-03-12T00:09:23.698016"
 }

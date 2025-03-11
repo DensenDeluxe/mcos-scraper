@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:16.281978",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-galaxy-walker-og-2/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto GWOG",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2263.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:13.866615",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-galaxy-walker-og-2/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:16.281978"
+  "last_updated": "2025-03-12T00:10:13.866615"
 }

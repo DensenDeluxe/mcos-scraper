@@ -63,7 +63,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:19.222384",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-sck/"
+    },
+    {
+      "title": "Remexian 30/1 PRT SCK",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/6844.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:08:18.770518",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-sck/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:19.222384"
+  "last_updated": "2025-03-12T00:08:18.770518"
 }

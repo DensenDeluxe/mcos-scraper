@@ -2,7 +2,7 @@
   "title": "Grünhorn BC 17/1 OC",
   "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-17-1-oc/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:43:36.557205",
+  "last_updated": "2025-03-12T00:08:19.943527",
   "history": [
     {
       "title": "Grünhorn BC 17/1 OC",
@@ -46,6 +46,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:43:36.557205",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-17-1-oc/"
+    },
+    {
+      "title": "Grünhorn BC 17/1 OC",
+      "thc": {
+        "value": 18.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:08:19.943527",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-17-1-oc/"
     }
   ]

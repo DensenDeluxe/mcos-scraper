@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:53:40.322296",
       "url": "https://medcanonestop.com/medcan_product/adrex-10-10/"
+    },
+    {
+      "title": "Adrex 10:10 Extrakt",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.97,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.55,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:25.916220",
+      "url": "https://medcanonestop.com/medcan_product/adrex-10-10/"
     }
   ],
-  "last_updated": "2025-03-11T23:53:40.322296"
+  "last_updated": "2025-03-12T00:10:25.916220"
 }

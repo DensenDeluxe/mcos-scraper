@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:29.913052",
       "url": "https://medcanonestop.com/medcan_product/bc-green-17-1-ab/"
+    },
+    {
+      "title": "BC Green 17/1 A&B",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7942.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:52.761577",
+      "url": "https://medcanonestop.com/medcan_product/bc-green-17-1-ab/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:29.913052"
+  "last_updated": "2025-03-12T00:10:52.761577"
 }

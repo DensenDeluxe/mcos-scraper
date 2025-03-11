@@ -41,7 +41,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:20:52.738116",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-25-1-prt-ku-black-cherry-pie/"
+    },
+    {
+      "title": "Cannabis flos 25/1 PRT Ku. Black Cherry Pie",
+      "thc": {
+        "value": 26.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/BlackCherryPie-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:56.641486",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-25-1-prt-ku-black-cherry-pie/"
     }
   ],
-  "last_updated": "2025-03-11T23:20:52.738116"
+  "last_updated": "2025-03-12T00:09:56.641486"
 }

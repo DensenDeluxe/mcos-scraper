@@ -2,7 +2,7 @@
   "title": "Adrex 24/1 GG CAN",
   "url": "https://medcanonestop.com/medcan_product/adrex-24-1-gg-can/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:53:53.059463",
+  "last_updated": "2025-03-12T00:08:47.987255",
   "history": [
     {
       "title": "Adrex 24/1 GG CAN",
@@ -90,6 +90,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/3427.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:53:53.059463",
+      "url": "https://medcanonestop.com/medcan_product/adrex-24-1-gg-can/"
+    },
+    {
+      "title": "Adrex 24/1 GG CAN",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/3427.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:08:47.987255",
       "url": "https://medcanonestop.com/medcan_product/adrex-24-1-gg-can/"
     }
   ]

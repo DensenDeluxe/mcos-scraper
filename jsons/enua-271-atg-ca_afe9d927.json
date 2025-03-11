@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:49:23.699704",
       "url": "https://medcanonestop.com/medcan_product/enua-27-1-atg-atlantic-glue-gg4/"
+    },
+    {
+      "title": "enua 27/1 ATG CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2691.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:22.415341",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-atg-atlantic-glue-gg4/"
     }
   ],
-  "last_updated": "2025-03-11T23:49:23.699704"
+  "last_updated": "2025-03-12T00:10:22.415341"
 }

@@ -75,7 +75,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:41:56.846658",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-2501-sky-pie/"
+    },
+    {
+      "title": "Demecan Craft 25:01 Sky Pie",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 20.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Blutenfoto_DEMECAN_Craft-SkyDo0PZzGRJODRz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:03.179138",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-2501-sky-pie/"
     }
   ],
-  "last_updated": "2025-03-11T23:41:56.846658"
+  "last_updated": "2025-03-12T00:09:03.179138"
 }

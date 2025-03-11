@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:54:06.898996",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-anf-ca/"
+    },
+    {
+      "title": "enua 22/1 ANF CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.1,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/enua_Freisteller_ANF-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:08:37.070364",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-anf-ca/"
     }
   ],
-  "last_updated": "2025-03-11T23:54:06.898996"
+  "last_updated": "2025-03-12T00:08:37.070364"
 }

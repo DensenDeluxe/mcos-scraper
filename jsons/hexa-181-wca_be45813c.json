@@ -41,7 +41,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:21:19.066887",
       "url": "https://medcanonestop.com/medcan_product/hexa-18-1-wca/"
+    },
+    {
+      "title": "Hexa 18/1 WCA",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7771.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:07:55.322070",
+      "url": "https://medcanonestop.com/medcan_product/hexa-18-1-wca/"
     }
   ],
-  "last_updated": "2025-03-11T23:21:19.066887"
+  "last_updated": "2025-03-12T00:07:55.322070"
 }

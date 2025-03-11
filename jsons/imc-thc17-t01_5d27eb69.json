@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:53:17.764724",
       "url": "https://medcanonestop.com/medcan_product/imc-thc17-t01-hk-hindu-kush/"
+    },
+    {
+      "title": "IMC THC17 T01",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 22.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/438_2068.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:21.885491",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc17-t01-hk-hindu-kush/"
     }
   ],
-  "last_updated": "2025-03-11T23:53:17.764724"
+  "last_updated": "2025-03-12T00:09:21.885491"
 }

@@ -2,7 +2,7 @@
   "title": "Cannabis Flos 18/1 PT Ku. Mango",
   "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-18-1-pt-mango/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-11T23:40:16.593065",
+  "last_updated": "2025-03-12T00:10:24.416360",
   "history": [
     {
       "title": "Cannabis Flos 18/1 PT Ku. Mango",
@@ -68,6 +68,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:16.593065",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-18-1-pt-mango/"
+    },
+    {
+      "title": "Cannabis Flos 18/1 PT Ku. Mango",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:10:24.416360",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-18-1-pt-mango/"
     }
   ]

@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:53:33.619103",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-ultra-ng-jealousy/"
+    },
+    {
+      "title": "Cannamedical Hybrid Ultra NG",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.96,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.69,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Jealousy.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:09:48.458206",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-ultra-ng-jealousy/"
     }
   ],
-  "last_updated": "2025-03-11T23:53:33.619103"
+  "last_updated": "2025-03-12T00:09:48.458206"
 }

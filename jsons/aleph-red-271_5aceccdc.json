@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:33.858718",
       "url": "https://medcanonestop.com/medcan_product/aleph-red-27-1/"
+    },
+    {
+      "title": "aleph red 27/1",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.15,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/aleph-red-2.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:08:14.432096",
+      "url": "https://medcanonestop.com/medcan_product/aleph-red-27-1/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:33.858718"
+  "last_updated": "2025-03-12T00:08:14.432096"
 }

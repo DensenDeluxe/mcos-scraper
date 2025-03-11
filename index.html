@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Cannabis Preis Tracker</title>
-  <!-- Bootstrap CSS (hier normale Version, wir überschreiben die Farben per CSS) -->
+  <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <!-- DataTables CSS -->
   <link href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css" rel="stylesheet">
@@ -185,8 +185,7 @@
     let dataTable;
     let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
     
-    // Hier gehen wir davon aus, dass deine JSON-Dateien im Ordner "jsons" liegen.
-    // Das Array "productFiles" muss ggf. an die tatsächlich hochgeladenen Dateien angepasst werden.
+    // Array mit den Namen aller Produkt-JSON-Dateien im Ordner "jsons"
     const productFiles = [
       "demecan-typ-2_30f1079b.json",
       "drapalin-301-kukis_0c18d53d.json",
@@ -200,7 +199,11 @@
       "wellford-231-pik_ce894b40.json"
     ];
     
-    // Formatierungsfunktionen
+    // Hilfsfunktionen, um verschachtelte numerische Werte zu extrahieren
+    function getNumeric(obj) {
+      return (typeof obj === 'object' && obj.value !== undefined) ? obj.value : obj;
+    }
+    
     function formatPrice(value) {
       if (typeof value === 'number') {
         return value.toFixed(2).replace('.', ',') + ' €';
@@ -208,25 +211,36 @@
       return value;
     }
     
-    function formatTHC(value) {
-      if (typeof value === 'number') {
-        return value.toFixed(1).replace('.', ',') + ' %';
+    function formatTHC(thc) {
+      if (typeof thc === 'object' && thc.value !== undefined) {
+        return thc.value.toFixed(1).replace('.', ',') + ' ' + (thc.unit || '');
+      } else if (typeof thc === 'number') {
+        return thc.toFixed(1).replace('.', ',') + ' %';
       }
-      return value;
+      return thc;
+    }
+    
+    function formatCBD(cbd) {
+      if (typeof cbd === 'object' && cbd.value !== undefined) {
+        return cbd.value.toFixed(1).replace('.', ',') + ' ' + (cbd.unit || '');
+      } else if (typeof cbd === 'number') {
+        return cbd.toFixed(1).replace('.', ',') + ' %';
+      }
+      return cbd;
     }
     
     // Gültigkeitsprüfung eines Produkts
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
-      if (prod.price === null) return false;
+      if (!prod.price) return false;
       let priceValid = true;
-      if (prod.price.value !== undefined) {
-        priceValid = prod.price.value !== 0;
+      if (prod.price.value !== undefined && prod.price.value !== null) {
+        priceValid = getNumeric(prod.price.value) !== 0;
       } else if (prod.price.min !== undefined && prod.price.max !== undefined) {
-        priceValid = (prod.price.min !== 0 && prod.price.max !== 0);
+        priceValid = (getNumeric(prod.price.min) !== 0 && getNumeric(prod.price.max) !== 0);
       }
-      const thcValid = prod.thc !== 0;
-      const cbdValid = prod.cbd !== 0;
+      const thcValid = prod.thc && getNumeric(prod.thc) !== 0;
+      const cbdValid = prod.cbd && getNumeric(prod.cbd) !== 0;
       return priceValid && (thcValid || cbdValid);
     }
     
@@ -245,7 +259,7 @@
           } else {
             prod = data;
           }
-          // Speichere den Dateinamen zur späteren Detailanzeige
+          // Dateiname zur späteren Detailanzeige speichern
           prod._filename = file;
           if (isValidProduct(prod)) {
             indexData[prod.title] = prod;
@@ -281,39 +295,39 @@
                             .sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
-        const thcValue = (latest.thc !== undefined && latest.thc !== null) ? formatTHC(latest.thc) : "n/a";
-        const cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd.toFixed(1).replace('.', ',') + ' %' : "n/a";
+        const thcValue = latest.thc ? formatTHC(latest.thc) : "n/a";
+        const cbdValue = latest.cbd ? formatCBD(latest.cbd) : "n/a";
         
         let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
         let priceMinOrder = 0, priceMaxOrder = 0;
         if (latest.price) {
-          if (latest.price.value !== undefined) {
-            priceMin = formatPrice(latest.price.value);
-            priceMax = formatPrice(latest.price.value);
-            priceMinOrder = parseFloat(latest.price.value);
-            priceMaxOrder = parseFloat(latest.price.value);
+          if (latest.price.value !== undefined && latest.price.value !== null) {
+            priceMin = formatPrice(getNumeric(latest.price.value));
+            priceMax = formatPrice(getNumeric(latest.price.value));
+            priceMinOrder = parseFloat(getNumeric(latest.price.value));
+            priceMaxOrder = parseFloat(getNumeric(latest.price.value));
           } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            priceMin = formatPrice(latest.price.min);
-            priceMax = formatPrice(latest.price.max);
-            priceMinOrder = parseFloat(latest.price.min);
-            priceMaxOrder = parseFloat(latest.price.max);
+            priceMin = formatPrice(getNumeric(latest.price.min));
+            priceMax = formatPrice(getNumeric(latest.price.max));
+            priceMinOrder = parseFloat(getNumeric(latest.price.min));
+            priceMaxOrder = parseFloat(getNumeric(latest.price.max));
           }
         }
         
         let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
-        if (latest.price && latest.thc && latest.thc > 0) {
+        if (latest.price && latest.thc && getNumeric(latest.thc) > 0) {
           let basePrice;
-          if (latest.price.value !== undefined) {
-            basePrice = parseFloat(latest.price.value);
+          if (latest.price.value !== undefined && latest.price.value !== null) {
+            basePrice = parseFloat(getNumeric(latest.price.value));
           } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            basePrice = parseFloat(latest.price.min);
+            basePrice = parseFloat(getNumeric(latest.price.min));
           }
           if (basePrice !== undefined) {
             let factor = 1;
-            if (latest.cbd !== undefined && latest.cbd > 0) {
-              factor = (latest.thc + latest.cbd) / latest.thc;
+            if (latest.cbd && getNumeric(latest.cbd) > 0) {
+              factor = (getNumeric(latest.thc) + getNumeric(latest.cbd)) / getNumeric(latest.thc);
             }
-            const calculated = basePrice * 100 / latest.thc * factor;
+            const calculated = basePrice * 100 / getNumeric(latest.thc) * factor;
             pricePerGramTHC = formatPrice(calculated);
             pricePerGramTHCOrder = parseFloat(calculated.toFixed(2));
           }
@@ -387,12 +401,12 @@
         html += `<div class="detail-section"><img src="${details.image_url}" alt="${details.title}" class="detail-img"></div>`;
       }
       html += `<div class="detail-section"><strong>Produkttyp:</strong> ${details.product_type}</div>`;
-      html += `<div class="detail-section"><strong>THC:</strong> ${formatTHC(details.thc)} &nbsp; <strong>CBD:</strong> ${(details.cbd).toFixed(1).replace('.', ',')} %</div>`;
+      html += `<div class="detail-section"><strong>THC:</strong> ${formatTHC(details.thc)} &nbsp; <strong>CBD:</strong> ${formatCBD(details.cbd)}</div>`;
       html += `<div class="detail-section"><strong>Preis:</strong> `;
-      if (details.price.value !== undefined) {
-        html += formatPrice(details.price.value);
+      if (details.price.value !== undefined && details.price.value !== null) {
+        html += formatPrice(getNumeric(details.price.value));
       } else if (details.price.min !== undefined && details.price.max !== undefined) {
-        html += formatPrice(details.price.min) + " - " + formatPrice(details.price.max);
+        html += formatPrice(getNumeric(details.price.min)) + " - " + formatPrice(getNumeric(details.price.max));
       } else {
         html += "Keine Daten";
       }
@@ -413,6 +427,7 @@
       loadProductDetails(indexData[product]);
     });
     
+    // Optional: Filter-Funktion, falls Checkboxen vorhanden
     function applyProductTypeFilter() {
       const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
       const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
@@ -441,7 +456,6 @@
         const response = await fetch('jsons/' + product._filename + '?ts=' + timestamp);
         if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
         const history = await response.json();
-        console.log("Historische Daten für", product, history);
         updateChart(history);
       } catch (error) {
         console.error(error);
@@ -461,12 +475,12 @@
       historyData.forEach(entry => {
         labels.push(new Date(entry.timestamp).toLocaleString());
         if (entry.price) {
-          if (entry.price.value !== undefined) {
-            minPrices.push(entry.price.value);
-            maxPrices.push(entry.price.value);
+          if (entry.price.value !== undefined && entry.price.value !== null) {
+            minPrices.push(getNumeric(entry.price.value));
+            maxPrices.push(getNumeric(entry.price.value));
           } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
-            minPrices.push(entry.price.min);
-            maxPrices.push(entry.price.max);
+            minPrices.push(getNumeric(entry.price.min));
+            maxPrices.push(getNumeric(entry.price.max));
           } else {
             minPrices.push(null);
             maxPrices.push(null);
@@ -482,8 +496,6 @@
         minPrices.push(minPrices[0]);
         maxPrices.push(maxPrices[0]);
       }
-      
-      console.log("Chart-Daten:", { labels, minPrices, maxPrices });
       
       const ctx = document.getElementById('priceChart').getContext('2d');
       if (chart) { chart.destroy(); }
@@ -520,6 +532,7 @@
       }
     });
     
+    // Countdown-Funktion: Zeigt den Timer an; SPACE bricht den Countdown ab
     async function wait_with_countdown(wait_time) {
       for (let remaining = wait_time; remaining > 0; remaining--) {
         process.stdout.write(`Neuer Scrape-Durchlauf in ${remaining} Sekunden... (SPACE zum sofortigen Start)\r`);
