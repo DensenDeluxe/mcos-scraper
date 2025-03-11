@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:28.494806",
       "url": "https://medcanonestop.com/medcan_product/purecan-b4nana-25-1/"
+    },
+    {
+      "title": "PureCan B4NANA 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:17.519831",
+      "url": "https://medcanonestop.com/medcan_product/purecan-b4nana-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:28.494806"
+  "last_updated": "2025-03-12T00:49:17.519831"
 }

@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:57.638615",
       "url": "https://medcanonestop.com/medcan_product/tweed-balanced-6-8-caramel/"
+    },
+    {
+      "title": "Tweed Balanced 6/8 Caramel",
+      "thc": {
+        "value": 6.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 8.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:41.475737",
+      "url": "https://medcanonestop.com/medcan_product/tweed-balanced-6-8-caramel/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:57.638615"
+  "last_updated": "2025-03-12T00:48:41.475737"
 }

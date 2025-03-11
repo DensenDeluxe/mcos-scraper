@@ -2,7 +2,7 @@
   "title": "IMC GL41 THC20",
   "url": "https://medcanonestop.com/medcan_product/imc-gl41-thc20/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:32:20.556381",
+  "last_updated": "2025-03-12T00:55:11.291124",
   "history": [
     {
       "title": "IMC GL41 THC20",
@@ -158,6 +158,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6063.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:20.556381",
+      "url": "https://medcanonestop.com/medcan_product/imc-gl41-thc20/"
+    },
+    {
+      "title": "IMC GL41 THC20",
+      "thc": {
+        "value": 20.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6063.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:55:11.291124",
       "url": "https://medcanonestop.com/medcan_product/imc-gl41-thc20/"
     }
   ]

@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:58.482412",
       "url": "https://medcanonestop.com/medcan_product/demecan-oktonia-typ-2-1010/"
+    },
+    {
+      "title": "DEMECAN Oktonia Typ 2 10:10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 9.45,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 12.0,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:52:21.402567",
+      "url": "https://medcanonestop.com/medcan_product/demecan-oktonia-typ-2-1010/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:58.482412"
+  "last_updated": "2025-03-12T00:52:21.402567"
 }

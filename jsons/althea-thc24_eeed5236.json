@@ -2,7 +2,7 @@
   "title": "Althea THC24",
   "url": "https://medcanonestop.com/medcan_product/althea-thc24/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:10:07.438675",
+  "last_updated": "2025-03-12T00:48:38.152810",
   "history": [
     {
       "title": "Althea THC24",
@@ -112,6 +112,50 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:10:07.438675",
+      "url": "https://medcanonestop.com/medcan_product/althea-thc24/"
+    },
+    {
+      "title": "Althea THC24",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:24.111200",
+      "url": "https://medcanonestop.com/medcan_product/althea-thc24/"
+    },
+    {
+      "title": "Althea THC24",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:38.152810",
       "url": "https://medcanonestop.com/medcan_product/althea-thc24/"
     }
   ]

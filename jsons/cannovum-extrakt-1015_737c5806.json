@@ -2,7 +2,7 @@
   "title": "Cannovum Extrakt 10/15",
   "url": "https://medcanonestop.com/medcan_product/cannovum-extrakt-10-15/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:33:05.878075",
+  "last_updated": "2025-03-12T00:50:33.735328",
   "history": [
     {
       "title": "Cannovum Extrakt 10/15",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:33:05.878075",
+      "url": "https://medcanonestop.com/medcan_product/cannovum-extrakt-10-15/"
+    },
+    {
+      "title": "Cannovum Extrakt 10/15",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 15.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 7.5,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 11.45,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:33.735328",
       "url": "https://medcanonestop.com/medcan_product/cannovum-extrakt-10-15/"
     }
   ]

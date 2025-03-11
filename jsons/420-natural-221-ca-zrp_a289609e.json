@@ -2,7 +2,7 @@
   "title": "420 Natural 22/1 CA ZRP",
   "url": "https://medcanonestop.com/medcan_product/420-natural-22-1-ca-zrp/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:28:50.333160",
+  "last_updated": "2025-03-12T00:52:55.394376",
   "history": [
     {
       "title": "420 Natural 22/1 CA ZRP",
@@ -80,6 +80,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:50.333160",
+      "url": "https://medcanonestop.com/medcan_product/420-natural-22-1-ca-zrp/"
+    },
+    {
+      "title": "420 Natural 22/1 CA ZRP",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.74,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:52:55.394376",
       "url": "https://medcanonestop.com/medcan_product/420-natural-22-1-ca-zrp/"
     }
   ]

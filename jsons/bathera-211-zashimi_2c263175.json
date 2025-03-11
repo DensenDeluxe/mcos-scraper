@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:22.110230",
       "url": "https://medcanonestop.com/medcan_product/bathera-21-1-zashimi/"
+    },
+    {
+      "title": "Bathera 21/1 Zashimi",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Bathera-21-1-Zashimi.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:02.443149",
+      "url": "https://medcanonestop.com/medcan_product/bathera-21-1-zashimi/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:22.110230"
+  "last_updated": "2025-03-12T00:51:02.443149"
 }

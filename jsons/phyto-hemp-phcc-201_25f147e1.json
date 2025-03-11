@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:00.778226",
       "url": "https://medcanonestop.com/medcan_product/phyto-hemp-phcc-20-1/"
+    },
+    {
+      "title": "Phyto-Hemp PHCC 20/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.28,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8600.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:19.499762",
+      "url": "https://medcanonestop.com/medcan_product/phyto-hemp-phcc-20-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:00.778226"
+  "last_updated": "2025-03-12T00:54:19.499762"
 }

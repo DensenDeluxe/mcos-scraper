@@ -2,7 +2,7 @@
   "title": "All Nations TT 25/1",
   "url": "https://medcanonestop.com/medcan_product/all-nations-tt-25-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:13:33.705531",
+  "last_updated": "2025-03-12T00:50:30.772172",
   "history": [
     {
       "title": "All Nations TT 25/1",
@@ -106,6 +106,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/ALLNATION_TT-251-2.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:33.705531",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-tt-25-1/"
+    },
+    {
+      "title": "All Nations TT 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.59,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/ALLNATION_TT-251-2.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:08.398758",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-tt-25-1/"
+    },
+    {
+      "title": "All Nations TT 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.59,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/ALLNATION_TT-251-2.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:30.772172",
       "url": "https://medcanonestop.com/medcan_product/all-nations-tt-25-1/"
     }
   ]

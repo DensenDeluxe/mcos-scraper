@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:33.082147",
       "url": "https://medcanonestop.com/medcan_product/pedanios-29-1-sourdough-srd-ca/"
+    },
+    {
+      "title": "Pedanios 29/1 SRD CA",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.64,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Pedanios-29_1-SRD-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:52:34.498785",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-29-1-sourdough-srd-ca/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:33.082147"
+  "last_updated": "2025-03-12T00:52:34.498785"
 }

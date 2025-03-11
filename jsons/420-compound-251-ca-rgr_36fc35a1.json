@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:43.628544",
       "url": "https://medcanonestop.com/medcan_product/420-compound-25-1-ca-rgr/"
+    },
+    {
+      "title": "420 Compound 25/1 CA RGR",
+      "thc": {
+        "value": 24.64,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.65,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Compound_Rose-Gold-Runtz_RGR.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:52:34.801167",
+      "url": "https://medcanonestop.com/medcan_product/420-compound-25-1-ca-rgr/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:43.628544"
+  "last_updated": "2025-03-12T00:52:34.801167"
 }

@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:51.379883",
       "url": "https://medcanonestop.com/medcan_product/nimbus-26-1-zrp/"
+    },
+    {
+      "title": "Nimbus 26/1 ZRP",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:27.214665",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-26-1-zrp/"
     }
   ],
-  "last_updated": "2025-03-12T00:32:51.379883"
+  "last_updated": "2025-03-12T00:54:27.214665"
 }

@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:39.117140",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-sativa-no-2-headband/"
+    },
+    {
+      "title": "TILRAY THC22 Sativa No.2 H",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/446.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:32.150600",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-sativa-no-2-headband/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:39.117140"
+  "last_updated": "2025-03-12T00:54:32.150600"
 }

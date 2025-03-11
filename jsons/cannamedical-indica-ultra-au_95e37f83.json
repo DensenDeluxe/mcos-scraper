@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:31:35.483759",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-ultra-au-el-jefe/"
+    },
+    {
+      "title": "Cannamedical Indica ultra AU",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 18.18,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/El-Jefe-2.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:37.377972",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-ultra-au-el-jefe/"
     }
   ],
-  "last_updated": "2025-03-12T00:31:35.483759"
+  "last_updated": "2025-03-12T00:54:37.377972"
 }

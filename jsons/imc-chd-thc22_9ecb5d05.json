@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:12.085304",
       "url": "https://medcanonestop.com/medcan_product/imc-chd-thc22/"
+    },
+    {
+      "title": "IMC CHD THC22",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:51.015076",
+      "url": "https://medcanonestop.com/medcan_product/imc-chd-thc22/"
     }
   ],
-  "last_updated": "2025-03-12T00:32:12.085304"
+  "last_updated": "2025-03-12T00:48:51.015076"
 }

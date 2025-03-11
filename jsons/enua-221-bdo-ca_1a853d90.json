@@ -2,7 +2,7 @@
   "title": "enua 22/1 BDO CA",
   "url": "https://medcanonestop.com/medcan_product/enua-22-1-bdo-ca/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:27:25.858378",
+  "last_updated": "2025-03-12T00:54:23.355334",
   "history": [
     {
       "title": "enua 22/1 BDO CA",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/BlackDolato.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:25.858378",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-bdo-ca/"
+    },
+    {
+      "title": "enua 22/1 BDO CA",
+      "thc": {
+        "value": 21.56,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/BlackDolato.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:23.355334",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-bdo-ca/"
     }
   ]

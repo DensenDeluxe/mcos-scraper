@@ -2,7 +2,7 @@
   "title": "Bathera 23/1 Garlic Funk",
   "url": "https://medcanonestop.com/medcan_product/bathera-23-1-garlic-funk/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:31:36.549103",
+  "last_updated": "2025-03-12T00:50:23.591616",
   "history": [
     {
       "title": "Bathera 23/1 Garlic Funk",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image005-1.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:31:36.549103",
+      "url": "https://medcanonestop.com/medcan_product/bathera-23-1-garlic-funk/"
+    },
+    {
+      "title": "Bathera 23/1 Garlic Funk",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image005-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:23.591616",
       "url": "https://medcanonestop.com/medcan_product/bathera-23-1-garlic-funk/"
     }
   ]

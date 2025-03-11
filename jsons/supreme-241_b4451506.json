@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:35.341830",
       "url": "https://medcanonestop.com/medcan_product/supreme-24-1-frosted-lemon-cake/"
+    },
+    {
+      "title": "Supreme 24/1",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.19,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.38,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/485.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:11.241784",
+      "url": "https://medcanonestop.com/medcan_product/supreme-24-1-frosted-lemon-cake/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:35.341830"
+  "last_updated": "2025-03-12T00:50:11.241784"
 }

@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:31:59.576299",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-thc20cbd20/"
+    },
+    {
+      "title": "Cannamedical Cannabisextrakt THC20:CBD20",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 6.69,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 139.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC20_CBD20.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:47.483775",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc20cbd20/"
     }
   ],
-  "last_updated": "2025-03-12T00:31:59.576299"
+  "last_updated": "2025-03-12T00:49:47.483775"
 }

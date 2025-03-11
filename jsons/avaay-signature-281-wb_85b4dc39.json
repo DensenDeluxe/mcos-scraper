@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:01.845798",
       "url": "https://medcanonestop.com/medcan_product/avaay-signature-28-1-wb-waffle-bites/"
+    },
+    {
+      "title": "avaay Signature 28/1 WB",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.92,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/WB_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:43.458620",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-28-1-wb-waffle-bites/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:01.845798"
+  "last_updated": "2025-03-12T00:51:43.458620"
 }

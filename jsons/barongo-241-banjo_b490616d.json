@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:34.600162",
       "url": "https://medcanonestop.com/medcan_product/barongo-24-1-banjo/"
+    },
+    {
+      "title": "Barongo 24/1 Banjo",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.1,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.28,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Borongo-banjo.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:08.283785",
+      "url": "https://medcanonestop.com/medcan_product/barongo-24-1-banjo/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:34.600162"
+  "last_updated": "2025-03-12T00:50:08.283785"
 }

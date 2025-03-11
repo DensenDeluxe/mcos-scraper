@@ -2,7 +2,7 @@
   "title": "Pedanios 27/1 PND CA",
   "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-pnd-ca/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:30:07.463753",
+  "last_updated": "2025-03-12T00:48:41.203740",
   "history": [
     {
       "title": "Pedanios 27/1 PND CA",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Pedanios-27_1-PND-CA_Bluete.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:30:07.463753",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-pnd-ca/"
+    },
+    {
+      "title": "Pedanios 27/1 PND CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Pedanios-27_1-PND-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:41.203740",
       "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-pnd-ca/"
     }
   ]

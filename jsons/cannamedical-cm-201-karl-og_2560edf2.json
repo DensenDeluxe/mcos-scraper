@@ -2,7 +2,7 @@
   "title": "Cannamedical CM 20/1 Karl OG",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-karl-og/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:11:43.459456",
+  "last_updated": "2025-03-12T00:51:45.429804",
   "history": [
     {
       "title": "Cannamedical CM 20/1 Karl OG",
@@ -90,6 +90,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Karl-OG.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:11:43.459456",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-karl-og/"
+    },
+    {
+      "title": "Cannamedical CM 20/1 Karl OG",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Karl-OG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:06.823950",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-karl-og/"
+    },
+    {
+      "title": "Cannamedical CM 20/1 Karl OG",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Karl-OG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:45.429804",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-karl-og/"
     }
   ]

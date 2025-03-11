@@ -85,7 +85,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:10:00.890368",
       "url": "https://medcanonestop.com/medcan_product/mother-28-b8-can-beta-808/"
+    },
+    {
+      "title": "Mother 28 B8 CAN Beta 808",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6536_22320_67374d3164e64_IMG_1092.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:20.980778",
+      "url": "https://medcanonestop.com/medcan_product/mother-28-b8-can-beta-808/"
+    },
+    {
+      "title": "Mother 28 B8 CAN Beta 808",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6536_22320_67374d3164e64_IMG_1092.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:58.151064",
+      "url": "https://medcanonestop.com/medcan_product/mother-28-b8-can-beta-808/"
     }
   ],
-  "last_updated": "2025-03-12T00:10:00.890368"
+  "last_updated": "2025-03-12T00:48:58.151064"
 }

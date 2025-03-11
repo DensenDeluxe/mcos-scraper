@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:52.113194",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-wt/"
+    },
+    {
+      "title": "Cannamedical Sativa Classic NM WT",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Wedding-Tree.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:55:16.290678",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-wt/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:52.113194"
+  "last_updated": "2025-03-12T00:55:16.290678"
 }

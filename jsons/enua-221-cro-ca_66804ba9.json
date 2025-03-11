@@ -173,7 +173,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:33:04.760561",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-cro-ca-crescendo-cookies/"
+    },
+    {
+      "title": "enua 22/1 CRO CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/796.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:42.044250",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-cro-ca-crescendo-cookies/"
     }
   ],
-  "last_updated": "2025-03-12T00:33:04.760561"
+  "last_updated": "2025-03-12T00:48:42.044250"
 }

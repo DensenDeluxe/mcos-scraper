@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:26.400085",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-cp-22-1/"
+    },
+    {
+      "title": "Grünhorn CP 22/1",
+      "thc": {
+        "value": 22.48,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.78,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6539.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:38.104868",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-cp-22-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:26.400085"
+  "last_updated": "2025-03-12T00:51:38.104868"
 }

@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:33:09.214109",
       "url": "https://medcanonestop.com/medcan_product/lot-420-mlnd/"
+    },
+    {
+      "title": "LOT 420 MLND PT",
+      "thc": {
+        "value": 20.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.89,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/LOT420_Melonade.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:10.206180",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-mlnd/"
     }
   ],
-  "last_updated": "2025-03-12T00:33:09.214109"
+  "last_updated": "2025-03-12T00:51:10.206180"
 }

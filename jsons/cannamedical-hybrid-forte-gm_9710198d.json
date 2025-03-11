@@ -2,7 +2,7 @@
   "title": "Cannamedical Hybrid forte GM",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-gorilla-mints/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:32:10.957053",
+  "last_updated": "2025-03-12T00:55:12.915155",
   "history": [
     {
       "title": "Cannamedical Hybrid forte GM",
@@ -134,6 +134,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gorilla-Mints.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:10.957053",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-gorilla-mints/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte GM",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gorilla-Mints.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:55:12.915155",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-gorilla-mints/"
     }
   ]

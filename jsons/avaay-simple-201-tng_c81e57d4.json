@@ -85,7 +85,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-11T23:40:45.848341",
       "url": "https://medcanonestop.com/medcan_product/avaay-20-1-tng-tangie-chem/"
+    },
+    {
+      "title": "avaay Simple 20/1 TNG",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/TNG_Bud@2x.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:25.123363",
+      "url": "https://medcanonestop.com/medcan_product/avaay-20-1-tng-tangie-chem/"
+    },
+    {
+      "title": "avaay Simple 20/1 TNG",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/TNG_Bud@2x.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:53:07.740779",
+      "url": "https://medcanonestop.com/medcan_product/avaay-20-1-tng-tangie-chem/"
     }
   ],
-  "last_updated": "2025-03-11T23:40:45.848341"
+  "last_updated": "2025-03-12T00:53:07.740779"
 }

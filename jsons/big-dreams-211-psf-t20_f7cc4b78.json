@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:27.840068",
       "url": "https://medcanonestop.com/medcan_product/big-dreams-21-1-psf-t20/"
+    },
+    {
+      "title": "Big Dreams 21/1 PSF T20",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:25.495533",
+      "url": "https://medcanonestop.com/medcan_product/big-dreams-21-1-psf-t20/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:27.840068"
+  "last_updated": "2025-03-12T00:49:25.495533"
 }

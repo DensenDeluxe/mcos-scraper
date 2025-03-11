@@ -127,7 +127,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:55.677604",
       "url": "https://medcanonestop.com/medcan_product/tweed-glitter-bomb-20-1/"
+    },
+    {
+      "title": "Tweed Glitter Bomb 20/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.88,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7945.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:23.859437",
+      "url": "https://medcanonestop.com/medcan_product/tweed-glitter-bomb-20-1/"
+    },
+    {
+      "title": "Tweed Glitter Bomb 20/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.88,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7945.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:39.355045",
+      "url": "https://medcanonestop.com/medcan_product/tweed-glitter-bomb-20-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:55.677604"
+  "last_updated": "2025-03-12T00:49:39.355045"
 }

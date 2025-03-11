@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:31:57.614864",
       "url": "https://medcanonestop.com/medcan_product/aleph-air-22-1/"
+    },
+    {
+      "title": "aleph air 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-air.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:33.521363",
+      "url": "https://medcanonestop.com/medcan_product/aleph-air-22-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:31:57.614864"
+  "last_updated": "2025-03-12T00:54:33.521363"
 }

@@ -2,7 +2,7 @@
   "title": "420 Evolution 30/1 CA WES",
   "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-wes-wedding-singer/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:31:33.784080",
+  "last_updated": "2025-03-12T00:54:28.562415",
   "history": [
     {
       "title": "420 Evolution 30/1 CA WES",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Wedding-Singer_WES.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:31:33.784080",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-wes-wedding-singer/"
+    },
+    {
+      "title": "420 Evolution 30/1 CA WES",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.38,
+          "unit": "g"
+        },
+        "max": {
+          "value": 22.61,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Wedding-Singer_WES.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:28.562415",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-wes-wedding-singer/"
     }
   ]

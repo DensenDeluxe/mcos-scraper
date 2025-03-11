@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:11.631114",
       "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-boc/"
+    },
+    {
+      "title": "Wellford Aquaponic 26/1 BOC",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:45.586857",
+      "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-boc/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:11.631114"
+  "last_updated": "2025-03-12T00:48:45.586857"
 }

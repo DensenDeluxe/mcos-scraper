@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:22.969647",
       "url": "https://medcanonestop.com/medcan_product/pedanios-26-1-ehd-ca-electric-honeydew/"
+    },
+    {
+      "title": "Pedanios 26/1 EHD CA",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/12/Pedanios-26_1-EHD-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:19.730316",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-26-1-ehd-ca-electric-honeydew/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:22.969647"
+  "last_updated": "2025-03-12T00:49:19.730316"
 }

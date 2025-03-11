@@ -2,7 +2,7 @@
   "title": "avaay 27/1 SCG",
   "url": "https://medcanonestop.com/medcan_product/avaay-27-1-scg-super-citra-g/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:27:12.476110",
+  "last_updated": "2025-03-12T00:50:53.860205",
   "history": [
     {
       "title": "avaay 27/1 SCG",
@@ -134,6 +134,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/SCG_bud.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:12.476110",
+      "url": "https://medcanonestop.com/medcan_product/avaay-27-1-scg-super-citra-g/"
+    },
+    {
+      "title": "avaay 27/1 SCG",
+      "thc": {
+        "value": 28.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/SCG_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:53.860205",
       "url": "https://medcanonestop.com/medcan_product/avaay-27-1-scg-super-citra-g/"
     }
   ]

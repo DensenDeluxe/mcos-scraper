@@ -228,7 +228,7 @@ async def download_images_for_products(products):
             pbar_img.close()
 
 def update_manifest():
-    """Erstellt/aktualisiert die Datei manifest.json im Hauptverzeichnis mit einer Liste aller JSON-Dateien im JSON_FOLDER."""
+    """Scannt den JSON_FOLDER und speichert alle JSON-Dateinamen in manifest.json im Hauptverzeichnis."""
     files = [f for f in os.listdir(JSON_FOLDER) if f.endswith('.json')]
     files.sort()
     with open("manifest.json", "w", encoding="utf-8") as mf:
@@ -245,7 +245,7 @@ async def wait_with_countdown(wait_time):
             if key == b' ':
                 print("\nSPACE gedrückt – starte neuen Durchlauf sofort.          ")
                 return
-    print(" " * 80, end="\r")  # Zeile leeren
+    print(" " * 80, end="\r")
 
 async def run_scraping_cycle():
     global failed_urls, success_count, fail_count

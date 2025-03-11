@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:56.032084",
       "url": "https://medcanonestop.com/medcan_product/imc-thc22-t02-og-kush/"
+    },
+    {
+      "title": "IMC THC22 T02",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/303.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:51.388438",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc22-t02-og-kush/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:56.032084"
+  "last_updated": "2025-03-12T00:48:51.388438"
 }

@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:01.870397",
       "url": "https://medcanonestop.com/medcan_product/420-compound-22-1-ca-mwz/"
+    },
+    {
+      "title": "420 COMPOUND 22/1 CA MWZ",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Compound_Mellowz_MWZ.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:53:35.443161",
+      "url": "https://medcanonestop.com/medcan_product/420-compound-22-1-ca-mwz/"
     }
   ],
-  "last_updated": "2025-03-12T00:32:01.870397"
+  "last_updated": "2025-03-12T00:53:35.443161"
 }

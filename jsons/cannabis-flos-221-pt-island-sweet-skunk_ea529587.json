@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:09.862351",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-island-sweet-skunk/"
+    },
+    {
+      "title": "Cannabis Flos 22/1 PT Island Sweet Skunk",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:26.703941",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-island-sweet-skunk/"
     }
   ],
-  "last_updated": "2025-03-12T00:32:09.862351"
+  "last_updated": "2025-03-12T00:51:26.703941"
 }

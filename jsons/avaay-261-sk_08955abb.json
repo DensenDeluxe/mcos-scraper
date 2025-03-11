@@ -75,7 +75,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:09:39.140124",
       "url": "https://medcanonestop.com/medcan_product/avaay-26-1-sk-sour-kush/"
+    },
+    {
+      "title": "avaay 26/1 SK",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/SK_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:04.258621",
+      "url": "https://medcanonestop.com/medcan_product/avaay-26-1-sk-sour-kush/"
+    },
+    {
+      "title": "avaay 26/1 SK",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/SK_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:55:17.434300",
+      "url": "https://medcanonestop.com/medcan_product/avaay-26-1-sk-sour-kush/"
     }
   ],
-  "last_updated": "2025-03-12T00:09:39.140124"
+  "last_updated": "2025-03-12T00:55:17.434300"
 }

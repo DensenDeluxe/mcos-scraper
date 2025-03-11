@@ -2,7 +2,7 @@
   "title": "Demecan ORGANIC MC 25:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-organic-mc-2501-cherry-mints/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:30:47.971748",
+  "last_updated": "2025-03-12T00:50:46.490030",
   "history": [
     {
       "title": "Demecan ORGANIC MC 25:01",
@@ -112,6 +112,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/770.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:30:47.971748",
+      "url": "https://medcanonestop.com/medcan_product/demecan-organic-mc-2501-cherry-mints/"
+    },
+    {
+      "title": "Demecan ORGANIC MC 25:01",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/770.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:46.490030",
       "url": "https://medcanonestop.com/medcan_product/demecan-organic-mc-2501-cherry-mints/"
     }
   ]

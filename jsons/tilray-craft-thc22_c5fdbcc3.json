@@ -2,7 +2,7 @@
   "title": "Tilray Craft THC22",
   "url": "https://medcanonestop.com/medcan_product/tilray-craft-thc22/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:32:15.122500",
+  "last_updated": "2025-03-12T00:51:50.029540",
   "history": [
     {
       "title": "Tilray Craft THC22",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:15.122500",
+      "url": "https://medcanonestop.com/medcan_product/tilray-craft-thc22/"
+    },
+    {
+      "title": "Tilray Craft THC22",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.21,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:50.029540",
       "url": "https://medcanonestop.com/medcan_product/tilray-craft-thc22/"
     }
   ]

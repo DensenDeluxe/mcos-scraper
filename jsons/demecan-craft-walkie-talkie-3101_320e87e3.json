@@ -2,7 +2,7 @@
   "title": "Demecan CRAFT Walkie Talkie 31:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-craft-walkie-talkie-3101-sugar-cake/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:27:14.156443",
+  "last_updated": "2025-03-12T00:49:28.583576",
   "history": [
     {
       "title": "Demecan CRAFT Walkie Talkie 31:01",
@@ -106,6 +106,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Blutenfoto_DEMECAN_Craft-Walkie-Talkie_01-Kopie.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:14.156443",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-walkie-talkie-3101-sugar-cake/"
+    },
+    {
+      "title": "Demecan CRAFT Walkie Talkie 31:01",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 19.28,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Blutenfoto_DEMECAN_Craft-Walkie-Talkie_01-Kopie.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:28.583576",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-walkie-talkie-3101-sugar-cake/"
     }
   ]

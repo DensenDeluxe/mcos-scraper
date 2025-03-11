@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:31:21.220397",
       "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-granddaddy-og/"
+    },
+    {
+      "title": "madrecan 18/1 GDY",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/619.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:33.802607",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-granddaddy-og/"
     }
   ],
-  "last_updated": "2025-03-12T00:31:21.220397"
+  "last_updated": "2025-03-12T00:51:33.802607"
 }

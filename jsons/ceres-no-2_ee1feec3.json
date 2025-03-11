@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:35.794220",
       "url": "https://medcanonestop.com/medcan_product/ceres-no-2-slurricane-mint/"
+    },
+    {
+      "title": "Ceres No. 2",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.22,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Ceres-No.-2-Slurricane-Mint.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:53:11.308979",
+      "url": "https://medcanonestop.com/medcan_product/ceres-no-2-slurricane-mint/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:35.794220"
+  "last_updated": "2025-03-12T00:53:11.308979"
 }

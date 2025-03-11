@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:07.501252",
       "url": "https://medcanonestop.com/medcan_product/collini-medflower-2401/"
+    },
+    {
+      "title": "Collini-Medflower 24:01",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.3,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:48.215944",
+      "url": "https://medcanonestop.com/medcan_product/collini-medflower-2401/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:07.501252"
+  "last_updated": "2025-03-12T00:51:48.215944"
 }

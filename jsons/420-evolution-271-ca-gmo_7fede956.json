@@ -2,7 +2,7 @@
   "title": "420 Evolution 27/1 CA GMO",
   "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-gmo-cookies/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:31:18.978194",
+  "last_updated": "2025-03-12T00:54:43.828180",
   "history": [
     {
       "title": "420 Evolution 27/1 CA GMO",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/695.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:31:18.978194",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-gmo-cookies/"
+    },
+    {
+      "title": "420 Evolution 27/1 CA GMO",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/695.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:43.828180",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-gmo-cookies/"
     }
   ]

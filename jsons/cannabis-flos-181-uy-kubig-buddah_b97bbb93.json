@@ -127,7 +127,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:10:04.646752",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-18-1-uy-ku-big-buddah/"
+    },
+    {
+      "title": "Cannabis Flos 18/1 UY Ku.Big Buddah",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6255_17736_672b324c20884_20241106_100859.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:25.650534",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-18-1-uy-ku-big-buddah/"
+    },
+    {
+      "title": "Cannabis Flos 18/1 UY Ku.Big Buddah",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6255_17736_672b324c20884_20241106_100859.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:44.015776",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-18-1-uy-ku-big-buddah/"
     }
   ],
-  "last_updated": "2025-03-12T00:10:04.646752"
+  "last_updated": "2025-03-12T00:51:44.015776"
 }

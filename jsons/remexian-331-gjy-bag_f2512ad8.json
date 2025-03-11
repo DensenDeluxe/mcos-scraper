@@ -127,7 +127,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:05.526655",
       "url": "https://medcanonestop.com/medcan_product/remexian-33-1-gjy-bag/"
+    },
+    {
+      "title": "Remexian 33/1 GJY BAG",
+      "thc": {
+        "value": 33.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:22.017615",
+      "url": "https://medcanonestop.com/medcan_product/remexian-33-1-gjy-bag/"
+    },
+    {
+      "title": "Remexian 33/1 GJY BAG",
+      "thc": {
+        "value": 33.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:45.814412",
+      "url": "https://medcanonestop.com/medcan_product/remexian-33-1-gjy-bag/"
     }
   ],
-  "last_updated": "2025-03-12T00:13:05.526655"
+  "last_updated": "2025-03-12T00:49:45.814412"
 }

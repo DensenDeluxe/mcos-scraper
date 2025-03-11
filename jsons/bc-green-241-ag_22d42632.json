@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:30:02.800880",
       "url": "https://medcanonestop.com/medcan_product/bc-green-24-1-ag/"
+    },
+    {
+      "title": "BC Green 24/1 A&G",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:17.500798",
+      "url": "https://medcanonestop.com/medcan_product/bc-green-24-1-ag/"
     }
   ],
-  "last_updated": "2025-03-12T00:30:02.800880"
+  "last_updated": "2025-03-12T00:54:17.500798"
 }

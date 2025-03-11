@@ -2,7 +2,7 @@
   "title": "Demecan Craft Cali 29:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-craft-cali-2901/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:28:41.890528",
+  "last_updated": "2025-03-12T00:51:45.701252",
   "history": [
     {
       "title": "Demecan Craft Cali 29:01",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Hawaiian-Rain-x-PMKErAYVAPJKQ9R.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:41.890528",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-cali-2901/"
+    },
+    {
+      "title": "Demecan Craft Cali 29:01",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 11.38,
+          "unit": "g"
+        },
+        "max": {
+          "value": 18.09,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Hawaiian-Rain-x-PMKErAYVAPJKQ9R.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:45.701252",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-cali-2901/"
     }
   ]

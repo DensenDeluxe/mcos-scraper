@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:37.238357",
       "url": "https://medcanonestop.com/medcan_product/lot-420-lem-pt/"
+    },
+    {
+      "title": "LOT 420 LEM PT",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5988.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:05.282233",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-lem-pt/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:37.238357"
+  "last_updated": "2025-03-12T00:51:05.282233"
 }

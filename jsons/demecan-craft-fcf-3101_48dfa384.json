@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:10.377273",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-fcf-3101-first-class-funk/"
+    },
+    {
+      "title": "Demecan CRAFT FCF 31:01",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 20.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Blutenfoto_DEMECAN_Craft-FCF-020YLqFYtMMHJ4g.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:53:22.045599",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-fcf-3101-first-class-funk/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:10.377273"
+  "last_updated": "2025-03-12T00:53:22.045599"
 }

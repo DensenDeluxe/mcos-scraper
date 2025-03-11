@@ -2,7 +2,7 @@
   "title": "aleph rose 16/1",
   "url": "https://medcanonestop.com/medcan_product/aleph-rose-16-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:32:53.671064",
+  "last_updated": "2025-03-12T00:55:11.608222",
   "history": [
     {
       "title": "aleph rose 16/1",
@@ -158,6 +158,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:53.671064",
+      "url": "https://medcanonestop.com/medcan_product/aleph-rose-16-1/"
+    },
+    {
+      "title": "aleph rose 16/1",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:55:11.608222",
       "url": "https://medcanonestop.com/medcan_product/aleph-rose-16-1/"
     }
   ]

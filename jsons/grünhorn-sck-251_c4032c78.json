@@ -127,7 +127,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:08:07.422248",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-sck-25-1-scottis-cake/"
+    },
+    {
+      "title": "Grünhorn SCK 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.9,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/2144.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:09.426688",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-sck-25-1-scottis-cake/"
+    },
+    {
+      "title": "Grünhorn SCK 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.9,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/2144.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:55:08.392660",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-sck-25-1-scottis-cake/"
     }
   ],
-  "last_updated": "2025-03-12T00:08:07.422248"
+  "last_updated": "2025-03-12T00:55:08.392660"
 }

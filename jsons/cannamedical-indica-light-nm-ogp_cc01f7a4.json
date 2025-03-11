@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:21.418261",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-nm-og-punch/"
+    },
+    {
+      "title": "Cannamedical Indica light NM OGP",
+      "thc": {
+        "value": 17.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/OG-Punch-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:00.019649",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-nm-og-punch/"
     }
   ],
-  "last_updated": "2025-03-12T00:32:21.418261"
+  "last_updated": "2025-03-12T00:54:00.019649"
 }

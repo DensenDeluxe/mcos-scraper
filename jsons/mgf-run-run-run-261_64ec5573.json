@@ -85,7 +85,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:38.868120",
       "url": "https://medcanonestop.com/medcan_product/mgf-run-run-run-26-1/"
+    },
+    {
+      "title": "MGF Run Run Run 26/1",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:51:46.566740",
+      "url": "https://medcanonestop.com/medcan_product/mgf-run-run-run-26-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:38.868120"
+  "last_updated": "2025-03-12T00:51:46.566740"
 }

@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:20.316040",
       "url": "https://medcanonestop.com/medcan_product/northbound-25-1-gab/"
+    },
+    {
+      "title": "Northbound 25/1 GAB",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:50:55.273861",
+      "url": "https://medcanonestop.com/medcan_product/northbound-25-1-gab/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:20.316040"
+  "last_updated": "2025-03-12T00:50:55.273861"
 }

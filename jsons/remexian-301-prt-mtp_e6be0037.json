@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:27.263457",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-prt/"
+    },
+    {
+      "title": "Remexian 30/1 PRT MTP",
+      "thc": {
+        "value": 31.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6215.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:53:18.131571",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-prt/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:27.263457"
+  "last_updated": "2025-03-12T00:53:18.131571"
 }

@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:28:33.433730",
       "url": "https://medcanonestop.com/medcan_product/imc-1010-b100/"
+    },
+    {
+      "title": "IMC Cannabisextrakt 10:10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 2.83,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:46.226560",
+      "url": "https://medcanonestop.com/medcan_product/imc-1010-b100/"
     }
   ],
-  "last_updated": "2025-03-12T00:28:33.433730"
+  "last_updated": "2025-03-12T00:48:46.226560"
 }

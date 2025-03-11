@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:26.976010",
       "url": "https://medcanonestop.com/medcan_product/remexian-20-1-nordle/"
+    },
+    {
+      "title": "Remexian 20/1 Nordle",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:26.275506",
+      "url": "https://medcanonestop.com/medcan_product/remexian-20-1-nordle/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:26.976010"
+  "last_updated": "2025-03-12T00:49:26.275506"
 }

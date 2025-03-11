@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:51.967154",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-qsg-ca-queen-sang/"
+    },
+    {
+      "title": "enua 25/1 QSG CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:53:10.465886",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-qsg-ca-queen-sang/"
     }
   ],
-  "last_updated": "2025-03-12T00:32:51.967154"
+  "last_updated": "2025-03-12T00:53:10.465886"
 }

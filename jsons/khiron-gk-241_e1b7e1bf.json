@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:30:20.989529",
       "url": "https://medcanonestop.com/medcan_product/khiron-gk-24-1/"
+    },
+    {
+      "title": "Khiron GK 24/1",
+      "thc": {
+        "value": 24.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/KHIRON-GK-24-1-Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:55:18.351093",
+      "url": "https://medcanonestop.com/medcan_product/khiron-gk-24-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:30:20.989529"
+  "last_updated": "2025-03-12T00:55:18.351093"
 }

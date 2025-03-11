@@ -2,7 +2,7 @@
   "title": "IMC THC22 T06 BR",
   "url": "https://medcanonestop.com/medcan_product/imc-thc22-t06-black-russian/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:32:21.145169",
+  "last_updated": "2025-03-12T00:54:43.549745",
   "history": [
     {
       "title": "IMC THC22 T06 BR",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/2638.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:21.145169",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc22-t06-black-russian/"
+    },
+    {
+      "title": "IMC THC22 T06 BR",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.88,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/2638.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:54:43.549745",
       "url": "https://medcanonestop.com/medcan_product/imc-thc22-t06-black-russian/"
     }
   ]

@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:29:52.004894",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-grp/"
+    },
+    {
+      "title": "Cannamedical CM 20/1 GRP",
+      "thc": {
+        "value": 18.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Grapefruit-Gift-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:52:11.976604",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-grp/"
     }
   ],
-  "last_updated": "2025-03-12T00:29:52.004894"
+  "last_updated": "2025-03-12T00:52:11.976604"
 }

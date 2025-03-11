@@ -101,7 +101,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:10.271101",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ultra-dk-gth/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte Ultra DK GTH",
+      "thc": {
+        "value": 25.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/6839.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:52:10.272090",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ultra-dk-gth/"
     }
   ],
-  "last_updated": "2025-03-12T00:27:10.271101"
+  "last_updated": "2025-03-12T00:52:10.272090"
 }

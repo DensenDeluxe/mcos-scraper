@@ -2,7 +2,7 @@
   "title": "Remexian 27/1 HCC BLP",
   "url": "https://medcanonestop.com/medcan_product/remexian-27-1-hcc-blp/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:32:48.864616",
+  "last_updated": "2025-03-12T00:49:03.172861",
   "history": [
     {
       "title": "Remexian 27/1 HCC BLP",
@@ -90,6 +90,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7622.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:32:48.864616",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-hcc-blp/"
+    },
+    {
+      "title": "Remexian 27/1 HCC BLP",
+      "thc": {
+        "value": 26.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7622.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:03.172861",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-hcc-blp/"
     }
   ]

@@ -127,7 +127,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:13:01.356675",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-carmelita/"
+    },
+    {
+      "title": "Cannamedical Indica forte MA Carmelita",
+      "thc": {
+        "value": 25.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Carmelita-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:48:32.189308",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-carmelita/"
+    },
+    {
+      "title": "Cannamedical Indica forte MA Carmelita",
+      "thc": {
+        "value": 25.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Carmelita-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T00:49:28.009365",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-carmelita/"
     }
   ],
-  "last_updated": "2025-03-12T00:13:01.356675"
+  "last_updated": "2025-03-12T00:49:28.009365"
 }
