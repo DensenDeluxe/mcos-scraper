@@ -138,7 +138,7 @@
       return value;
     }
     
-    // Gültiges Produkt: Titel vorhanden, nicht "101-C 50:0", Preis ungleich 0 und nicht THC & CBD beide 0
+    // Ein Produkt gilt als gültig, wenn: Titel vorhanden, nicht "101-C 50:0", Preis ungleich 0 und nicht THC & CBD beide 0
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (prod.price === null) return false;
@@ -238,7 +238,6 @@
           }
         }
         
-        // Erstelle Zeile als Array für DataTables
         const row = [
           product,
           thcValue,
@@ -267,7 +266,7 @@
           searching: false,
           lengthChange: false,
           paging: true,
-          order: [[3, "asc"]], // Standardmäßig nach der Spalte "Preis pro Gramm THC"
+          order: [[3, "asc"]],
           language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
         });
       } else {
@@ -275,7 +274,7 @@
         dataTable.rows.add(rowsData);
         dataTable.draw();
       }
-      // Nach dem Zeichnen der Tabelle die Filterfunktion aufrufen
+      // Nach dem Zeichnen der Tabelle Filterfunktion aufrufen (sofern noch benötigt)
       applyProductTypeFilter();
     }
     
@@ -362,11 +361,10 @@
       loadProductDetails(product);
     });
     
-    // Filterung der Tabelle nach Produkttyp (hier: data-product-type direkt auslesen)
+    // Falls Filter-Checkboxen noch existieren (hier: Beispiel-Funktion)
     function applyProductTypeFilter() {
-      // (Falls Filter-Checkboxen noch verwendet werden – ansonsten ggf. entfernen)
-      const showExtrakte = document.getElementById('filterExtrakte').checked;
-      const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
+      const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
+      const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
       $('#pricesTable tbody tr').each(function() {
         const prodType = $(this).attr('data-product-type');
         if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
@@ -383,82 +381,6 @@
         // DataTable wird beim ersten Laden initialisiert
       });
     });
-    
-    // Update der Chart-Daten für den ausgewählten Strain
-    async function loadProductHistory(product) {
-      if (!product) {
-        if (chart) { chart.destroy(); }
-        return;
-      }
-      const sanitized = product.trim().replace(/[^\w\-]/g, "_");
-      try {
-        const timestamp = new Date().getTime();
-        const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
-        if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
-        const history = await response.json();
-        updateChart(history);
-      } catch (error) {
-        console.error(error);
-      }
-    }
-    
-    // Update der Chart-Daten
-    function updateChart(historyData) {
-      if (!historyData || historyData.length === 0) {
-        if (chart) { chart.destroy(); }
-        return;
-      }
-      let labels = [];
-      let minPrices = [];
-      let maxPrices = [];
-      
-      historyData.forEach(entry => {
-        labels.push(new Date(entry.timestamp).toLocaleString());
-        if (entry.price) {
-          if (entry.price.value !== undefined) {
-            minPrices.push(entry.price.value);
-            maxPrices.push(entry.price.value);
-          } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
-            minPrices.push(entry.price.min);
-            maxPrices.push(entry.price.max);
-          } else {
-            minPrices.push(null);
-            maxPrices.push(null);
-          }
-        } else {
-          minPrices.push(null);
-          maxPrices.push(null);
-        }
-      });
-      // Falls nur ein Datenpunkt vorhanden ist, dupliziere ihn, damit Chart.js eine Linie darstellen kann
-      if (historyData.length === 1) {
-        labels.push(labels[0]);
-        minPrices.push(minPrices[0]);
-        maxPrices.push(maxPrices[0]);
-      }
-      
-      const ctx = document.getElementById('priceChart').getContext('2d');
-      if (chart) { chart.destroy(); }
-      chart = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: labels,
-          datasets: [
-            { label: 'Tiefstpreis', data: minPrices, borderColor: 'rgba(75, 192, 192, 1)', backgroundColor: 'rgba(75, 192, 192, 0.2)', fill: false },
-            { label: 'Höchstpreis', data: maxPrices, borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)', fill: false }
-          ]
-        },
-        options: {
-          responsive: true,
-          maintainAspectRatio: false,
-          scales: {
-            x: { display: true, title: { display: true, text: 'Zeit' } },
-            y: { display: true, title: { display: true, text: 'Preis' } }
-          },
-          plugins: { legend: { display: true } }
-        }
-      });
-    }
   </script>
 </body>
 </html>
