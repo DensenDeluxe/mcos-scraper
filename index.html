@@ -25,6 +25,14 @@
     .filter-panel {
       margin-bottom: 20px;
     }
+    /* Zusätzliche Formatierung für das Detail-Modal */
+    .detail-img {
+      max-width: 100%;
+      height: auto;
+    }
+    .detail-section {
+      margin-bottom: 1rem;
+    }
   </style>
 </head>
 <body>
@@ -116,6 +124,24 @@
     </table>
   </div>
   
+  <!-- Detail-Modal -->
+  <div class="modal fade" id="detailModal" tabindex="-1" aria-labelledby="detailModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="detailModalLabel">Produktdetails</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen"></button>
+        </div>
+        <div class="modal-body" id="detailBody">
+          <!-- Details werden dynamisch eingefügt -->
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
   <!-- jQuery (für DataTables) -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <!-- Bootstrap JS Bundle -->
@@ -130,6 +156,7 @@
     let indexData = {};
     let chart;
     let dataTable;
+    let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
 
     // Formatierungsfunktionen
     function formatPrice(value) {
@@ -146,8 +173,7 @@
       return value;
     }
     
-    // Filterfunktion: Liefert true, wenn ein Produkt gültige Daten hat.
-    // Zusätzlich wird "101-C 50:0" explizit ignoriert.
+    // Filterfunktion: gültige Produkte (Titel vorhanden, Preise ungleich 0, THC und CBD nicht beide 0, und "101-C 50:0" wird ignoriert)
     function isValidProduct(prod) {
       if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
       if (prod.price === null) return false;
@@ -157,13 +183,12 @@
       } else if (prod.price.min !== undefined && prod.price.max !== undefined) {
         priceValid = (prod.price.min !== 0 && prod.price.max !== 0);
       }
-      // Falls sowohl THC als auch CBD 0 sind, wird das Produkt ignoriert
       const thcValid = prod.thc !== 0;
       const cbdValid = prod.cbd !== 0;
       return priceValid && (thcValid || cbdValid);
     }
     
-    // Index.json laden; falls es ein Array ist, wird es in ein Objekt umgewandelt.
+    // Index.json laden; falls Array, in Objekt umwandeln
     async function fetchIndex() {
       try {
         const timestamp = new Date().getTime();
@@ -191,9 +216,7 @@
     function updateProductSelect() {
       const select = document.getElementById('productSelect');
       select.innerHTML = '<option value="">-- Alle Produkte --</option>';
-      const products = Object.keys(indexData).filter(product => {
-        return isValidProduct(indexData[product]);
-      }).sort((a, b) => a.localeCompare(b));
+      const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product])).sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const option = document.createElement('option');
         option.value = product;
@@ -202,12 +225,11 @@
       });
     }
     
-    // Tabelle: Index-Daten anzeigen; ungültige Einträge (leere Titel, Preise 0, THC/CBD 0) werden ignoriert
+    // Tabelle: Zeige Index-Daten (nur gültige Einträge)
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
-      const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product]))
-                     .sort((a, b) => a.localeCompare(b));
+      const products = Object.keys(indexData).filter(product => isValidProduct(indexData[product])).sort((a, b) => a.localeCompare(b));
       products.forEach(product => {
         const latest = indexData[product];
         const thcValue = (latest.thc !== undefined && latest.thc !== null) ? formatTHC(latest.thc) : "n/a";
@@ -260,7 +282,6 @@
                         <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
         tbody.appendChild(tr);
       });
-      // DataTable nur einmal initialisieren (verwende clear()/rows.add()/draw(), wenn bereits initialisiert)
       if (!$.fn.DataTable.isDataTable('#pricesTable')) {
         dataTable = $('#pricesTable').DataTable({
           responsive: true,
@@ -271,69 +292,91 @@
       }
     }
     
-    // Beim Ändern des Dropdowns: Lade Verlauf der ausgewählten Sorte (separate JSON) und aktualisiere den Chart
-    async function loadProductHistory(product) {
-      if (!product) {
-        if (chart) { chart.destroy(); }
-        return;
-      }
+    // Detail-Modal: Lade Detaildaten aus der separaten JSON und zeige sie in einem Modal
+    async function loadProductDetails(product) {
+      if (!product) return;
       const sanitized = product.trim().replace(/[^\w\-]/g, "_");
       try {
         const timestamp = new Date().getTime();
         const response = await fetch('jsons/' + sanitized + '.json?ts=' + timestamp);
-        if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
-        const history = await response.json();
-        updateChart(history);
+        if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
+        const details = await response.json();
+        // Verwende den letzten Eintrag als aktuellste Details
+        const latest = details[details.length - 1];
+        showDetailModal(latest);
       } catch (error) {
         console.error(error);
       }
     }
     
-    // Chart: Darstellung der historischen Preisdaten
-    function updateChart(historyData) {
-      let labels = [];
-      let minPrices = [];
-      let maxPrices = [];
-      historyData.forEach(entry => {
-        labels.push(new Date(entry.timestamp).toLocaleString());
-        if (entry.price) {
-          if (entry.price.value !== undefined) {
-            minPrices.push(entry.price.value);
-            maxPrices.push(entry.price.value);
-          } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
-            minPrices.push(entry.price.min);
-            maxPrices.push(entry.price.max);
-          } else {
-            minPrices.push(null);
-            maxPrices.push(null);
-          }
-        } else {
-          minPrices.push(null);
-          maxPrices.push(null);
+    // Zeige Detailinformationen in einem Bootstrap-Modal
+    function showDetailModal(details) {
+      const modalTitle = document.getElementById('detailModalLabel');
+      const modalBody = document.getElementById('detailBody');
+      modalTitle.textContent = details.title;
+      let html = `<div class="detail-section"><strong>Kategorie:</strong> ${details.category}</div>`;
+      html += `<div class="detail-section"><strong>THC:</strong> ${formatTHC(details.thc)} &nbsp; <strong>CBD:</strong> ${(details.cbd).toFixed(1).replace('.', ',')} %</div>`;
+      html += `<div class="detail-section"><strong>Produkttyp:</strong> ${details.product_type}</div>`;
+      html += `<div class="detail-section"><strong>Preis:</strong> `;
+      if (details.price.value !== undefined) {
+        html += formatPrice(details.price.value);
+      } else if (details.price.min !== undefined && details.price.max !== undefined) {
+        html += formatPrice(details.price.min) + " - " + formatPrice(details.price.max);
+      } else {
+        html += "Keine Daten";
+      }
+      html += `</div>`;
+      // Attribute
+      if (details.attributes && Object.keys(details.attributes).length > 0) {
+        html += `<div class="detail-section"><strong>Attribute:</strong><ul>`;
+        for (const key in details.attributes) {
+          html += `<li>${key}: ${details.attributes[key]}</li>`;
         }
-      });
-      const ctx = document.getElementById('priceChart').getContext('2d');
-      if (chart) { chart.destroy(); }
-      chart = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: labels,
-          datasets: [
-            { label: 'Min Preis', data: minPrices, borderColor: 'rgba(75, 192, 192, 1)', backgroundColor: 'rgba(75, 192, 192, 0.2)', fill: false },
-            { label: 'Max Preis', data: maxPrices, borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)', fill: false }
-          ]
-        },
-        options: {
-          responsive: true,
-          maintainAspectRatio: false,
-          scales: {
-            x: { display: true, title: { display: true, text: 'Zeit' } },
-            y: { display: true, title: { display: true, text: 'Preis' } }
-          },
-          plugins: { legend: { display: true } }
+        html += `</ul></div>`;
+      }
+      // Ratings
+      if (details.ratings && Object.keys(details.ratings).length > 0) {
+        html += `<div class="detail-section"><strong>Ratings:</strong><ul>`;
+        for (const key in details.ratings) {
+          html += `<li>${key}: ${details.ratings[key]}</li>`;
         }
-      });
+        html += `</ul></div>`;
+      }
+      // Effekte, Aroma, Terpene, Medical Uses
+      if (details.effects && details.effects.length > 0) {
+        html += `<div class="detail-section"><strong>Effekte:</strong> ${details.effects.join(', ')}</div>`;
+      }
+      if (details.aroma && details.aroma.length > 0) {
+        html += `<div class="detail-section"><strong>Aroma:</strong> ${details.aroma.join(', ')}</div>`;
+      }
+      if (details.terpenes && details.terpenes.length > 0) {
+        html += `<div class="detail-section"><strong>Terpene:</strong><ul>`;
+        details.terpenes.forEach(t => {
+          html += `<li>${t.code} – ${t.name}</li>`;
+        });
+        html += `</ul></div>`;
+      }
+      if (details.medical_uses && details.medical_uses.length > 0) {
+        html += `<div class="detail-section"><strong>Medical Uses:</strong> ${details.medical_uses.join(', ')}</div>`;
+      }
+      if (details.delivery_status) {
+        html += `<div class="detail-section"><strong>Lieferstatus:</strong> ${details.delivery_status}</div>`;
+      }
+      if (details.url) {
+        html += `<div class="detail-section"><strong>Mehr Informationen:</strong> <a href="${details.url}" target="_blank">${details.url}</a></div>`;
+      }
+      if (details.image_url) {
+        html += `<div class="detail-section"><img src="${details.image_url}" alt="${details.title}" class="detail-img"></div>`;
+      }
+      document.getElementById('detailBody').innerHTML = html;
+      detailModal.show();
     }
+    
+    // Bei Klick auf eine Tabellenzeile: Detailansicht laden
+    $('#pricesTable tbody').on('click', 'tr', function() {
+      const product = $(this).find('td:first').text();
+      loadProductDetails(product);
+    });
     
     // Filterung der Tabelle nach Produkttyp
     function applyProductTypeFilter() {
