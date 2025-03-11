@@ -47,8 +47,11 @@
       <thead>
         <tr>
           <th>Produkt</th>
+          <th>THC-Wert</th>
+          <th>CBD-Wert</th>
           <th>Preis pro gramm THC</th>
-          <th>Letzter Preis</th>
+          <th>Letzter min Preis</th>
+          <th>Letzter max Preis</th>
           <th>Letztes Update</th>
         </tr>
       </thead>
@@ -104,7 +107,8 @@
       });
     }
     
-    // Tabelle: Nur Produkte mit gültigen Preis-Daten, inkl. "Preis pro gramm THC"
+    // Tabelle: Zeige nur Produkte mit gültigen Preis-Daten
+    // Neue Spalten: THC-Wert, CBD-Wert, Preis pro gramm THC, Letzter min Preis, Letzter max Preis, Letztes Update
     function updateTable() {
       const tbody = document.querySelector('#pricesTable tbody');
       tbody.innerHTML = '';
@@ -118,20 +122,30 @@
         const entries = allData[product];
         const latest = entries[entries.length - 1];
         
-        // Letzter Preis und zugehöriger numerischer Sortierwert
-        let priceText = 'Keine Daten';
-        let priceOrder = 0;
+        // THC und CBD Werte (falls vorhanden)
+        let thcValue = (latest.thc !== undefined && latest.thc !== null) ? latest.thc : "n/a";
+        let cbdValue = (latest.cbd !== undefined && latest.cbd !== null) ? latest.cbd : "n/a";
+        
+        // Berechnung "Letzter min Preis" und "Letzter max Preis"
+        let priceMin = 'Keine Daten';
+        let priceMax = 'Keine Daten';
+        let priceMinOrder = 0;
+        let priceMaxOrder = 0;
         if (latest.price) {
           if (latest.price.value !== undefined) {
-            priceText = latest.price.value;
-            priceOrder = parseFloat(latest.price.value);
+            priceMin = latest.price.value;
+            priceMax = latest.price.value;
+            priceMinOrder = parseFloat(latest.price.value);
+            priceMaxOrder = parseFloat(latest.price.value);
           } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            priceText = latest.price.min + ' - ' + latest.price.max;
-            priceOrder = (parseFloat(latest.price.min) + parseFloat(latest.price.max)) / 2;
+            priceMin = latest.price.min;
+            priceMax = latest.price.max;
+            priceMinOrder = parseFloat(latest.price.min);
+            priceMaxOrder = parseFloat(latest.price.max);
           }
         }
         
-        // Preis pro gramm THC berechnen und sortierbaren Wert erzeugen
+        // Berechnung "Preis pro gramm THC" falls THC-Wert vorhanden und > 0
         let pricePerGramTHC = "n/a";
         let pricePerGramTHCOrder = 0;
         if (latest.price && latest.thc && latest.thc > 0) {
@@ -149,8 +163,11 @@
         
         const tr = document.createElement('tr');
         tr.innerHTML = `<td>${product}</td>
+                        <td data-order="${(typeof thcValue === 'number') ? thcValue : 0}">${thcValue}</td>
+                        <td data-order="${(typeof cbdValue === 'number') ? cbdValue : 0}">${cbdValue}</td>
                         <td data-order="${pricePerGramTHCOrder}">${pricePerGramTHC}</td>
-                        <td data-order="${priceOrder}">${priceText}</td>
+                        <td data-order="${priceMinOrder}">${priceMin}</td>
+                        <td data-order="${priceMaxOrder}">${priceMax}</td>
                         <td>${new Date(latest.timestamp).toLocaleString()}</td>`;
         tbody.appendChild(tr);
       });
