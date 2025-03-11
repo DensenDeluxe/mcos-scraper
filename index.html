@@ -255,7 +255,6 @@
         }
         
         let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
-        // Berechnung: (Letzter min Preis * 100 / THC) * ((THC + CBD) / THC)
         if (latest.price && latest.thc && latest.thc > 0) {
           let basePrice;
           if (latest.price.value !== undefined) {
@@ -307,7 +306,7 @@
       }
     }
     
-    // Detail-Modal: Lade Detaildaten aus der separaten JSON und zeige sie in einem Modal
+    // Detail-Modal: Lade Detaildaten aus separater JSON und zeige sie im Modal
     async function loadProductDetails(product) {
       if (!product) return;
       const sanitized = product.trim().replace(/[^\w\-]/g, "_");
@@ -323,13 +322,12 @@
       }
     }
     
-    // Zeige Detailinformationen in einem Bootstrap-Modal; Bild wird oben angezeigt
+    // Zeige Detailinformationen in einem Modal; Bild wird oben angezeigt
     function showDetailModal(details) {
       const modalTitle = document.getElementById('detailModalLabel');
       const modalBody = document.getElementById('detailBody');
       modalTitle.textContent = details.title;
       let html = "";
-      // Bild ganz oben
       if (details.image_url) {
         html += `<div class="detail-section"><img src="${details.image_url}" alt="${details.title}" class="detail-img"></div>`;
       }
@@ -396,7 +394,8 @@
       const showExtrakte = document.getElementById('filterExtrakte').checked;
       const showCannabisblueten = document.getElementById('filterCannabisblueten').checked;
       $('#pricesTable tbody tr').each(function() {
-        const prodType = $(this).data('product-type');
+        // Verwende .attr() statt .data()
+        const prodType = $(this).attr('data-product-type');
         if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
           $(this).hide();
         } else {
@@ -427,8 +426,10 @@
     });
     
     // Initialer Abruf und Setup
-    fetchIndex().then(() => {
-      setupColumnToggles();
+    $(document).ready(function() {
+      fetchIndex().then(() => {
+        setupColumnToggles();
+      });
     });
   </script>
 </body>
