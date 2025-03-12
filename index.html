@@ -250,12 +250,10 @@
       // - mindestens einem gültigen Preis (price.value oder price.min/max > 0)
       // - mindestens einem gültigen THC- oder CBD-Wert, wobei die Einheit "%" sein muss
       function isValidProduct(prod) {
-        // Handelsname prüfen
         if (!prod.title || prod.title.trim() === "" ||
             ["null", "kein eintrag", "undefined"].includes(prod.title.trim().toLowerCase())) {
           return false;
         }
-        // Preis prüfen
         if (!prod.price) return false;
         let priceValid = false;
         if (prod.price.value !== undefined && prod.price.value != null && !isNaN(getNumeric(prod.price.value)) && getNumeric(prod.price.value) > 0) {
@@ -268,7 +266,6 @@
           priceValid = true;
         }
         if (!priceValid) return false;
-        // THC oder CBD prüfen – nur wenn die Einheit "%" ist
         let thcValid = false, cbdValid = false;
         if (prod.thc && !isNaN(getNumeric(prod.thc)) && getNumeric(prod.thc) > 0) {
           if (typeof prod.thc === "object" && prod.thc.unit && prod.thc.unit.trim().toLowerCase() === "%") {
@@ -303,10 +300,16 @@
               const response = await fetch('./jsons/' + file + '?ts=' + timestamp);
               if (!response.ok) throw new Error('Fehler beim Laden von ' + file);
               const data = await response.json();
-              let prod = (data.history && data.history.length) ? data.history[data.history.length - 1] : data;
-              prod._filename = file;
-              if (isValidProduct(prod)) {
-                indexData[prod.title] = prod;
+              let prod = (data.history && Array.isArray(data.history) && data.history.length > 0) ? data.history : data;
+              // Wenn keine history vorhanden, überspringen
+              if (!Array.isArray(prod)) {
+                prod = [prod];
+              }
+              // Nur das letzte Element wird im Index gespeichert
+              const latest = prod[prod.length - 1];
+              latest._filename = file;
+              if (isValidProduct(latest)) {
+                indexData[latest.title] = latest;
               }
             } catch (error) {
               myDebug('Fehler in Datei ' + file + ': ' + error.message);
@@ -429,9 +432,13 @@
           const timestamp = new Date().getTime();
           const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
           if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
-          const details = await response.json();
-          let latest = (details.history && details.history.length) ? details.history[details.history.length - 1] : details;
-          showDetailModal(latest);
+          const jsonData = await response.json();
+          let history = jsonData.history;
+          // Falls history nicht existiert, verwenden wir jsonData selbst als Eintrag
+          if (!Array.isArray(history)) {
+            history = [jsonData];
+          }
+          updateChart(history);
         } catch (error) {
           myDebug('Detail-JSON Error: ' + error.message);
         }
@@ -472,28 +479,12 @@
       });
       
       function applyProductTypeFilter() {
-        // Falls Filter-Checkboxen implementiert werden sollen – hier vorerst ohne Funktion.
+        // Hier können weitere Filter implementiert werden – aktuell leer.
       }
       
       $(document).ready(function() {
         fetchIndex();
       });
-      
-      async function loadProductHistory(product) {
-        if (!product) {
-          if (chart) { chart.destroy(); }
-          return;
-        }
-        try {
-          const timestamp = new Date().getTime();
-          const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
-          if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
-          const history = await response.json();
-          updateChart(history);
-        } catch (error) {
-          myDebug('History-Error: ' + error.message);
-        }
-      }
       
       function updateChart(historyData) {
         // Sicherstellen, dass historyData ein Array ist
@@ -567,6 +558,26 @@
           loadProductHistory(prod);
         }
       });
+      
+      async function loadProductHistory(product) {
+        if (!product) {
+          if (chart) { chart.destroy(); }
+          return;
+        }
+        try {
+          const timestamp = new Date().getTime();
+          const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
+          if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
+          const jsonData = await response.json();
+          let history = jsonData.history;
+          if (!Array.isArray(history)) {
+            history = [jsonData];
+          }
+          updateChart(history);
+        } catch (error) {
+          myDebug('History-Error: ' + error.message);
+        }
+      }
     })();
   </script>
 </body>
