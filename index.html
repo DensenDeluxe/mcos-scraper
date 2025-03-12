@@ -183,8 +183,8 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
   <script>
-    // Debug-Funktion: Schreibt Fehlermeldungen in den Debug-Output
-    function debug(message) {
+    // Debug-Funktion (umbenannt, um Konflikte zu vermeiden)
+    function myDebug(message) {
       const debugDiv = document.getElementById('debugOutput');
       if (debugDiv) {
         const p = document.createElement('p');
@@ -225,7 +225,8 @@
     }
     
     function formatCBD(cbd) {
-      if (typeof cbd === 'object' && cbd.value !== undefined) {
+      if (!cbd) return "n/a";
+      if (typeof cbd === 'object' && cbd.value !== undefined && cbd.value !== null) {
         return cbd.value.toFixed(1).replace('.', ',') + ' ' + (cbd.unit || '');
       } else if (typeof cbd === 'number') {
         return cbd.toFixed(1).replace('.', ',') + ' %';
@@ -266,11 +267,11 @@
               indexData[prod.title] = prod;
             }
           } catch (error) {
-            debug('Fehler in Datei ' + file + ': ' + error.message);
+            myDebug('Fehler in Datei ' + file + ': ' + error.message);
           }
         }
       } catch (error) {
-        debug('Manifest-Fehler: ' + error.message);
+        myDebug('Manifest-Fehler: ' + error.message);
       }
       updateProductSelect();
       updateTable();
@@ -384,7 +385,7 @@
         let latest = (details.history && details.history.length) ? details.history[details.history.length - 1] : details;
         showDetailModal(latest);
       } catch (error) {
-        debug('Detail-JSON Error: ' + error.message);
+        myDebug('Detail-JSON Error: ' + error.message);
       }
     }
     
@@ -451,7 +452,7 @@
         const history = await response.json();
         updateChart(history);
       } catch (error) {
-        debug('History-Error: ' + error.message);
+        myDebug('History-Error: ' + error.message);
       }
     }
     
