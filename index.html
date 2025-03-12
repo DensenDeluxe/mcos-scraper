@@ -245,15 +245,17 @@
         return "n/a";
       }
       
-      // Vorauswahl: Nur Einträge mit gültigem Handelsnamen, mindestens einem gültigen Preis 
-      // und mit mindestens einem gültigen THC- oder CBD-Wert (nur wenn Einheit "%" ist) werden akzeptiert.
+      // Vorauswahl: Nur Einträge mit:
+      // - gültigem Handelsnamen (nicht leer, nicht "null", "kein eintrag", "undefined")
+      // - mindestens einem gültigen Preis (price.value oder price.min/max > 0)
+      // - mindestens einem gültigen THC- oder CBD-Wert, wobei die Einheit "%" sein muss
       function isValidProduct(prod) {
-        // Handelsname muss vorhanden sein und darf nicht leer, "null", "kein eintrag" oder "undefined" sein
+        // Handelsname prüfen
         if (!prod.title || prod.title.trim() === "" ||
             ["null", "kein eintrag", "undefined"].includes(prod.title.trim().toLowerCase())) {
           return false;
         }
-        // Preis: Mindestens price.value oder price.min/max muss einen numerischen Wert > 0 haben
+        // Preis prüfen
         if (!prod.price) return false;
         let priceValid = false;
         if (prod.price.value !== undefined && prod.price.value != null && !isNaN(getNumeric(prod.price.value)) && getNumeric(prod.price.value) > 0) {
@@ -266,7 +268,7 @@
           priceValid = true;
         }
         if (!priceValid) return false;
-        // THC oder CBD: Mindestens einer muss einen numerischen Wert > 0 haben und die Einheit "%" besitzen
+        // THC oder CBD prüfen – nur wenn die Einheit "%" ist
         let thcValid = false, cbdValid = false;
         if (prod.thc && !isNaN(getNumeric(prod.thc)) && getNumeric(prod.thc) > 0) {
           if (typeof prod.thc === "object" && prod.thc.unit && prod.thc.unit.trim().toLowerCase() === "%") {
@@ -410,7 +412,7 @@
             searching: false,
             lengthChange: false,
             paging: true,
-            order: [[0, "asc"]], // Sortierung nach Handelsname (Spalte 0)
+            order: [[3, "asc"]], // Standardmäßig nach "Preis pro Gramm THC" (Spalte 3) aufsteigend
             language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
           });
         } else {
@@ -470,8 +472,7 @@
       });
       
       function applyProductTypeFilter() {
-        // Falls es entsprechende Filter-Checkboxen gibt – hier vorerst ohne
-        // Diese Funktion kann ggf. erweitert werden.
+        // Falls Filter-Checkboxen implementiert werden sollen – hier vorerst ohne Funktion.
       }
       
       $(document).ready(function() {
@@ -495,6 +496,10 @@
       }
       
       function updateChart(historyData) {
+        // Sicherstellen, dass historyData ein Array ist
+        if (!Array.isArray(historyData)) {
+          historyData = [historyData];
+        }
         if (!historyData || historyData.length === 0) {
           if (chart) { chart.destroy(); }
           return;
