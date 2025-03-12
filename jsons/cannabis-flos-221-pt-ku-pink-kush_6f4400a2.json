@@ -257,7 +257,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:37.242863",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-pink-kush/"
+    },
+    {
+      "title": "Cannabis Flos 22/1 PT Ku. Pink Kush",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.35,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/395.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:29.535267",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-pink-kush/"
     }
   ],
-  "last_updated": "2025-03-12T11:08:37.242863"
+  "last_updated": "2025-03-12T12:12:29.535267"
 }

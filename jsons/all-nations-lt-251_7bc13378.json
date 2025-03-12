@@ -2,7 +2,7 @@
   "title": "All Nations LT 25/1",
   "url": "https://medcanonestop.com/medcan_product/all-nations-lt-25-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:06:00.856076",
+  "last_updated": "2025-03-12T12:10:08.900179",
   "history": [
     {
       "title": "All Nations LT 25/1",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/ALLNATIONS_LT.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:00.856076",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-lt-25-1/"
+    },
+    {
+      "title": "All Nations LT 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.92,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/ALLNATIONS_LT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:08.900179",
       "url": "https://medcanonestop.com/medcan_product/all-nations-lt-25-1/"
     }
   ]

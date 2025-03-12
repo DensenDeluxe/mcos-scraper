@@ -2,7 +2,7 @@
   "title": "Top Shelf Medical S1E2",
   "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e2/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:08:49.556200",
+  "last_updated": "2025-03-12T12:10:44.435186",
   "history": [
     {
       "title": "Top Shelf Medical S1E2",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7534.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:49.556200",
+      "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e2/"
+    },
+    {
+      "title": "Top Shelf Medical S1E2",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.83,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7534.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:44.435186",
       "url": "https://medcanonestop.com/medcan_product/top-shelf-medical-s1e2/"
     }
   ]

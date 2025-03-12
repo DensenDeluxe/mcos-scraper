@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:51.150658",
       "url": "https://medcanonestop.com/medcan_product/imc-24k-thc26/"
+    },
+    {
+      "title": "IMC 24K THC26",
+      "thc": {
+        "value": 27.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8709.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:45.474893",
+      "url": "https://medcanonestop.com/medcan_product/imc-24k-thc26/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:51.150658"
+  "last_updated": "2025-03-12T12:10:45.474893"
 }

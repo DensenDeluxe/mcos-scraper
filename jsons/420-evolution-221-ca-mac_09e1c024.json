@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:25.694892",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-22-1-ca-mac/"
+    },
+    {
+      "title": "420 Evolution 22/1 CA MAC",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.19,
+          "unit": "g"
+        },
+        "max": {
+          "value": 20.92,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_MAC-1_MAC.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:01.527775",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-22-1-ca-mac/"
     }
   ],
-  "last_updated": "2025-03-12T11:08:25.694892"
+  "last_updated": "2025-03-12T12:13:01.527775"
 }

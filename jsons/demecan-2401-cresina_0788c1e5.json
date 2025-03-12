@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:33.736811",
       "url": "https://medcanonestop.com/medcan_product/demecan-2401-cresina/"
+    },
+    {
+      "title": "Demecan 24:01 Cresina",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:55.461139",
+      "url": "https://medcanonestop.com/medcan_product/demecan-2401-cresina/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:33.736811"
+  "last_updated": "2025-03-12T12:13:55.461139"
 }

@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:03:26.573628",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-24-1-spritzer/"
+    },
+    {
+      "title": "Cannamedical CM 24/1 Spritzer",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3709.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:48.070836",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-24-1-spritzer/"
     }
   ],
-  "last_updated": "2025-03-12T11:03:26.573628"
+  "last_updated": "2025-03-12T12:11:48.070836"
 }

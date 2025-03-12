@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:39.528709",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-18-1-ls-ku-durban-sky/"
+    },
+    {
+      "title": "Cannabis flos 18/1 LS Ku. Durban Sky",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.68,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.76,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Durban-Sky.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:09:09.936336",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-18-1-ls-ku-durban-sky/"
     }
   ],
-  "last_updated": "2025-03-12T11:07:39.528709"
+  "last_updated": "2025-03-12T12:09:09.936336"
 }

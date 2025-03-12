@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:02.956147",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-nm-gelato-dream/"
+    },
+    {
+      "title": "Cannamedical Sativa forte NM GD",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.93,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.31,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gelato-Dream.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:24.329340",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-nm-gelato-dream/"
     }
   ],
-  "last_updated": "2025-03-12T11:07:02.956147"
+  "last_updated": "2025-03-12T12:11:24.329340"
 }

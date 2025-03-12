@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:03:15.902262",
       "url": "https://medcanonestop.com/medcan_product/enua-27-1-tib-ca/"
+    },
+    {
+      "title": "enua 27/1 TIB CA",
+      "thc": {
+        "value": 28.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/TickleBurger.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:52.059324",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-tib-ca/"
     }
   ],
-  "last_updated": "2025-03-12T11:03:15.902262"
+  "last_updated": "2025-03-12T12:11:52.059324"
 }

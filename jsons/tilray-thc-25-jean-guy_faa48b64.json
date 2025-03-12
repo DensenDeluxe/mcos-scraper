@@ -2,7 +2,7 @@
   "title": "Tilray THC 25 Jean Guy",
   "url": "https://medcanonestop.com/medcan_product/tilray-craft-25-jean-guy/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:05:17.661001",
+  "last_updated": "2025-03-12T12:08:08.254152",
   "history": [
     {
       "title": "Tilray THC 25 Jean Guy",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:17.661001",
+      "url": "https://medcanonestop.com/medcan_product/tilray-craft-25-jean-guy/"
+    },
+    {
+      "title": "Tilray THC 25 Jean Guy",
+      "thc": {
+        "value": 24.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:08:08.254152",
       "url": "https://medcanonestop.com/medcan_product/tilray-craft-25-jean-guy/"
     }
   ]

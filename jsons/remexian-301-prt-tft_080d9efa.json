@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:25.038907",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-prt-tft/"
+    },
+    {
+      "title": "Remexian 30/1 PRT TFT",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.78,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6748_20896_67332c9dbe7ce_20241108_180711.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:07:52.990912",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-prt-tft/"
     }
   ],
-  "last_updated": "2025-03-12T11:07:25.038907"
+  "last_updated": "2025-03-12T12:07:52.990912"
 }

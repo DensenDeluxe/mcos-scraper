@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:40.299013",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-flv/"
+    },
+    {
+      "title": "Remexian 30/1 GJY FLV",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.83,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8605.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:18.966529",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-flv/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:40.299013"
+  "last_updated": "2025-03-12T12:12:18.966529"
 }

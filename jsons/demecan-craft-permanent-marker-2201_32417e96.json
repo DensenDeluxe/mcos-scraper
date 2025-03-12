@@ -2,7 +2,7 @@
   "title": "Demecan Craft Permanent Marker 22:01",
   "url": "https://medcanonestop.com/medcan_product/craft-permanent-marker-2201/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:08:14.322706",
+  "last_updated": "2025-03-12T12:11:09.492745",
   "history": [
     {
       "title": "Demecan Craft Permanent Marker 22:01",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/PM-Bluetenbild.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:14.322706",
+      "url": "https://medcanonestop.com/medcan_product/craft-permanent-marker-2201/"
+    },
+    {
+      "title": "Demecan Craft Permanent Marker 22:01",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/PM-Bluetenbild.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:09.492745",
       "url": "https://medcanonestop.com/medcan_product/craft-permanent-marker-2201/"
     }
   ]

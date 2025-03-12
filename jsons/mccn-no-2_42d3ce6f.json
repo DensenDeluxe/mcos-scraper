@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:30.130890",
       "url": "https://medcanonestop.com/medcan_product/mccn-no-2/"
+    },
+    {
+      "title": "MCCN No. 2",
+      "thc": {
+        "value": 22.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:08:53.954862",
+      "url": "https://medcanonestop.com/medcan_product/mccn-no-2/"
     }
   ],
-  "last_updated": "2025-03-12T11:05:30.130890"
+  "last_updated": "2025-03-12T12:08:53.954862"
 }

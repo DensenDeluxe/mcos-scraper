@@ -2,7 +2,7 @@
   "title": "BREEZY VAPE WHW",
   "url": "https://medcanonestop.com/medcan_product/breezy-vape-whw/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:05:06.505841",
+  "last_updated": "2025-03-12T12:13:08.396883",
   "history": [
     {
       "title": "BREEZY VAPE WHW",
@@ -244,6 +244,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:06.505841",
+      "url": "https://medcanonestop.com/medcan_product/breezy-vape-whw/"
+    },
+    {
+      "title": "BREEZY VAPE WHW",
+      "thc": {
+        "value": 682.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 139.9,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:08.396883",
       "url": "https://medcanonestop.com/medcan_product/breezy-vape-whw/"
     }
   ]

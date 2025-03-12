@@ -2,7 +2,7 @@
   "title": "420 Evolution 30/1 CA BUL",
   "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-bul-bucket-list/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:06:51.577224",
+  "last_updated": "2025-03-12T12:13:11.281756",
   "history": [
     {
       "title": "420 Evolution 30/1 CA BUL",
@@ -266,6 +266,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/323.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:51.577224",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-bul-bucket-list/"
+    },
+    {
+      "title": "420 Evolution 30/1 CA BUL",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/323.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:11.281756",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-bul-bucket-list/"
     }
   ]

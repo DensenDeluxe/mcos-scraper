@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:52.449486",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-nm-cb/"
+    },
+    {
+      "title": "Cannamedical Hybrid Classic NM CB",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/Critical-Bilbo.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:43.762489",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-nm-cb/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:52.449486"
+  "last_updated": "2025-03-12T12:12:43.762489"
 }

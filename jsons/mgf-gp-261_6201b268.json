@@ -2,7 +2,7 @@
   "title": "MGF GP 26/1",
   "url": "https://medcanonestop.com/medcan_product/mgf-gp-26-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:02:33.700708",
+  "last_updated": "2025-03-12T12:09:53.848769",
   "history": [
     {
       "title": "MGF GP 26/1",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:02:33.700708",
+      "url": "https://medcanonestop.com/medcan_product/mgf-gp-26-1/"
+    },
+    {
+      "title": "MGF GP 26/1",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:09:53.848769",
       "url": "https://medcanonestop.com/medcan_product/mgf-gp-26-1/"
     }
   ]

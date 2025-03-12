@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:27.784927",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-gth/"
+    },
+    {
+      "title": "enua 25/1 GTH",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3526.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:48.636779",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-gth/"
     }
   ],
-  "last_updated": "2025-03-12T11:05:27.784927"
+  "last_updated": "2025-03-12T12:10:48.636779"
 }

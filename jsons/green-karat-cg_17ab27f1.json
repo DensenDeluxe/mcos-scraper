@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:41.973800",
       "url": "https://medcanonestop.com/medcan_product/green-karat-cg-cool-grapes/"
+    },
+    {
+      "title": "Green Karat CG",
+      "thc": {
+        "value": 28.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Green-Karat-CG-Cool-Grape.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:40.905426",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-cg-cool-grapes/"
     }
   ],
-  "last_updated": "2025-03-12T11:05:41.973800"
+  "last_updated": "2025-03-12T12:10:40.905426"
 }

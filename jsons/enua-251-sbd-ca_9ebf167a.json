@@ -2,7 +2,7 @@
   "title": "enua 25/1 SBD CA",
   "url": "https://medcanonestop.com/medcan_product/enua-25-1-ca-sbd/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:04:31.995551",
+  "last_updated": "2025-03-12T12:12:55.131420",
   "history": [
     {
       "title": "enua 25/1 SBD CA",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3689.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:04:31.995551",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-ca-sbd/"
+    },
+    {
+      "title": "enua 25/1 SBD CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3689.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:55.131420",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-ca-sbd/"
     }
   ]

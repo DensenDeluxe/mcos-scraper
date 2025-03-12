@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:33.289728",
       "url": "https://medcanonestop.com/medcan_product/canopy-ogd-25-1-og-deluxe/"
+    },
+    {
+      "title": "Canopy OGD 25",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/164.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:14:24.238544",
+      "url": "https://medcanonestop.com/medcan_product/canopy-ogd-25-1-og-deluxe/"
     }
   ],
-  "last_updated": "2025-03-12T11:07:33.289728"
+  "last_updated": "2025-03-12T12:14:24.238544"
 }

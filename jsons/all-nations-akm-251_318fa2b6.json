@@ -2,7 +2,7 @@
   "title": "All Nations AKM 25/1",
   "url": "https://medcanonestop.com/medcan_product/all-nations-akm-25-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:05:40.734539",
+  "last_updated": "2025-03-12T12:11:22.433918",
   "history": [
     {
       "title": "All Nations AKM 25/1",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:40.734539",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-akm-25-1/"
+    },
+    {
+      "title": "All Nations AKM 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:22.433918",
       "url": "https://medcanonestop.com/medcan_product/all-nations-akm-25-1/"
     }
   ]

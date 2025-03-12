@@ -2,7 +2,7 @@
   "title": "avaay 20/1 BBH",
   "url": "https://medcanonestop.com/medcan_product/avaay-20-1-bbh/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:04:57.132967",
+  "last_updated": "2025-03-12T12:14:28.841965",
   "history": [
     {
       "title": "avaay 20/1 BBH",
@@ -244,6 +244,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:04:57.132967",
+      "url": "https://medcanonestop.com/medcan_product/avaay-20-1-bbh/"
+    },
+    {
+      "title": "avaay 20/1 BBH",
+      "thc": {
+        "value": 21.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:14:28.841965",
       "url": "https://medcanonestop.com/medcan_product/avaay-20-1-bbh/"
     }
   ]

@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:43.234243",
       "url": "https://medcanonestop.com/medcan_product/therismos-30-1-atg-atlantic-glue-gg4/"
+    },
+    {
+      "title": "Therismos 30/1 ATG",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/1500.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:22.849437",
+      "url": "https://medcanonestop.com/medcan_product/therismos-30-1-atg-atlantic-glue-gg4/"
     }
   ],
-  "last_updated": "2025-03-12T11:07:43.234243"
+  "last_updated": "2025-03-12T12:11:22.849437"
 }

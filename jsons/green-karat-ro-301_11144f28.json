@@ -2,7 +2,7 @@
   "title": "Green Karat RO 30/1",
   "url": "https://medcanonestop.com/medcan_product/green-karat-ro-runtz-og/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:01:42.176063",
+  "last_updated": "2025-03-12T12:12:23.804122",
   "history": [
     {
       "title": "Green Karat RO 30/1",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Green-Karat-RO.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:01:42.176063",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-ro-runtz-og/"
+    },
+    {
+      "title": "Green Karat RO 30/1",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Green-Karat-RO.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:23.804122",
       "url": "https://medcanonestop.com/medcan_product/green-karat-ro-runtz-og/"
     }
   ]

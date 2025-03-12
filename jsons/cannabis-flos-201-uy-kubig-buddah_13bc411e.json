@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:04:51.240385",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-20-1-uy-ku-big-buddah/"
+    },
+    {
+      "title": "Cannabis Flos 20/1 UY Ku.Big Buddah",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.71,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/BigBuddha-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:53.627646",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-20-1-uy-ku-big-buddah/"
     }
   ],
-  "last_updated": "2025-03-12T11:04:51.240385"
+  "last_updated": "2025-03-12T12:12:53.627646"
 }

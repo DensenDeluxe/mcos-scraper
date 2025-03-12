@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:43.297924",
       "url": "https://medcanonestop.com/medcan_product/botanics-purple-cream-22-1-purple-ice-water/"
+    },
+    {
+      "title": "BOTANICS Purple Cream 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.46,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Purple-Cream-221.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:05.813127",
+      "url": "https://medcanonestop.com/medcan_product/botanics-purple-cream-22-1-purple-ice-water/"
     }
   ],
-  "last_updated": "2025-03-12T11:08:43.297924"
+  "last_updated": "2025-03-12T12:10:05.813127"
 }

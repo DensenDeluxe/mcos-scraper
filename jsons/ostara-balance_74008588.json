@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:45.397367",
       "url": "https://medcanonestop.com/medcan_product/ostara-balance/"
+    },
+    {
+      "title": "Ostara Balance",
+      "thc": {
+        "value": 8.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/3807.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:32.995582",
+      "url": "https://medcanonestop.com/medcan_product/ostara-balance/"
     }
   ],
-  "last_updated": "2025-03-12T11:07:45.397367"
+  "last_updated": "2025-03-12T12:12:32.995582"
 }

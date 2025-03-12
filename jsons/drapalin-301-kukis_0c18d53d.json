@@ -2,7 +2,7 @@
   "title": "Drapalin 30/1 Kukis",
   "url": "https://medcanonestop.com/medcan_product/drapalin-30-1-kukis/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:07:01.523981",
+  "last_updated": "2025-03-12T12:11:35.019447",
   "history": [
     {
       "title": "Drapalin 30/1 Kukis",
@@ -244,6 +244,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Drapalin_Kukis.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:01.523981",
+      "url": "https://medcanonestop.com/medcan_product/drapalin-30-1-kukis/"
+    },
+    {
+      "title": "Drapalin 30/1 Kukis",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Drapalin_Kukis.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:35.019447",
       "url": "https://medcanonestop.com/medcan_product/drapalin-30-1-kukis/"
     }
   ]

@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:06.471240",
       "url": "https://medcanonestop.com/medcan_product/avaay-24-1-ahc/"
+    },
+    {
+      "title": "avaay 24/1 AHC",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/AHC_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:30.105982",
+      "url": "https://medcanonestop.com/medcan_product/avaay-24-1-ahc/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:06.471240"
+  "last_updated": "2025-03-12T12:13:30.105982"
 }

@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:11.926627",
       "url": "https://medcanonestop.com/medcan_product/weeco-23-1-frosted-lemon-angel/"
+    },
+    {
+      "title": "Weeco 23/1 FLA",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.54,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/489.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:09:22.308284",
+      "url": "https://medcanonestop.com/medcan_product/weeco-23-1-frosted-lemon-angel/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:11.926627"
+  "last_updated": "2025-03-12T12:09:22.308284"
 }

@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:02:53.140147",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-23-1-prt-ku-strawberry-banana/"
+    },
+    {
+      "title": "Cannabis flos 23/1 PRT Ku. Strawberry Banana",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.71,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Strawberry-Banana-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:08:15.114878",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-23-1-prt-ku-strawberry-banana/"
     }
   ],
-  "last_updated": "2025-03-12T11:02:53.140147"
+  "last_updated": "2025-03-12T12:08:15.114878"
 }

@@ -2,7 +2,7 @@
   "title": "Demecan CRAFT Marker 25:01 MM#2",
   "url": "https://medcanonestop.com/medcan_product/demecan-craft-marker-2501-mm2/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:03:48.896656",
+  "last_updated": "2025-03-12T12:11:40.962555",
   "history": [
     {
       "title": "Demecan CRAFT Marker 25:01 MM#2",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3087.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:03:48.896656",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-marker-2501-mm2/"
+    },
+    {
+      "title": "Demecan CRAFT Marker 25:01 MM#2",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3087.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:40.962555",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-marker-2501-mm2/"
     }
   ]

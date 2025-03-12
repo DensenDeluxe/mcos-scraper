@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:07.241402",
       "url": "https://medcanonestop.com/medcan_product/grow-25-1-can/"
+    },
+    {
+      "title": "GROW 25:1 CAN",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.45,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:42.258688",
+      "url": "https://medcanonestop.com/medcan_product/grow-25-1-can/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:07.241402"
+  "last_updated": "2025-03-12T12:10:42.258688"
 }

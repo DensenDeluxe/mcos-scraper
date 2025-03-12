@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:16.962782",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-20-1-ca-pld-plum-driver/"
+    },
+    {
+      "title": "420 Evolution 20/1 CA PLD",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Plum-Driver_PLD.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:14:12.163458",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-20-1-ca-pld-plum-driver/"
     }
   ],
-  "last_updated": "2025-03-12T11:08:16.962782"
+  "last_updated": "2025-03-12T12:14:12.163458"
 }

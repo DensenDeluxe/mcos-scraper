@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:29.572668",
       "url": "https://medcanonestop.com/medcan_product/green-karat-ro-pt/"
+    },
+    {
+      "title": "Green Karat RO PT",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Green-Karat-RO-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:09:42.683848",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-ro-pt/"
     }
   ],
-  "last_updated": "2025-03-12T11:07:29.572668"
+  "last_updated": "2025-03-12T12:09:42.683848"
 }

@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:04:25.699993",
       "url": "https://medcanonestop.com/medcan_product/khiron-ck-23-1/"
+    },
+    {
+      "title": "Khiron CK 23/1",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.88,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Khiron-CK-23_1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:58.413358",
+      "url": "https://medcanonestop.com/medcan_product/khiron-ck-23-1/"
     }
   ],
-  "last_updated": "2025-03-12T11:04:25.699993"
+  "last_updated": "2025-03-12T12:13:58.413358"
 }

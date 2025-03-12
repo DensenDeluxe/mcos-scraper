@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:56.616241",
       "url": "https://medcanonestop.com/medcan_product/khiron-lbo-24-1/"
+    },
+    {
+      "title": "KHIRON LBO 24/1",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.78,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/KHIRON-LBO.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:08:01.065428",
+      "url": "https://medcanonestop.com/medcan_product/khiron-lbo-24-1/"
     }
   ],
-  "last_updated": "2025-03-12T11:05:56.616241"
+  "last_updated": "2025-03-12T12:08:01.065428"
 }

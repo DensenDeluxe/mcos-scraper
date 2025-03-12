@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:36.866938",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-light-6-6-california-orange/"
+    },
+    {
+      "title": "Cannamedical Balanced light 6/6 California Orange",
+      "thc": {
+        "value": 4.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 6.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/Cali-O.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:32.397153",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-light-6-6-california-orange/"
     }
   ],
-  "last_updated": "2025-03-12T11:05:36.866938"
+  "last_updated": "2025-03-12T12:11:32.397153"
 }

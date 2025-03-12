@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:04:01.571668",
       "url": "https://medcanonestop.com/medcan_product/cm-24-1-gp/"
+    },
+    {
+      "title": "CM 24/1 GP",
+      "thc": {
+        "value": 22.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Gelati-Punch.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:27.361225",
+      "url": "https://medcanonestop.com/medcan_product/cm-24-1-gp/"
     }
   ],
-  "last_updated": "2025-03-12T11:04:01.571668"
+  "last_updated": "2025-03-12T12:13:27.361225"
 }

@@ -2,7 +2,7 @@
   "title": "ADREX 22 GZ",
   "url": "https://medcanonestop.com/medcan_product/adrex-22-gz-col-gelato-zkittles/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:05:54.391719",
+  "last_updated": "2025-03-12T12:12:39.818114",
   "history": [
     {
       "title": "ADREX 22 GZ",
@@ -244,6 +244,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2640.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:54.391719",
+      "url": "https://medcanonestop.com/medcan_product/adrex-22-gz-col-gelato-zkittles/"
+    },
+    {
+      "title": "ADREX 22 GZ",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2640.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:39.818114",
       "url": "https://medcanonestop.com/medcan_product/adrex-22-gz-col-gelato-zkittles/"
     }
   ]

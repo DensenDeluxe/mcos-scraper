@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:48.359424",
       "url": "https://medcanonestop.com/medcan_product/avaay-signature-30-1-cbx-chatterbox/"
+    },
+    {
+      "title": "avaay Signature 30/1 CBX",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/CBX_Bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:59.420446",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-30-1-cbx-chatterbox/"
     }
   ],
-  "last_updated": "2025-03-12T11:05:48.359424"
+  "last_updated": "2025-03-12T12:11:59.420446"
 }

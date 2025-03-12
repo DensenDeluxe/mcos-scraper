@@ -2,7 +2,7 @@
   "title": "BOTANICS Golden Ace 20/1",
   "url": "https://medcanonestop.com/medcan_product/botanics-golden-ace-20-1-orange-panties/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:08:41.280672",
+  "last_updated": "2025-03-12T12:13:04.492676",
   "history": [
     {
       "title": "BOTANICS Golden Ace 20/1",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Golden-ACE-201.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:41.280672",
+      "url": "https://medcanonestop.com/medcan_product/botanics-golden-ace-20-1-orange-panties/"
+    },
+    {
+      "title": "BOTANICS Golden Ace 20/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Golden-ACE-201.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:13:04.492676",
       "url": "https://medcanonestop.com/medcan_product/botanics-golden-ace-20-1-orange-panties/"
     }
   ]

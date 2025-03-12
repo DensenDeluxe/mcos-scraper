@@ -2,7 +2,7 @@
   "title": "IMC PF THC25",
   "url": "https://medcanonestop.com/medcan_product/imc-pf-thc25/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:07:24.633650",
+  "last_updated": "2025-03-12T12:14:26.471632",
   "history": [
     {
       "title": "IMC PF THC25",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:24.633650",
+      "url": "https://medcanonestop.com/medcan_product/imc-pf-thc25/"
+    },
+    {
+      "title": "IMC PF THC25",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.57,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:14:26.471632",
       "url": "https://medcanonestop.com/medcan_product/imc-pf-thc25/"
     }
   ]

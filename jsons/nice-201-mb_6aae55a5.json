@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:01:33.255678",
       "url": "https://medcanonestop.com/medcan_product/nice-20-1-mb/"
+    },
+    {
+      "title": "NICE 20/1 MB",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image004-2-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:11.606829",
+      "url": "https://medcanonestop.com/medcan_product/nice-20-1-mb/"
     }
   ],
-  "last_updated": "2025-03-12T11:01:33.255678"
+  "last_updated": "2025-03-12T12:10:11.606829"
 }

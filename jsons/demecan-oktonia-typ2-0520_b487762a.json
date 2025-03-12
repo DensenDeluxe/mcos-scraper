@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:02:29.904819",
       "url": "https://medcanonestop.com/medcan_product/demecan-oktonia-typ-2-520/"
+    },
+    {
+      "title": "DEMECAN Oktonia Typ2 05:20",
+      "thc": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 11.75,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 12.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/demecan-blueten-mockup-dose-15g-medizinal-cannabis-05-20-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:55.771929",
+      "url": "https://medcanonestop.com/medcan_product/demecan-oktonia-typ-2-520/"
     }
   ],
-  "last_updated": "2025-03-12T11:02:29.904819"
+  "last_updated": "2025-03-12T12:11:55.771929"
 }

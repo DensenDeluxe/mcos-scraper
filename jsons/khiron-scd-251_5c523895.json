@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:04:07.787455",
       "url": "https://medcanonestop.com/medcan_product/khiron-scd-25-1/"
+    },
+    {
+      "title": "KHIRON SCD 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.61,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/KHIRON-SCD.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:07.941225",
+      "url": "https://medcanonestop.com/medcan_product/khiron-scd-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T11:04:07.787455"
+  "last_updated": "2025-03-12T12:11:07.941225"
 }

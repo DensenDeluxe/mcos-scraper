@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:02:57.446751",
       "url": "https://medcanonestop.com/medcan_product/zoiks-22-1-chz/"
+    },
+    {
+      "title": "Zoiks 22/1 CHZ",
+      "thc": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/ZOIKS-Colombian-Haze-Cannabis-Flower.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:11:19.648738",
+      "url": "https://medcanonestop.com/medcan_product/zoiks-22-1-chz/"
     }
   ],
-  "last_updated": "2025-03-12T11:02:57.446751"
+  "last_updated": "2025-03-12T12:11:19.648738"
 }

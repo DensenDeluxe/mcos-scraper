@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:32.727737",
       "url": "https://medcanonestop.com/medcan_product/20-1-iuvo-oc-lazer-fuel/"
+    },
+    {
+      "title": "20/1 IUVO OC LAZER FUEL",
+      "thc": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/03/MintCannabis-LazerFuel7g-Budshot_01.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:09:54.912895",
+      "url": "https://medcanonestop.com/medcan_product/20-1-iuvo-oc-lazer-fuel/"
     }
   ],
-  "last_updated": "2025-03-12T11:08:32.727737"
+  "last_updated": "2025-03-12T12:09:54.912895"
 }

@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:43.236548",
       "url": "https://medcanonestop.com/medcan_product/medicus-24-1-evs-gfb/"
+    },
+    {
+      "title": "Medicus 24/1 EVS GFB",
+      "thc": {
+        "value": 22.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.14,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7798.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:08:24.128135",
+      "url": "https://medcanonestop.com/medcan_product/medicus-24-1-evs-gfb/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:43.236548"
+  "last_updated": "2025-03-12T12:08:24.128135"
 }

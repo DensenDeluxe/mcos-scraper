@@ -2,7 +2,7 @@
   "title": "avaay Khalifa 32/1 KK",
   "url": "https://medcanonestop.com/medcan_product/avaay-khalifa-32-1-kk/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:07:16.056032",
+  "last_updated": "2025-03-12T12:12:59.426066",
   "history": [
     {
       "title": "avaay Khalifa 32/1 KK",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/2025_KK_Bluete_avaayLockUp_1_V1-1.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:07:16.056032",
+      "url": "https://medcanonestop.com/medcan_product/avaay-khalifa-32-1-kk/"
+    },
+    {
+      "title": "avaay Khalifa 32/1 KK",
+      "thc": {
+        "value": 32.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 13.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/2025_KK_Bluete_avaayLockUp_1_V1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:59.426066",
       "url": "https://medcanonestop.com/medcan_product/avaay-khalifa-32-1-kk/"
     }
   ]

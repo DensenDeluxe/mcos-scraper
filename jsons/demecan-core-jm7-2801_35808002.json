@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:08:18.522848",
       "url": "https://medcanonestop.com/medcan_product/demecan-core-jm7-2801/"
+    },
+    {
+      "title": "Demecan Core JM7 28:01",
+      "thc": {
+        "value": 27.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:55.130786",
+      "url": "https://medcanonestop.com/medcan_product/demecan-core-jm7-2801/"
     }
   ],
-  "last_updated": "2025-03-12T11:08:18.522848"
+  "last_updated": "2025-03-12T12:10:55.130786"
 }

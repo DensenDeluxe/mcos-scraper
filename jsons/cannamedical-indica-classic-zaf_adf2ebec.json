@@ -2,7 +2,7 @@
   "title": "Cannamedical Indica classic ZAF",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-zaf-black-cherry-punch/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:05:10.987152",
+  "last_updated": "2025-03-12T12:09:29.080061",
   "history": [
     {
       "title": "Cannamedical Indica classic ZAF",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/760.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:05:10.987152",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-zaf-black-cherry-punch/"
+    },
+    {
+      "title": "Cannamedical Indica classic ZAF",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.1,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/760.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:09:29.080061",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-zaf-black-cherry-punch/"
     }
   ]

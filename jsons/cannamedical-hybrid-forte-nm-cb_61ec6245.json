@@ -2,7 +2,7 @@
   "title": "Cannamedical Hybrid Forte NM CB",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-nm-critical-bilbo/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T11:06:44.071314",
+  "last_updated": "2025-03-12T12:12:48.311191",
   "history": [
     {
       "title": "Cannamedical Hybrid Forte NM CB",
@@ -288,6 +288,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/Critical-Bilbo-1.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:44.071314",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-nm-critical-bilbo/"
+    },
+    {
+      "title": "Cannamedical Hybrid Forte NM CB",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/Critical-Bilbo-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:12:48.311191",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-nm-critical-bilbo/"
     }
   ]

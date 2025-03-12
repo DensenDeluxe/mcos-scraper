@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:59.247778",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-nxn-spz/"
+    },
+    {
+      "title": "Remexian 30/1 NXN SPZ",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7582.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:39.834212",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-nxn-spz/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:59.247778"
+  "last_updated": "2025-03-12T12:10:39.834212"
 }

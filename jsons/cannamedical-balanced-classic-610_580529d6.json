@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T11:06:21.443949",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-classic-6-10/"
+    },
+    {
+      "title": "Cannamedical Balanced classic 6/10",
+      "thc": {
+        "value": 6.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 9.5,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/Cali-O.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T12:10:33.988355",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-classic-6-10/"
     }
   ],
-  "last_updated": "2025-03-12T11:06:21.443949"
+  "last_updated": "2025-03-12T12:10:33.988355"
 }

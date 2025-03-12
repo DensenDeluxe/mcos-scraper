@@ -107,7 +107,7 @@
     #loadingBarContainer {
       margin-bottom: 20px;
     }
-    /* Debug Output Fenster */
+    /* Debug Output Fenster - Breite angepasst */
     #debugOutput {
       background-color: #333;
       color: #fff;
@@ -116,6 +116,8 @@
       max-height: 200px;
       overflow-y: auto;
       font-size: 0.9em;
+      width: 100%;
+      box-sizing: border-box;
     }
   </style>
 </head>
@@ -429,7 +431,7 @@
             searching: false,
             lengthChange: false,
             paging: true,
-            order: [[3, "asc"]], // Standardmäßig nach "Preis pro Gramm THC" (Spalte 3) aufsteigend
+            order: [[3, "asc"]], // Standardmäßig nach "Preis pro Gramm THC" aufsteigend
             language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
           });
         } else {
@@ -440,41 +442,22 @@
         applyProductTypeFilter();
       }
       
-      // Setzt als Standardauswahl im Dropdown das Produkt mit dem niedrigsten "Preis pro Gramm THC"
+      // Setzt das günstigste Produkt als Standard im Dropdown und lädt dessen History
       function setDefaultProduct() {
         let bestProduct = null;
         let bestPrice = Infinity;
         Object.values(indexData).forEach(prod => {
-          const pricePG = getPricePerGram(prod);
-          if (pricePG !== null && pricePG < bestPrice) {
-            bestPrice = pricePG;
+          const ppg = getPricePerGram(prod);
+          if (ppg !== null && ppg < bestPrice) {
+            bestPrice = ppg;
             bestProduct = prod;
           }
         });
         if (bestProduct) {
-          // Setze Dropdown-Auswahl
           const select = document.getElementById('productSelect');
           select.value = bestProduct.title;
-          // Lade die History des ausgewählten Produkts
           loadProductHistory(bestProduct);
         }
-      }
-      
-      // Berechnet den Preis pro Gramm THC als Zahl
-      function getPricePerGram(prod) {
-        if (!prod.price || !prod.thc || getNumeric(prod.thc) <= 0) return null;
-        let basePrice = null;
-        if (prod.price.value !== undefined && prod.price.value != null && !isNaN(getNumeric(prod.price.value))) {
-          basePrice = parseFloat(getNumeric(prod.price.value));
-        } else if (prod.price.min !== undefined && prod.price.max !== undefined && !isNaN(getNumeric(prod.price.min))) {
-          basePrice = parseFloat(getNumeric(prod.price.min));
-        }
-        if (basePrice === null) return null;
-        let factor = 1;
-        if (prod.cbd && !isNaN(getNumeric(prod.cbd)) && getNumeric(prod.cbd) > 0) {
-          factor = (getNumeric(prod.thc) + getNumeric(prod.cbd)) / getNumeric(prod.thc);
-        }
-        return basePrice * 100 / getNumeric(prod.thc) * factor;
       }
       
       async function loadProductDetails(product) {
@@ -529,7 +512,7 @@
       });
       
       function applyProductTypeFilter() {
-        // Hier können weitere Filter implementiert werden – momentan ohne Funktion.
+        // Hier können zusätzliche Filter implementiert werden – momentan ohne Funktion.
       }
       
       $(document).ready(function() {
@@ -609,8 +592,21 @@
             responsive: true,
             maintainAspectRatio: false,
             scales: {
-              x: { display: true, title: { display: true, text: 'Zeit' } },
-              y: { display: true, title: { display: true, text: 'Preis' } }
+              x: {
+                display: false, // Achsentitel und Ticks ausblenden
+                grid: {
+                  color: 'rgba(200, 200, 200, 0.3)' // Helleres Gitter
+                }
+              },
+              y: {
+                grid: {
+                  color: 'rgba(200, 200, 200, 0.3)' // Helleres Gitter
+                },
+                title: {
+                  display: true,
+                  text: 'Preis'
+                }
+              }
             },
             plugins: { legend: { display: true } }
           }
