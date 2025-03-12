@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:03:24.580786",
       "url": "https://medcanonestop.com/medcan_product/blackbird-strong-sativa-euforia/"
+    },
+    {
+      "title": "Blackbird Strong Sativa",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.9,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/Blackbird-Strong-Sativa-Euforia.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:34.478752",
+      "url": "https://medcanonestop.com/medcan_product/blackbird-strong-sativa-euforia/"
     }
   ],
-  "last_updated": "2025-03-12T02:03:24.580786"
+  "last_updated": "2025-03-12T02:31:34.478752"
 }

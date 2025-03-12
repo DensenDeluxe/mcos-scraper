@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:29.214853",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-forte-mango-haze/"
+    },
+    {
+      "title": "Cannamedical Balanced forte MH 8/12",
+      "thc": {
+        "value": 8.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Mango-Haze-Bud-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:08.141115",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-forte-mango-haze/"
     }
   ],
-  "last_updated": "2025-03-12T00:52:29.214853"
+  "last_updated": "2025-03-12T02:31:08.141115"
 }

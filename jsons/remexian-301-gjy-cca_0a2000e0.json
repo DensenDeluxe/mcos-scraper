@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:48:39.261963",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-gjy-cca/"
+    },
+    {
+      "title": "Remexian 30/1 GJY CCA",
+      "thc": {
+        "value": 28.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.33,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:23.838236",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-gjy-cca/"
     }
   ],
-  "last_updated": "2025-03-12T00:48:39.261963"
+  "last_updated": "2025-03-12T02:31:23.838236"
 }

@@ -2,7 +2,7 @@
   "title": "Cannabis Flos 22/1 PT Ku. Sirius",
   "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-sirius/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:54:45.525249",
+  "last_updated": "2025-03-12T02:31:45.265927",
   "history": [
     {
       "title": "Cannabis Flos 22/1 PT Ku. Sirius",
@@ -90,6 +90,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/372_1577.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:54:45.525249",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-sirius/"
+    },
+    {
+      "title": "Cannabis Flos 22/1 PT Ku. Sirius",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.35,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/372_1577.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:45.265927",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-sirius/"
     }
   ]

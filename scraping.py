@@ -11,11 +11,10 @@ from tqdm import tqdm
 import threading
 
 # Konfiguration
-MAX_CONCURRENT_REQUESTS = 3  # Maximale gleichzeitige Requests
+MAX_CONCURRENT_REQUESTS = 10  # Maximale gleichzeitige Requests
 RETRY_ATTEMPTS = 10
 INITIAL_BACKOFF = 2
-SLEEP_INTERVAL = 600  # Wartezeit zwischen den Loops in Sekunden
-SCRAPE_TIMEOUT = 30   # Timeout in Sekunden für jeden scrape_product-Aufruf
+SLEEP_INTERVAL = 3600  # Wartezeit zwischen den Loops in Sekunden
 
 # Zielordner für Bilder und JSONs
 IMAGE_FOLDER = "images"
@@ -153,6 +152,7 @@ async def scrape_product(session, url):
         "url": url,
     }
 
+# Bounded version, um die maximale gleichzeitige Ausführung zu erzwingen
 async def bounded_scrape_product(sem, session, url):
     async with sem:
         return await scrape_product(session, url)
@@ -247,7 +247,7 @@ async def run_scraping_cycle():
             with open("failed_urls.txt", "r", encoding="utf-8") as f:
                 failed_list = [line.strip() for line in f if line.strip()]
             if failed_list:
-                tasks_failed = [asyncio.create_task(asyncio.wait_for(bounded_scrape_product(sem, session, url), timeout=SCRAPE_TIMEOUT))
+                tasks_failed = [asyncio.create_task(bounded_scrape_product(sem, session, url))
                                 for url in failed_list]
                 if tasks_failed:
                     pbar_fail = tqdm(total=len(tasks_failed), desc="Failed URLs", dynamic_ncols=True,
@@ -278,7 +278,7 @@ async def run_scraping_cycle():
         sitemap_tasks = [fetch_sitemap(session, url) for url in sitemap_urls]
         results = await asyncio.gather(*sitemap_tasks)
         product_urls = list(set(sum(results, [])))
-        tasks_new = [asyncio.create_task(asyncio.wait_for(bounded_scrape_product(sem, session, url), timeout=SCRAPE_TIMEOUT))
+        tasks_new = [asyncio.create_task(bounded_scrape_product(sem, session, url))
                      for url in product_urls]
         if tasks_new:
             pbar_new = tqdm(total=len(tasks_new), desc="Neue Produkte", dynamic_ncols=True,
@@ -288,9 +288,8 @@ async def run_scraping_cycle():
                 try:
                     product = await future
                 except Exception as e:
-                    product = None
-                    # Fehler werden hier über myDebug ausgegeben
                     print("Task error: " + str(e))
+                    product = None
                 if product:
                     products_this_cycle.append(product)
                     update_product_file(product)

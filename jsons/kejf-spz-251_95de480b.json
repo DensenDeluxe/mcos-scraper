@@ -205,7 +205,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:54:37.648767",
       "url": "https://medcanonestop.com/medcan_product/kejf-spz-25-1/"
+    },
+    {
+      "title": "KEjF SPZ 25/1",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.94,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4417.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:23.317398",
+      "url": "https://medcanonestop.com/medcan_product/kejf-spz-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:54:37.648767"
+  "last_updated": "2025-03-12T02:31:23.317398"
 }

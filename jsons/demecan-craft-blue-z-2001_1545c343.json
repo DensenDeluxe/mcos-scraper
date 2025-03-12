@@ -205,7 +205,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:46.101204",
       "url": "https://medcanonestop.com/medcan_product/craft-blue-z-2001/"
+    },
+    {
+      "title": "Demecan Craft Blue Z 20:01",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/Bluetenbild-Blue-Z.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:30.381180",
+      "url": "https://medcanonestop.com/medcan_product/craft-blue-z-2001/"
     }
   ],
-  "last_updated": "2025-03-12T00:49:46.101204"
+  "last_updated": "2025-03-12T02:31:30.381180"
 }

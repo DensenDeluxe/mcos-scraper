@@ -173,7 +173,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:05:01.490201",
       "url": "https://medcanonestop.com/medcan_product/lot-420-ab-pt/"
+    },
+    {
+      "title": "LOT 420 AB PT",
+      "thc": {
+        "value": 26.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/LOT420_AB.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:20.485203",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-ab-pt/"
     }
   ],
-  "last_updated": "2025-03-12T02:05:01.490201"
+  "last_updated": "2025-03-12T02:31:20.485203"
 }

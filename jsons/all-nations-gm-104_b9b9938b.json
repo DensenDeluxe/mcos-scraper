@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:03.016677",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-all-nations-gm-104-mac-doughnut/"
+    },
+    {
+      "title": "All Nations GM 104",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.35,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/All-Nations-GM-104-MAC-Doughnut.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:16.673745",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-all-nations-gm-104-mac-doughnut/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:03.016677"
+  "last_updated": "2025-03-12T02:31:16.673745"
 }

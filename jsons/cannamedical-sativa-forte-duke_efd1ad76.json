@@ -2,7 +2,7 @@
   "title": "Cannamedical Sativa forte Duke",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-duke/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:16:35.269269",
+  "last_updated": "2025-03-12T02:31:20.754892",
   "history": [
     {
       "title": "Cannamedical Sativa forte Duke",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/08/Duke-1.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:35.269269",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-duke/"
+    },
+    {
+      "title": "Cannamedical Sativa forte Duke",
+      "thc": {
+        "value": 21.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/08/Duke-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:31:20.754892",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-duke/"
     }
   ]
