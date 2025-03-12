@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:27.410181",
       "url": "https://medcanonestop.com/medcan_product/green-karat-fs-30-1/"
+    },
+    {
+      "title": "Green Karat FS 30/1",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Green-Karat-FS-Fiji-Sunset.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:54.223522",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-fs-30-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:49:27.410181"
+  "last_updated": "2025-03-12T02:35:54.223522"
 }

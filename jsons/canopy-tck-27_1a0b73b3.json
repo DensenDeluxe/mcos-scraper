@@ -205,7 +205,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:21:43.145620",
       "url": "https://medcanonestop.com/medcan_product/canopy-tck-27-1-tiger-cake/"
+    },
+    {
+      "title": "Canopy TCK 27",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/5114.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:21.350571",
+      "url": "https://medcanonestop.com/medcan_product/canopy-tck-27-1-tiger-cake/"
     }
   ],
-  "last_updated": "2025-03-12T02:21:43.145620"
+  "last_updated": "2025-03-12T02:33:21.350571"
 }

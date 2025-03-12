@@ -2,7 +2,7 @@
   "title": "avaay 30/1 MIM",
   "url": "https://medcanonestop.com/medcan_product/avaay-30-1-mim/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:55:08.046870",
+  "last_updated": "2025-03-12T02:32:39.206709",
   "history": [
     {
       "title": "avaay 30/1 MIM",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/8583.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:55:08.046870",
+      "url": "https://medcanonestop.com/medcan_product/avaay-30-1-mim/"
+    },
+    {
+      "title": "avaay 30/1 MIM",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.34,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/8583.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:39.206709",
       "url": "https://medcanonestop.com/medcan_product/avaay-30-1-mim/"
     }
   ]

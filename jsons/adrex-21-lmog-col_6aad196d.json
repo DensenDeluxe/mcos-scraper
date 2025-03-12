@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:43.563590",
       "url": "https://medcanonestop.com/medcan_product/adrex-21-lmog-col-lemon-og/"
+    },
+    {
+      "title": "ADREX 21 LMOG COL",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/761.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:57.263183",
+      "url": "https://medcanonestop.com/medcan_product/adrex-21-lmog-col-lemon-og/"
     }
   ],
-  "last_updated": "2025-03-12T00:52:43.563590"
+  "last_updated": "2025-03-12T02:34:57.263183"
 }

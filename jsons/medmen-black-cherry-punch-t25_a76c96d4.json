@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:33.800540",
       "url": "https://medcanonestop.com/medcan_product/medmen-bcp-t25-black-cherry-punch/"
+    },
+    {
+      "title": "MedMen Black Cherry Punch T25",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/807.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:38.464631",
+      "url": "https://medcanonestop.com/medcan_product/medmen-bcp-t25-black-cherry-punch/"
     }
   ],
-  "last_updated": "2025-03-12T02:16:33.800540"
+  "last_updated": "2025-03-12T02:34:38.464631"
 }

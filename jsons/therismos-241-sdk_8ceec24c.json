@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:40.665830",
       "url": "https://medcanonestop.com/medcan_product/therismos-24-1-sdk/"
+    },
+    {
+      "title": "Therismos 24/1 SDK",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/24_1_SDK.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:53.519511",
+      "url": "https://medcanonestop.com/medcan_product/therismos-24-1-sdk/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:40.665830"
+  "last_updated": "2025-03-12T02:33:53.519511"
 }

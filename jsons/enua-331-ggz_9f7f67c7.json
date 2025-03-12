@@ -2,7 +2,7 @@
   "title": "enua 33/1 GGZ",
   "url": "https://medcanonestop.com/medcan_product/enua-30-1-ggz/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:50:31.996952",
+  "last_updated": "2025-03-12T02:35:06.720527",
   "history": [
     {
       "title": "enua 33/1 GGZ",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/enua_Freisteller_GGZ-2.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:31.996952",
+      "url": "https://medcanonestop.com/medcan_product/enua-30-1-ggz/"
+    },
+    {
+      "title": "enua 33/1 GGZ",
+      "thc": {
+        "value": 33.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/enua_Freisteller_GGZ-2.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:06.720527",
       "url": "https://medcanonestop.com/medcan_product/enua-30-1-ggz/"
     }
   ]

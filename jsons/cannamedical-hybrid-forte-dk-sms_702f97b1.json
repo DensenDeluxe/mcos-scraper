@@ -2,7 +2,7 @@
   "title": "Cannamedical Hybrid forte DK SMS",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-dk-sms/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:48:44.495637",
+  "last_updated": "2025-03-12T02:34:56.243230",
   "history": [
     {
       "title": "Cannamedical Hybrid forte DK SMS",
@@ -112,6 +112,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:48:44.495637",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-dk-sms/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte DK SMS",
+      "thc": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:56.243230",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-dk-sms/"
     }
   ]

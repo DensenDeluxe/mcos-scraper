@@ -2,7 +2,7 @@
   "title": "Ethypharm CBD 100",
   "url": "https://medcanonestop.com/medcan_product/ethypharm-cbd-100/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:55:15.034917",
+  "last_updated": "2025-03-12T02:32:56.886854",
   "history": [
     {
       "title": "Ethypharm CBD 100",
@@ -112,6 +112,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:55:15.034917",
+      "url": "https://medcanonestop.com/medcan_product/ethypharm-cbd-100/"
+    },
+    {
+      "title": "Ethypharm CBD 100",
+      "thc": {
+        "value": 2.85,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 95.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:56.886854",
       "url": "https://medcanonestop.com/medcan_product/ethypharm-cbd-100/"
     }
   ]

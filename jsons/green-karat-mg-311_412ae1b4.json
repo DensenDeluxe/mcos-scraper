@@ -205,7 +205,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:33.113748",
       "url": "https://medcanonestop.com/medcan_product/green-karat-mg-31-1/"
+    },
+    {
+      "title": "Green Karat MG 31/1",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.74,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/08/Green-Karat-MG-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:52.994625",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-mg-31-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:50:33.113748"
+  "last_updated": "2025-03-12T02:33:52.994625"
 }

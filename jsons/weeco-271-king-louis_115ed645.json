@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:54:16.448780",
       "url": "https://medcanonestop.com/medcan_product/weeco-27-1-king-louis/"
+    },
+    {
+      "title": "Weeco 27/1 King Louis",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.19,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7575.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:58.617774",
+      "url": "https://medcanonestop.com/medcan_product/weeco-27-1-king-louis/"
     }
   ],
-  "last_updated": "2025-03-12T00:54:16.448780"
+  "last_updated": "2025-03-12T02:34:58.617774"
 }

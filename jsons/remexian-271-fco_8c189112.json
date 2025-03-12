@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:40.379274",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-fco/"
+    },
+    {
+      "title": "Remexian 27/1 FCO",
+      "thc": {
+        "value": 25.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.15,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.39,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:29.556959",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-fco/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:40.379274"
+  "last_updated": "2025-03-12T02:34:29.556959"
 }

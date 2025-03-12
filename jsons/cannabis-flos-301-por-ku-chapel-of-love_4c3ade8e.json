@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:14.266272",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-30-1-por-ku-chapel-of-love/"
+    },
+    {
+      "title": "Cannabis flos 30/1 POR Ku. Chapel of Love",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Chapel-of-Love.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:30.353653",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-30-1-por-ku-chapel-of-love/"
     }
   ],
-  "last_updated": "2025-03-12T00:52:14.266272"
+  "last_updated": "2025-03-12T02:34:30.353653"
 }

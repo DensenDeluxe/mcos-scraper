@@ -205,7 +205,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:27.410111",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-fcf-2801/"
+    },
+    {
+      "title": "Demecan CRAFT FCF 28:01",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 18.09,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Blutenfoto_DEMECAN_Craft-FCF-020YLqFYtMMHJ4g.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:31.990063",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-fcf-2801/"
     }
   ],
-  "last_updated": "2025-03-12T02:16:27.410111"
+  "last_updated": "2025-03-12T02:35:31.990063"
 }

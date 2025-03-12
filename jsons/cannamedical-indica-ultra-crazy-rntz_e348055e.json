@@ -151,7 +151,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:04:55.978677",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-ultra-crazy-rntz/"
+    },
+    {
+      "title": "Cannamedical Indica Ultra Crazy Rntz",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Crazy-Rntz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:09.777936",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-ultra-crazy-rntz/"
     }
   ],
-  "last_updated": "2025-03-12T02:04:55.978677"
+  "last_updated": "2025-03-12T02:34:09.777936"
 }

@@ -173,7 +173,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:21:51.928576",
       "url": "https://medcanonestop.com/medcan_product/amici-31-1-as/"
+    },
+    {
+      "title": "Amici 31/1 AS",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/AMICI_Atomic_Sour_Grapefruit.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:09.729748",
+      "url": "https://medcanonestop.com/medcan_product/amici-31-1-as/"
     }
   ],
-  "last_updated": "2025-03-12T02:21:51.928576"
+  "last_updated": "2025-03-12T02:35:09.729748"
 }

@@ -2,7 +2,7 @@
   "title": "Tilray THC18 Spotlight Porto S",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-s/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:55:10.320197",
+  "last_updated": "2025-03-12T02:33:43.370210",
   "history": [
     {
       "title": "Tilray THC18 Spotlight Porto S",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:55:10.320197",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-s/"
+    },
+    {
+      "title": "Tilray THC18 Spotlight Porto S",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.19,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:43.370210",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-s/"
     }
   ]

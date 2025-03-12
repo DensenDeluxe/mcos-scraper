@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:03:48.759285",
       "url": "https://medcanonestop.com/medcan_product/greyscales-ps-21-1/"
+    },
+    {
+      "title": "Greyscales PS 21/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.48,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:27.104532",
+      "url": "https://medcanonestop.com/medcan_product/greyscales-ps-21-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:03:48.759285"
+  "last_updated": "2025-03-12T02:35:27.104532"
 }

@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:54.341838",
       "url": "https://medcanonestop.com/medcan_product/huala-25-1-ca-alm/"
+    },
+    {
+      "title": "HUALA 25/1 CA ALM",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.6,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Huala_Alien_Mints_ALM.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:27.968872",
+      "url": "https://medcanonestop.com/medcan_product/huala-25-1-ca-alm/"
     }
   ],
-  "last_updated": "2025-03-12T00:50:54.341838"
+  "last_updated": "2025-03-12T02:33:27.968872"
 }

@@ -2,7 +2,7 @@
   "title": "Curaleaf Natural 25/1 PT WPT",
   "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-25-1-pt-wpt/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:49:04.322293",
+  "last_updated": "2025-03-12T02:32:45.871303",
   "history": [
     {
       "title": "Curaleaf Natural 25/1 PT WPT",
@@ -158,6 +158,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:04.322293",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-25-1-pt-wpt/"
+    },
+    {
+      "title": "Curaleaf Natural 25/1 PT WPT",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:45.871303",
       "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-25-1-pt-wpt/"
     }
   ]

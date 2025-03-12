@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:14.680181",
       "url": "https://medcanonestop.com/medcan_product/aleph-purple-26-1/"
+    },
+    {
+      "title": "aleph purple 26/1",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/aleph-purple.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:19.125776",
+      "url": "https://medcanonestop.com/medcan_product/aleph-purple-26-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:16:14.680181"
+  "last_updated": "2025-03-12T02:32:19.125776"
 }

@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:50.602652",
       "url": "https://medcanonestop.com/medcan_product/botanics-tonic-fuel-22-1/"
+    },
+    {
+      "title": "BOTANICS Tonic Fuel 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/Tonic-Fuel-221-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:21.042971",
+      "url": "https://medcanonestop.com/medcan_product/botanics-tonic-fuel-22-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:50.602652"
+  "last_updated": "2025-03-12T02:32:21.042971"
 }

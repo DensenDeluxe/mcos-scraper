@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:42.410314",
       "url": "https://medcanonestop.com/medcan_product/demecan-mc-regular-drop-25-01/"
+    },
+    {
+      "title": "Demecan MC Regular Drop 25/01",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 12.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/3734.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:40.447390",
+      "url": "https://medcanonestop.com/medcan_product/demecan-mc-regular-drop-25-01/"
     }
   ],
-  "last_updated": "2025-03-12T02:16:42.410314"
+  "last_updated": "2025-03-12T02:33:40.447390"
 }

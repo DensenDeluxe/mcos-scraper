@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:48:48.223706",
       "url": "https://medcanonestop.com/medcan_product/peace-naturals-29-1-gc/"
+    },
+    {
+      "title": "Peace Naturals 29/1 GC",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.38,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image008-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:26.930768",
+      "url": "https://medcanonestop.com/medcan_product/peace-naturals-29-1-gc/"
     }
   ],
-  "last_updated": "2025-03-12T00:48:48.223706"
+  "last_updated": "2025-03-12T02:33:26.930768"
 }

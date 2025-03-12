@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:03:34.131830",
       "url": "https://medcanonestop.com/medcan_product/roxton-air-bs01/"
+    },
+    {
+      "title": "Roxton Air BS01",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Roxton-Air-BS01.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:54.366077",
+      "url": "https://medcanonestop.com/medcan_product/roxton-air-bs01/"
     }
   ],
-  "last_updated": "2025-03-12T02:03:34.131830"
+  "last_updated": "2025-03-12T02:33:54.366077"
 }

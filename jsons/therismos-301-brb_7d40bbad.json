@@ -173,7 +173,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:30.477885",
       "url": "https://medcanonestop.com/medcan_product/therismos-30-1-brb/"
+    },
+    {
+      "title": "Therismos 30/1 BRB",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3705.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:30.889850",
+      "url": "https://medcanonestop.com/medcan_product/therismos-30-1-brb/"
     }
   ],
-  "last_updated": "2025-03-12T02:16:30.477885"
+  "last_updated": "2025-03-12T02:35:30.889850"
 }

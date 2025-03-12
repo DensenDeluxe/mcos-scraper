@@ -2,7 +2,7 @@
   "title": "Canopy HSK 8/7",
   "url": "https://medcanonestop.com/medcan_product/canopy-hsk-8-7-cbd-skunk-haze/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:16:18.804096",
+  "last_updated": "2025-03-12T02:34:36.847846",
   "history": [
     {
       "title": "Canopy HSK 8/7",
@@ -210,6 +210,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/312.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:18.804096",
+      "url": "https://medcanonestop.com/medcan_product/canopy-hsk-8-7-cbd-skunk-haze/"
+    },
+    {
+      "title": "Canopy HSK 8/7",
+      "thc": {
+        "value": 8.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 7.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.64,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/312.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:36.847846",
       "url": "https://medcanonestop.com/medcan_product/canopy-hsk-8-7-cbd-skunk-haze/"
     }
   ]

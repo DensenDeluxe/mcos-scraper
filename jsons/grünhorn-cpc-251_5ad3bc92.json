@@ -129,7 +129,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:45.499450",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-cpc-25-1-cappuccino/"
+    },
+    {
+      "title": "Grünhorn CPC 25/1",
+      "thc": {
+        "value": 25.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.09,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:28.223337",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-cpc-25-1-cappuccino/"
     }
   ],
-  "last_updated": "2025-03-12T00:52:45.499450"
+  "last_updated": "2025-03-12T02:33:28.223337"
 }

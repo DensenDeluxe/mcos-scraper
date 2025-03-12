@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:53:42.930899",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-1-14-ls-ku/"
+    },
+    {
+      "title": "Cannabis flos 1/14 LS Ku. Maluti CBD",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.88,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/MalutiCBD.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:39.071488",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-1-14-ls-ku/"
     }
   ],
-  "last_updated": "2025-03-12T00:53:42.930899"
+  "last_updated": "2025-03-12T02:33:39.071488"
 }

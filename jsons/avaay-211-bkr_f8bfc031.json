@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:29.699274",
       "url": "https://medcanonestop.com/medcan_product/avaay-21-1-bkr/"
+    },
+    {
+      "title": "avaay 21/1 BKR",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.94,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BKR_Bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:06.992215",
+      "url": "https://medcanonestop.com/medcan_product/avaay-21-1-bkr/"
     }
   ],
-  "last_updated": "2025-03-12T00:49:29.699274"
+  "last_updated": "2025-03-12T02:35:06.992215"
 }

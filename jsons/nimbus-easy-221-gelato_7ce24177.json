@@ -2,7 +2,7 @@
   "title": "Nimbus Easy 22/1 Gelato",
   "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-gelato/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:49:30.270675",
+  "last_updated": "2025-03-12T02:33:47.637846",
   "history": [
     {
       "title": "Nimbus Easy 22/1 Gelato",
@@ -184,6 +184,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6577_21969_6735e5c69a188_20241114_115252.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:30.270675",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-gelato/"
+    },
+    {
+      "title": "Nimbus Easy 22/1 Gelato",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.59,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6577_21969_6735e5c69a188_20241114_115252.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:47.637846",
       "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-gelato/"
     }
   ]

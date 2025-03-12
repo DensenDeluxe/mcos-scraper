@@ -2,7 +2,7 @@
   "title": "All Nations LT PT",
   "url": "https://medcanonestop.com/medcan_product/all-nations-lt-pt/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:49:17.897251",
+  "last_updated": "2025-03-12T02:35:16.231292",
   "history": [
     {
       "title": "All Nations LT PT",
@@ -156,6 +156,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/ALLNATIONS_LT.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:17.897251",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-lt-pt/"
+    },
+    {
+      "title": "All Nations LT PT",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/ALLNATIONS_LT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:16.231292",
       "url": "https://medcanonestop.com/medcan_product/all-nations-lt-pt/"
     }
   ]

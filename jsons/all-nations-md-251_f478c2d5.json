@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:49.184648",
       "url": "https://medcanonestop.com/medcan_product/all-nations-md-25-1/"
+    },
+    {
+      "title": "All Nations MD 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.1,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/ALLNATIONS_MD-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:22.270618",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-md-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:49.184648"
+  "last_updated": "2025-03-12T02:35:22.270618"
 }

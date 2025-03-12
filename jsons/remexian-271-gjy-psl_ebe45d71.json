@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:56.789850",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-gjy-psl/"
+    },
+    {
+      "title": "Remexian 27/1 GJY PSL",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.77,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:34.404064",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-gjy-psl/"
     }
   ],
-  "last_updated": "2025-03-12T00:49:56.789850"
+  "last_updated": "2025-03-12T02:35:34.404064"
 }

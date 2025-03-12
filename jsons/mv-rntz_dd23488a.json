@@ -2,7 +2,7 @@
   "title": "MV RNTZ",
   "url": "https://medcanonestop.com/medcan_product/mv-rntz/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:16:26.408482",
+  "last_updated": "2025-03-12T02:32:24.658721",
   "history": [
     {
       "title": "MV RNTZ",
@@ -158,6 +158,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MAC-4_DetroitRuntz.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:16:26.408482",
+      "url": "https://medcanonestop.com/medcan_product/mv-rntz/"
+    },
+    {
+      "title": "MV RNTZ",
+      "thc": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.73,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MAC-4_DetroitRuntz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:24.658721",
       "url": "https://medcanonestop.com/medcan_product/mv-rntz/"
     }
   ]

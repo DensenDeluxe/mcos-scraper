@@ -2,7 +2,7 @@
   "title": "Vasco GG",
   "url": "https://medcanonestop.com/medcan_product/vasco-gg-grape-gasoline/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:53:49.408381",
+  "last_updated": "2025-03-12T02:34:11.946271",
   "history": [
     {
       "title": "Vasco GG",
@@ -112,6 +112,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/12/Vasco-GG-Grape-Gasoline.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:53:49.408381",
+      "url": "https://medcanonestop.com/medcan_product/vasco-gg-grape-gasoline/"
+    },
+    {
+      "title": "Vasco GG",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/12/Vasco-GG-Grape-Gasoline.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:11.946271",
       "url": "https://medcanonestop.com/medcan_product/vasco-gg-grape-gasoline/"
     }
   ]

@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:13.108695",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-25-1-ca-wes/"
+    },
+    {
+      "title": "420 Evolution 25/1 CA WES",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.33,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Wedding-Singer_WES.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:17.074902",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-25-1-ca-wes/"
     }
   ],
-  "last_updated": "2025-03-12T00:49:13.108695"
+  "last_updated": "2025-03-12T02:34:17.074902"
 }

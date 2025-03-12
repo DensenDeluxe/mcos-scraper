@@ -195,7 +195,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:21:57.901902",
       "url": "https://medcanonestop.com/medcan_product/cookies-b4nana-25-1-gsc/"
+    },
+    {
+      "title": "PureCan Cooki3s 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6278.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:40.719001",
+      "url": "https://medcanonestop.com/medcan_product/cookies-b4nana-25-1-gsc/"
     }
   ],
-  "last_updated": "2025-03-12T02:21:57.901902"
+  "last_updated": "2025-03-12T02:33:40.719001"
 }

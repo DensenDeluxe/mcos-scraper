@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:54:42.700797",
       "url": "https://medcanonestop.com/medcan_product/remexian-25-1-gfr/"
+    },
+    {
+      "title": "Remexian 25/1 GFR",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4349.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:41.716937",
+      "url": "https://medcanonestop.com/medcan_product/remexian-25-1-gfr/"
     }
   ],
-  "last_updated": "2025-03-12T00:54:42.700797"
+  "last_updated": "2025-03-12T02:32:41.716937"
 }

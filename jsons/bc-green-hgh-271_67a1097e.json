@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:53:44.904212",
       "url": "https://medcanonestop.com/medcan_product/bc-green-hgh-27-1/"
+    },
+    {
+      "title": "BC Green HGH 27/1",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/735.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:32:58.465660",
+      "url": "https://medcanonestop.com/medcan_product/bc-green-hgh-27-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:53:44.904212"
+  "last_updated": "2025-03-12T02:32:58.465660"
 }

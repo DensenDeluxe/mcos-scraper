@@ -2,7 +2,7 @@
   "title": "Bathera 21/1 ZS",
   "url": "https://medcanonestop.com/medcan_product/bathera-21-1-zs/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:52:59.285196",
+  "last_updated": "2025-03-12T02:33:16.641538",
   "history": [
     {
       "title": "Bathera 21/1 ZS",
@@ -132,6 +132,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Z-SPlitter-1500px.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:59.285196",
+      "url": "https://medcanonestop.com/medcan_product/bathera-21-1-zs/"
+    },
+    {
+      "title": "Bathera 21/1 ZS",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Z-SPlitter-1500px.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:16.641538",
       "url": "https://medcanonestop.com/medcan_product/bathera-21-1-zs/"
     }
   ]

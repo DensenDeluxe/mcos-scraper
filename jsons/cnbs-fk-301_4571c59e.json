@@ -107,7 +107,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:08.873314",
       "url": "https://medcanonestop.com/medcan_product/cnbs-fk-30-1/"
+    },
+    {
+      "title": "CNBS FK 30/1",
+      "thc": {
+        "value": 30.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4470.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:35:45.433475",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-fk-30-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:50:08.873314"
+  "last_updated": "2025-03-12T02:35:45.433475"
 }

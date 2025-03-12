@@ -2,7 +2,7 @@
   "title": "Demecan Craft Dosidos 24:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-craft-dosidos-2801/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:48:43.176925",
+  "last_updated": "2025-03-12T02:33:19.254398",
   "history": [
     {
       "title": "Demecan Craft Dosidos 24:01",
@@ -184,6 +184,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Bud-DoSiDosebSHSF1gDKu4J.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:48:43.176925",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-dosidos-2801/"
+    },
+    {
+      "title": "Demecan Craft Dosidos 24:01",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Bud-DoSiDosebSHSF1gDKu4J.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:33:19.254398",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-dosidos-2801/"
     }
   ]

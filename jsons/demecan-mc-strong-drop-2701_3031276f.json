@@ -127,7 +127,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:57.870703",
       "url": "https://medcanonestop.com/medcan_product/demecan-mc-strong-drop-2701/"
+    },
+    {
+      "title": "Demecan MC Strong Drop 27:01",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Zkittlez-X-Sherb-X-PM.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:34:55.700775",
+      "url": "https://medcanonestop.com/medcan_product/demecan-mc-strong-drop-2701/"
     }
   ],
-  "last_updated": "2025-03-12T00:52:57.870703"
+  "last_updated": "2025-03-12T02:34:55.700775"
 }
