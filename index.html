@@ -247,28 +247,27 @@
       
       // Vorauswahl: Nur Einträge mit gültigem Handelsnamen, mindestens einem gültigen Preis und gültigen THC- oder CBD-Werten
       function isValidProduct(prod) {
-        // Handelsname muss vorhanden sein und darf nicht leer, "null" oder "kein eintrag" sein (in Kleinbuchstaben)
+        // Handelsname muss vorhanden sein und darf nicht leer, "null", "kein eintrag" oder "undefined" sein
         if (!prod.title || prod.title.trim() === "" ||
-            prod.title.trim().toLowerCase() === "null" ||
-            prod.title.trim().toLowerCase() === "kein eintrag") {
+            ["null", "kein eintrag", "undefined"].includes(prod.title.trim().toLowerCase())) {
           return false;
         }
-        // Preis: Mindestens price.value oder price.min/max muss einen numerischen Wert ungleich 0 haben
+        // Preis: Mindestens price.value oder price.min/max muss einen numerischen Wert > 0 haben
         if (!prod.price) return false;
         let priceValid = false;
-        if (prod.price.value !== undefined && prod.price.value != null && getNumeric(prod.price.value) !== 0) {
+        if (prod.price.value !== undefined && prod.price.value != null && !isNaN(getNumeric(prod.price.value)) && getNumeric(prod.price.value) > 0) {
           priceValid = true;
         }
-        if (prod.price.min !== undefined && prod.price.min != null && getNumeric(prod.price.min) !== 0) {
+        if (prod.price.min !== undefined && prod.price.min != null && !isNaN(getNumeric(prod.price.min)) && getNumeric(prod.price.min) > 0) {
           priceValid = true;
         }
-        if (prod.price.max !== undefined && prod.price.max != null && getNumeric(prod.price.max) !== 0) {
+        if (prod.price.max !== undefined && prod.price.max != null && !isNaN(getNumeric(prod.price.max)) && getNumeric(prod.price.max) > 0) {
           priceValid = true;
         }
         if (!priceValid) return false;
-        // THC oder CBD: Mindestens einer muss einen gültigen numerischen Wert ungleich 0 haben
-        const thcValid = prod.thc && getNumeric(prod.thc) !== 0;
-        const cbdValid = prod.cbd && getNumeric(prod.cbd) !== 0;
+        // THC oder CBD: Mindestens einer muss einen numerischen Wert > 0 haben
+        const thcValid = prod.thc && !isNaN(getNumeric(prod.thc)) && getNumeric(prod.thc) > 0;
+        const cbdValid = prod.cbd && !isNaN(getNumeric(prod.cbd)) && getNumeric(prod.cbd) > 0;
         return thcValid || cbdValid;
       }
       
