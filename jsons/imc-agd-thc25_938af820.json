@@ -2,7 +2,7 @@
   "title": "IMC AGD THC25",
   "url": "https://medcanonestop.com/medcan_product/imc-agd-thc25/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T10:00:18.603876",
+  "last_updated": "2025-03-12T11:08:17.753242",
   "history": [
     {
       "title": "IMC AGD THC25",
@@ -210,6 +210,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:18.603876",
+      "url": "https://medcanonestop.com/medcan_product/imc-agd-thc25/"
+    },
+    {
+      "title": "IMC AGD THC25",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.94,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:08:17.753242",
       "url": "https://medcanonestop.com/medcan_product/imc-agd-thc25/"
     }
   ]

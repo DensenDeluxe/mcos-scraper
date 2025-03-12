@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:07.630445",
       "url": "https://medcanonestop.com/medcan_product/can-hydro-ppc/"
+    },
+    {
+      "title": "Can Hydro PPC",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.55,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/CAN-Hydro-PPC.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:30.193202",
+      "url": "https://medcanonestop.com/medcan_product/can-hydro-ppc/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:07.630445"
+  "last_updated": "2025-03-12T11:06:30.193202"
 }

@@ -2,7 +2,7 @@
   "title": "enua 22/1 DB CA",
   "url": "https://medcanonestop.com/medcan_product/enua-22-1-db-ca/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:58:59.577759",
+  "last_updated": "2025-03-12T11:06:19.492116",
   "history": [
     {
       "title": "enua 22/1 DB CA",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/8456.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:59.577759",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-db-ca/"
+    },
+    {
+      "title": "enua 22/1 DB CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/8456.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:19.492116",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-db-ca/"
     }
   ]

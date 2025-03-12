@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:00.459339",
       "url": "https://medcanonestop.com/medcan_product/lot-420-oc-pt/"
+    },
+    {
+      "title": "LOT 420 OC PT",
+      "thc": {
+        "value": 26.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/LOT-420-OC-Orange-Cake.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:19.874541",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-oc-pt/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:00.459339"
+  "last_updated": "2025-03-12T11:06:19.874541"
 }

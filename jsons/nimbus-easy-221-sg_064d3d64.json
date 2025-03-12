@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:32.984616",
       "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-strawberry-glue/"
+    },
+    {
+      "title": "Nimbus EASY 22/1 SG",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2146.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:08:37.984404",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-strawberry-glue/"
     }
   ],
-  "last_updated": "2025-03-12T10:00:32.984616"
+  "last_updated": "2025-03-12T11:08:37.984404"
 }

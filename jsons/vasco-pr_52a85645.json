@@ -2,7 +2,7 @@
   "title": "Vasco PR",
   "url": "https://medcanonestop.com/medcan_product/vasco-pr/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T10:00:09.581661",
+  "last_updated": "2025-03-12T11:08:02.713509",
   "history": [
     {
       "title": "Vasco PR",
@@ -222,6 +222,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Vasco-PR-PT.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:09.581661",
+      "url": "https://medcanonestop.com/medcan_product/vasco-pr/"
+    },
+    {
+      "title": "Vasco PR",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Vasco-PR-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:08:02.713509",
       "url": "https://medcanonestop.com/medcan_product/vasco-pr/"
     }
   ]

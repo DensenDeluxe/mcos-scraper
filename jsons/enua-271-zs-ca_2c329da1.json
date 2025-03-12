@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:56.203636",
       "url": "https://medcanonestop.com/medcan_product/enua-27-1-zs-ca/"
+    },
+    {
+      "title": "enua 27/1 ZS CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:02:59.983126",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-zs-ca/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:56.203636"
+  "last_updated": "2025-03-12T11:02:59.983126"
 }

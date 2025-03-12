@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:35.725539",
       "url": "https://medcanonestop.com/medcan_product/avaay-31-1-scg/"
+    },
+    {
+      "title": "avaay 31/1 SCG",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.19,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.89,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Super-Citra-G.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:03:59.333670",
+      "url": "https://medcanonestop.com/medcan_product/avaay-31-1-scg/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:35.725539"
+  "last_updated": "2025-03-12T11:03:59.333670"
 }

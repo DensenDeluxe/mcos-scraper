@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:39.915591",
       "url": "https://medcanonestop.com/medcan_product/bathera-30-1-pp/"
+    },
+    {
+      "title": "Bathera 30/1 PP",
+      "thc": {
+        "value": 27.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/polar_pop3.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:07:19.138982",
+      "url": "https://medcanonestop.com/medcan_product/bathera-30-1-pp/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:39.915591"
+  "last_updated": "2025-03-12T11:07:19.138982"
 }

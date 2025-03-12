@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:15.014099",
       "url": "https://medcanonestop.com/medcan_product/avaay-27-1-did/"
+    },
+    {
+      "title": "avaay 27/1 DID",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.29,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/DiD_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:53.442022",
+      "url": "https://medcanonestop.com/medcan_product/avaay-27-1-did/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:15.014099"
+  "last_updated": "2025-03-12T11:01:53.442022"
 }

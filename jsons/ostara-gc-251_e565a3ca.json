@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:23.617224",
       "url": "https://medcanonestop.com/medcan_product/ostara-gc-25-1/"
+    },
+    {
+      "title": "Ostara GC 25/1",
+      "thc": {
+        "value": 23.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Ostara-GC-Gas-Cake.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:02:09.512590",
+      "url": "https://medcanonestop.com/medcan_product/ostara-gc-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:23.617224"
+  "last_updated": "2025-03-12T11:02:09.512590"
 }

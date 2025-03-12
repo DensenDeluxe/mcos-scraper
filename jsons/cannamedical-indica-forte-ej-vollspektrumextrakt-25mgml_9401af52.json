@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:24.905558",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-el-jefe-vollspektrumextrakt-25mg-ml/"
+    },
+    {
+      "title": "Cannamedical indica forte: EJ Vollspektrumextrakt 25mg/ml",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 3.96,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:08:27.603064",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-el-jefe-vollspektrumextrakt-25mg-ml/"
     }
   ],
-  "last_updated": "2025-03-12T10:00:24.905558"
+  "last_updated": "2025-03-12T11:08:27.603064"
 }

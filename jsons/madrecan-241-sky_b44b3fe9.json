@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:06.619447",
       "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-sky/"
+    },
+    {
+      "title": "madrecan 24/1 SKY",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/3890.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:41.788291",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-sky/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:06.619447"
+  "last_updated": "2025-03-12T11:01:41.788291"
 }

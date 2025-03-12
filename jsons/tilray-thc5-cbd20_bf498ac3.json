@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:11.159262",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc5cbd20/"
+    },
+    {
+      "title": "TILRAY THC5 CBD20",
+      "thc": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 9.0,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 16.49,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:36.039600",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc5cbd20/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:11.159262"
+  "last_updated": "2025-03-12T11:06:36.039600"
 }

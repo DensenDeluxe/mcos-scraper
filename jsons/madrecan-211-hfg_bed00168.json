@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:18.250470",
       "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-hifi-4g/"
+    },
+    {
+      "title": "madrecan 21/1 HFG",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3883.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:44.940813",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-hifi-4g/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:18.250470"
+  "last_updated": "2025-03-12T11:06:44.940813"
 }

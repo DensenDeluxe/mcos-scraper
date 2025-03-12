@@ -2,7 +2,7 @@
   "title": "IMC THC20 T01",
   "url": "https://medcanonestop.com/medcan_product/imc-thc20-t01-hk-hindu-kush/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:59:09.273489",
+  "last_updated": "2025-03-12T11:06:32.961850",
   "history": [
     {
       "title": "IMC THC20 T01",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/437.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:09.273489",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc20-t01-hk-hindu-kush/"
+    },
+    {
+      "title": "IMC THC20 T01",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/437.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:32.961850",
       "url": "https://medcanonestop.com/medcan_product/imc-thc20-t01-hk-hindu-kush/"
     }
   ]

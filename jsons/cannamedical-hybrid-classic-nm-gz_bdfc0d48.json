@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:06.369995",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-nm-gorilla-zkittlez/"
+    },
+    {
+      "title": "Cannamedical Hybrid Classic NM GZ",
+      "thc": {
+        "value": 20.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 19.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gorilla-Zkittlez.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:40.222710",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-nm-gorilla-zkittlez/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:06.369995"
+  "last_updated": "2025-03-12T11:01:40.222710"
 }

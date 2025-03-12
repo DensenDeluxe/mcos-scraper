@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:45.536097",
       "url": "https://medcanonestop.com/medcan_product/ethypharm-thc-50/"
+    },
+    {
+      "title": "Ethypharm THC 50",
+      "thc": {
+        "value": 47.5,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 4.75,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:04:12.353837",
+      "url": "https://medcanonestop.com/medcan_product/ethypharm-thc-50/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:45.536097"
+  "last_updated": "2025-03-12T11:04:12.353837"
 }

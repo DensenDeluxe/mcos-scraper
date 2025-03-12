@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:28.176535",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-wck-ca/"
+    },
+    {
+      "title": "enua 22/1 WCK CA",
+      "thc": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.68,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5968.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:03:46.792578",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-wck-ca/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:28.176535"
+  "last_updated": "2025-03-12T11:03:46.792578"
 }

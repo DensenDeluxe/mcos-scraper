@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:38.440410",
       "url": "https://medcanonestop.com/medcan_product/avextra-25-thc/"
+    },
+    {
+      "title": "Extrakt Avextra 25 THC",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.2,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.96,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:05:49.123995",
+      "url": "https://medcanonestop.com/medcan_product/avextra-25-thc/"
     }
   ],
-  "last_updated": "2025-03-12T09:58:38.440410"
+  "last_updated": "2025-03-12T11:05:49.123995"
 }

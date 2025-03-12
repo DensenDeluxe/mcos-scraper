@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:55:50.919501",
       "url": "https://medcanonestop.com/medcan_product/imc-thc20-t06-br/"
+    },
+    {
+      "title": "IMC THC20 T06 BR",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:15.079465",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc20-t06-br/"
     }
   ],
-  "last_updated": "2025-03-12T09:55:50.919501"
+  "last_updated": "2025-03-12T11:01:15.079465"
 }

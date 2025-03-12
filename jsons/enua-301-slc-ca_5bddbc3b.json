@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:28.534684",
       "url": "https://medcanonestop.com/medcan_product/enua-30-1-slc-ca/"
+    },
+    {
+      "title": "enua 30/1 SLC CA",
+      "thc": {
+        "value": 32.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.25,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/SLC.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:05:34.462358",
+      "url": "https://medcanonestop.com/medcan_product/enua-30-1-slc-ca/"
     }
   ],
-  "last_updated": "2025-03-12T09:58:28.534684"
+  "last_updated": "2025-03-12T11:05:34.462358"
 }

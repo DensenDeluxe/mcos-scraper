@@ -2,7 +2,7 @@
   "title": "Adven 10/0",
   "url": "https://medcanonestop.com/medcan_product/adven-10-0/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:58:36.818483",
+  "last_updated": "2025-03-12T11:05:46.752410",
   "history": [
     {
       "title": "Adven 10/0",
@@ -200,6 +200,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:36.818483",
+      "url": "https://medcanonestop.com/medcan_product/adven-10-0/"
+    },
+    {
+      "title": "Adven 10/0",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:05:46.752410",
       "url": "https://medcanonestop.com/medcan_product/adven-10-0/"
     }
   ]

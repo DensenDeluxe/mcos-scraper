@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:52.568322",
       "url": "https://medcanonestop.com/medcan_product/remexian-22-1-gg4-mini/"
+    },
+    {
+      "title": "Remexian 22/1 GG4 Mini",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4419.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:04:26.852697",
+      "url": "https://medcanonestop.com/medcan_product/remexian-22-1-gg4-mini/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:52.568322"
+  "last_updated": "2025-03-12T11:04:26.852697"
 }

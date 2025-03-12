@@ -2,7 +2,7 @@
   "title": "TILRAY THC 25 Spotlight Porto Purps",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc25-spotlight-porto-purps/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:56:21.777837",
+  "last_updated": "2025-03-12T11:02:06.030800",
   "history": [
     {
       "title": "TILRAY THC 25 Spotlight Porto Purps",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:21.777837",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc25-spotlight-porto-purps/"
+    },
+    {
+      "title": "TILRAY THC 25 Spotlight Porto Purps",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:02:06.030800",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc25-spotlight-porto-purps/"
     }
   ]

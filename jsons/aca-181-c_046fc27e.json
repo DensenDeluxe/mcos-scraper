@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:10.335944",
       "url": "https://medcanonestop.com/medcan_product/aca-18-1-c/"
+    },
+    {
+      "title": "ACA 18/1 C",
+      "thc": {
+        "value": 18.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:34.524610",
+      "url": "https://medcanonestop.com/medcan_product/aca-18-1-c/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:10.335944"
+  "last_updated": "2025-03-12T11:06:34.524610"
 }

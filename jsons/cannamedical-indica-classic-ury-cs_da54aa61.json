@@ -2,7 +2,7 @@
   "title": "Cannamedical Indica classic URY CS",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-ury-ck/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:55:54.415695",
+  "last_updated": "2025-03-12T11:01:22.181818",
   "history": [
     {
       "title": "Cannamedical Indica classic URY CS",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Cheddar-Skunk.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:55:54.415695",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-ury-ck/"
+    },
+    {
+      "title": "Cannamedical Indica classic URY CS",
+      "thc": {
+        "value": 18.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.29,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Cheddar-Skunk.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:22.181818",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-ury-ck/"
     }
   ]

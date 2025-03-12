@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:24.736168",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-23-1-co-ku-kush-mints/"
+    },
+    {
+      "title": "Cannabis Flos 23/1 CO Ku. Kush Mints",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/747.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:03:41.744483",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-23-1-co-ku-kush-mints/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:24.736168"
+  "last_updated": "2025-03-12T11:03:41.744483"
 }

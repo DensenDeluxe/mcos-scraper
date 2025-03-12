@@ -195,7 +195,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:45.780536",
       "url": "https://medcanonestop.com/medcan_product/materia-gh-27-1/"
+    },
+    {
+      "title": "Materia GH 27/1",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 12.57,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5749.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:02:43.380494",
+      "url": "https://medcanonestop.com/medcan_product/materia-gh-27-1/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:45.780536"
+  "last_updated": "2025-03-12T11:02:43.380494"
 }

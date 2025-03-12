@@ -2,7 +2,7 @@
   "title": "RE:CANNIS 16/1 Sativa Bereshit",
   "url": "https://medcanonestop.com/medcan_product/recannis-16-1-sativa-bereshit-2/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:57:41.844604",
+  "last_updated": "2025-03-12T11:04:06.314251",
   "history": [
     {
       "title": "RE:CANNIS 16/1 Sativa Bereshit",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/7972.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:41.844604",
+      "url": "https://medcanonestop.com/medcan_product/recannis-16-1-sativa-bereshit-2/"
+    },
+    {
+      "title": "RE:CANNIS 16/1 Sativa Bereshit",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/7972.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:04:06.314251",
       "url": "https://medcanonestop.com/medcan_product/recannis-16-1-sativa-bereshit-2/"
     }
   ]

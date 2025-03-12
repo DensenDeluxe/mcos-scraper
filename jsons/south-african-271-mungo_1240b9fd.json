@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:00.290640",
       "url": "https://medcanonestop.com/medcan_product/south-african-27-1-mungo/"
+    },
+    {
+      "title": "South African 27/1 Mungo",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.69,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/6833.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:03:04.355046",
+      "url": "https://medcanonestop.com/medcan_product/south-african-27-1-mungo/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:00.290640"
+  "last_updated": "2025-03-12T11:03:04.355046"
 }

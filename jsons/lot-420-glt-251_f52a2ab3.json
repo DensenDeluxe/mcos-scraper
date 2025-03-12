@@ -2,7 +2,7 @@
   "title": "LOT 420 GLT 25/1",
   "url": "https://medcanonestop.com/medcan_product/lot-420-glt-gelato33/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:59:58.896860",
+  "last_updated": "2025-03-12T11:07:45.012154",
   "history": [
     {
       "title": "LOT 420 GLT 25/1",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/LOT-420-GLT-Gelato33.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:58.896860",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-glt-gelato33/"
+    },
+    {
+      "title": "LOT 420 GLT 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/LOT-420-GLT-Gelato33.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:07:45.012154",
       "url": "https://medcanonestop.com/medcan_product/lot-420-glt-gelato33/"
     }
   ]

@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:49.580796",
       "url": "https://medcanonestop.com/medcan_product/greyscales-gf-18-1/"
+    },
+    {
+      "title": "Greyscales GF 18/1",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:04:19.633425",
+      "url": "https://medcanonestop.com/medcan_product/greyscales-gf-18-1/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:49.580796"
+  "last_updated": "2025-03-12T11:04:19.633425"
 }

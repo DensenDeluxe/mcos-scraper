@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:13.094885",
       "url": "https://medcanonestop.com/medcan_product/roxton-air-fc-pt-25-1/"
+    },
+    {
+      "title": "Roxton Air FC PT 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Roxton-Air-FC-Frosted-Cookies.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:37.842943",
+      "url": "https://medcanonestop.com/medcan_product/roxton-air-fc-pt-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:13.094885"
+  "last_updated": "2025-03-12T11:06:37.842943"
 }

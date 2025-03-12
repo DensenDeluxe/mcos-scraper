@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:36.586839",
       "url": "https://medcanonestop.com/medcan_product/navcora-thc-25-spotlight-porto-sirius/"
+    },
+    {
+      "title": "TILRAY THC 25 Spotlight Porto S",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.09,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:07:13.996225",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc-25-spotlight-porto-sirius/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:36.586839"
+  "last_updated": "2025-03-12T11:07:13.996225"
 }

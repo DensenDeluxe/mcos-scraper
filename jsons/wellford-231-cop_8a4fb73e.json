@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:31.583318",
       "url": "https://medcanonestop.com/medcan_product/wellford-23-1-cop/"
+    },
+    {
+      "title": "Wellford 23/1 COP",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Wellford-231-COP-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:05:38.770487",
+      "url": "https://medcanonestop.com/medcan_product/wellford-23-1-cop/"
     }
   ],
-  "last_updated": "2025-03-12T09:58:31.583318"
+  "last_updated": "2025-03-12T11:05:38.770487"
 }

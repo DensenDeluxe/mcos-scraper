@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:28.398903",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-2525-cannabisextrakt-hybrid/"
+    },
+    {
+      "title": "Grünhorn 25:25 Cannabisextrakt Hybrid",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 3.96,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:03:47.556565",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-2525-cannabisextrakt-hybrid/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:28.398903"
+  "last_updated": "2025-03-12T11:03:47.556565"
 }

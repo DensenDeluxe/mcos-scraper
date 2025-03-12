@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:22.770150",
       "url": "https://medcanonestop.com/medcan_product/oceanic-bc-black-cookies/"
+    },
+    {
+      "title": "Oceanic BC",
+      "thc": {
+        "value": 24.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/Oceanic-BC-Black-Cookies.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:03:38.250441",
+      "url": "https://medcanonestop.com/medcan_product/oceanic-bc-black-cookies/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:22.770150"
+  "last_updated": "2025-03-12T11:03:38.250441"
 }

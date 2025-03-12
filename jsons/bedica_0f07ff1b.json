@@ -2,7 +2,7 @@
   "title": "Bedica",
   "url": "https://medcanonestop.com/medcan_product/bedica/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:58:19.059582",
+  "last_updated": "2025-03-12T11:05:22.119958",
   "history": [
     {
       "title": "Bedica",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:19.059582",
+      "url": "https://medcanonestop.com/medcan_product/bedica/"
+    },
+    {
+      "title": "Bedica",
+      "thc": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 13.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:05:22.119958",
       "url": "https://medcanonestop.com/medcan_product/bedica/"
     }
   ]

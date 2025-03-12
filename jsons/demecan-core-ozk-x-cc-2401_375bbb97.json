@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:06.188471",
       "url": "https://medcanonestop.com/medcan_product/demecan-core-ozk-x-cc-2401/"
+    },
+    {
+      "title": "Demecan Core OZK x CC 24:01",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/DEMECAN-OZKxCC-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:07:58.132509",
+      "url": "https://medcanonestop.com/medcan_product/demecan-core-ozk-x-cc-2401/"
     }
   ],
-  "last_updated": "2025-03-12T10:00:06.188471"
+  "last_updated": "2025-03-12T11:07:58.132509"
 }

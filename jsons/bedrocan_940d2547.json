@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:42.983938",
       "url": "https://medcanonestop.com/medcan_product/bedrocan/"
+    },
+    {
+      "title": "Bedrocan",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.28,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/545.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:04:08.745307",
+      "url": "https://medcanonestop.com/medcan_product/bedrocan/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:42.983938"
+  "last_updated": "2025-03-12T11:04:08.745307"
 }

@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:23.594238",
       "url": "https://medcanonestop.com/medcan_product/drapalin-27-1-pink-gas/"
+    },
+    {
+      "title": "Drapalin 27/1 Pink Gas",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Drapalin_PinkGas.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:54.160515",
+      "url": "https://medcanonestop.com/medcan_product/drapalin-27-1-pink-gas/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:23.594238"
+  "last_updated": "2025-03-12T11:06:54.160515"
 }

@@ -2,7 +2,7 @@
   "title": "Cannabis flos 21/1 PRT Ku. Black Cherry Pie",
   "url": "https://medcanonestop.com/medcan_product/cannabis-flos-21-1-prt-ku-black-cherry-pie/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:58:29.614536",
+  "last_updated": "2025-03-12T11:05:37.630086",
   "history": [
     {
       "title": "Cannabis flos 21/1 PRT Ku. Black Cherry Pie",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/BlackCherryPie-1.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:29.614536",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-21-1-prt-ku-black-cherry-pie/"
+    },
+    {
+      "title": "Cannabis flos 21/1 PRT Ku. Black Cherry Pie",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.71,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/BlackCherryPie-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:05:37.630086",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-21-1-prt-ku-black-cherry-pie/"
     }
   ]

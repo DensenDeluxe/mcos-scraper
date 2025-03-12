@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:57:28.969220",
       "url": "https://medcanonestop.com/medcan_product/lot-420-ata-atomic-apple/"
+    },
+    {
+      "title": "LOT 420 ATA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.69,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/LOT-420-ATA-Atomic-Apple.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:03:47.177531",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-ata-atomic-apple/"
     }
   ],
-  "last_updated": "2025-03-12T09:57:28.969220"
+  "last_updated": "2025-03-12T11:03:47.177531"
 }

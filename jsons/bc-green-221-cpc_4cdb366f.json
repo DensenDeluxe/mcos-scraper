@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:25.757499",
       "url": "https://medcanonestop.com/medcan_product/bc-green-22-1-cpc/"
+    },
+    {
+      "title": "BC Green 22/1 CPC",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:02:11.422699",
+      "url": "https://medcanonestop.com/medcan_product/bc-green-22-1-cpc/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:25.757499"
+  "last_updated": "2025-03-12T11:02:11.422699"
 }

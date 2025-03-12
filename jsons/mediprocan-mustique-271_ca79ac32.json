@@ -2,7 +2,7 @@
   "title": "mediproCan MUSTIQUE 27/1",
   "url": "https://medcanonestop.com/medcan_product/mediprocan-mustique-27-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T10:00:10.439561",
+  "last_updated": "2025-03-12T11:08:05.374914",
   "history": [
     {
       "title": "mediproCan MUSTIQUE 27/1",
@@ -200,6 +200,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Mustique-Think-Fast.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:10.439561",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-mustique-27-1/"
+    },
+    {
+      "title": "mediproCan MUSTIQUE 27/1",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Mustique-Think-Fast.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:08:05.374914",
       "url": "https://medcanonestop.com/medcan_product/mediprocan-mustique-27-1/"
     }
   ]

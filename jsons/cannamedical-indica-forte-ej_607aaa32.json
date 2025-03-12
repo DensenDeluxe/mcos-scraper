@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:13.476023",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-el-jefe/"
+    },
+    {
+      "title": "Cannamedical Indica forte EJ",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.87,
+          "unit": "g"
+        },
+        "max": {
+          "value": 18.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/El-Jefe-2.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:51.251554",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-el-jefe/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:13.476023"
+  "last_updated": "2025-03-12T11:01:51.251554"
 }

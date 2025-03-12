@@ -2,7 +2,7 @@
   "title": "Canopy KMI 28",
   "url": "https://medcanonestop.com/medcan_product/canopy-kmi-28-1-kush-mints/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:56:15.268683",
+  "last_updated": "2025-03-12T11:01:53.878773",
   "history": [
     {
       "title": "Canopy KMI 28",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/165.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:15.268683",
+      "url": "https://medcanonestop.com/medcan_product/canopy-kmi-28-1-kush-mints/"
+    },
+    {
+      "title": "Canopy KMI 28",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.64,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/165.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:53.878773",
       "url": "https://medcanonestop.com/medcan_product/canopy-kmi-28-1-kush-mints/"
     }
   ]

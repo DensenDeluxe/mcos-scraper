@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:55.148307",
       "url": "https://medcanonestop.com/medcan_product/remexian-24-1-prt-mab/"
+    },
+    {
+      "title": "Remexian 24/1 PRT MAB",
+      "thc": {
+        "value": 24.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.75,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:07:39.019913",
+      "url": "https://medcanonestop.com/medcan_product/remexian-24-1-prt-mab/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:55.148307"
+  "last_updated": "2025-03-12T11:07:39.019913"
 }

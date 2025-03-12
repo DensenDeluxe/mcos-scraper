@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:03.897502",
       "url": "https://medcanonestop.com/medcan_product/cnbs-gelo-25-1/"
+    },
+    {
+      "title": "CNBS Gelo 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/742.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:07:54.042333",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-gelo-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T10:00:03.897502"
+  "last_updated": "2025-03-12T11:07:54.042333"
 }

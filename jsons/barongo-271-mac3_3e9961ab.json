@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T10:00:10.725377",
       "url": "https://medcanonestop.com/medcan_product/barongo-27-1-mac3/"
+    },
+    {
+      "title": "Barongo 27/1 MAC3",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Barongo-MAC3.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:08:04.842780",
+      "url": "https://medcanonestop.com/medcan_product/barongo-27-1-mac3/"
     }
   ],
-  "last_updated": "2025-03-12T10:00:10.725377"
+  "last_updated": "2025-03-12T11:08:04.842780"
 }

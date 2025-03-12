@@ -2,7 +2,7 @@
   "title": "Cannabis flos 25/1 PRT Ku. Strawberry Banana",
   "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-25-1-prt-ku-strawberry-banana/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T09:58:46.408338",
+  "last_updated": "2025-03-12T11:06:00.048685",
   "history": [
     {
       "title": "Cannabis flos 25/1 PRT Ku. Strawberry Banana",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Strawberry-Banana-1.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:46.408338",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-25-1-prt-ku-strawberry-banana/"
+    },
+    {
+      "title": "Cannabis flos 25/1 PRT Ku. Strawberry Banana",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Strawberry-Banana-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:00.048685",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-25-1-prt-ku-strawberry-banana/"
     }
   ]

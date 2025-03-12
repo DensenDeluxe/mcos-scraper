@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:58:08.734266",
       "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-mac-2-0/"
+    },
+    {
+      "title": "madrecan 18/1 Mac 2.0",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": null,
+        "unit": ""
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4423.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:05:01.545329",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-mac-2-0/"
     }
   ],
-  "last_updated": "2025-03-12T09:58:08.734266"
+  "last_updated": "2025-03-12T11:05:01.545329"
 }

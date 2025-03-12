@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:59:24.693212",
       "url": "https://medcanonestop.com/medcan_product/cnbs-ocm-23-1/"
+    },
+    {
+      "title": "CNBS OCM 23/1",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:06:54.964462",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-ocm-23-1/"
     }
   ],
-  "last_updated": "2025-03-12T09:59:24.693212"
+  "last_updated": "2025-03-12T11:06:54.964462"
 }

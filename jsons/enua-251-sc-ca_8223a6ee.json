@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T09:56:12.190285",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-sc-ca-strawberry-cake/"
+    },
+    {
+      "title": "enua 25/1 SC CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/802.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T11:01:48.698652",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-sc-ca-strawberry-cake/"
     }
   ],
-  "last_updated": "2025-03-12T09:56:12.190285"
+  "last_updated": "2025-03-12T11:01:48.698652"
 }
