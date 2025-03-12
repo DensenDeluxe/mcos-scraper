@@ -229,13 +229,14 @@
         return value;
       }
       
+      // Falls kein gültiger Wert vorhanden ist, wird "0 %" zurückgegeben.
       function formatTHC(thc) {
         if (typeof thc === 'object' && thc.value != null) {
           return thc.value.toFixed(1).replace('.', ',') + ' ' + (thc.unit || '');
         } else if (typeof thc === 'number') {
           return thc.toFixed(1).replace('.', ',') + ' %';
         }
-        return "n/a";
+        return "0 %";
       }
       
       function formatCBD(cbd) {
@@ -244,7 +245,7 @@
         } else if (typeof cbd === 'number') {
           return cbd.toFixed(1).replace('.', ',') + ' %';
         }
-        return "n/a";
+        return "0 %";
       }
       
       // Vorauswahl: Nur Einträge mit:
@@ -365,8 +366,8 @@
                               .sort((a, b) => a.localeCompare(b));
         products.forEach(product => {
           const latest = indexData[product];
-          const thcValue = latest.thc ? formatTHC(latest.thc) : "n/a";
-          const cbdValue = latest.cbd ? formatCBD(latest.cbd) : "n/a";
+          const thcValue = latest.thc ? formatTHC(latest.thc) : "0 %";
+          const cbdValue = latest.cbd ? formatCBD(latest.cbd) : "0 %";
           
           let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
           let priceMinOrder = 0, priceMaxOrder = 0;
@@ -593,19 +594,12 @@
             maintainAspectRatio: false,
             scales: {
               x: {
-                display: false, // Achsentitel und Ticks ausblenden
-                grid: {
-                  color: 'rgba(200, 200, 200, 0.3)' // Helleres Gitter
-                }
+                display: false,
+                grid: { color: 'rgba(200, 200, 200, 0.3)' }
               },
               y: {
-                grid: {
-                  color: 'rgba(200, 200, 200, 0.3)' // Helleres Gitter
-                },
-                title: {
-                  display: true,
-                  text: 'Preis'
-                }
+                grid: { color: 'rgba(200, 200, 200, 0.3)' },
+                title: { display: true, text: 'Preis' }
               }
             },
             plugins: { legend: { display: true } }
