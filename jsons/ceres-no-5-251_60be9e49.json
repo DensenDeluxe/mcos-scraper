@@ -2,7 +2,7 @@
   "title": "Ceres No. 5 25/1",
   "url": "https://medcanonestop.com/medcan_product/ceres-no-5-25-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:11:09.139803",
+  "last_updated": "2025-03-12T13:19:10.023474",
   "history": [
     {
       "title": "Ceres No. 5 25/1",
@@ -288,6 +288,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7725.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:11:09.139803",
+      "url": "https://medcanonestop.com/medcan_product/ceres-no-5-25-1/"
+    },
+    {
+      "title": "Ceres No. 5 25/1",
+      "thc": {
+        "value": 23.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7725.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:19:10.023474",
       "url": "https://medcanonestop.com/medcan_product/ceres-no-5-25-1/"
     }
   ]

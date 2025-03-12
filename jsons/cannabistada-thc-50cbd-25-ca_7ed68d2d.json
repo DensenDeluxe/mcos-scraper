@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:45.991519",
       "url": "https://medcanonestop.com/medcan_product/cannabistada-thc-50-cbd-25-ca/"
+    },
+    {
+      "title": "CannabiStada THC 50/CBD 25 CA",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 19.36,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 35.58,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:57.154621",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc-50-cbd-25-ca/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:45.991519"
+  "last_updated": "2025-03-12T13:21:57.154621"
 }

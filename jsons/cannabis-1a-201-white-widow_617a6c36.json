@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:02.490721",
       "url": "https://medcanonestop.com/medcan_product/cannabis-1a-20-1-white-widow/"
+    },
+    {
+      "title": "Cannabis 1A  20/1 White Widow",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:15:33.806142",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-1a-20-1-white-widow/"
     }
   ],
-  "last_updated": "2025-03-12T12:08:02.490721"
+  "last_updated": "2025-03-12T13:15:33.806142"
 }

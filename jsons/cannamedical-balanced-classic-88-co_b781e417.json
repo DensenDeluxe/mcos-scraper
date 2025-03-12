@@ -2,7 +2,7 @@
   "title": "Cannamedical Balanced Classic 8/8 CO",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-classic-8-8-california-orange/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:10:01.963376",
+  "last_updated": "2025-03-12T13:17:42.297414",
   "history": [
     {
       "title": "Cannamedical Balanced Classic 8/8 CO",
@@ -244,6 +244,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/Cali-O.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:01.963376",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-classic-8-8-california-orange/"
+    },
+    {
+      "title": "Cannamedical Balanced Classic 8/8 CO",
+      "thc": {
+        "value": 8.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 8.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/Cali-O.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:42.297414",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-balanced-classic-8-8-california-orange/"
     }
   ]

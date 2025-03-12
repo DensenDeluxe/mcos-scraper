@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:31.586788",
       "url": "https://medcanonestop.com/medcan_product/big-dreams-18-1-psf-dob/"
+    },
+    {
+      "title": "Big Dreams 18/1 PSF DOB",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:37.674593",
+      "url": "https://medcanonestop.com/medcan_product/big-dreams-18-1-psf-dob/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:31.586788"
+  "last_updated": "2025-03-12T13:21:37.674593"
 }

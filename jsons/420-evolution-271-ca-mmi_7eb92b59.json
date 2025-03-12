@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:22.449026",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-mmi/"
+    },
+    {
+      "title": "420 Evolution 27/1 CA MMI",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Miracle-Mints_MMI.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:26.066633",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-27-1-ca-mmi/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:22.449026"
+  "last_updated": "2025-03-12T13:20:26.066633"
 }

@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:41.731046",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc25cbd25/"
+    },
+    {
+      "title": "TILRAY Cannabisextrakt THC25:CBD25",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 12.49,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 18.85,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:50.436603",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc25cbd25/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:41.731046"
+  "last_updated": "2025-03-12T13:21:50.436603"
 }

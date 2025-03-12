@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:45.507142",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-thc-thc25-el-jefe/"
+    },
+    {
+      "title": "Cannamedical THC Extrakt THC25 El Jefe",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 6.94,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 12.5,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC25.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:23.770897",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc-thc25-el-jefe/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:45.507142"
+  "last_updated": "2025-03-12T13:17:23.770897"
 }

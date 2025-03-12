@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:18.134144",
       "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-25-1-pt-zks/"
+    },
+    {
+      "title": "Curaleaf Natural 25/1 PT ZKS",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8127.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:23.408455",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-25-1-pt-zks/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:18.134144"
+  "last_updated": "2025-03-12T13:21:23.408455"
 }

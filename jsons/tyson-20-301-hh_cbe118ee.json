@@ -2,7 +2,7 @@
   "title": "TYSON 2,0 30/1 HH",
   "url": "https://medcanonestop.com/medcan_product/tyson-30-1-haymaker-haze/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:09:02.443617",
+  "last_updated": "2025-03-12T13:16:37.087737",
   "history": [
     {
       "title": "TYSON 2,0 30/1 HH",
@@ -366,6 +366,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/haymaker.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:02.443617",
+      "url": "https://medcanonestop.com/medcan_product/tyson-30-1-haymaker-haze/"
+    },
+    {
+      "title": "TYSON 2,0 30/1 HH",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/haymaker.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:37.087737",
       "url": "https://medcanonestop.com/medcan_product/tyson-30-1-haymaker-haze/"
     }
   ]

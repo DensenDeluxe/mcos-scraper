@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:40.928312",
       "url": "https://medcanonestop.com/medcan_product/cookies-22-1-hr/"
+    },
+    {
+      "title": "Cookies 22/1 HR",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.45,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image003.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:51.427863",
+      "url": "https://medcanonestop.com/medcan_product/cookies-22-1-hr/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:40.928312"
+  "last_updated": "2025-03-12T13:21:51.427863"
 }

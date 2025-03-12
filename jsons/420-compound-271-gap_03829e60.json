@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:14.033085",
       "url": "https://medcanonestop.com/medcan_product/420-compound-27-1-gap/"
+    },
+    {
+      "title": "420 Compound 27/1 GAP",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Compound_Gastro-Pop_GAP.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:34.209477",
+      "url": "https://medcanonestop.com/medcan_product/420-compound-27-1-gap/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:14.033085"
+  "last_updated": "2025-03-12T13:22:34.209477"
 }

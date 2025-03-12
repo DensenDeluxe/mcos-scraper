@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:10.473554",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-hcc-ggl/"
+    },
+    {
+      "title": "Remexian 30/1 HCC GGL",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.29,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7633.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:14.936374",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-hcc-ggl/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:10.473554"
+  "last_updated": "2025-03-12T13:20:14.936374"
 }

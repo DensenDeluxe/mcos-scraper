@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:57.303862",
       "url": "https://medcanonestop.com/medcan_product/pedanios-22-1-ghost-train-haze/"
+    },
+    {
+      "title": "Pedanios 22/1 GTH CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.9,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.91,
+          "unit": "g"
+        },
+        "max": {
+          "value": 18.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Pedanios_22_1_Bluete-NEU.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:18:56.311000",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-22-1-ghost-train-haze/"
     }
   ],
-  "last_updated": "2025-03-12T12:10:57.303862"
+  "last_updated": "2025-03-12T13:18:56.311000"
 }

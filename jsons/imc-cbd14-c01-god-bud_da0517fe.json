@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:12.514860",
       "url": "https://medcanonestop.com/medcan_product/imc-cbd14-c01-god-bud/"
+    },
+    {
+      "title": "IMC CBD14 C01 God Bud",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/473_22759_67390a599fe16_IMG_6817.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:15:44.302169",
+      "url": "https://medcanonestop.com/medcan_product/imc-cbd14-c01-god-bud/"
     }
   ],
-  "last_updated": "2025-03-12T12:08:12.514860"
+  "last_updated": "2025-03-12T13:15:44.302169"
 }

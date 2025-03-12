@@ -413,7 +413,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:40.221903",
       "url": "https://medcanonestop.com/medcan_product/therismos-30-1-qsg/"
+    },
+    {
+      "title": "Therismos 30/1 QSG",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.25,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.35,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/30_1_QSG-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:18.607836",
+      "url": "https://medcanonestop.com/medcan_product/therismos-30-1-qsg/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:40.221903"
+  "last_updated": "2025-03-12T13:17:18.607836"
 }

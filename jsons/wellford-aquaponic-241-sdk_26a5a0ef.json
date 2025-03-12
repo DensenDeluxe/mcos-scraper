@@ -2,7 +2,7 @@
   "title": "Wellford Aquaponic 24/1 SDK",
   "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-24-1-sdk/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:09:16.677693",
+  "last_updated": "2025-03-12T13:16:49.762814",
   "history": [
     {
       "title": "Wellford Aquaponic 24/1 SDK",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Bluete_SDK.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:16.677693",
+      "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-24-1-sdk/"
+    },
+    {
+      "title": "Wellford Aquaponic 24/1 SDK",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Bluete_SDK.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:49.762814",
       "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-24-1-sdk/"
     }
   ]

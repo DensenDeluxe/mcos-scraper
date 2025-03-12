@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:29.245657",
       "url": "https://medcanonestop.com/medcan_product/demecan-sc-low-drop/"
+    },
+    {
+      "title": "Demecan SC Low Drop",
+      "thc": {
+        "value": 17.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.25,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.17,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Blutenfoto_DEMECAN_Vanilla-Ice_SC-Low-Drop.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:56.063340",
+      "url": "https://medcanonestop.com/medcan_product/demecan-sc-low-drop/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:29.245657"
+  "last_updated": "2025-03-12T13:22:56.063340"
 }

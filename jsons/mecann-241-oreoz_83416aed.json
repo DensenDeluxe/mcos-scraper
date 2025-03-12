@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:29.681093",
       "url": "https://medcanonestop.com/medcan_product/mecann-24-1-oreoz/"
+    },
+    {
+      "title": "MeCann 24/1 Oreoz",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7528.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:33.598946",
+      "url": "https://medcanonestop.com/medcan_product/mecann-24-1-oreoz/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:29.681093"
+  "last_updated": "2025-03-12T13:21:33.598946"
 }

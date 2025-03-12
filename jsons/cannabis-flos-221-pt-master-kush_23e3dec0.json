@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:14.603704",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-master-kush/"
+    },
+    {
+      "title": "Cannabis Flos 22/1 PT Master Kush",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/652.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:49.034386",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-22-1-pt-master-kush/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:14.603704"
+  "last_updated": "2025-03-12T13:16:49.034386"
 }

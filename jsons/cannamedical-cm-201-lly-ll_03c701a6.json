@@ -357,7 +357,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:26.507405",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-lly-legendary-larry/"
+    },
+    {
+      "title": "Cannamedical CM 20/1 LLY LL",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Legendary-Larry-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:30.474129",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-20-1-lly-legendary-larry/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:26.507405"
+  "last_updated": "2025-03-12T13:20:30.474129"
 }

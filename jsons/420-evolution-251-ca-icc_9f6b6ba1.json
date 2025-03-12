@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:27.187277",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-25-1-ca-icc/"
+    },
+    {
+      "title": "420 Evolution 25/1 CA ICC",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/432.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:51.470624",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-25-1-ca-icc/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:27.187277"
+  "last_updated": "2025-03-12T13:22:51.470624"
 }

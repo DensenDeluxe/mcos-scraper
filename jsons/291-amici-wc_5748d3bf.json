@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:58.358552",
       "url": "https://medcanonestop.com/medcan_product/29-1-amici-wc/"
+    },
+    {
+      "title": "29/1 Amici WC",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/image007-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:39.441608",
+      "url": "https://medcanonestop.com/medcan_product/29-1-amici-wc/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:58.358552"
+  "last_updated": "2025-03-12T13:17:39.441608"
 }

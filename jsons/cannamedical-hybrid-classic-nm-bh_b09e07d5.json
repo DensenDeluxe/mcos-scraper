@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:59.572046",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-nm-bh/"
+    },
+    {
+      "title": "Cannamedical Hybrid classic NM BH",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.28,
+          "unit": "g"
+        },
+        "max": {
+          "value": 19.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Blueberry-Headband.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:15.441327",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-nm-bh/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:59.572046"
+  "last_updated": "2025-03-12T13:22:15.441327"
 }

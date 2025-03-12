@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:39.192245",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-nm-kerosene-krash/"
+    },
+    {
+      "title": "Cannamedical Indica forte NM KK",
+      "thc": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/Kerosene-Krash-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:18.258644",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-nm-kerosene-krash/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:39.192245"
+  "last_updated": "2025-03-12T13:17:18.258644"
 }

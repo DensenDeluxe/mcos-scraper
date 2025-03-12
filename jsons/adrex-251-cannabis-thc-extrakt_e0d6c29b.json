@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:06.122928",
       "url": "https://medcanonestop.com/medcan_product/adrex-25-1-thc/"
+    },
+    {
+      "title": "ADREX 25:1 Cannabis THC Extrakt",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.49,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.8,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:23.376195",
+      "url": "https://medcanonestop.com/medcan_product/adrex-25-1-thc/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:06.122928"
+  "last_updated": "2025-03-12T13:22:23.376195"
 }

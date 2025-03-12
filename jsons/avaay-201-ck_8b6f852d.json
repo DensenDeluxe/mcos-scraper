@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:07:59.458526",
       "url": "https://medcanonestop.com/medcan_product/avaay-20-1-ck-critical-kush/"
+    },
+    {
+      "title": "avaay 20/1 CK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.28,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/CK_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:15:31.693118",
+      "url": "https://medcanonestop.com/medcan_product/avaay-20-1-ck-critical-kush/"
     }
   ],
-  "last_updated": "2025-03-12T12:07:59.458526"
+  "last_updated": "2025-03-12T13:15:31.693118"
 }

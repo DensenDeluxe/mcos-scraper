@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:43.369033",
       "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-mdr-mac-driver/"
+    },
+    {
+      "title": "madrecan 21/1 MDR",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/787.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:21.966998",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-21-1-mdr-mac-driver/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:43.369033"
+  "last_updated": "2025-03-12T13:17:21.966998"
 }

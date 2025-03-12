@@ -2,7 +2,7 @@
   "title": "enua 22/1 MAC F CA",
   "url": "https://medcanonestop.com/medcan_product/enua-22-1-mac-f-ca-macflurry/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:10:58.685341",
+  "last_updated": "2025-03-12T13:18:58.801832",
   "history": [
     {
       "title": "enua 22/1 MAC F CA",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/815.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:58.685341",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-mac-f-ca-macflurry/"
+    },
+    {
+      "title": "enua 22/1 MAC F CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.24,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.82,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/815.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:18:58.801832",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-mac-f-ca-macflurry/"
     }
   ]

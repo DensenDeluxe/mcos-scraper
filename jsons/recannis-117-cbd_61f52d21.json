@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:37.118724",
       "url": "https://medcanonestop.com/medcan_product/recannis-1-17-cbd/"
+    },
+    {
+      "title": "RE:CANNIS 1/17 CBD",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/3442.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:41.654751",
+      "url": "https://medcanonestop.com/medcan_product/recannis-1-17-cbd/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:37.118724"
+  "last_updated": "2025-03-12T13:20:41.654751"
 }

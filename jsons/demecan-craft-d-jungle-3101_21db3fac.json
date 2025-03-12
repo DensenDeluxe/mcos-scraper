@@ -2,7 +2,7 @@
   "title": "Demecan CRAFT D-Jungle 31:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-craft-d-jungle-3101/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:12:03.997217",
+  "last_updated": "2025-03-12T13:20:06.724303",
   "history": [
     {
       "title": "Demecan CRAFT D-Jungle 31:01",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Blutenfoto_DEMECAN_Craft-PPxJC-01.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:03.997217",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-d-jungle-3101/"
+    },
+    {
+      "title": "Demecan CRAFT D-Jungle 31:01",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.51,
+          "unit": "g"
+        },
+        "max": {
+          "value": 20.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Blutenfoto_DEMECAN_Craft-PPxJC-01.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:06.724303",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-d-jungle-3101/"
     }
   ]

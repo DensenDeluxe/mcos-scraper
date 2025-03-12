@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:09.199654",
       "url": "https://medcanonestop.com/medcan_product/bedrobinol/"
+    },
+    {
+      "title": "Bedrobinol",
+      "thc": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 13.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:15.361506",
+      "url": "https://medcanonestop.com/medcan_product/bedrobinol/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:09.199654"
+  "last_updated": "2025-03-12T13:21:15.361506"
 }

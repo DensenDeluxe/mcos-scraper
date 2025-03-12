@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:05.390045",
       "url": "https://medcanonestop.com/medcan_product/all-nations-fg-25-1/"
+    },
+    {
+      "title": "All Nations FG 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7928_.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:23.960131",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-fg-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:05.390045"
+  "last_updated": "2025-03-12T13:22:23.960131"
 }

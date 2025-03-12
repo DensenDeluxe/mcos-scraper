@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:50.673082",
       "url": "https://medcanonestop.com/medcan_product/420-sungrown-18-1-ca-dog/"
+    },
+    {
+      "title": "420 Sungrown 18/1 CA DOG",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:04.235854",
+      "url": "https://medcanonestop.com/medcan_product/420-sungrown-18-1-ca-dog/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:50.673082"
+  "last_updated": "2025-03-12T13:22:04.235854"
 }

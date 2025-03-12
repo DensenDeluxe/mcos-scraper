@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:49.946421",
       "url": "https://medcanonestop.com/medcan_product/pedanios-10-13-mbe-ca/"
+    },
+    {
+      "title": "Pedanios 10/13 MBE-CA",
+      "thc": {
+        "value": 10.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 13.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.96,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.64,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Pedanios-10_13-MBE-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:55.711661",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-10-13-mbe-ca/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:49.946421"
+  "last_updated": "2025-03-12T13:20:55.711661"
 }

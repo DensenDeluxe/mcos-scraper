@@ -2,7 +2,7 @@
   "title": "Sumo Canada Craft No.3",
   "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-3/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:10:13.736898",
+  "last_updated": "2025-03-12T13:18:01.264563",
   "history": [
     {
       "title": "Sumo Canada Craft No.3",
@@ -288,6 +288,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/No.3-Garlic-Chem.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:13.736898",
+      "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-3/"
+    },
+    {
+      "title": "Sumo Canada Craft No.3",
+      "thc": {
+        "value": 26.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/No.3-Garlic-Chem.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:18:01.264563",
       "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-3/"
     }
   ]

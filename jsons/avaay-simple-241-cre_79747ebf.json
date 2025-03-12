@@ -2,7 +2,7 @@
   "title": "avaay Simple 24/1 CRE",
   "url": "https://medcanonestop.com/medcan_product/avaay-simple-24-1-cre/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:08:45.376526",
+  "last_updated": "2025-03-12T13:16:18.718986",
   "history": [
     {
       "title": "avaay Simple 24/1 CRE",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5846.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:45.376526",
+      "url": "https://medcanonestop.com/medcan_product/avaay-simple-24-1-cre/"
+    },
+    {
+      "title": "avaay Simple 24/1 CRE",
+      "thc": {
+        "value": 24.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5846.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:18.718986",
       "url": "https://medcanonestop.com/medcan_product/avaay-simple-24-1-cre/"
     }
   ]

@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:09.560792",
       "url": "https://medcanonestop.com/medcan_product/tyson-28-1-tiger-milk/"
+    },
+    {
+      "title": "Tyson 2,0 30/1 Tiger Milk",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Tyson-Tiger-Milk.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:28.507425",
+      "url": "https://medcanonestop.com/medcan_product/tyson-28-1-tiger-milk/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:09.560792"
+  "last_updated": "2025-03-12T13:22:28.507425"
 }

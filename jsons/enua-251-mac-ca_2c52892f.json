@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:09.253247",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-mac-ca/"
+    },
+    {
+      "title": "enua 25/1 MAC CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.58,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.14,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:30.179992",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-mac-ca/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:09.253247"
+  "last_updated": "2025-03-12T13:22:30.179992"
 }

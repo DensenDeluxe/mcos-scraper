@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:13.418707",
       "url": "https://medcanonestop.com/medcan_product/imc-ade-thc26/"
+    },
+    {
+      "title": "IMC ADE THC26",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.25,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/8712.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:17.143356",
+      "url": "https://medcanonestop.com/medcan_product/imc-ade-thc26/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:13.418707"
+  "last_updated": "2025-03-12T13:20:17.143356"
 }

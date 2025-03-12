@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:14:21.713268",
       "url": "https://medcanonestop.com/medcan_product/beacon-go-t23/"
+    },
+    {
+      "title": "Beacon GO T23",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5880.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:22:42.314584",
+      "url": "https://medcanonestop.com/medcan_product/beacon-go-t23/"
     }
   ],
-  "last_updated": "2025-03-12T12:14:21.713268"
+  "last_updated": "2025-03-12T13:22:42.314584"
 }

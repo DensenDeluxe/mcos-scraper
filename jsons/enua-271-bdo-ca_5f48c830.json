@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:22.928938",
       "url": "https://medcanonestop.com/medcan_product/enua-27-1-bdo-ca/"
+    },
+    {
+      "title": "enua 27/1 BDO CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.47,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/BlackDolato.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:18:14.666371",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-bdo-ca/"
     }
   ],
-  "last_updated": "2025-03-12T12:10:22.928938"
+  "last_updated": "2025-03-12T13:18:14.666371"
 }

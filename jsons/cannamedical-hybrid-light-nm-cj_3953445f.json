@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:31.849374",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-light-nm-casey-jones/"
+    },
+    {
+      "title": "Cannamedical Hybrid light NM CJ",
+      "thc": {
+        "value": 17.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Casey-Jones-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:06.249060",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-light-nm-casey-jones/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:31.849374"
+  "last_updated": "2025-03-12T13:17:06.249060"
 }

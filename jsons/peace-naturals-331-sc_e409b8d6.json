@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:11:27.653685",
       "url": "https://medcanonestop.com/medcan_product/peace-naturals-33-1-sc/"
+    },
+    {
+      "title": "Peace Naturals 33/1 SC",
+      "thc": {
+        "value": 33.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.92,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Space_Cake.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:19:31.590956",
+      "url": "https://medcanonestop.com/medcan_product/peace-naturals-33-1-sc/"
     }
   ],
-  "last_updated": "2025-03-12T12:11:27.653685"
+  "last_updated": "2025-03-12T13:19:31.590956"
 }

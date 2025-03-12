@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:51.416387",
       "url": "https://medcanonestop.com/medcan_product/green-karat-pv-30-1/"
+    },
+    {
+      "title": "Green Karat PV 30/1",
+      "thc": {
+        "value": 30.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/Green-Karat-PV-Pave-S1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:26.175077",
+      "url": "https://medcanonestop.com/medcan_product/green-karat-pv-30-1/"
     }
   ],
-  "last_updated": "2025-03-12T12:08:51.416387"
+  "last_updated": "2025-03-12T13:16:26.175077"
 }

@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:10.824998",
       "url": "https://medcanonestop.com/medcan_product/27-1-nce-s-strawberry-banana/"
+    },
+    {
+      "title": "27/1 NICE S",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/SB_Dried_Freisteller.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:13.650362",
+      "url": "https://medcanonestop.com/medcan_product/27-1-nce-s-strawberry-banana/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:10.824998"
+  "last_updated": "2025-03-12T13:20:13.650362"
 }

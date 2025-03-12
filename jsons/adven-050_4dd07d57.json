@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:11:17.836645",
       "url": "https://medcanonestop.com/medcan_product/adven-0-50/"
+    },
+    {
+      "title": "Adven 0/50",
+      "thc": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 22.31,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:18:51.554330",
+      "url": "https://medcanonestop.com/medcan_product/adven-0-50/"
     }
   ],
-  "last_updated": "2025-03-12T12:11:17.836645"
+  "last_updated": "2025-03-12T13:18:51.554330"
 }

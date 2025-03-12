@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:43.859634",
       "url": "https://medcanonestop.com/medcan_product/huala-22-1-ca-dog/"
+    },
+    {
+      "title": "HUALA 22/1 CA DOG",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/7722.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:54.660548",
+      "url": "https://medcanonestop.com/medcan_product/huala-22-1-ca-dog/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:43.859634"
+  "last_updated": "2025-03-12T13:21:54.660548"
 }

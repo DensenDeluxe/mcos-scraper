@@ -2,7 +2,7 @@
   "title": "MediCann OZ 26/1",
   "url": "https://medcanonestop.com/medcan_product/medicann-oz-26-1-oreoz/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:12:40.523375",
+  "last_updated": "2025-03-12T13:20:46.660146",
   "history": [
     {
       "title": "MediCann OZ 26/1",
@@ -244,6 +244,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/651.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:40.523375",
+      "url": "https://medcanonestop.com/medcan_product/medicann-oz-26-1-oreoz/"
+    },
+    {
+      "title": "MediCann OZ 26/1",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/651.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:46.660146",
       "url": "https://medcanonestop.com/medcan_product/medicann-oz-26-1-oreoz/"
     }
   ]

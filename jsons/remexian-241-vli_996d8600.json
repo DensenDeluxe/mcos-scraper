@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:05.470612",
       "url": "https://medcanonestop.com/medcan_product/remexian-24-1-vli/"
+    },
+    {
+      "title": "Remexian 24/1 VLI",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5853.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:47.756547",
+      "url": "https://medcanonestop.com/medcan_product/remexian-24-1-vli/"
     }
   ],
-  "last_updated": "2025-03-12T12:10:05.470612"
+  "last_updated": "2025-03-12T13:17:47.756547"
 }

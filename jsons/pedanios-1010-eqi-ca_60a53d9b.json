@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:37.862222",
       "url": "https://medcanonestop.com/medcan_product/pedanios-10-10-eqi-ca-equiposa/"
+    },
+    {
+      "title": "Pedanios 10/10 EQI CA",
+      "thc": {
+        "value": 10.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/12/Pedanios-10_10-EQI-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:09.447201",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-10-10-eqi-ca-equiposa/"
     }
   ],
-  "last_updated": "2025-03-12T12:08:37.862222"
+  "last_updated": "2025-03-12T13:16:09.447201"
 }

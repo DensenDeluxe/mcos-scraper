@@ -2,7 +2,7 @@
   "title": "Remexian 25/1 GG4",
   "url": "https://medcanonestop.com/medcan_product/remexian-25-1-gorilla-glue-gg4-4/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:11:52.887394",
+  "last_updated": "2025-03-12T13:19:57.586145",
   "history": [
     {
       "title": "Remexian 25/1 GG4",
@@ -222,6 +222,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:11:52.887394",
+      "url": "https://medcanonestop.com/medcan_product/remexian-25-1-gorilla-glue-gg4-4/"
+    },
+    {
+      "title": "Remexian 25/1 GG4",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:19:57.586145",
       "url": "https://medcanonestop.com/medcan_product/remexian-25-1-gorilla-glue-gg4-4/"
     }
   ]

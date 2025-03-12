@@ -413,7 +413,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:11.987097",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-gmo-gmo-breath/"
+    },
+    {
+      "title": "Remexian 30/1 GMO",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/781.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:15.661983",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-gmo-gmo-breath/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:11.987097"
+  "last_updated": "2025-03-12T13:20:15.661983"
 }

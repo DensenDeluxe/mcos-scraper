@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:07:56.256537",
       "url": "https://medcanonestop.com/medcan_product/balancial-22-1-pt-runtz/"
+    },
+    {
+      "title": "Balancial 22/1 PT Runtz",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Runtz-22.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:15:28.549262",
+      "url": "https://medcanonestop.com/medcan_product/balancial-22-1-pt-runtz/"
     }
   ],
-  "last_updated": "2025-03-12T12:07:56.256537"
+  "last_updated": "2025-03-12T13:15:28.549262"
 }

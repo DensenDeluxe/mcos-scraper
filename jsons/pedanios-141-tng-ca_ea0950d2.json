@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:36.732502",
       "url": "https://medcanonestop.com/medcan_product/pedanios-14-1-tng-dk/"
+    },
+    {
+      "title": "Pedanios 14/1 TNG CA",
+      "thc": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Pedanios-14_1-TNG-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:18:31.068656",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-14-1-tng-dk/"
     }
   ],
-  "last_updated": "2025-03-12T12:10:36.732502"
+  "last_updated": "2025-03-12T13:18:31.068656"
 }

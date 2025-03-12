@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:13:46.373087",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc9cbd9-warlock-no-2/"
+    },
+    {
+      "title": "TILRAY THC9:CBD9 No.2",
+      "thc": {
+        "value": 9.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 9.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.63,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:21:58.577981",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc9cbd9-warlock-no-2/"
     }
   ],
-  "last_updated": "2025-03-12T12:13:46.373087"
+  "last_updated": "2025-03-12T13:21:58.577981"
 }

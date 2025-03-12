@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:03.611964",
       "url": "https://medcanonestop.com/medcan_product/nice-17-1-dd/"
+    },
+    {
+      "title": "NICE 17/1 DD",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image002-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:04.914271",
+      "url": "https://medcanonestop.com/medcan_product/nice-17-1-dd/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:03.611964"
+  "last_updated": "2025-03-12T13:20:04.914271"
 }

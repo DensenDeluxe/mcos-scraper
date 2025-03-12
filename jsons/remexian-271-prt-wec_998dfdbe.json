@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:08.226427",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-wec/"
+    },
+    {
+      "title": "Remexian 27/1 PRT WEC",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.07,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6869.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:54.349227",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-wec/"
     }
   ],
-  "last_updated": "2025-03-12T12:10:08.226427"
+  "last_updated": "2025-03-12T13:17:54.349227"
 }

@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:16.545358",
       "url": "https://medcanonestop.com/medcan_product/imc-thc22-t03/"
+    },
+    {
+      "title": "IMC THC22 T03",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:15:48.465085",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc22-t03/"
     }
   ],
-  "last_updated": "2025-03-12T12:08:16.545358"
+  "last_updated": "2025-03-12T13:15:48.465085"
 }

@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:37.904493",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-udc-ca/"
+    },
+    {
+      "title": "enua 25/1 UDC CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:43.179958",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-udc-ca/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:37.904493"
+  "last_updated": "2025-03-12T13:20:43.179958"
 }

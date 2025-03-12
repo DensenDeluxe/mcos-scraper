@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:10:18.751058",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-jfg-ca-jet-fuel-gelato/"
+    },
+    {
+      "title": "enua 22/1 JFG CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/686.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:18:10.923767",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-jfg-ca-jet-fuel-gelato/"
     }
   ],
-  "last_updated": "2025-03-12T12:10:18.751058"
+  "last_updated": "2025-03-12T13:18:10.923767"
 }

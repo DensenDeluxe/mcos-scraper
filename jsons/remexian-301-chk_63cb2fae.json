@@ -2,7 +2,7 @@
   "title": "Remexian 30/1 CHK",
   "url": "https://medcanonestop.com/medcan_product/remexian-30-1-chk-chemical-kush/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:08:36.942766",
+  "last_updated": "2025-03-12T13:16:10.193933",
   "history": [
     {
       "title": "Remexian 30/1 CHK",
@@ -310,6 +310,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2639.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:36.942766",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-chk-chemical-kush/"
+    },
+    {
+      "title": "Remexian 30/1 CHK",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2639.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:10.193933",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-chk-chemical-kush/"
     }
   ]

@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:33.353331",
       "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-4/"
+    },
+    {
+      "title": "Sumo Canada Craft No. 4",
+      "thc": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/SUMO-Canada-Craft-No.-4.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:38.070597",
+      "url": "https://medcanonestop.com/medcan_product/sumo-canada-craft-no-4/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:33.353331"
+  "last_updated": "2025-03-12T13:20:38.070597"
 }

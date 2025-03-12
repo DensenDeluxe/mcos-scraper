@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:08:41.958650",
       "url": "https://medcanonestop.com/medcan_product/recannis-19-1-bereshit/"
+    },
+    {
+      "title": "RE:Cannis 19/1 Alaska",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3444.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:15.686209",
+      "url": "https://medcanonestop.com/medcan_product/recannis-19-1-bereshit/"
     }
   ],
-  "last_updated": "2025-03-12T12:08:41.958650"
+  "last_updated": "2025-03-12T13:16:15.686209"
 }

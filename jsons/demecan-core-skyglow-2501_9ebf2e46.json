@@ -2,7 +2,7 @@
   "title": "Demecan Core SKYGLOW 25:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-core-skyglow-2501/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T12:09:30.450510",
+  "last_updated": "2025-03-12T13:17:07.263860",
   "history": [
     {
       "title": "Demecan Core SKYGLOW 25:01",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/mIBKYQhk.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:30.450510",
+      "url": "https://medcanonestop.com/medcan_product/demecan-core-skyglow-2501/"
+    },
+    {
+      "title": "Demecan Core SKYGLOW 25:01",
+      "thc": {
+        "value": 24.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/mIBKYQhk.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:17:07.263860",
       "url": "https://medcanonestop.com/medcan_product/demecan-core-skyglow-2501/"
     }
   ]

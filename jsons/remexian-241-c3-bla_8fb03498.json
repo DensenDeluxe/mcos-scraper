@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:09:07.077485",
       "url": "https://medcanonestop.com/medcan_product/remexian-24-1-c3-bla/"
+    },
+    {
+      "title": "Remexian 24/1 C3 BLA",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:16:41.194231",
+      "url": "https://medcanonestop.com/medcan_product/remexian-24-1-c3-bla/"
     }
   ],
-  "last_updated": "2025-03-12T12:09:07.077485"
+  "last_updated": "2025-03-12T13:16:41.194231"
 }

@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T12:12:38.625671",
       "url": "https://medcanonestop.com/medcan_product/cannazen-16-1-schulz-og/"
+    },
+    {
+      "title": "CannaZen 16/1 Scholz OG",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 5.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T13:20:44.272025",
+      "url": "https://medcanonestop.com/medcan_product/cannazen-16-1-schulz-og/"
     }
   ],
-  "last_updated": "2025-03-12T12:12:38.625671"
+  "last_updated": "2025-03-12T13:20:44.272025"
 }
