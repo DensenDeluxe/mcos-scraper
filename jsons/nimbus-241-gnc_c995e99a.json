@@ -151,7 +151,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:54:35.200901",
       "url": "https://medcanonestop.com/medcan_product/nimbus-24-1-gnc-grapes-and-cream/"
+    },
+    {
+      "title": "Nimbus 24/1 GNC",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:57.969533",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-24-1-gnc-grapes-and-cream/"
     }
   ],
-  "last_updated": "2025-03-12T00:54:35.200901"
+  "last_updated": "2025-03-12T02:04:57.969533"
 }

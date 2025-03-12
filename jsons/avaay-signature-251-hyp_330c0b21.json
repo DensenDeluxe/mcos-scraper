@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:42.902408",
       "url": "https://medcanonestop.com/medcan_product/avaay-signature-25-1-hyp/"
+    },
+    {
+      "title": "avaay Signature 25/1 HYP",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/HYP_Flower_V1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:03:57.106687",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-25-1-hyp/"
     }
   ],
-  "last_updated": "2025-03-12T00:50:42.902408"
+  "last_updated": "2025-03-12T02:03:57.106687"
 }

@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:42.075679",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-nm-kerosene-krash/"
+    },
+    {
+      "title": "Cannamedical Indica classic NM KK",
+      "thc": {
+        "value": 21.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Kerosene-Krash.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:07.012933",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-nm-kerosene-krash/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:42.075679"
+  "last_updated": "2025-03-12T02:04:07.012933"
 }

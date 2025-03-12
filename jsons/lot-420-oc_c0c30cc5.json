@@ -2,7 +2,7 @@
   "title": "LOT 420 OC",
   "url": "https://medcanonestop.com/medcan_product/lot-420-oc-orange-cake/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:53:13.553857",
+  "last_updated": "2025-03-12T02:04:41.680685",
   "history": [
     {
       "title": "LOT 420 OC",
@@ -112,6 +112,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/LOT-420-OC-Orange-Cake.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:53:13.553857",
+      "url": "https://medcanonestop.com/medcan_product/lot-420-oc-orange-cake/"
+    },
+    {
+      "title": "LOT 420 OC",
+      "thc": {
+        "value": 26.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/LOT-420-OC-Orange-Cake.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:41.680685",
       "url": "https://medcanonestop.com/medcan_product/lot-420-oc-orange-cake/"
     }
   ]

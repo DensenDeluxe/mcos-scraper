@@ -2,7 +2,7 @@
   "title": "Ethypharm THC 10: CBD 10",
   "url": "https://medcanonestop.com/medcan_product/ethypharm-thc-10-cbd-10/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:49:21.679916",
+  "last_updated": "2025-03-12T02:04:36.389757",
   "history": [
     {
       "title": "Ethypharm THC 10: CBD 10",
@@ -156,6 +156,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:21.679916",
+      "url": "https://medcanonestop.com/medcan_product/ethypharm-thc-10-cbd-10/"
+    },
+    {
+      "title": "Ethypharm THC 10: CBD 10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:36.389757",
       "url": "https://medcanonestop.com/medcan_product/ethypharm-thc-10-cbd-10/"
     }
   ]

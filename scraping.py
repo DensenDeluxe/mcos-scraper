@@ -226,6 +226,7 @@ async def download_images_for_products(products):
             for _ in pbar_img:
                 await _
             pbar_img.close()
+        print("Bilder-Download abgeschlossen.")
 
 def update_manifest():
     """Scannt den JSON_FOLDER und speichert alle JSON-Dateinamen in manifest.json im Hauptverzeichnis."""
@@ -233,7 +234,7 @@ def update_manifest():
     files.sort()
     with open("manifest.json", "w", encoding="utf-8") as mf:
         json.dump(files, mf, ensure_ascii=False, indent=2)
-    print("Manifest aktualisiert:", files)
+    # Manifest-Output wird ausgeblendet
 
 async def wait_with_countdown(wait_time):
     """Zeigt einen Countdown im Terminal an; SPACE bricht das Warten ab."""
@@ -260,7 +261,7 @@ async def run_scraping_cycle():
                 tasks_failed = [scrape_product(session, url) for url in failed_list]
                 if tasks_failed:
                     pbar_fail = tqdm(total=len(tasks_failed), desc="Failed URLs", dynamic_ncols=True,
-                                     bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}] Success: {postfix}",
+                                     bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]",
                                      postfix=f"Success: 0, Fail: 0")
                     for future in asyncio.as_completed(tasks_failed):
                         product = await future
@@ -274,6 +275,7 @@ async def run_scraping_cycle():
                         pbar_fail.update(1)
                     pbar_fail.close()
             os.remove("failed_urls.txt")
+            print("Re-Scraping fehlgeschlagener URLs abgeschlossen.")
         # 2. Neue URLs aus der Sitemap abarbeiten
         sitemap_urls = [
             "https://medcanonestop.com/medcan_product-sitemap.xml",
@@ -285,7 +287,7 @@ async def run_scraping_cycle():
         tasks_new = [scrape_product(session, url) for url in product_urls]
         if tasks_new:
             pbar_new = tqdm(total=len(tasks_new), desc="Neue Produkte", dynamic_ncols=True,
-                            bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}] Success: {postfix}",
+                            bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]",
                             postfix=f"Success: {success_count}, Fail: {fail_count}")
             for future in asyncio.as_completed(tasks_new):
                 product = await future
@@ -298,6 +300,7 @@ async def run_scraping_cycle():
                 pbar_new.postfix = f"Success: {success_count}, Fail: {fail_count}"
                 pbar_new.update(1)
             pbar_new.close()
+            print("Neue Produkte abgeschlossen.")
     # 3. Download der Bilder für alle in diesem Durchlauf gescrapten Produkte
     if products_this_cycle:
         await download_images_for_products(products_this_cycle)
@@ -305,8 +308,10 @@ async def run_scraping_cycle():
     if failed_urls:
         with open("failed_urls.txt", "w", encoding="utf-8") as f:
             f.writelines(f"{url}\n" for url in failed_urls)
-    # 5. Manifest aktualisieren
+        print("Fehlgeschlagene URLs gespeichert.")
+    # 5. Manifest aktualisieren (Output ausgeblendet)
     update_manifest()
+    print("Scraping-Durchlauf abgeschlossen.")
 
 async def main_loop():
     while not exit_event.is_set():

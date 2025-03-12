@@ -245,18 +245,29 @@
         return "n/a";
       }
       
+      // Vorauswahl: Nur Einträge mit gültigem Handelsnamen, mindestens einem gültigen Preis und gültigen THC- oder CBD-Werten
       function isValidProduct(prod) {
-        if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
-        if (!prod.price) return false;
-        let priceValid = true;
-        if (prod.price.value !== undefined && prod.price.value != null) {
-          priceValid = getNumeric(prod.price.value) !== 0;
-        } else if (prod.price.min !== undefined && prod.price.max !== undefined) {
-          priceValid = (getNumeric(prod.price.min) !== 0 && getNumeric(prod.price.max) !== 0);
+        // Handelsname muss vorhanden sein und darf nicht "null", "" oder "kein eintrag" sein
+        if (!prod.title || prod.title.trim() === "" || prod.title.trim().toLowerCase() === "null" || prod.title.trim().toLowerCase() === "kein eintrag") {
+          return false;
         }
+        if (!prod.price) return false;
+        // Mindestens ein gültiger Preis (price.value oder price.min oder price.max) muss vorhanden sein
+        let priceValid = false;
+        if (prod.price.value !== undefined && prod.price.value != null && getNumeric(prod.price.value) !== 0) {
+          priceValid = true;
+        }
+        if (prod.price.min !== undefined && prod.price.min != null && getNumeric(prod.price.min) !== 0) {
+          priceValid = true;
+        }
+        if (prod.price.max !== undefined && prod.price.max != null && getNumeric(prod.price.max) !== 0) {
+          priceValid = true;
+        }
+        if (!priceValid) return false;
+        // Mindestens ein gültiger THC-Wert in % oder CBD-Wert in % muss vorhanden sein
         const thcValid = prod.thc && getNumeric(prod.thc) !== 0;
         const cbdValid = prod.cbd && getNumeric(prod.cbd) !== 0;
-        return priceValid && (thcValid || cbdValid);
+        return thcValid || cbdValid;
       }
       
       // Manifest laden und alle Produkt-JSONs einlesen, dabei Fortschritt anzeigen

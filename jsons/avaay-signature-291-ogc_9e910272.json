@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:31.845063",
       "url": "https://medcanonestop.com/medcan_product/avaay-signature-29-1-ogc/"
+    },
+    {
+      "title": "avaay Signature 29/1 OGC",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/OGC_Flower_V1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:03:28.303529",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-29-1-ogc/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:31.845063"
+  "last_updated": "2025-03-12T02:03:28.303529"
 }

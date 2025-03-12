@@ -2,7 +2,7 @@
   "title": "Cannabis 1A 18/1",
   "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-white-widow/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:27:50.952055",
+  "last_updated": "2025-03-12T02:05:03.205159",
   "history": [
     {
       "title": "Cannabis 1A 18/1",
@@ -132,6 +132,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/335.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:27:50.952055",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-white-widow/"
+    },
+    {
+      "title": "Cannabis 1A 18/1",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/335.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:00:49.156422",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-white-widow/"
+    },
+    {
+      "title": "Cannabis 1A 18/1",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/335.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:05:03.205159",
       "url": "https://medcanonestop.com/medcan_product/cannabis-1a-18-1-white-widow/"
     }
   ]

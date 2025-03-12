@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:42.148942",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-au-ve/"
+    },
+    {
+      "title": "Cannamedical Sativa classic AU VE",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.83,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/VenomZ-Eve.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:18.155694",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-au-ve/"
     }
   ],
-  "last_updated": "2025-03-12T00:52:42.148942"
+  "last_updated": "2025-03-12T02:04:18.155694"
 }

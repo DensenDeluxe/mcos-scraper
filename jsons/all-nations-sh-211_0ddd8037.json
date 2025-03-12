@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:52:44.950832",
       "url": "https://medcanonestop.com/medcan_product/all-nations-sh-21-1/"
+    },
+    {
+      "title": "All Nations SH 21/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/All-Nations-SH-Stolo-Haze.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:03:55.481181",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-sh-21-1/"
     }
   ],
-  "last_updated": "2025-03-12T00:52:44.950832"
+  "last_updated": "2025-03-12T02:03:55.481181"
 }

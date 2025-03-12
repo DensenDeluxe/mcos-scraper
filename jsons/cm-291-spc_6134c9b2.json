@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:12.753452",
       "url": "https://medcanonestop.com/medcan_product/cm-29-1-spc/"
+    },
+    {
+      "title": "CM 29/1 SPC",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Space_Cake.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:04.742256",
+      "url": "https://medcanonestop.com/medcan_product/cm-29-1-spc/"
     }
   ],
-  "last_updated": "2025-03-12T00:49:12.753452"
+  "last_updated": "2025-03-12T02:04:04.742256"
 }

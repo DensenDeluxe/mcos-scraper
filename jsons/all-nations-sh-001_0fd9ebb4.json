@@ -2,7 +2,7 @@
   "title": "All Nations SH-001",
   "url": "https://medcanonestop.com/medcan_product/cannabis-flos-all-nations-sh-001-stolo-haze/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:53:36.872855",
+  "last_updated": "2025-03-12T02:04:15.349592",
   "history": [
     {
       "title": "All Nations SH-001",
@@ -156,6 +156,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/All-Nations-SH-Stolo-Haze.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:53:36.872855",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-all-nations-sh-001-stolo-haze/"
+    },
+    {
+      "title": "All Nations SH-001",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/All-Nations-SH-Stolo-Haze.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:15.349592",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-all-nations-sh-001-stolo-haze/"
     }
   ]

@@ -151,7 +151,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:51.536436",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-jack-herer/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto JH",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:03:45.227514",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-jack-herer/"
     }
   ],
-  "last_updated": "2025-03-12T00:50:51.536436"
+  "last_updated": "2025-03-12T02:03:45.227514"
 }

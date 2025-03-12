@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:02.843007",
       "url": "https://medcanonestop.com/medcan_product/imc-thc21-t01-hindu-kush/"
+    },
+    {
+      "title": "IMC THC21 T01 Hindu Kush",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:23.671101",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc21-t01-hindu-kush/"
     }
   ],
-  "last_updated": "2025-03-12T00:50:02.843007"
+  "last_updated": "2025-03-12T02:04:23.671101"
 }

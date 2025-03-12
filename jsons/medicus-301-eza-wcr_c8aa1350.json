@@ -2,7 +2,7 @@
   "title": "Medicus 30/1 EZA WCR",
   "url": "https://medcanonestop.com/medcan_product/medicus-30-1-eza-wcr/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:55:18.047079",
+  "last_updated": "2025-03-12T02:05:02.592962",
   "history": [
     {
       "title": "Medicus 30/1 EZA WCR",
@@ -158,6 +158,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:55:18.047079",
+      "url": "https://medcanonestop.com/medcan_product/medicus-30-1-eza-wcr/"
+    },
+    {
+      "title": "Medicus 30/1 EZA WCR",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:05:02.592962",
       "url": "https://medcanonestop.com/medcan_product/medicus-30-1-eza-wcr/"
     }
   ]

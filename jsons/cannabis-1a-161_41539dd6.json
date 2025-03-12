@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:51:36.076711",
       "url": "https://medcanonestop.com/medcan_product/cannabis-1a-16-1-white-widow/"
+    },
+    {
+      "title": "Cannabis 1A 16/1",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.15,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/335.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:04:16.119646",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-1a-16-1-white-widow/"
     }
   ],
-  "last_updated": "2025-03-12T00:51:36.076711"
+  "last_updated": "2025-03-12T02:04:16.119646"
 }
