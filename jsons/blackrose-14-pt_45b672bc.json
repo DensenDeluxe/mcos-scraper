@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:55:14.718723",
       "url": "https://medcanonestop.com/medcan_product/blackrose-14-pt/"
+    },
+    {
+      "title": "Blackrose 14 PT",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Blackrose-14-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:38.644466",
+      "url": "https://medcanonestop.com/medcan_product/blackrose-14-pt/"
     }
   ],
-  "last_updated": "2025-03-12T00:55:14.718723"
+  "last_updated": "2025-03-12T02:16:38.644466"
 }

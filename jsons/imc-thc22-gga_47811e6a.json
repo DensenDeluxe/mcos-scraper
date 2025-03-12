@@ -151,7 +151,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:54:39.586899",
       "url": "https://medcanonestop.com/medcan_product/imc-thc22-gga-purple-grape/"
+    },
+    {
+      "title": "IMC THC22 GGA",
+      "thc": {
+        "value": 21.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/773.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:34.553875",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc22-gga-purple-grape/"
     }
   ],
-  "last_updated": "2025-03-12T00:54:39.586899"
+  "last_updated": "2025-03-12T02:16:34.553875"
 }

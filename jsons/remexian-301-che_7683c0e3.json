@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:48:42.899480",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-che/"
+    },
+    {
+      "title": "Remexian 30/1 CHE",
+      "thc": {
+        "value": 31.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7921.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:27.666036",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-che/"
     }
   ],
-  "last_updated": "2025-03-12T00:48:42.899480"
+  "last_updated": "2025-03-12T02:16:27.666036"
 }

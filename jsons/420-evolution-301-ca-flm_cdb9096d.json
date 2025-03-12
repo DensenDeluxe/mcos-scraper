@@ -153,7 +153,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:54:41.097523",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-flm/"
+    },
+    {
+      "title": "420 Evolution 30/1 CA FLM",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.88,
+          "unit": "g"
+        },
+        "max": {
+          "value": 17.37,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Frozen-Lemon-Kush-Mints_FLM.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:40.067534",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-flm/"
     }
   ],
-  "last_updated": "2025-03-12T00:54:41.097523"
+  "last_updated": "2025-03-12T02:16:40.067534"
 }

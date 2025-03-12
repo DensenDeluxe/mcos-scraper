@@ -195,7 +195,7 @@
   
   <script>
     (function(){
-      // Umbenannte Debug-Funktion
+      // Debug-Funktion
       function myDebug(message) {
         const debugDiv = document.getElementById('debugOutput');
         if (debugDiv) {
@@ -215,7 +215,7 @@
       let dataTable;
       let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
       
-      // Hilfsfunktionen zur Extraktion innerer numerischer Werte
+      // Hilfsfunktion zur Extraktion innerer numerischer Werte
       function getNumeric(obj) {
         return (typeof obj === 'object' && obj.value != null) ? obj.value : obj;
       }
@@ -247,12 +247,14 @@
       
       // Vorauswahl: Nur Einträge mit gültigem Handelsnamen, mindestens einem gültigen Preis und gültigen THC- oder CBD-Werten
       function isValidProduct(prod) {
-        // Handelsname muss vorhanden sein und darf nicht "null", "" oder "kein eintrag" sein
-        if (!prod.title || prod.title.trim() === "" || prod.title.trim().toLowerCase() === "null" || prod.title.trim().toLowerCase() === "kein eintrag") {
+        // Handelsname muss vorhanden sein und darf nicht leer, "null" oder "kein eintrag" sein (in Kleinbuchstaben)
+        if (!prod.title || prod.title.trim() === "" ||
+            prod.title.trim().toLowerCase() === "null" ||
+            prod.title.trim().toLowerCase() === "kein eintrag") {
           return false;
         }
+        // Preis: Mindestens price.value oder price.min/max muss einen numerischen Wert ungleich 0 haben
         if (!prod.price) return false;
-        // Mindestens ein gültiger Preis (price.value oder price.min oder price.max) muss vorhanden sein
         let priceValid = false;
         if (prod.price.value !== undefined && prod.price.value != null && getNumeric(prod.price.value) !== 0) {
           priceValid = true;
@@ -264,7 +266,7 @@
           priceValid = true;
         }
         if (!priceValid) return false;
-        // Mindestens ein gültiger THC-Wert in % oder CBD-Wert in % muss vorhanden sein
+        // THC oder CBD: Mindestens einer muss einen gültigen numerischen Wert ungleich 0 haben
         const thcValid = prod.thc && getNumeric(prod.thc) !== 0;
         const cbdValid = prod.cbd && getNumeric(prod.cbd) !== 0;
         return thcValid || cbdValid;

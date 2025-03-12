@@ -2,7 +2,7 @@
   "title": "Bathera 24/1 GZ",
   "url": "https://medcanonestop.com/medcan_product/bathera-24-1-gz/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:04:22.816398",
+  "last_updated": "2025-03-12T02:22:06.902085",
   "history": [
     {
       "title": "Bathera 24/1 GZ",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:04:22.816398",
+      "url": "https://medcanonestop.com/medcan_product/bathera-24-1-gz/"
+    },
+    {
+      "title": "Bathera 24/1 GZ",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:25.930175",
+      "url": "https://medcanonestop.com/medcan_product/bathera-24-1-gz/"
+    },
+    {
+      "title": "Bathera 24/1 GZ",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:22:06.902085",
       "url": "https://medcanonestop.com/medcan_product/bathera-24-1-gz/"
     }
   ]

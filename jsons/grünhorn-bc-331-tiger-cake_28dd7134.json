@@ -151,7 +151,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:05:00.389924",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-33-1-tiger-cake/"
+    },
+    {
+      "title": "Grünhorn BC 33/1 Tiger Cake",
+      "thc": {
+        "value": 33.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4729.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:30.700434",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-33-1-tiger-cake/"
     }
   ],
-  "last_updated": "2025-03-12T02:05:00.389924"
+  "last_updated": "2025-03-12T02:16:30.700434"
 }

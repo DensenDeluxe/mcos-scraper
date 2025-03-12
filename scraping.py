@@ -9,13 +9,13 @@ import hashlib
 from datetime import datetime
 from tqdm import tqdm
 import threading
-import msvcrt  # Funktioniert nur unter Windows
 
 # Konfiguration
-MAX_CONCURRENT_REQUESTS = 3
+MAX_CONCURRENT_REQUESTS = 3  # Maximale gleichzeitige Requests
 RETRY_ATTEMPTS = 10
 INITIAL_BACKOFF = 2
-SLEEP_INTERVAL = 3600  # Wartezeit zwischen den Loops in Sekunden
+SLEEP_INTERVAL = 600  # Wartezeit zwischen den Loops in Sekunden
+SCRAPE_TIMEOUT = 30   # Timeout in Sekunden für jeden scrape_product-Aufruf
 
 # Zielordner für Bilder und JSONs
 IMAGE_FOLDER = "images"
@@ -32,16 +32,6 @@ fail_count = 0
 
 # Exit-Event zur sauberen Beendigung
 exit_event = threading.Event()
-
-def check_for_escape():
-    """Prüft in einem separaten Thread kontinuierlich, ob ESC gedrückt wurde."""
-    while not exit_event.is_set():
-        if msvcrt.kbhit():
-            key = msvcrt.getch()
-            if key == b'\x1b':  # ESC-Taste
-                print("\nESC gedrückt – Skript wird beendet.")
-                exit_event.set()
-                break
 
 def slugify(value):
     value = str(value).lower()
@@ -163,6 +153,10 @@ async def scrape_product(session, url):
         "url": url,
     }
 
+async def bounded_scrape_product(sem, session, url):
+    async with sem:
+        return await scrape_product(session, url)
+
 def update_product_file(product):
     url_hash = hashlib.md5(product["url"].encode()).hexdigest()[:8]
     base_slug = slugify(product.get("title", "product"))
@@ -234,18 +228,12 @@ def update_manifest():
     files.sort()
     with open("manifest.json", "w", encoding="utf-8") as mf:
         json.dump(files, mf, ensure_ascii=False, indent=2)
-    # Manifest-Output wird ausgeblendet
 
 async def wait_with_countdown(wait_time):
-    """Zeigt einen Countdown im Terminal an; SPACE bricht das Warten ab."""
+    """Zeigt einen Countdown im Terminal an."""
     for remaining in range(wait_time, 0, -1):
-        print(f"Neuer Scrape-Durchlauf in {remaining} Sekunden... (SPACE zum sofortigen Start)", end="\r")
+        print(f"Neuer Scrape-Durchlauf in {remaining} Sekunden...", end="\r")
         await asyncio.sleep(1)
-        if msvcrt.kbhit():
-            key = msvcrt.getch()
-            if key == b' ':
-                print("\nSPACE gedrückt – starte neuen Durchlauf sofort.          ")
-                return
     print(" " * 80, end="\r")
 
 async def run_scraping_cycle():
@@ -253,18 +241,23 @@ async def run_scraping_cycle():
     failed_urls = []
     products_this_cycle = []
     async with aiohttp.ClientSession(timeout=TIMEOUT, headers=HEADERS) as session:
+        sem = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
         # 1. Re-Scraping der fehlgeschlagenen URLs (falls vorhanden)
         if os.path.exists("failed_urls.txt"):
             with open("failed_urls.txt", "r", encoding="utf-8") as f:
                 failed_list = [line.strip() for line in f if line.strip()]
             if failed_list:
-                tasks_failed = [scrape_product(session, url) for url in failed_list]
+                tasks_failed = [asyncio.create_task(asyncio.wait_for(bounded_scrape_product(sem, session, url), timeout=SCRAPE_TIMEOUT))
+                                for url in failed_list]
                 if tasks_failed:
                     pbar_fail = tqdm(total=len(tasks_failed), desc="Failed URLs", dynamic_ncols=True,
                                      bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]",
                                      postfix=f"Success: 0, Fail: 0")
                     for future in asyncio.as_completed(tasks_failed):
-                        product = await future
+                        try:
+                            product = await future
+                        except Exception:
+                            product = None
                         if product:
                             products_this_cycle.append(product)
                             update_product_file(product)
@@ -274,7 +267,8 @@ async def run_scraping_cycle():
                         pbar_fail.postfix = f"Success: {success_count}, Fail: {fail_count}"
                         pbar_fail.update(1)
                     pbar_fail.close()
-            os.remove("failed_urls.txt")
+            if os.path.exists("failed_urls.txt"):
+                os.remove("failed_urls.txt")
             print("Re-Scraping fehlgeschlagener URLs abgeschlossen.")
         # 2. Neue URLs aus der Sitemap abarbeiten
         sitemap_urls = [
@@ -284,13 +278,19 @@ async def run_scraping_cycle():
         sitemap_tasks = [fetch_sitemap(session, url) for url in sitemap_urls]
         results = await asyncio.gather(*sitemap_tasks)
         product_urls = list(set(sum(results, [])))
-        tasks_new = [scrape_product(session, url) for url in product_urls]
+        tasks_new = [asyncio.create_task(asyncio.wait_for(bounded_scrape_product(sem, session, url), timeout=SCRAPE_TIMEOUT))
+                     for url in product_urls]
         if tasks_new:
             pbar_new = tqdm(total=len(tasks_new), desc="Neue Produkte", dynamic_ncols=True,
                             bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]",
                             postfix=f"Success: {success_count}, Fail: {fail_count}")
             for future in asyncio.as_completed(tasks_new):
-                product = await future
+                try:
+                    product = await future
+                except Exception as e:
+                    product = None
+                    # Fehler werden hier über myDebug ausgegeben
+                    print("Task error: " + str(e))
                 if product:
                     products_this_cycle.append(product)
                     update_product_file(product)
@@ -309,7 +309,7 @@ async def run_scraping_cycle():
         with open("failed_urls.txt", "w", encoding="utf-8") as f:
             f.writelines(f"{url}\n" for url in failed_urls)
         print("Fehlgeschlagene URLs gespeichert.")
-    # 5. Manifest aktualisieren (Output ausgeblendet)
+    # 5. Manifest aktualisieren (Output unterdrückt)
     update_manifest()
     print("Scraping-Durchlauf abgeschlossen.")
 
@@ -321,9 +321,6 @@ async def main_loop():
         await wait_with_countdown(SLEEP_INTERVAL)
 
 if __name__ == '__main__':
-    # Starte den ESC-Prüfthread
-    escape_thread = threading.Thread(target=check_for_escape, daemon=True)
-    escape_thread.start()
     try:
         asyncio.run(main_loop())
     except KeyboardInterrupt:

@@ -179,7 +179,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:50:49.744154",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-slc-ca-slurricane/"
+    },
+    {
+      "title": "enua 25/1 SLC CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/08/750.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:16.850961",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-slc-ca-slurricane/"
     }
   ],
-  "last_updated": "2025-03-12T00:50:49.744154"
+  "last_updated": "2025-03-12T02:16:16.850961"
 }

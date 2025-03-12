@@ -2,7 +2,7 @@
   "title": "Grünhorn BC 24/1 A&G",
   "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-24-1-ag/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:03:27.885017",
+  "last_updated": "2025-03-12T02:16:32.754092",
   "history": [
     {
       "title": "Grünhorn BC 24/1 A&G",
@@ -134,6 +134,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:03:27.885017",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-24-1-ag/"
+    },
+    {
+      "title": "Grünhorn BC 24/1 A&G",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:16:32.754092",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-bc-24-1-ag/"
     }
   ]

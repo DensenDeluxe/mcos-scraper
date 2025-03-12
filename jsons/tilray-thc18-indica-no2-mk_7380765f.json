@@ -2,7 +2,7 @@
   "title": "Tilray THC18 Indica No.2 MK",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc18-indica-no-2-mk/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T00:49:43.826014",
+  "last_updated": "2025-03-12T02:22:03.398017",
   "history": [
     {
       "title": "Tilray THC18 Indica No.2 MK",
@@ -156,6 +156,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/4907.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T00:49:43.826014",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc18-indica-no-2-mk/"
+    },
+    {
+      "title": "Tilray THC18 Indica No.2 MK",
+      "thc": {
+        "value": 19.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": null,
+        "unit": ""
+      },
+      "price": {
+        "value": {
+          "value": 5.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/4907.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T02:22:03.398017",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc18-indica-no-2-mk/"
     }
   ]
