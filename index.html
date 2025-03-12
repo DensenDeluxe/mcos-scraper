@@ -284,6 +284,23 @@
         return thcValid || cbdValid;
       }
       
+      // Berechnet den Preis pro Gramm THC als Zahl, oder null, wenn nicht berechenbar
+      function getPricePerGram(prod) {
+        if (!prod.price || !prod.thc || getNumeric(prod.thc) <= 0) return null;
+        let basePrice = null;
+        if (prod.price.value !== undefined && prod.price.value != null && !isNaN(getNumeric(prod.price.value))) {
+          basePrice = parseFloat(getNumeric(prod.price.value));
+        } else if (prod.price.min !== undefined && prod.price.max !== undefined && !isNaN(getNumeric(prod.price.min))) {
+          basePrice = parseFloat(getNumeric(prod.price.min));
+        }
+        if (basePrice === null) return null;
+        let factor = 1;
+        if (prod.cbd && !isNaN(getNumeric(prod.cbd)) && getNumeric(prod.cbd) > 0) {
+          factor = (getNumeric(prod.thc) + getNumeric(prod.cbd)) / getNumeric(prod.thc);
+        }
+        return basePrice * 100 / getNumeric(prod.thc) * factor;
+      }
+      
       // Manifest laden und alle Produkt-JSONs einlesen, dabei Fortschritt anzeigen
       async function fetchIndex() {
         indexData = {};
@@ -301,9 +318,7 @@
               if (!response.ok) throw new Error('Fehler beim Laden von ' + file);
               const data = await response.json();
               let prod = (data.history && Array.isArray(data.history) && data.history.length > 0) ? data.history : data;
-              if (!Array.isArray(prod)) {
-                prod = [prod];
-              }
+              if (!Array.isArray(prod)) prod = [prod];
               const latest = prod[prod.length - 1];
               latest._filename = file;
               if (isValidProduct(latest)) {
@@ -324,8 +339,7 @@
         document.getElementById('loadingBarContainer').style.display = 'none';
         updateProductSelect();
         updateTable();
-        // Nach dem Laden automatisch das erste Ergebnis auswählen
-        autoSelectFirstProduct();
+        setDefaultProduct();
       }
       
       function updateProductSelect() {
@@ -415,7 +429,7 @@
             searching: false,
             lengthChange: false,
             paging: true,
-            order: [[3, "asc"]], // Standardmäßig nach "Preis pro Gramm THC"
+            order: [[3, "asc"]], // Standardmäßig nach "Preis pro Gramm THC" (Spalte 3) aufsteigend
             language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
           });
         } else {
@@ -426,15 +440,49 @@
         applyProductTypeFilter();
       }
       
-      async function loadProductHistory(product) {
-        if (!product) {
-          if (chart) { chart.destroy(); }
-          return;
+      // Setzt als Standardauswahl im Dropdown das Produkt mit dem niedrigsten "Preis pro Gramm THC"
+      function setDefaultProduct() {
+        let bestProduct = null;
+        let bestPrice = Infinity;
+        Object.values(indexData).forEach(prod => {
+          const pricePG = getPricePerGram(prod);
+          if (pricePG !== null && pricePG < bestPrice) {
+            bestPrice = pricePG;
+            bestProduct = prod;
+          }
+        });
+        if (bestProduct) {
+          // Setze Dropdown-Auswahl
+          const select = document.getElementById('productSelect');
+          select.value = bestProduct.title;
+          // Lade die History des ausgewählten Produkts
+          loadProductHistory(bestProduct);
         }
+      }
+      
+      // Berechnet den Preis pro Gramm THC als Zahl
+      function getPricePerGram(prod) {
+        if (!prod.price || !prod.thc || getNumeric(prod.thc) <= 0) return null;
+        let basePrice = null;
+        if (prod.price.value !== undefined && prod.price.value != null && !isNaN(getNumeric(prod.price.value))) {
+          basePrice = parseFloat(getNumeric(prod.price.value));
+        } else if (prod.price.min !== undefined && prod.price.max !== undefined && !isNaN(getNumeric(prod.price.min))) {
+          basePrice = parseFloat(getNumeric(prod.price.min));
+        }
+        if (basePrice === null) return null;
+        let factor = 1;
+        if (prod.cbd && !isNaN(getNumeric(prod.cbd)) && getNumeric(prod.cbd) > 0) {
+          factor = (getNumeric(prod.thc) + getNumeric(prod.cbd)) / getNumeric(prod.thc);
+        }
+        return basePrice * 100 / getNumeric(prod.thc) * factor;
+      }
+      
+      async function loadProductDetails(product) {
+        if (!product) return;
         try {
           const timestamp = new Date().getTime();
           const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
-          if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
+          if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
           const jsonData = await response.json();
           let history = jsonData.history;
           if (!Array.isArray(history)) {
@@ -442,7 +490,7 @@
           }
           updateChart(history);
         } catch (error) {
-          myDebug('History-Error: ' + error.message);
+          myDebug('Detail-JSON Error: ' + error.message);
         }
       }
       
@@ -481,32 +529,22 @@
       });
       
       function applyProductTypeFilter() {
-        // Hier können weitere Filter implementiert werden – aktuell leer.
-      }
-      
-      function autoSelectFirstProduct() {
-        // Falls bereits ein Eintrag im Dropdown existiert, wird der erste ausgewählt
-        const select = document.getElementById('productSelect');
-        const firstOption = select.options[1];
-        if (firstOption) {
-          select.selectedIndex = 1;
-          const selectedProduct = firstOption.value;
-          if (indexData[selectedProduct]) {
-            loadProductHistory(indexData[selectedProduct]);
-          }
-        }
+        // Hier können weitere Filter implementiert werden – momentan ohne Funktion.
       }
       
       $(document).ready(function() {
         fetchIndex();
       });
       
-      async function loadProductDetails(product) {
-        if (!product) return;
+      async function loadProductHistory(product) {
+        if (!product) {
+          if (chart) { chart.destroy(); }
+          return;
+        }
         try {
           const timestamp = new Date().getTime();
           const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
-          if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
+          if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
           const jsonData = await response.json();
           let history = jsonData.history;
           if (!Array.isArray(history)) {
@@ -514,11 +552,12 @@
           }
           updateChart(history);
         } catch (error) {
-          myDebug('Detail-JSON Error: ' + error.message);
+          myDebug('History-Error: ' + error.message);
         }
       }
       
       function updateChart(historyData) {
+        // Sicherstellen, dass historyData ein Array ist
         if (!Array.isArray(historyData)) {
           historyData = [historyData];
         }
