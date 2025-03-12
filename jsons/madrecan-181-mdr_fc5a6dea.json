@@ -2,7 +2,7 @@
   "title": "madrecan 18/1 MDR",
   "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-mdr/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:44:40.610700",
+  "last_updated": "2025-03-12T10:00:13.091087",
   "history": [
     {
       "title": "madrecan 18/1 MDR",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/787.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:40.610700",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-mdr/"
+    },
+    {
+      "title": "madrecan 18/1 MDR",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/787.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:13.091087",
       "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-mdr/"
     }
   ]

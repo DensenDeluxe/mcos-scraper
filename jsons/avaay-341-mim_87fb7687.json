@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:50:02.315064",
       "url": "https://medcanonestop.com/medcan_product/avaay-34-1-mim/"
+    },
+    {
+      "title": "avaay 34/1 MIM",
+      "thc": {
+        "value": 34.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.78,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:59.038889",
+      "url": "https://medcanonestop.com/medcan_product/avaay-34-1-mim/"
     }
   ],
-  "last_updated": "2025-03-12T04:50:02.315064"
+  "last_updated": "2025-03-12T09:58:59.038889"
 }

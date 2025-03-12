@@ -2,7 +2,7 @@
   "title": "23/1 NICE C",
   "url": "https://medcanonestop.com/medcan_product/23-1-nce-c-cherry-pie/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:45:19.764512",
+  "last_updated": "2025-03-12T09:56:08.729889",
   "history": [
     {
       "title": "23/1 NICE C",
@@ -200,6 +200,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/CP_Dried_Freisteller.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:19.764512",
+      "url": "https://medcanonestop.com/medcan_product/23-1-nce-c-cherry-pie/"
+    },
+    {
+      "title": "23/1 NICE C",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/CP_Dried_Freisteller.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:08.729889",
       "url": "https://medcanonestop.com/medcan_product/23-1-nce-c-cherry-pie/"
     }
   ]

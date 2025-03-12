@@ -195,7 +195,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:35.200474",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-amsterdam-amnesia/"
+    },
+    {
+      "title": "Cannamedical Sativa Classic NM AA",
+      "thc": {
+        "value": 18.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Amsterdam-Amnesia-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:05.899317",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-amsterdam-amnesia/"
     }
   ],
-  "last_updated": "2025-03-12T04:45:35.200474"
+  "last_updated": "2025-03-12T10:00:05.899317"
 }

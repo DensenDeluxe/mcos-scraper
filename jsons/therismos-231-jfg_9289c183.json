@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:14.534834",
       "url": "https://medcanonestop.com/medcan_product/therismos-23-1-jfg/"
+    },
+    {
+      "title": "Therismos 23/1 JFG",
+      "thc": {
+        "value": 23.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.89,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/23_1_JFG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:53.155606",
+      "url": "https://medcanonestop.com/medcan_product/therismos-23-1-jfg/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:14.534834"
+  "last_updated": "2025-03-12T09:56:53.155606"
 }

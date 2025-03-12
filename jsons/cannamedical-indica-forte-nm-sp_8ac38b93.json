@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:29.010732",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-nm-sp/"
+    },
+    {
+      "title": "Cannamedical Indica Forte NM SP",
+      "thc": {
+        "value": 23.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Sugar-Bomb-Punch.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:13.503887",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-nm-sp/"
     }
   ],
-  "last_updated": "2025-03-12T04:47:29.010732"
+  "last_updated": "2025-03-12T09:57:13.503887"
 }

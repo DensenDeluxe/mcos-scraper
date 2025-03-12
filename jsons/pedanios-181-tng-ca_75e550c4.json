@@ -195,7 +195,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:54.109914",
       "url": "https://medcanonestop.com/medcan_product/pedanios-18-1-tangerine-dream-tng-ca/"
+    },
+    {
+      "title": "Pedanios 18/1 TNG CA",
+      "thc": {
+        "value": 16.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.9,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Pedanios-18_1-TNG-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:25.803383",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-18-1-tangerine-dream-tng-ca/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:54.109914"
+  "last_updated": "2025-03-12T10:00:25.803383"
 }

@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:21.336802",
       "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-master-kush/"
+    },
+    {
+      "title": "NAVCORA THC22 Spotlight Porto MK",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:54.791510",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-master-kush/"
     }
   ],
-  "last_updated": "2025-03-12T04:44:21.336802"
+  "last_updated": "2025-03-12T09:57:54.791510"
 }

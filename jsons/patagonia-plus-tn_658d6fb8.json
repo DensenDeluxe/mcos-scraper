@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:17.548392",
       "url": "https://medcanonestop.com/medcan_product/patagonia-plus-tn/"
+    },
+    {
+      "title": "Patagonia PLUS+ TN",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.73,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Patagonia-PLUS-TN.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:39.758635",
+      "url": "https://medcanonestop.com/medcan_product/patagonia-plus-tn/"
     }
   ],
-  "last_updated": "2025-03-12T04:44:17.548392"
+  "last_updated": "2025-03-12T10:00:39.758635"
 }

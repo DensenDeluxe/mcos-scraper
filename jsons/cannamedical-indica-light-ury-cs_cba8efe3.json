@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:05.198088",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-ury-cs/"
+    },
+    {
+      "title": "Cannamedical Indica light URY CS",
+      "thc": {
+        "value": 17.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.39,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:46.122053",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-light-ury-cs/"
     }
   ],
-  "last_updated": "2025-03-12T04:45:05.198088"
+  "last_updated": "2025-03-12T09:58:46.122053"
 }

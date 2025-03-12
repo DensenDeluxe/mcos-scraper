@@ -2,7 +2,7 @@
   "title": "Sibanax GMO Zkittlez 19/1",
   "url": "https://medcanonestop.com/medcan_product/sibanax-gmo-zkittlez-19-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:49:59.636517",
+  "last_updated": "2025-03-12T09:59:35.773603",
   "history": [
     {
       "title": "Sibanax GMO Zkittlez 19/1",
@@ -244,6 +244,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/5869.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:59.636517",
+      "url": "https://medcanonestop.com/medcan_product/sibanax-gmo-zkittlez-19-1/"
+    },
+    {
+      "title": "Sibanax GMO Zkittlez 19/1",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 5.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/5869.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:35.773603",
       "url": "https://medcanonestop.com/medcan_product/sibanax-gmo-zkittlez-19-1/"
     }
   ]

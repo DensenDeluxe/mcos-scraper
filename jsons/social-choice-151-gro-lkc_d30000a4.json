@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:04.706871",
       "url": "https://medcanonestop.com/medcan_product/social-choice-15-1-gro-lkc/"
+    },
+    {
+      "title": "Social Choice 15/1 GRO LKC",
+      "thc": {
+        "value": 15.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:40.760236",
+      "url": "https://medcanonestop.com/medcan_product/social-choice-15-1-gro-lkc/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:04.706871"
+  "last_updated": "2025-03-12T09:59:40.760236"
 }

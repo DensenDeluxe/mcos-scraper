@@ -2,7 +2,7 @@
   "title": "Cannamedical CM 27/1 PO",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-27-1-po-platinum-oranges/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:44:02.496092",
+  "last_updated": "2025-03-12T09:56:21.000728",
   "history": [
     {
       "title": "Cannamedical CM 27/1 PO",
@@ -222,6 +222,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Platinum-Oranges-1.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:02.496092",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-27-1-po-platinum-oranges/"
+    },
+    {
+      "title": "Cannamedical CM 27/1 PO",
+      "thc": {
+        "value": 26.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Platinum-Oranges-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:21.000728",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-27-1-po-platinum-oranges/"
     }
   ]

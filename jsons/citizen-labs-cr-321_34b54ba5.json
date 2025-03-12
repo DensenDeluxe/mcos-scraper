@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:34.813785",
       "url": "https://medcanonestop.com/medcan_product/citizen-labs-cr-32-1/"
+    },
+    {
+      "title": "Citizen Labs CR 32/1",
+      "thc": {
+        "value": 32.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Citizenlab_Calirain.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:40.252415",
+      "url": "https://medcanonestop.com/medcan_product/citizen-labs-cr-32-1/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:34.813785"
+  "last_updated": "2025-03-12T09:56:40.252415"
 }

@@ -2,7 +2,7 @@
   "title": "enua 25/1 GPP",
   "url": "https://medcanonestop.com/medcan_product/enua-25-1-gpp/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:44:37.463708",
+  "last_updated": "2025-03-12T09:58:40.199498",
   "history": [
     {
       "title": "enua 25/1 GPP",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6127_21381_6734667d7b623_IMG_1552.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:37.463708",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-gpp/"
+    },
+    {
+      "title": "enua 25/1 GPP",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.1,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.69,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6127_21381_6734667d7b623_IMG_1552.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:40.199498",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-gpp/"
     }
   ]

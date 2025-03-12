@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:20.118884",
       "url": "https://medcanonestop.com/medcan_product/recannis-9-5-10-5-hybrid-midnight/"
+    },
+    {
+      "title": "RE:CANNIS 9.5/10.5 Hybrid",
+      "thc": {
+        "value": 9.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 10.5,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 22.61,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/397.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:31.250533",
+      "url": "https://medcanonestop.com/medcan_product/recannis-9-5-10-5-hybrid-midnight/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:20.118884"
+  "last_updated": "2025-03-12T09:56:31.250533"
 }

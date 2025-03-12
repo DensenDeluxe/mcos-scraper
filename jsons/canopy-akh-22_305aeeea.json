@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:51.552038",
       "url": "https://medcanonestop.com/medcan_product/canopy-akh-22-1-afghan-kush/"
+    },
+    {
+      "title": "Canopy AKH 22",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 17.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:04.986325",
+      "url": "https://medcanonestop.com/medcan_product/canopy-akh-22-1-afghan-kush/"
     }
   ],
-  "last_updated": "2025-03-12T04:48:51.552038"
+  "last_updated": "2025-03-12T09:58:04.986325"
 }

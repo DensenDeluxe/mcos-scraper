@@ -2,7 +2,7 @@
   "title": "TILRAY THC 18 Spotlight Porto WW",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-white-widow/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:48:21.788686",
+  "last_updated": "2025-03-12T09:57:32.952910",
   "history": [
     {
       "title": "TILRAY THC 18 Spotlight Porto WW",
@@ -262,6 +262,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/741.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:21.788686",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-white-widow/"
+    },
+    {
+      "title": "TILRAY THC 18 Spotlight Porto WW",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.19,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/741.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:32.952910",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-white-widow/"
     }
   ]

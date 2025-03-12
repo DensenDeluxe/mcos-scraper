@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:15.683891",
       "url": "https://medcanonestop.com/medcan_product/ostara-dt/"
+    },
+    {
+      "title": "OSTARA DT",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4514.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:18.234995",
+      "url": "https://medcanonestop.com/medcan_product/ostara-dt/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:15.683891"
+  "last_updated": "2025-03-12T09:58:18.234995"
 }

@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:29.503734",
       "url": "https://medcanonestop.com/medcan_product/costa-canna-dynamics-fortissimo/"
+    },
+    {
+      "title": "Costa Canna Dynamics – Fortissimo",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Costa-Canna-Dynamics-Fortissimo-Liberty-Haze.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:04.793642",
+      "url": "https://medcanonestop.com/medcan_product/costa-canna-dynamics-fortissimo/"
     }
   ],
-  "last_updated": "2025-03-12T04:44:29.503734"
+  "last_updated": "2025-03-12T09:57:04.793642"
 }

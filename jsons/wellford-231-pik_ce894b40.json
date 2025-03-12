@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:34.177617",
       "url": "https://medcanonestop.com/medcan_product/wellford-23-1-pik/"
+    },
+    {
+      "title": "Wellford 23/1 PIK",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.84,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/23_1_PIK-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:55:57.991736",
+      "url": "https://medcanonestop.com/medcan_product/wellford-23-1-pik/"
     }
   ],
-  "last_updated": "2025-03-12T04:47:34.177617"
+  "last_updated": "2025-03-12T09:55:57.991736"
 }

@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:10.071465",
       "url": "https://medcanonestop.com/medcan_product/recannis-1-15-cbd-avidekel/"
+    },
+    {
+      "title": "RE:CANNIS 1/15 CBD",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 15.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:02.907097",
+      "url": "https://medcanonestop.com/medcan_product/recannis-1-15-cbd-avidekel/"
     }
   ],
-  "last_updated": "2025-03-12T04:44:10.071465"
+  "last_updated": "2025-03-12T09:57:02.907097"
 }

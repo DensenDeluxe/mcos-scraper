@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:08.339361",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-lpp-lemon-pepper-punch/"
+    },
+    {
+      "title": "Remexian 30/1 LPP",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.6,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.12,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2697.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:07.893742",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-lpp-lemon-pepper-punch/"
     }
   ],
-  "last_updated": "2025-03-12T04:44:08.339361"
+  "last_updated": "2025-03-12T09:59:07.893742"
 }

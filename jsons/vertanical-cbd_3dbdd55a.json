@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:58.391792",
       "url": "https://medcanonestop.com/medcan_product/vertanical-cbd-50/"
+    },
+    {
+      "title": "Vertanical CBD",
+      "thc": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:15.138352",
+      "url": "https://medcanonestop.com/medcan_product/vertanical-cbd-50/"
     }
   ],
-  "last_updated": "2025-03-12T04:48:58.391792"
+  "last_updated": "2025-03-12T10:00:15.138352"
 }

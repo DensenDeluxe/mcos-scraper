@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:56.208484",
       "url": "https://medcanonestop.com/medcan_product/remexian-20-1-flc/"
+    },
+    {
+      "title": "Remexian 20/1 FLC",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/486.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:19.079502",
+      "url": "https://medcanonestop.com/medcan_product/remexian-20-1-flc/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:56.208484"
+  "last_updated": "2025-03-12T09:59:19.079502"
 }

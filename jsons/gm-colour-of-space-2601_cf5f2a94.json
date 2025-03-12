@@ -2,7 +2,7 @@
   "title": "GM Colour of Space 26:01",
   "url": "https://medcanonestop.com/medcan_product/gm-colour-of-space-26-1-apple-fritters-purple-punch/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:47:16.864275",
+  "last_updated": "2025-03-12T09:59:20.467648",
   "history": [
     {
       "title": "GM Colour of Space 26:01",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/813.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:16.864275",
+      "url": "https://medcanonestop.com/medcan_product/gm-colour-of-space-26-1-apple-fritters-purple-punch/"
+    },
+    {
+      "title": "GM Colour of Space 26:01",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.43,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/813.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:20.467648",
       "url": "https://medcanonestop.com/medcan_product/gm-colour-of-space-26-1-apple-fritters-purple-punch/"
     }
   ]

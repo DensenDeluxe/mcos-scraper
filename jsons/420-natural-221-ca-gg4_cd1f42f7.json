@@ -2,7 +2,7 @@
   "title": "420 Natural 22/1 CA GG4",
   "url": "https://medcanonestop.com/medcan_product/420-natural-22-1-ca-gg4-gorilla-glue/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:44:34.137377",
+  "last_updated": "2025-03-12T10:00:44.164753",
   "history": [
     {
       "title": "420 Natural 22/1 CA GG4",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Natural_Gorilla-Glue-4_GG4.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:34.137377",
+      "url": "https://medcanonestop.com/medcan_product/420-natural-22-1-ca-gg4-gorilla-glue/"
+    },
+    {
+      "title": "420 Natural 22/1 CA GG4",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.05,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.06,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Natural_Gorilla-Glue-4_GG4.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:44.164753",
       "url": "https://medcanonestop.com/medcan_product/420-natural-22-1-ca-gg4-gorilla-glue/"
     }
   ]

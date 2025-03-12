@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:06.866363",
       "url": "https://medcanonestop.com/medcan_product/avaay-28-1-kh-karels-haze/"
+    },
+    {
+      "title": "avaay 28/1 KH",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:34.132867",
+      "url": "https://medcanonestop.com/medcan_product/avaay-28-1-kh-karels-haze/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:06.866363"
+  "last_updated": "2025-03-12T09:59:34.132867"
 }

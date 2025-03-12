@@ -2,7 +2,7 @@
   "title": "Cannamedical Indica Classic Crazy Rntz",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-pt/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:49:55.540934",
+  "last_updated": "2025-03-12T09:56:56.469431",
   "history": [
     {
       "title": "Cannamedical Indica Classic Crazy Rntz",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:55.540934",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-pt/"
+    },
+    {
+      "title": "Cannamedical Indica Classic Crazy Rntz",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.28,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.92,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:56.469431",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-pt/"
     }
   ]

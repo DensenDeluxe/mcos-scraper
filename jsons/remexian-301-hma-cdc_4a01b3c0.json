@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:52.952774",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-hma-cdc/"
+    },
+    {
+      "title": "Remexian 30/1 HMA CDC",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.73,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6634.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:40.797700",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-hma-cdc/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:52.952774"
+  "last_updated": "2025-03-12T09:57:40.797700"
 }

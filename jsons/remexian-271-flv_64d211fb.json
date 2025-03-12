@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:50:00.757804",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-flv/"
+    },
+    {
+      "title": "Remexian 27/1 FLV",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/8131.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:05.598080",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-flv/"
     }
   ],
-  "last_updated": "2025-03-12T04:50:00.757804"
+  "last_updated": "2025-03-12T10:00:05.598080"
 }

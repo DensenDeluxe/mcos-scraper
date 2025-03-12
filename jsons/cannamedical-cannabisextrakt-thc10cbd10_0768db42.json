@@ -2,7 +2,7 @@
   "title": "Cannamedical Cannabisextrakt THC10:CBD10",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-thc10cbd10/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:49:44.205208",
+  "last_updated": "2025-03-12T10:00:27.562730",
   "history": [
     {
       "title": "Cannamedical Cannabisextrakt THC10:CBD10",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC10_CBD10.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:44.205208",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc10cbd10/"
+    },
+    {
+      "title": "Cannamedical Cannabisextrakt THC10:CBD10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.3,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 99.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC10_CBD10.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:27.562730",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-thc10cbd10/"
     }
   ]

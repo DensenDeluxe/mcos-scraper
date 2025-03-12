@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:11.359657",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc10cbd10/"
+    },
+    {
+      "title": "TILRAY Cannabisextrakt THC10:CBD10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 6.15,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 10.97,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:24.917427",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc10cbd10/"
     }
   ],
-  "last_updated": "2025-03-12T04:48:11.359657"
+  "last_updated": "2025-03-12T09:56:24.917427"
 }

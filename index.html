@@ -245,7 +245,8 @@
         return "n/a";
       }
       
-      // Vorauswahl: Nur Einträge mit gültigem Handelsnamen, mindestens einem gültigen Preis und gültigen THC- oder CBD-Werten
+      // Vorauswahl: Nur Einträge mit gültigem Handelsnamen, mindestens einem gültigen Preis 
+      // und mit mindestens einem gültigen THC- oder CBD-Wert (nur wenn Einheit "%" ist) werden akzeptiert.
       function isValidProduct(prod) {
         // Handelsname muss vorhanden sein und darf nicht leer, "null", "kein eintrag" oder "undefined" sein
         if (!prod.title || prod.title.trim() === "" ||
@@ -265,9 +266,22 @@
           priceValid = true;
         }
         if (!priceValid) return false;
-        // THC oder CBD: Mindestens einer muss einen numerischen Wert > 0 haben
-        const thcValid = prod.thc && !isNaN(getNumeric(prod.thc)) && getNumeric(prod.thc) > 0;
-        const cbdValid = prod.cbd && !isNaN(getNumeric(prod.cbd)) && getNumeric(prod.cbd) > 0;
+        // THC oder CBD: Mindestens einer muss einen numerischen Wert > 0 haben und die Einheit "%" besitzen
+        let thcValid = false, cbdValid = false;
+        if (prod.thc && !isNaN(getNumeric(prod.thc)) && getNumeric(prod.thc) > 0) {
+          if (typeof prod.thc === "object" && prod.thc.unit && prod.thc.unit.trim().toLowerCase() === "%") {
+            thcValid = true;
+          } else if (typeof prod.thc === "number") {
+            thcValid = true;
+          }
+        }
+        if (prod.cbd && !isNaN(getNumeric(prod.cbd)) && getNumeric(prod.cbd) > 0) {
+          if (typeof prod.cbd === "object" && prod.cbd.unit && prod.cbd.unit.trim().toLowerCase() === "%") {
+            cbdValid = true;
+          } else if (typeof prod.cbd === "number") {
+            cbdValid = true;
+          }
+        }
         return thcValid || cbdValid;
       }
       
@@ -396,7 +410,7 @@
             searching: false,
             lengthChange: false,
             paging: true,
-            order: [[3, "asc"]],
+            order: [[0, "asc"]], // Sortierung nach Handelsname (Spalte 0)
             language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
           });
         } else {
@@ -456,16 +470,8 @@
       });
       
       function applyProductTypeFilter() {
-        const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
-        const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
-        $('#pricesTable tbody tr').each(function() {
-          const prodType = $(this).attr('data-product-type');
-          if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
-            $(this).hide();
-          } else {
-            $(this).show();
-          }
-        });
+        // Falls es entsprechende Filter-Checkboxen gibt – hier vorerst ohne
+        // Diese Funktion kann ggf. erweitert werden.
       }
       
       $(document).ready(function() {

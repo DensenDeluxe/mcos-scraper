@@ -261,7 +261,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:42.363366",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-18-1-karl-og/"
+    },
+    {
+      "title": "Cannamedical CM 18/1 Karl OG",
+      "thc": {
+        "value": 16.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Karl-OG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:40.043999",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-18-1-karl-og/"
     }
   ],
-  "last_updated": "2025-03-12T04:45:42.363366"
+  "last_updated": "2025-03-12T10:00:40.043999"
 }

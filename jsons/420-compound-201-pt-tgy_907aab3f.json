@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:52.094408",
       "url": "https://medcanonestop.com/medcan_product/420-compound-20-1-pt-tgy/"
+    },
+    {
+      "title": "420 Compound 20/1 PT TGY",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Compound_Tigerz-Eye_TGY.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:49.141545",
+      "url": "https://medcanonestop.com/medcan_product/420-compound-20-1-pt-tgy/"
     }
   ],
-  "last_updated": "2025-03-12T04:45:52.094408"
+  "last_updated": "2025-03-12T09:59:49.141545"
 }

@@ -195,7 +195,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:54.458763",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-black-triangle-2701/"
+    },
+    {
+      "title": "Demecan CRAFT Black Triangle 27:01",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:55:49.460027",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-black-triangle-2701/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:54.458763"
+  "last_updated": "2025-03-12T09:55:49.460027"
 }

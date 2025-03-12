@@ -2,7 +2,7 @@
   "title": "RE:CANNIS 3/9",
   "url": "https://medcanonestop.com/medcan_product/recannis-3-9/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:47:07.218956",
+  "last_updated": "2025-03-12T10:00:05.327819",
   "history": [
     {
       "title": "RE:CANNIS 3/9",
@@ -210,6 +210,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:07.218956",
+      "url": "https://medcanonestop.com/medcan_product/recannis-3-9/"
+    },
+    {
+      "title": "RE:CANNIS 3/9",
+      "thc": {
+        "value": 3.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 9.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 13.95,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 52.17,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:05.327819",
       "url": "https://medcanonestop.com/medcan_product/recannis-3-9/"
     }
   ]

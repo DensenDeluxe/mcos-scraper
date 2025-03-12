@@ -2,7 +2,7 @@
   "title": "avaay Signature 28/1 PG",
   "url": "https://medcanonestop.com/medcan_product/avaay-signature-28-1-pg-platinum-garlic/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:49:43.522906",
+  "last_updated": "2025-03-12T09:56:49.096349",
   "history": [
     {
       "title": "avaay Signature 28/1 PG",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/PG_bud.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:43.522906",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-28-1-pg-platinum-garlic/"
+    },
+    {
+      "title": "avaay Signature 28/1 PG",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/PG_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:49.096349",
       "url": "https://medcanonestop.com/medcan_product/avaay-signature-28-1-pg-platinum-garlic/"
     }
   ]

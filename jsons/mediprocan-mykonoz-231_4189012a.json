@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:50.409567",
       "url": "https://medcanonestop.com/medcan_product/mediprocan-mykonoz-23-1/"
+    },
+    {
+      "title": "mediproCan MYKONOZ 23/1",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.84,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/6733.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:06.670250",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-mykonoz-23-1/"
     }
   ],
-  "last_updated": "2025-03-12T04:47:50.409567"
+  "last_updated": "2025-03-12T09:58:06.670250"
 }

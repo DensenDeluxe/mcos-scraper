@@ -2,7 +2,7 @@
   "title": "IMC THC22 T05",
   "url": "https://medcanonestop.com/medcan_product/imc-thc22-t05-somango-skunk/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:45:10.994745",
+  "last_updated": "2025-03-12T09:59:17.167491",
   "history": [
     {
       "title": "IMC THC22 T05",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2270.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:10.994745",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc22-t05-somango-skunk/"
+    },
+    {
+      "title": "IMC THC22 T05",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2270.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:17.167491",
       "url": "https://medcanonestop.com/medcan_product/imc-thc22-t05-somango-skunk/"
     }
   ]

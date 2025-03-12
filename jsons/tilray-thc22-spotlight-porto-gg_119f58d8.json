@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:51.139986",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc22-spotlight-porto-gg/"
+    },
+    {
+      "title": "Tilray THC22 Spotlight Porto GG",
+      "thc": {
+        "value": 20.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.21,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:07.614270",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc22-spotlight-porto-gg/"
     }
   ],
-  "last_updated": "2025-03-12T04:47:51.139986"
+  "last_updated": "2025-03-12T10:00:07.614270"
 }

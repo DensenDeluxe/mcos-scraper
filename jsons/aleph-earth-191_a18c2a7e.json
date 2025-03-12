@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:56.987034",
       "url": "https://medcanonestop.com/medcan_product/aleph-earth-19-1/"
+    },
+    {
+      "title": "aleph earth 19/1",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-earth.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:37.010487",
+      "url": "https://medcanonestop.com/medcan_product/aleph-earth-19-1/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:56.987034"
+  "last_updated": "2025-03-12T09:56:37.010487"
 }

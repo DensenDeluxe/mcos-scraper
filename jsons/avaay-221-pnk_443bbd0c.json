@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:46:13.390874",
       "url": "https://medcanonestop.com/medcan_product/avaay-22-1-pnk/"
+    },
+    {
+      "title": "avaay 22/1 PNK",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.59,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8489.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:21.851739",
+      "url": "https://medcanonestop.com/medcan_product/avaay-22-1-pnk/"
     }
   ],
-  "last_updated": "2025-03-12T04:46:13.390874"
+  "last_updated": "2025-03-12T09:57:21.851739"
 }

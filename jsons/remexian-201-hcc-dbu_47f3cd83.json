@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:53.881619",
       "url": "https://medcanonestop.com/medcan_product/big-dreams-20-1-hcc-dbu/"
+    },
+    {
+      "title": "Remexian 20/1 HCC DBU",
+      "thc": {
+        "value": 19.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.18,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7861.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:55:51.156803",
+      "url": "https://medcanonestop.com/medcan_product/big-dreams-20-1-hcc-dbu/"
     }
   ],
-  "last_updated": "2025-03-12T04:44:53.881619"
+  "last_updated": "2025-03-12T09:55:51.156803"
 }

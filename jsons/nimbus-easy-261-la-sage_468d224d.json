@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:31.352321",
       "url": "https://medcanonestop.com/medcan_product/nimbus-easy-26-1-la-sage/"
+    },
+    {
+      "title": "Nimbus easy 26/1 La Sage",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.45,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6579.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:36.566182",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-easy-26-1-la-sage/"
     }
   ],
-  "last_updated": "2025-03-12T04:48:31.352321"
+  "last_updated": "2025-03-12T09:57:36.566182"
 }

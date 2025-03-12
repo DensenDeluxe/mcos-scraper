@@ -2,7 +2,7 @@
   "title": "Drapalin 24/1 Bafokeng Choice",
   "url": "https://medcanonestop.com/medcan_product/drapalin-24-1-bafokeng-choice/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:49:50.409206",
+  "last_updated": "2025-03-12T09:58:55.721946",
   "history": [
     {
       "title": "Drapalin 24/1 Bafokeng Choice",
@@ -200,6 +200,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:50.409206",
+      "url": "https://medcanonestop.com/medcan_product/drapalin-24-1-bafokeng-choice/"
+    },
+    {
+      "title": "Drapalin 24/1 Bafokeng Choice",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.35,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:55.721946",
       "url": "https://medcanonestop.com/medcan_product/drapalin-24-1-bafokeng-choice/"
     }
   ]

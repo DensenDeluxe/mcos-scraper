@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:04.128676",
       "url": "https://medcanonestop.com/medcan_product/imc-thc20-t02-og-kush/"
+    },
+    {
+      "title": "IMC THC20 T02 OG Kush",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/2633.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:55.665596",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc20-t02-og-kush/"
     }
   ],
-  "last_updated": "2025-03-12T04:45:04.128676"
+  "last_updated": "2025-03-12T09:57:55.665596"
 }

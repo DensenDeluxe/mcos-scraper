@@ -195,7 +195,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:23.088837",
       "url": "https://medcanonestop.com/medcan_product/craft-botanics-27-1-mimosa/"
+    },
+    {
+      "title": "Craft Botanics 27/1 Mimosa",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 10.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:54.551289",
+      "url": "https://medcanonestop.com/medcan_product/craft-botanics-27-1-mimosa/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:23.088837"
+  "last_updated": "2025-03-12T09:56:54.551289"
 }

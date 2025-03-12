@@ -184,7 +184,24 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:48.131723",
       "url": "https://medcanonestop.com/medcan_product/"
+    },
+    {
+      "title": "Unbekannt",
+      "thc": {
+        "value": null,
+        "unit": ""
+      },
+      "cbd": {
+        "value": null,
+        "unit": ""
+      },
+      "price": {},
+      "delivery_status": "Unbekannt",
+      "image_url": "",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:13.106804",
+      "url": "https://medcanonestop.com/medcan_product/"
     }
   ],
-  "last_updated": "2025-03-12T04:47:48.131723"
+  "last_updated": "2025-03-12T10:00:13.106804"
 }

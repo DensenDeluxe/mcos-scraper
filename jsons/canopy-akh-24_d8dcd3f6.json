@@ -2,7 +2,7 @@
   "title": "Canopy AKH 24",
   "url": "https://medcanonestop.com/medcan_product/canopy-akh-24/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:48:43.401925",
+  "last_updated": "2025-03-12T09:57:40.227078",
   "history": [
     {
       "title": "Canopy AKH 24",
@@ -210,6 +210,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:43.401925",
+      "url": "https://medcanonestop.com/medcan_product/canopy-akh-24/"
+    },
+    {
+      "title": "Canopy AKH 24",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.83,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:40.227078",
       "url": "https://medcanonestop.com/medcan_product/canopy-akh-24/"
     }
   ]

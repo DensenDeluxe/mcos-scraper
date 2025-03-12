@@ -217,7 +217,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:57.778117",
       "url": "https://medcanonestop.com/medcan_product/mgf-ab/"
+    },
+    {
+      "title": "MGF AB",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:22.252922",
+      "url": "https://medcanonestop.com/medcan_product/mgf-ab/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:57.778117"
+  "last_updated": "2025-03-12T09:58:22.252922"
 }

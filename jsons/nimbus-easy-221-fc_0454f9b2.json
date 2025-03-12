@@ -2,7 +2,7 @@
   "title": "Nimbus EASY 22/1 FC",
   "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-french-cookies/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:47:09.047275",
+  "last_updated": "2025-03-12T10:00:45.653522",
   "history": [
     {
       "title": "Nimbus EASY 22/1 FC",
@@ -200,6 +200,28 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:09.047275",
+      "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-french-cookies/"
+    },
+    {
+      "title": "Nimbus EASY 22/1 FC",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:45.653522",
       "url": "https://medcanonestop.com/medcan_product/nimbus-easy-22-1-french-cookies/"
     }
   ]

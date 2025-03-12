@@ -195,7 +195,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:49:05.091181",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-25-1-co-ku-kush-mints/"
+    },
+    {
+      "title": "Cannabis flos 25/1 CO Ku. Kush Mints",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/824.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:34.605137",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-25-1-co-ku-kush-mints/"
     }
   ],
-  "last_updated": "2025-03-12T04:49:05.091181"
+  "last_updated": "2025-03-12T10:00:34.605137"
 }

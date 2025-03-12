@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:19.907806",
       "url": "https://medcanonestop.com/medcan_product/cookies-26-1-md/"
+    },
+    {
+      "title": "Cookies 26/1 MD",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Medellin.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:06.873964",
+      "url": "https://medcanonestop.com/medcan_product/cookies-26-1-md/"
     }
   ],
-  "last_updated": "2025-03-12T04:48:19.907806"
+  "last_updated": "2025-03-12T09:56:06.873964"
 }

@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:45:00.289346",
       "url": "https://medcanonestop.com/medcan_product/pedanios-31-1-pnd-ca/"
+    },
+    {
+      "title": "Pedanios 31/1 PND CA",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.55,
+          "unit": "g"
+        },
+        "max": {
+          "value": 19.02,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Pedanios-27_1-PND-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:56.007172",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-31-1-pnd-ca/"
     }
   ],
-  "last_updated": "2025-03-12T04:45:00.289346"
+  "last_updated": "2025-03-12T09:58:56.007172"
 }

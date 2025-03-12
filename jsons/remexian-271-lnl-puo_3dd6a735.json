@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:46:16.221673",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-lnl-puo/"
+    },
+    {
+      "title": "Remexian 27/1 LNL PUO",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/7635.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:48.000757",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-lnl-puo/"
     }
   ],
-  "last_updated": "2025-03-12T04:46:16.221673"
+  "last_updated": "2025-03-12T09:59:48.000757"
 }

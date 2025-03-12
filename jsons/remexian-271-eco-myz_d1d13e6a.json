@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:48:12.095303",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-eco/"
+    },
+    {
+      "title": "Remexian 27/1 ECO MYZ",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.69,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.2,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/5317.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:57:02.336972",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-eco/"
     }
   ],
-  "last_updated": "2025-03-12T04:48:12.095303"
+  "last_updated": "2025-03-12T09:57:02.336972"
 }

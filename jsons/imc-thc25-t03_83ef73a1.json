@@ -2,7 +2,7 @@
   "title": "IMC THC25 T03",
   "url": "https://medcanonestop.com/medcan_product/imc-thc25-t03/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:44:33.067468",
+  "last_updated": "2025-03-12T10:00:21.839010",
   "history": [
     {
       "title": "IMC THC25 T03",
@@ -184,6 +184,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4730.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:33.067468",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc25-t03/"
+    },
+    {
+      "title": "IMC THC25 T03",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.0,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4730.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T10:00:21.839010",
       "url": "https://medcanonestop.com/medcan_product/imc-thc25-t03/"
     }
   ]

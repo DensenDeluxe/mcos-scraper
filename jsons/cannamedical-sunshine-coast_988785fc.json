@@ -239,7 +239,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:46:04.397167",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sunshine-coast/"
+    },
+    {
+      "title": "Cannamedical Sunshine Coast",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 13.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Eve.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:12.724877",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sunshine-coast/"
     }
   ],
-  "last_updated": "2025-03-12T04:46:04.397167"
+  "last_updated": "2025-03-12T09:58:12.724877"
 }

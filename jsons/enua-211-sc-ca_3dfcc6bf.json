@@ -283,7 +283,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:46:11.540454",
       "url": "https://medcanonestop.com/medcan_product/enua-21-1-sc-ca/"
+    },
+    {
+      "title": "enua 21/1 SC CA",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/802.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:19.328916",
+      "url": "https://medcanonestop.com/medcan_product/enua-21-1-sc-ca/"
     }
   ],
-  "last_updated": "2025-03-12T04:46:11.540454"
+  "last_updated": "2025-03-12T09:58:19.328916"
 }

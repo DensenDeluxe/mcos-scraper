@@ -2,7 +2,7 @@
   "title": "Demecan 22:01 FLORESTURA",
   "url": "https://medcanonestop.com/medcan_product/demecan-2201-florestura-super-haze-x-amnesia/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T04:47:36.419004",
+  "last_updated": "2025-03-12T09:56:41.346351",
   "history": [
     {
       "title": "Demecan 22:01 FLORESTURA",
@@ -236,6 +236,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/Blutenfoto_DEMECAN_Florestura_01.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:47:36.419004",
+      "url": "https://medcanonestop.com/medcan_product/demecan-2201-florestura-super-haze-x-amnesia/"
+    },
+    {
+      "title": "Demecan 22:01 FLORESTURA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 12.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.16,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/Blutenfoto_DEMECAN_Florestura_01.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:56:41.346351",
       "url": "https://medcanonestop.com/medcan_product/demecan-2201-florestura-super-haze-x-amnesia/"
     }
   ]

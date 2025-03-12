@@ -257,7 +257,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:46:56.357446",
       "url": "https://medcanonestop.com/medcan_product/somai-2525-mint/"
+    },
+    {
+      "title": "Somai 25:25 Mint",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.97,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.1,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Oil_16_9_Canymed_Mint_Bottle_Box_25-25.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:59:16.325914",
+      "url": "https://medcanonestop.com/medcan_product/somai-2525-mint/"
     }
   ],
-  "last_updated": "2025-03-12T04:46:56.357446"
+  "last_updated": "2025-03-12T09:59:16.325914"
 }

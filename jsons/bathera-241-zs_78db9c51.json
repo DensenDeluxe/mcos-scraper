@@ -231,7 +231,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T04:44:31.964184",
       "url": "https://medcanonestop.com/medcan_product/bathera-24-1-zs/"
+    },
+    {
+      "title": "Bathera 24/1 ZS",
+      "thc": {
+        "value": 22.55,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.09,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.09,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Z-SPlitter-1500px.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T09:58:27.963165",
+      "url": "https://medcanonestop.com/medcan_product/bathera-24-1-zs/"
     }
   ],
-  "last_updated": "2025-03-12T04:44:31.964184"
+  "last_updated": "2025-03-12T09:58:27.963165"
 }
