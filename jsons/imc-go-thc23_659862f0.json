@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:39.963882",
       "url": "https://medcanonestop.com/medcan_product/imc-go-thc23/"
+    },
+    {
+      "title": "IMC GO THC23",
+      "thc": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6064.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:48.838517",
+      "url": "https://medcanonestop.com/medcan_product/imc-go-thc23/"
     }
   ],
-  "last_updated": "2025-03-12T13:21:39.963882"
+  "last_updated": "2025-03-12T14:29:48.838517"
 }

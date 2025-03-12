@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:38.239303",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-nm-candyland/"
+    },
+    {
+      "title": "Cannamedical Sativa Forte NM CL",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 11.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 20.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/Candyland-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:32.493902",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-forte-nm-candyland/"
     }
   ],
-  "last_updated": "2025-03-12T13:22:38.239303"
+  "last_updated": "2025-03-12T14:30:32.493902"
 }

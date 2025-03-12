@@ -2,7 +2,7 @@
   "title": "Cannamedical Hybrid classic Waffle Cone #2",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-waffle-cone-2/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:20:45.040103",
+  "last_updated": "2025-03-12T14:28:52.294886",
   "history": [
     {
       "title": "Cannamedical Hybrid classic Waffle Cone #2",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:20:45.040103",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-waffle-cone-2/"
+    },
+    {
+      "title": "Cannamedical Hybrid classic Waffle Cone #2",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.43,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:28:52.294886",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-waffle-cone-2/"
     }
   ]

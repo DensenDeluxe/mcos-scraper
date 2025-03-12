@@ -2,7 +2,7 @@
   "title": "Weeco Duke 24/1",
   "url": "https://medcanonestop.com/medcan_product/weeco-duke-24-1-purple-rain/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:17:12.659771",
+  "last_updated": "2025-03-12T14:25:18.961043",
   "history": [
     {
       "title": "Weeco Duke 24/1",
@@ -392,6 +392,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/628.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:17:12.659771",
+      "url": "https://medcanonestop.com/medcan_product/weeco-duke-24-1-purple-rain/"
+    },
+    {
+      "title": "Weeco Duke 24/1",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.15,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/628.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:18.961043",
       "url": "https://medcanonestop.com/medcan_product/weeco-duke-24-1-purple-rain/"
     }
   ]

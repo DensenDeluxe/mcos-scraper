@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:04.608731",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-24-1-ls-ku-khanya-select/"
+    },
+    {
+      "title": "Cannabis flos 24/1 LS Ku. Khanya Select",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Khanya-Select.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:08.637104",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-24-1-ls-ku-khanya-select/"
     }
   ],
-  "last_updated": "2025-03-12T13:22:04.608731"
+  "last_updated": "2025-03-12T14:30:08.637104"
 }

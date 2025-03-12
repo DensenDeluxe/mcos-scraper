@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:25.295298",
       "url": "https://medcanonestop.com/medcan_product/27-1-amici-as-atomic-sour-grapefruit/"
+    },
+    {
+      "title": "27/1 Amici AS",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/AMICI_Atomic_Sour_Grapefruit.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:26.160240",
+      "url": "https://medcanonestop.com/medcan_product/27-1-amici-as-atomic-sour-grapefruit/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:25.295298"
+  "last_updated": "2025-03-12T14:26:26.160240"
 }

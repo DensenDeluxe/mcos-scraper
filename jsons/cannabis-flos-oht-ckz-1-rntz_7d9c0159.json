@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:03.325203",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-oht-ckz-1-rntz/"
+    },
+    {
+      "title": "Cannabis Flos OHT CKZ 1 RNTZ",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.73,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/OHT-CKZ-1-RNTZ.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:14.683656",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-oht-ckz-1-rntz/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:03.325203"
+  "last_updated": "2025-03-12T14:24:14.683656"
 }

@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:12.493412",
       "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-pc/"
+    },
+    {
+      "title": "madrecan 18/1 PUC",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3845.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:23.613031",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-18-1-pc/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:12.493412"
+  "last_updated": "2025-03-12T14:24:23.613031"
 }

@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:12.037508",
       "url": "https://medcanonestop.com/medcan_product/somai-canify-520/"
+    },
+    {
+      "title": "SOMAI CANIFY 5:20",
+      "thc": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 11.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Oral-Solution-5_20.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:19.994701",
+      "url": "https://medcanonestop.com/medcan_product/somai-canify-520/"
     }
   ],
-  "last_updated": "2025-03-12T13:21:12.037508"
+  "last_updated": "2025-03-12T14:29:19.994701"
 }

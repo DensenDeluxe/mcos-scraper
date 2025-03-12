@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:23.918214",
       "url": "https://medcanonestop.com/medcan_product/cm-20-1-og-kush/"
+    },
+    {
+      "title": "CM 20/1 OG Kush",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:33.832341",
+      "url": "https://medcanonestop.com/medcan_product/cm-20-1-og-kush/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:23.918214"
+  "last_updated": "2025-03-12T14:24:33.832341"
 }

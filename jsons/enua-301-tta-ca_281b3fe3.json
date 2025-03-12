@@ -2,7 +2,7 @@
   "title": "enua 30/1 TTA CA",
   "url": "https://medcanonestop.com/medcan_product/enua-30-1-tta-ca/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:22:30.563997",
+  "last_updated": "2025-03-12T14:30:25.445295",
   "history": [
     {
       "title": "enua 30/1 TTA CA",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4912.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:30.563997",
+      "url": "https://medcanonestop.com/medcan_product/enua-30-1-tta-ca/"
+    },
+    {
+      "title": "enua 30/1 TTA CA",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/4912.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:25.445295",
       "url": "https://medcanonestop.com/medcan_product/enua-30-1-tta-ca/"
     }
   ]

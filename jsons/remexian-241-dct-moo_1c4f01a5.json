@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:19:59.018152",
       "url": "https://medcanonestop.com/medcan_product/remexian-24-1-dct-moo/"
+    },
+    {
+      "title": "Remexian 24/1 DCT MOO",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.09,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:28:26.765665",
+      "url": "https://medcanonestop.com/medcan_product/remexian-24-1-dct-moo/"
     }
   ],
-  "last_updated": "2025-03-12T13:19:59.018152"
+  "last_updated": "2025-03-12T14:28:26.765665"
 }

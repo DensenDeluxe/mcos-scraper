@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:20.578472",
       "url": "https://medcanonestop.com/medcan_product/cannabistada-22-1-gorilla-glue/"
+    },
+    {
+      "title": "CannabiStada 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 13.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3436.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:21.460632",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-22-1-gorilla-glue/"
     }
   ],
-  "last_updated": "2025-03-12T13:22:20.578472"
+  "last_updated": "2025-03-12T14:30:21.460632"
 }

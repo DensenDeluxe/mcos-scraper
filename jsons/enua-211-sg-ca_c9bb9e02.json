@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:02.697033",
       "url": "https://medcanonestop.com/medcan_product/enua-21-1-sg-ca-sherbert-glue/"
+    },
+    {
+      "title": "enua 21/1 SG CA",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/SG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:13.221311",
+      "url": "https://medcanonestop.com/medcan_product/enua-21-1-sg-ca-sherbert-glue/"
     }
   ],
-  "last_updated": "2025-03-12T13:21:02.697033"
+  "last_updated": "2025-03-12T14:29:13.221311"
 }

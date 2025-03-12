@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:21.375966",
       "url": "https://medcanonestop.com/medcan_product/nice-18-1-cc/"
+    },
+    {
+      "title": "NICE 18/1 CC",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image001-2.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:21.083113",
+      "url": "https://medcanonestop.com/medcan_product/nice-18-1-cc/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:21.375966"
+  "last_updated": "2025-03-12T14:26:21.083113"
 }

@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:41.510576",
       "url": "https://medcanonestop.com/medcan_product/canngo-bc-17-1-oc/"
+    },
+    {
+      "title": "CannGo BC 17/1 OC",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:51.044276",
+      "url": "https://medcanonestop.com/medcan_product/canngo-bc-17-1-oc/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:41.510576"
+  "last_updated": "2025-03-12T14:24:51.044276"
 }

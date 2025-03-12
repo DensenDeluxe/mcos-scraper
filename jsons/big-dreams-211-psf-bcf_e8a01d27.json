@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:19:54.038348",
       "url": "https://medcanonestop.com/medcan_product/big-dreams-21-1-psf-bcf/"
+    },
+    {
+      "title": "Big Dreams 21/1 PSF BCF",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7761.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:27:56.895366",
+      "url": "https://medcanonestop.com/medcan_product/big-dreams-21-1-psf-bcf/"
     }
   ],
-  "last_updated": "2025-03-12T13:19:54.038348"
+  "last_updated": "2025-03-12T14:27:56.895366"
 }

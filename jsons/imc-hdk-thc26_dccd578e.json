@@ -2,7 +2,7 @@
   "title": "IMC HDK THC26",
   "url": "https://medcanonestop.com/medcan_product/imc-hdk-thc26/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:22:16.017898",
+  "last_updated": "2025-03-12T14:30:16.686891",
   "history": [
     {
       "title": "IMC HDK THC26",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:16.017898",
+      "url": "https://medcanonestop.com/medcan_product/imc-hdk-thc26/"
+    },
+    {
+      "title": "IMC HDK THC26",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:16.686891",
       "url": "https://medcanonestop.com/medcan_product/imc-hdk-thc26/"
     }
   ]

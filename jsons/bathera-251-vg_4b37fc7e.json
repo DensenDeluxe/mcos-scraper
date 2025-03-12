@@ -2,7 +2,7 @@
   "title": "Bathera 25/1 VG",
   "url": "https://medcanonestop.com/medcan_product/bathera-25-1-vg/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:16:23.251151",
+  "last_updated": "2025-03-12T14:24:32.479835",
   "history": [
     {
       "title": "Bathera 25/1 VG",
@@ -310,6 +310,28 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5829.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:23.251151",
+      "url": "https://medcanonestop.com/medcan_product/bathera-25-1-vg/"
+    },
+    {
+      "title": "Bathera 25/1 VG",
+      "thc": {
+        "value": 24.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/5829.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:32.479835",
       "url": "https://medcanonestop.com/medcan_product/bathera-25-1-vg/"
     }
   ]

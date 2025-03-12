@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:19.050768",
       "url": "https://medcanonestop.com/medcan_product/noc-ks-18/"
+    },
+    {
+      "title": "NOC KS 18",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:28.179485",
+      "url": "https://medcanonestop.com/medcan_product/noc-ks-18/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:19.050768"
+  "last_updated": "2025-03-12T14:24:28.179485"
 }

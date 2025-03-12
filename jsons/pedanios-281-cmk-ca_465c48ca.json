@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:17:03.022961",
       "url": "https://medcanonestop.com/medcan_product/pedanios-28-1-cmk-ca/"
+    },
+    {
+      "title": "Pedanios 28/1 CMK-CA",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/Pedanios_31-28_1_CMK-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:11.811901",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-28-1-cmk-ca/"
     }
   ],
-  "last_updated": "2025-03-12T13:17:03.022961"
+  "last_updated": "2025-03-12T14:25:11.811901"
 }

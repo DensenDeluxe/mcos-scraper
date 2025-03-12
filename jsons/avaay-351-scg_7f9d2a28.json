@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:46.383348",
       "url": "https://medcanonestop.com/medcan_product/avaay-35-1-scg/"
+    },
+    {
+      "title": "avaay 35/1 SCG",
+      "thc": {
+        "value": 35.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.75,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Super-Citra-G.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:52.747856",
+      "url": "https://medcanonestop.com/medcan_product/avaay-35-1-scg/"
     }
   ],
-  "last_updated": "2025-03-12T13:21:46.383348"
+  "last_updated": "2025-03-12T14:29:52.747856"
 }

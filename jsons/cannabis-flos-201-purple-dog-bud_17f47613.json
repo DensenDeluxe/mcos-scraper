@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:41.046111",
       "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-20-1-pdb-purple-dog-bud/"
+    },
+    {
+      "title": "Cannabis Flos 20/1 Purple Dog Bud",
+      "thc": {
+        "value": 20.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/PurpleDogBud-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:43.283942",
+      "url": "https://medcanonestop.com/medcan_product/canify-cannabis-flos-20-1-pdb-purple-dog-bud/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:41.046111"
+  "last_updated": "2025-03-12T14:26:43.283942"
 }

@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:17:02.528921",
       "url": "https://medcanonestop.com/medcan_product/peace-naturals-27-1-cb-cocoa-bomba/"
+    },
+    {
+      "title": "Peace Naturals 27/1 CB",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Cocoa_Bomba.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:10.772540",
+      "url": "https://medcanonestop.com/medcan_product/peace-naturals-27-1-cb-cocoa-bomba/"
     }
   ],
-  "last_updated": "2025-03-12T13:17:02.528921"
+  "last_updated": "2025-03-12T14:25:10.772540"
 }

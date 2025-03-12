@@ -327,7 +327,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:38.486437",
       "url": "https://medcanonestop.com/medcan_product/mccn-no-5-lemon-sour-diesel/"
+    },
+    {
+      "title": "MCCN NO. 5",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/MCCN-No.-5-Lemon-Sour-Diesel_.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:47.139837",
+      "url": "https://medcanonestop.com/medcan_product/mccn-no-5-lemon-sour-diesel/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:38.486437"
+  "last_updated": "2025-03-12T14:24:47.139837"
 }

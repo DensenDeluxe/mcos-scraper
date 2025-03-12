@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:49.240210",
       "url": "https://medcanonestop.com/medcan_product/adrex-20-kbn-col/"
+    },
+    {
+      "title": "Adrex 20 KBN COL",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:51.779484",
+      "url": "https://medcanonestop.com/medcan_product/adrex-20-kbn-col/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:49.240210"
+  "last_updated": "2025-03-12T14:26:51.779484"
 }

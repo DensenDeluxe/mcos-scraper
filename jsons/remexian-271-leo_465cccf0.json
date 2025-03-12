@@ -2,7 +2,7 @@
   "title": "Remexian 27/1 LEO",
   "url": "https://medcanonestop.com/medcan_product/remexian-27-1-leo/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:15:49.719089",
+  "last_updated": "2025-03-12T14:24:03.180175",
   "history": [
     {
       "title": "Remexian 27/1 LEO",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8448.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:15:49.719089",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-leo/"
+    },
+    {
+      "title": "Remexian 27/1 LEO",
+      "thc": {
+        "value": 24.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8448.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:03.180175",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-leo/"
     }
   ]

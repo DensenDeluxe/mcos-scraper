@@ -2,7 +2,7 @@
   "title": "Remexian 30/1 JUC",
   "url": "https://medcanonestop.com/medcan_product/remexian-30-1-juc/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:22:01.929442",
+  "last_updated": "2025-03-12T14:30:05.903545",
   "history": [
     {
       "title": "Remexian 30/1 JUC",
@@ -366,6 +366,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6115.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:01.929442",
+      "url": "https://medcanonestop.com/medcan_product/remexian-30-1-juc/"
+    },
+    {
+      "title": "Remexian 30/1 JUC",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 17.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6115.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:05.903545",
       "url": "https://medcanonestop.com/medcan_product/remexian-30-1-juc/"
     }
   ]

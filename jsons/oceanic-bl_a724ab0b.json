@@ -2,7 +2,7 @@
   "title": "Oceanic BL",
   "url": "https://medcanonestop.com/medcan_product/oceanic-bl/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:16:59.466063",
+  "last_updated": "2025-03-12T14:25:09.447690",
   "history": [
     {
       "title": "Oceanic BL",
@@ -392,6 +392,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/3531.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:59.466063",
+      "url": "https://medcanonestop.com/medcan_product/oceanic-bl/"
+    },
+    {
+      "title": "Oceanic BL",
+      "thc": {
+        "value": 23.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.6,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/3531.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:09.447690",
       "url": "https://medcanonestop.com/medcan_product/oceanic-bl/"
     }
   ]

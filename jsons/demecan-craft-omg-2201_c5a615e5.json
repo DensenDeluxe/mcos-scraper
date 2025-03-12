@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:50.129067",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-omg-2201/"
+    },
+    {
+      "title": "Demecan Craft OMG 22:01",
+      "thc": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.48,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/DEMECAN_Glitter-Pop-Bomb-01-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:00.726047",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-omg-2201/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:50.129067"
+  "last_updated": "2025-03-12T14:25:00.726047"
 }

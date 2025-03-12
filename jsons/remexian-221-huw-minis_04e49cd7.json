@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:20.844186",
       "url": "https://medcanonestop.com/medcan_product/remexian-22-1-huw-minis/"
+    },
+    {
+      "title": "Remexian 22/1 HUW Minis",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:21.643497",
+      "url": "https://medcanonestop.com/medcan_product/remexian-22-1-huw-minis/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:20.844186"
+  "last_updated": "2025-03-12T14:26:21.643497"
 }

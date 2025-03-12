@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:49.994835",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-afsc-ca/"
+    },
+    {
+      "title": "enua 22/1 AFSC CA",
+      "thc": {
+        "value": 23.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.28,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/enua_Freisteller_AFSC-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:53.820365",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-afsc-ca/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:49.994835"
+  "last_updated": "2025-03-12T14:26:53.820365"
 }

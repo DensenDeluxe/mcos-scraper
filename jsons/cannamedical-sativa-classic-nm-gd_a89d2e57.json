@@ -2,7 +2,7 @@
   "title": "Cannamedical Sativa classic NM GD",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-gelato-dream/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:22:14.486186",
+  "last_updated": "2025-03-12T14:30:15.874910",
   "history": [
     {
       "title": "Cannamedical Sativa classic NM GD",
@@ -366,6 +366,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gelato-Dream.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:14.486186",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-gelato-dream/"
+    },
+    {
+      "title": "Cannamedical Sativa classic NM GD",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.85,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.31,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gelato-Dream.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:15.874910",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-nm-gelato-dream/"
     }
   ]

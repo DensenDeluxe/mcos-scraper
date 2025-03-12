@@ -2,7 +2,7 @@
   "title": "Bathera 23/1 PM",
   "url": "https://medcanonestop.com/medcan_product/bathera-23-1-pm/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:19:01.242505",
+  "last_updated": "2025-03-12T14:27:02.836861",
   "history": [
     {
       "title": "Bathera 23/1 PM",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Bathera-24_1-PM.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:19:01.242505",
+      "url": "https://medcanonestop.com/medcan_product/bathera-23-1-pm/"
+    },
+    {
+      "title": "Bathera 23/1 PM",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Bathera-24_1-PM.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:27:02.836861",
       "url": "https://medcanonestop.com/medcan_product/bathera-23-1-pm/"
     }
   ]

@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:15:51.438339",
       "url": "https://medcanonestop.com/medcan_product/aurora-thc-25-extract-1/"
+    },
+    {
+      "title": "Aurora THC 25 Extract 1",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.0,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 11.35,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:05.044698",
+      "url": "https://medcanonestop.com/medcan_product/aurora-thc-25-extract-1/"
     }
   ],
-  "last_updated": "2025-03-12T13:15:51.438339"
+  "last_updated": "2025-03-12T14:24:05.044698"
 }

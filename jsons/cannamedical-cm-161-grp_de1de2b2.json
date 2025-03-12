@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:21.103287",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-16-1-grp-grapefruit-gift/"
+    },
+    {
+      "title": "Cannamedical CM 16/1 GRP",
+      "thc": {
+        "value": 16.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Grapefruit-Gift-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:30.295806",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-16-1-grp-grapefruit-gift/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:21.103287"
+  "last_updated": "2025-03-12T14:24:30.295806"
 }

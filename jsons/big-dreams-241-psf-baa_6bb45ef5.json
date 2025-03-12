@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:15:33.435638",
       "url": "https://medcanonestop.com/medcan_product/big-dreams-24-1-psf-baa/"
+    },
+    {
+      "title": "Big Dreams 24/1 PSF BAA",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7713.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:23:44.101065",
+      "url": "https://medcanonestop.com/medcan_product/big-dreams-24-1-psf-baa/"
     }
   ],
-  "last_updated": "2025-03-12T13:15:33.435638"
+  "last_updated": "2025-03-12T14:23:44.101065"
 }

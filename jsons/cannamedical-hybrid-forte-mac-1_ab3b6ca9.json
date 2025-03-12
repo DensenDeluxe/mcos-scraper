@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:17:20.050235",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-mac-1/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte Mac 1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/MAC1_3.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:28.898854",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-mac-1/"
     }
   ],
-  "last_updated": "2025-03-12T13:17:20.050235"
+  "last_updated": "2025-03-12T14:25:28.898854"
 }

@@ -413,7 +413,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:17:00.927413",
       "url": "https://medcanonestop.com/medcan_product/tyson-20-28-1-hh/"
+    },
+    {
+      "title": "TYSON 2,0 28/1 HH",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/haymaker.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:08.457814",
+      "url": "https://medcanonestop.com/medcan_product/tyson-20-28-1-hh/"
     }
   ],
-  "last_updated": "2025-03-12T13:17:00.927413"
+  "last_updated": "2025-03-12T14:25:08.457814"
 }

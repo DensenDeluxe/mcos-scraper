@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:39.165740",
       "url": "https://medcanonestop.com/medcan_product/peace-naturals-31-1-cb/"
+    },
+    {
+      "title": "Peace Naturals 31/1 CB",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Cocoa_Bomba.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:33.320655",
+      "url": "https://medcanonestop.com/medcan_product/peace-naturals-31-1-cb/"
     }
   ],
-  "last_updated": "2025-03-12T13:22:39.165740"
+  "last_updated": "2025-03-12T14:30:33.320655"
 }

@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:05.364698",
       "url": "https://medcanonestop.com/medcan_product/canopy-gdb-1-12-god-bud/"
+    },
+    {
+      "title": "Canopy GDB 12",
+      "thc": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/471.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:10.819168",
+      "url": "https://medcanonestop.com/medcan_product/canopy-gdb-1-12-god-bud/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:05.364698"
+  "last_updated": "2025-03-12T14:26:10.819168"
 }

@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:34.671951",
       "url": "https://medcanonestop.com/medcan_product/avant-24-1-ccr/"
+    },
+    {
+      "title": "Avant 24/1 CCR",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.59,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/8728.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:37.105486",
+      "url": "https://medcanonestop.com/medcan_product/avant-24-1-ccr/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:34.671951"
+  "last_updated": "2025-03-12T14:26:37.105486"
 }

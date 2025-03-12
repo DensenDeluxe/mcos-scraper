@@ -2,7 +2,7 @@
   "title": "Remexian 27/1 TRS",
   "url": "https://medcanonestop.com/medcan_product/remexian-27-1-trs/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:20:26.415796",
+  "last_updated": "2025-03-12T14:28:32.290446",
   "history": [
     {
       "title": "Remexian 27/1 TRS",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/7986.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:20:26.415796",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-trs/"
+    },
+    {
+      "title": "Remexian 27/1 TRS",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.46,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/7986.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:28:32.290446",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-trs/"
     }
   ]

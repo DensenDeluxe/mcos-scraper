@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:15:32.767833",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-psl/"
+    },
+    {
+      "title": "Remexian 27/1 PSL",
+      "thc": {
+        "value": 25.4,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.2,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/5306.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:23:45.302738",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-psl/"
     }
   ],
-  "last_updated": "2025-03-12T13:15:32.767833"
+  "last_updated": "2025-03-12T14:23:45.302738"
 }

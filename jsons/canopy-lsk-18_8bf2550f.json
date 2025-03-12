@@ -305,7 +305,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:53.364755",
       "url": "https://medcanonestop.com/medcan_product/canopy-lsk-18-1-lemon-skunk/"
+    },
+    {
+      "title": "Canopy LSK 18",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.9,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:55.818243",
+      "url": "https://medcanonestop.com/medcan_product/canopy-lsk-18-1-lemon-skunk/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:53.364755"
+  "last_updated": "2025-03-12T14:26:55.818243"
 }

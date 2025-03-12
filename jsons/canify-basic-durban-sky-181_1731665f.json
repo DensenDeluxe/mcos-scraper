@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:19:22.225863",
       "url": "https://medcanonestop.com/medcan_product/canify-basic-durban-sky-18-1/"
+    },
+    {
+      "title": "Canify Basic Durban Sky 18/1",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.48,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:27:23.766220",
+      "url": "https://medcanonestop.com/medcan_product/canify-basic-durban-sky-18-1/"
     }
   ],
-  "last_updated": "2025-03-12T13:19:22.225863"
+  "last_updated": "2025-03-12T14:27:23.766220"
 }

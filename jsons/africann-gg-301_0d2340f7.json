@@ -2,7 +2,7 @@
   "title": "Africann GG 30/1",
   "url": "https://medcanonestop.com/medcan_product/africann-gg-30-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:21:19.101708",
+  "last_updated": "2025-03-12T14:29:29.157612",
   "history": [
     {
       "title": "Africann GG 30/1",
@@ -288,6 +288,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/WeGrow_AfricannGG.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:19.101708",
+      "url": "https://medcanonestop.com/medcan_product/africann-gg-30-1/"
+    },
+    {
+      "title": "Africann GG 30/1",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.29,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/WeGrow_AfricannGG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:29.157612",
       "url": "https://medcanonestop.com/medcan_product/africann-gg-30-1/"
     }
   ]

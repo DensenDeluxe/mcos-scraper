@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:40.534134",
       "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-qsg/"
+    },
+    {
+      "title": "Wellford Aquaponic 26/1 QSG",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.89,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/30_1_QSG.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:49.644170",
+      "url": "https://medcanonestop.com/medcan_product/wellford-aquaponic-26-1-qsg/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:40.534134"
+  "last_updated": "2025-03-12T14:24:49.644170"
 }

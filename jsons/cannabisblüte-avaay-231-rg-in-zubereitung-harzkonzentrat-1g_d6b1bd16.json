@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:47.116343",
       "url": "https://medcanonestop.com/medcan_product/cannabisbluete-avaay-23-1-rg-in-zubereitung-harzkonzentrat-1g/"
+    },
+    {
+      "title": "Cannabisblüte avaay 23/1 RG in Zubereitung, Harzkonzentrat 1g",
+      "thc": {
+        "value": 710.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:47.874213",
+      "url": "https://medcanonestop.com/medcan_product/cannabisbluete-avaay-23-1-rg-in-zubereitung-harzkonzentrat-1g/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:47.116343"
+  "last_updated": "2025-03-12T14:26:47.874213"
 }

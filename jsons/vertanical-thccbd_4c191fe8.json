@@ -2,7 +2,7 @@
   "title": "Vertanical THC/CBD",
   "url": "https://medcanonestop.com/medcan_product/vertanical-thc50-cbd50/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:20:07.798587",
+  "last_updated": "2025-03-12T14:28:12.752855",
   "history": [
     {
       "title": "Vertanical THC/CBD",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:20:07.798587",
+      "url": "https://medcanonestop.com/medcan_product/vertanical-thc50-cbd50/"
+    },
+    {
+      "title": "Vertanical THC/CBD",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 15.47,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 21.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:28:12.752855",
       "url": "https://medcanonestop.com/medcan_product/vertanical-thc50-cbd50/"
     }
   ]

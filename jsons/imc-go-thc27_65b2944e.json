@@ -2,7 +2,7 @@
   "title": "IMC GO THC27",
   "url": "https://medcanonestop.com/medcan_product/imc-go-thc27/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:21:34.992977",
+  "last_updated": "2025-03-12T14:29:46.380978",
   "history": [
     {
       "title": "IMC GO THC27",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6064.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:34.992977",
+      "url": "https://medcanonestop.com/medcan_product/imc-go-thc27/"
+    },
+    {
+      "title": "IMC GO THC27",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6064.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:46.380978",
       "url": "https://medcanonestop.com/medcan_product/imc-go-thc27/"
     }
   ]

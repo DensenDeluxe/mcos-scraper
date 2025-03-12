@@ -2,7 +2,7 @@
   "title": "Cannamedical Indica classic URY DBF",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-ury-dawg-bud-fusion/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:22:45.553559",
+  "last_updated": "2025-03-12T14:30:39.664015",
   "history": [
     {
       "title": "Cannamedical Indica classic URY DBF",
@@ -314,6 +314,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion-1.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:45.553559",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-ury-dawg-bud-fusion/"
+    },
+    {
+      "title": "Cannamedical Indica classic URY DBF",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.14,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/02/Dawg-Bud-Fusion-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:39.664015",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-classic-ury-dawg-bud-fusion/"
     }
   ]

@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:09.214003",
       "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-pch-peach-chementine/"
+    },
+    {
+      "title": "420 Evolution 30/1 CA PCH",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.15,
+          "unit": "g"
+        },
+        "max": {
+          "value": 17.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Evolution_Peach-Chementine_PCH.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:10.340009",
+      "url": "https://medcanonestop.com/medcan_product/420-evolution-30-1-ca-pch-peach-chementine/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:09.214003"
+  "last_updated": "2025-03-12T14:26:10.340009"
 }

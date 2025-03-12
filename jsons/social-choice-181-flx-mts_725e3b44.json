@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:55.534646",
       "url": "https://medcanonestop.com/medcan_product/social-choice-18-1-flx-mts/"
+    },
+    {
+      "title": "Social Choice 18/1 FLX MTS",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 5.7,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/7557.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:59.065489",
+      "url": "https://medcanonestop.com/medcan_product/social-choice-18-1-flx-mts/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:55.534646"
+  "last_updated": "2025-03-12T14:26:59.065489"
 }

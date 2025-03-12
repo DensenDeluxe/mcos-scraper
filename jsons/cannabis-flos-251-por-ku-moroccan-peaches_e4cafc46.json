@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:26.002162",
       "url": "https://medcanonestop.com/medcan_product/cannabis-flos-25-1-por-ku-moroccan-peaches/"
+    },
+    {
+      "title": "Cannabis Flos 25/1 POR Ku. Moroccan Peaches",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.04,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/MarrocanPeaches.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:29.919060",
+      "url": "https://medcanonestop.com/medcan_product/cannabis-flos-25-1-por-ku-moroccan-peaches/"
     }
   ],
-  "last_updated": "2025-03-12T13:18:26.002162"
+  "last_updated": "2025-03-12T14:26:29.919060"
 }

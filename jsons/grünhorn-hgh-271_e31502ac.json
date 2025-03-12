@@ -2,7 +2,7 @@
   "title": "Grünhorn HGH 27/1",
   "url": "https://medcanonestop.com/medcan_product/gruenhorn-hgh-27-1-hgh/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:17:56.698961",
+  "last_updated": "2025-03-12T14:26:01.339773",
   "history": [
     {
       "title": "Grünhorn HGH 27/1",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/735.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:17:56.698961",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-hgh-27-1-hgh/"
+    },
+    {
+      "title": "Grünhorn HGH 27/1",
+      "thc": {
+        "value": 29.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/735.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:01.339773",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-hgh-27-1-hgh/"
     }
   ]

@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:31.351695",
       "url": "https://medcanonestop.com/medcan_product/bakerstreet/"
+    },
+    {
+      "title": "Canopy Bakerstreet 20",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:42.781904",
+      "url": "https://medcanonestop.com/medcan_product/bakerstreet/"
     }
   ],
-  "last_updated": "2025-03-12T13:21:31.351695"
+  "last_updated": "2025-03-12T14:29:42.781904"
 }

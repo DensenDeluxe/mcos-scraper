@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:58.105270",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-18-spotlight-porto-iss/"
+    },
+    {
+      "title": "TILRAY THC 18 Spotlight Porto ISS",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.19,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/430.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:03.922920",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-18-spotlight-porto-iss/"
     }
   ],
-  "last_updated": "2025-03-12T13:21:58.105270"
+  "last_updated": "2025-03-12T14:30:03.922920"
 }

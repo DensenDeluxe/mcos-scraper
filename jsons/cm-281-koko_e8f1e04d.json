@@ -283,7 +283,29 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:16:58.930340",
       "url": "https://medcanonestop.com/medcan_product/cm-28-1-koko/"
+    },
+    {
+      "title": "CM 28/1 Koko",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/IMG_5312-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:07.752558",
+      "url": "https://medcanonestop.com/medcan_product/cm-28-1-koko/"
     }
   ],
-  "last_updated": "2025-03-12T13:16:58.930340"
+  "last_updated": "2025-03-12T14:25:07.752558"
 }

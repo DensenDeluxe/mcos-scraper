@@ -2,7 +2,7 @@
   "title": "Roxton Air FC",
   "url": "https://medcanonestop.com/medcan_product/roxton-air-fc-frosted-cookies/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:18:43.477573",
+  "last_updated": "2025-03-12T14:26:45.800654",
   "history": [
     {
       "title": "Roxton Air FC",
@@ -340,6 +340,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Roxton-Air-FC-Frosted-Cookies.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:18:43.477573",
+      "url": "https://medcanonestop.com/medcan_product/roxton-air-fc-frosted-cookies/"
+    },
+    {
+      "title": "Roxton Air FC",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Roxton-Air-FC-Frosted-Cookies.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:26:45.800654",
       "url": "https://medcanonestop.com/medcan_product/roxton-air-fc-frosted-cookies/"
     }
   ]

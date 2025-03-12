@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:15:58.654654",
       "url": "https://medcanonestop.com/medcan_product/sinceritas-verum-24-1-kush-mints/"
+    },
+    {
+      "title": "Sinceritas Verum 24/1 Kush Mints",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.09,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:24:13.650763",
+      "url": "https://medcanonestop.com/medcan_product/sinceritas-verum-24-1-kush-mints/"
     }
   ],
-  "last_updated": "2025-03-12T13:15:58.654654"
+  "last_updated": "2025-03-12T14:24:13.650763"
 }

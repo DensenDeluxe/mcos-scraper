@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:22:25.817149",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-15-spotlight-porto-sd/"
+    },
+    {
+      "title": "TILRAY THC 15 Spotlight Porto SD",
+      "thc": {
+        "value": 15.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.12,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/415.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:30:23.086449",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-15-spotlight-porto-sd/"
     }
   ],
-  "last_updated": "2025-03-12T13:22:25.817149"
+  "last_updated": "2025-03-12T14:30:23.086449"
 }

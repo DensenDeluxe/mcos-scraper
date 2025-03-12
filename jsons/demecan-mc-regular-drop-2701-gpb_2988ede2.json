@@ -387,7 +387,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:20:30.924420",
       "url": "https://medcanonestop.com/medcan_product/mc-regular-drop-2701-gpb/"
+    },
+    {
+      "title": "Demecan MC Regular Drop 27:01 GPB",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.95,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/GPB_S.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:28:37.848211",
+      "url": "https://medcanonestop.com/medcan_product/mc-regular-drop-2701-gpb/"
     }
   ],
-  "last_updated": "2025-03-12T13:20:30.924420"
+  "last_updated": "2025-03-12T14:28:37.848211"
 }

@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:19:55.276066",
       "url": "https://medcanonestop.com/medcan_product/huala-20-1-ca-grf/"
+    },
+    {
+      "title": "HUALA 20/1 CA GRF",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8582.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:27:57.924624",
+      "url": "https://medcanonestop.com/medcan_product/huala-20-1-ca-grf/"
     }
   ],
-  "last_updated": "2025-03-12T13:19:55.276066"
+  "last_updated": "2025-03-12T14:27:57.924624"
 }

@@ -309,7 +309,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:19:32.320611",
       "url": "https://medcanonestop.com/medcan_product/avaay-5-1-thcv12/"
+    },
+    {
+      "title": "avaay 5/1 THCV12",
+      "thc": {
+        "value": 5.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.77,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.03,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:27:32.626053",
+      "url": "https://medcanonestop.com/medcan_product/avaay-5-1-thcv12/"
     }
   ],
-  "last_updated": "2025-03-12T13:19:32.320611"
+  "last_updated": "2025-03-12T14:27:32.626053"
 }

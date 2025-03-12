@@ -335,7 +335,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:17:19.423152",
       "url": "https://medcanonestop.com/medcan_product/demecan-typ-2-orange-velvet/"
+    },
+    {
+      "title": "Demecan Typ 2",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.29,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/395.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:25:27.796256",
+      "url": "https://medcanonestop.com/medcan_product/demecan-typ-2-orange-velvet/"
     }
   ],
-  "last_updated": "2025-03-12T13:17:19.423152"
+  "last_updated": "2025-03-12T14:25:27.796256"
 }

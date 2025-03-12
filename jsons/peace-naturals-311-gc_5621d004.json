@@ -361,7 +361,33 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:20:05.329528",
       "url": "https://medcanonestop.com/medcan_product/peace-naturals-31-1-gc-gmo-cookies/"
+    },
+    {
+      "title": "Peace Naturals 31/1 GC",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.73,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Peace-Naturals-GMO-Cookies-02.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:28:09.215899",
+      "url": "https://medcanonestop.com/medcan_product/peace-naturals-31-1-gc-gmo-cookies/"
     }
   ],
-  "last_updated": "2025-03-12T13:20:05.329528"
+  "last_updated": "2025-03-12T14:28:09.215899"
 }

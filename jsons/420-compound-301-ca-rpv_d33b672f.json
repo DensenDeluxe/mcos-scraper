@@ -2,7 +2,7 @@
   "title": "420 Compound 30/1 CA RPV",
   "url": "https://medcanonestop.com/medcan_product/420-compound-30-1-ca-rpv/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T13:21:49.871208",
+  "last_updated": "2025-03-12T14:29:56.957937",
   "history": [
     {
       "title": "420 Compound 30/1 CA RPV",
@@ -366,6 +366,32 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/8862.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T13:21:49.871208",
+      "url": "https://medcanonestop.com/medcan_product/420-compound-30-1-ca-rpv/"
+    },
+    {
+      "title": "420 Compound 30/1 CA RPV",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.79,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.59,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/8862.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T14:29:56.957937",
       "url": "https://medcanonestop.com/medcan_product/420-compound-30-1-ca-rpv/"
     }
   ]
