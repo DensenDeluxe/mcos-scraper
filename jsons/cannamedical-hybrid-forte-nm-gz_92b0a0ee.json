@@ -231,7 +231,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:27.688793",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-nm-gorilla-zkittlez/"
+    },
+    {
+      "title": "Cannamedical Hybrid Forte NM GZ",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gorilla-Zkittlez.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:14.847162",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-nm-gorilla-zkittlez/"
+    },
+    {
+      "title": "Cannamedical Hybrid Forte NM GZ",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.98,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Gorilla-Zkittlez.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:22.619318",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-nm-gorilla-zkittlez/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:27.688793"
+  "last_updated": "2025-03-12T04:48:22.619318"
 }

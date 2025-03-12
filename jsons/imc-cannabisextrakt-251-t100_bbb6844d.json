@@ -2,7 +2,7 @@
   "title": "IMC Cannabisextrakt 25:1 T100",
   "url": "https://medcanonestop.com/medcan_product/imc-251-t100/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:02.898739",
+  "last_updated": "2025-03-12T04:46:27.844324",
   "history": [
     {
       "title": "IMC Cannabisextrakt 25:1 T100",
@@ -132,6 +132,58 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:02.898739",
+      "url": "https://medcanonestop.com/medcan_product/imc-251-t100/"
+    },
+    {
+      "title": "IMC Cannabisextrakt 25:1 T100",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 2.79,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:26.389174",
+      "url": "https://medcanonestop.com/medcan_product/imc-251-t100/"
+    },
+    {
+      "title": "IMC Cannabisextrakt 25:1 T100",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 2.79,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:27.844324",
       "url": "https://medcanonestop.com/medcan_product/imc-251-t100/"
     }
   ]

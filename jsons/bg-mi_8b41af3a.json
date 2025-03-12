@@ -2,7 +2,7 @@
   "title": "BG MI",
   "url": "https://medcanonestop.com/medcan_product/bg-mi-god-bud/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:12.287459",
+  "last_updated": "2025-03-12T04:45:28.783442",
   "history": [
     {
       "title": "BG MI",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BG-MI.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:12.287459",
+      "url": "https://medcanonestop.com/medcan_product/bg-mi-god-bud/"
+    },
+    {
+      "title": "BG MI",
+      "thc": {
+        "value": 26.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BG-MI.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:30.856135",
+      "url": "https://medcanonestop.com/medcan_product/bg-mi-god-bud/"
+    },
+    {
+      "title": "BG MI",
+      "thc": {
+        "value": 26.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/BG-MI.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:28.783442",
       "url": "https://medcanonestop.com/medcan_product/bg-mi-god-bud/"
     }
   ]

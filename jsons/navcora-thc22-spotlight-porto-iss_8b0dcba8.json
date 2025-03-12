@@ -195,7 +195,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:51.411781",
       "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-island-sweet-skunk/"
+    },
+    {
+      "title": "NAVCORA THC22 Spotlight Porto ISS",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:44.086989",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-island-sweet-skunk/"
+    },
+    {
+      "title": "NAVCORA THC22 Spotlight Porto ISS",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:54.163283",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc-22-spotlight-porto-island-sweet-skunk/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:51.411781"
+  "last_updated": "2025-03-12T04:48:54.163283"
 }

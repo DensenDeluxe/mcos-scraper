@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:32.268788",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-crazy-rntz/"
+    },
+    {
+      "title": "Cannamedical Indica forte MA Crazy Rntz",
+      "thc": {
+        "value": 23.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.19,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Crazy-Rntz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:20.375257",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-crazy-rntz/"
+    },
+    {
+      "title": "Cannamedical Indica forte MA Crazy Rntz",
+      "thc": {
+        "value": 23.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.19,
+          "unit": "g"
+        },
+        "max": {
+          "value": 21.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Crazy-Rntz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:28.179206",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-indica-forte-ma-crazy-rntz/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:32.268788"
+  "last_updated": "2025-03-12T04:48:28.179206"
 }

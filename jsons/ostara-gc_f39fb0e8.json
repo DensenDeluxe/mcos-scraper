@@ -2,7 +2,7 @@
   "title": "Ostara GC",
   "url": "https://medcanonestop.com/medcan_product/ostara-gc-gas-cake/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:55.181742",
+  "last_updated": "2025-03-12T04:47:37.852999",
   "history": [
     {
       "title": "Ostara GC",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Ostara-GC-Gas-Cake.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:55.181742",
+      "url": "https://medcanonestop.com/medcan_product/ostara-gc-gas-cake/"
+    },
+    {
+      "title": "Ostara GC",
+      "thc": {
+        "value": 32.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.2,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Ostara-GC-Gas-Cake.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:33.631559",
+      "url": "https://medcanonestop.com/medcan_product/ostara-gc-gas-cake/"
+    },
+    {
+      "title": "Ostara GC",
+      "thc": {
+        "value": 32.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.2,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Ostara-GC-Gas-Cake.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:37.852999",
       "url": "https://medcanonestop.com/medcan_product/ostara-gc-gas-cake/"
     }
   ]

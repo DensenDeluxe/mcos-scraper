@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:41.714218",
       "url": "https://medcanonestop.com/medcan_product/mv-rbp/"
+    },
+    {
+      "title": "MV RBP",
+      "thc": {
+        "value": 26.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.29,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MV-RBP.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:31.738137",
+      "url": "https://medcanonestop.com/medcan_product/mv-rbp/"
+    },
+    {
+      "title": "MV RBP",
+      "thc": {
+        "value": 26.8,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 10.29,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MV-RBP.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:40.411916",
+      "url": "https://medcanonestop.com/medcan_product/mv-rbp/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:41.714218"
+  "last_updated": "2025-03-12T04:48:40.411916"
 }

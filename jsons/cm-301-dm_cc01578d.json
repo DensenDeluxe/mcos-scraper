@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:29.013602",
       "url": "https://medcanonestop.com/medcan_product/6868/"
+    },
+    {
+      "title": "CM 30/1 DM",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.31,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/6868.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:15.517249",
+      "url": "https://medcanonestop.com/medcan_product/6868/"
+    },
+    {
+      "title": "CM 30/1 DM",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.31,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/6868.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:24.144545",
+      "url": "https://medcanonestop.com/medcan_product/6868/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:29.013602"
+  "last_updated": "2025-03-12T04:48:24.144545"
 }

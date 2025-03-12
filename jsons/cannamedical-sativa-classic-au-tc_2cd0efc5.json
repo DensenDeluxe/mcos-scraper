@@ -2,7 +2,7 @@
   "title": "Cannamedical Sativa classic AU TC",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-tc/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:50.562642",
+  "last_updated": "2025-03-12T04:47:31.996173",
   "history": [
     {
       "title": "Cannamedical Sativa classic AU TC",
@@ -158,6 +158,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tangie-Chem-1.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:50.562642",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-tc/"
+    },
+    {
+      "title": "Cannamedical Sativa classic AU TC",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.18,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tangie-Chem-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:27.946396",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-tc/"
+    },
+    {
+      "title": "Cannamedical Sativa classic AU TC",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.18,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Tangie-Chem-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:31.996173",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-sativa-classic-tc/"
     }
   ]

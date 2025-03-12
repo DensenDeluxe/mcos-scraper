@@ -2,7 +2,7 @@
   "title": "Demecan GBH Strong Drop",
   "url": "https://medcanonestop.com/medcan_product/demecan-gbh-strong-drop/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:34:44.411092",
+  "last_updated": "2025-03-12T04:48:44.959493",
   "history": [
     {
       "title": "Demecan GBH Strong Drop",
@@ -134,6 +134,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/GrapeGasolime.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:44.411092",
+      "url": "https://medcanonestop.com/medcan_product/demecan-gbh-strong-drop/"
+    },
+    {
+      "title": "Demecan GBH Strong Drop",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/GrapeGasolime.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:35.174743",
+      "url": "https://medcanonestop.com/medcan_product/demecan-gbh-strong-drop/"
+    },
+    {
+      "title": "Demecan GBH Strong Drop",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/GrapeGasolime.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:44.959493",
       "url": "https://medcanonestop.com/medcan_product/demecan-gbh-strong-drop/"
     }
   ]

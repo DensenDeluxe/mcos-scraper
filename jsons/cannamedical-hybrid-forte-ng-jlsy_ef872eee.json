@@ -173,7 +173,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:10.158617",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ng-jealousy/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte NG JLSY",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Jealousy.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:35.558004",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ng-jealousy/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte NG JLSY",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 21.52,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Jealousy.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:36.796212",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ng-jealousy/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:10.158617"
+  "last_updated": "2025-03-12T04:46:36.796212"
 }

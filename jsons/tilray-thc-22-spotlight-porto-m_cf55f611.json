@@ -2,7 +2,7 @@
   "title": "TILRAY THC 22 Spotlight Porto M",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-mango/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:16.239680",
+  "last_updated": "2025-03-12T04:45:34.161476",
   "history": [
     {
       "title": "TILRAY THC 22 Spotlight Porto M",
@@ -178,6 +178,50 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:16.239680",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-mango/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto M",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:36.167077",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-mango/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto M",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.79,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:34.161476",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-mango/"
     }
   ]

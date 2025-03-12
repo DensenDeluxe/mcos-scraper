@@ -2,7 +2,7 @@
   "title": "Demecan MC Lean Drop",
   "url": "https://medcanonestop.com/medcan_product/demecan-mc-lean-drop/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:35:33.859945",
+  "last_updated": "2025-03-12T04:49:52.221271",
   "history": [
     {
       "title": "Demecan MC Lean Drop",
@@ -210,6 +210,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Banana-Marker.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:33.859945",
+      "url": "https://medcanonestop.com/medcan_product/demecan-mc-lean-drop/"
+    },
+    {
+      "title": "Demecan MC Lean Drop",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.65,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Banana-Marker.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:38.151618",
+      "url": "https://medcanonestop.com/medcan_product/demecan-mc-lean-drop/"
+    },
+    {
+      "title": "Demecan MC Lean Drop",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.65,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Banana-Marker.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:52.221271",
       "url": "https://medcanonestop.com/medcan_product/demecan-mc-lean-drop/"
     }
   ]

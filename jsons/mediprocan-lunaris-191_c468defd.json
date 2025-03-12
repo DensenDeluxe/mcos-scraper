@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:21.605656",
       "url": "https://medcanonestop.com/medcan_product/mediprocan-lunaris-19-1/"
+    },
+    {
+      "title": "mediproCan Lunaris 19/1",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.08,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/Medioprocan-Lunaris-19-1-Motor-Breath.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:50.729523",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-lunaris-19-1/"
+    },
+    {
+      "title": "mediproCan Lunaris 19/1",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.08,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/12/Medioprocan-Lunaris-19-1-Motor-Breath.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:53.123099",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-lunaris-19-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:21.605656"
+  "last_updated": "2025-03-12T04:46:53.123099"
 }

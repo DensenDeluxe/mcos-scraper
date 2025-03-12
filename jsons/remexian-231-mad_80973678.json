@@ -151,7 +151,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:57.669102",
       "url": "https://medcanonestop.com/medcan_product/remexian-23-1-mad/"
+    },
+    {
+      "title": "Remexian 23/1 MAD",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:12.974214",
+      "url": "https://medcanonestop.com/medcan_product/remexian-23-1-mad/"
+    },
+    {
+      "title": "Remexian 23/1 MAD",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:09.214015",
+      "url": "https://medcanonestop.com/medcan_product/remexian-23-1-mad/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:57.669102"
+  "last_updated": "2025-03-12T04:45:09.214015"
 }

@@ -2,7 +2,7 @@
   "title": "Demecan CRAFT zoerO 25:01",
   "url": "https://medcanonestop.com/medcan_product/demecan-craft-zoero-2501/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:02.131492",
+  "last_updated": "2025-03-12T04:45:15.414247",
   "history": [
     {
       "title": "Demecan CRAFT zoerO 25:01",
@@ -178,6 +178,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/Blutenfoto_DEMECAN_Craft-zoerO_03S96quQvJzok5c.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:02.131492",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-zoero-2501/"
+    },
+    {
+      "title": "Demecan CRAFT zoerO 25:01",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/Blutenfoto_DEMECAN_Craft-zoerO_03S96quQvJzok5c.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:19.060904",
+      "url": "https://medcanonestop.com/medcan_product/demecan-craft-zoero-2501/"
+    },
+    {
+      "title": "Demecan CRAFT zoerO 25:01",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/Blutenfoto_DEMECAN_Craft-zoerO_03S96quQvJzok5c.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:15.414247",
       "url": "https://medcanonestop.com/medcan_product/demecan-craft-zoero-2501/"
     }
   ]

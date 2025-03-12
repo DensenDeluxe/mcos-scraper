@@ -2,7 +2,7 @@
   "title": "Demecan MC Regular Drop 26/1 Gaschata",
   "url": "https://medcanonestop.com/medcan_product/demecan-mc-regular-drop-26-1-gaschata/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:42.328545",
+  "last_updated": "2025-03-12T04:44:50.351372",
   "history": [
     {
       "title": "Demecan MC Regular Drop 26/1 Gaschata",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:42.328545",
+      "url": "https://medcanonestop.com/medcan_product/demecan-mc-regular-drop-26-1-gaschata/"
+    },
+    {
+      "title": "Demecan MC Regular Drop 26/1 Gaschata",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:52.980661",
+      "url": "https://medcanonestop.com/medcan_product/demecan-mc-regular-drop-26-1-gaschata/"
+    },
+    {
+      "title": "Demecan MC Regular Drop 26/1 Gaschata",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:50.351372",
       "url": "https://medcanonestop.com/medcan_product/demecan-mc-regular-drop-26-1-gaschata/"
     }
   ]

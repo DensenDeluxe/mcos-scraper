@@ -2,7 +2,7 @@
   "title": "Cannamedical Hybrid classic Fullgas",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-fullgas/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:18.866786",
+  "last_updated": "2025-03-12T04:45:38.017004",
   "history": [
     {
       "title": "Cannamedical Hybrid classic Fullgas",
@@ -184,6 +184,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8344.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:18.866786",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-fullgas/"
+    },
+    {
+      "title": "Cannamedical Hybrid classic Fullgas",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.44,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.19,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8344.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:39.087925",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-fullgas/"
+    },
+    {
+      "title": "Cannamedical Hybrid classic Fullgas",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.44,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.19,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8344.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:38.017004",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-fullgas/"
     }
   ]

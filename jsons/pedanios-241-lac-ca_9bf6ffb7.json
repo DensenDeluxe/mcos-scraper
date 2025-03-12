@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:31.120428",
       "url": "https://medcanonestop.com/medcan_product/pedanios-24-1-lac-ca-la-confidential/"
+    },
+    {
+      "title": "Pedanios 24/1 LAC CA",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Pedanios-24_1-LAC-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:49.339988",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-24-1-lac-ca-la-confidential/"
+    },
+    {
+      "title": "Pedanios 24/1 LAC CA",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/Pedanios-24_1-LAC-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:48.841677",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-24-1-lac-ca-la-confidential/"
     }
   ],
-  "last_updated": "2025-03-12T02:32:31.120428"
+  "last_updated": "2025-03-12T04:45:48.841677"
 }

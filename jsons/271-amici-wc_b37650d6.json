@@ -151,7 +151,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:28.494955",
       "url": "https://medcanonestop.com/medcan_product/27-1-amici-wc-wedding-cake/"
+    },
+    {
+      "title": "27/1 Amici WC",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/AMICI-Wedding-Cake-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:58.541971",
+      "url": "https://medcanonestop.com/medcan_product/27-1-amici-wc-wedding-cake/"
+    },
+    {
+      "title": "27/1 Amici WC",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/AMICI-Wedding-Cake-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:01.867493",
+      "url": "https://medcanonestop.com/medcan_product/27-1-amici-wc-wedding-cake/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:28.494955"
+  "last_updated": "2025-03-12T04:47:01.867493"
 }

@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:10.862403",
       "url": "https://medcanonestop.com/medcan_product/imc-bd-thc25/"
+    },
+    {
+      "title": "IMC BD THC25",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:28.871189",
+      "url": "https://medcanonestop.com/medcan_product/imc-bd-thc25/"
+    },
+    {
+      "title": "IMC BD THC25",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:26.976948",
+      "url": "https://medcanonestop.com/medcan_product/imc-bd-thc25/"
     }
   ],
-  "last_updated": "2025-03-12T02:32:10.862403"
+  "last_updated": "2025-03-12T04:45:26.976948"
 }

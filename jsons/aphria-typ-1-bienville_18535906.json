@@ -231,7 +231,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:07.391508",
       "url": "https://medcanonestop.com/medcan_product/aphria-typ-1-bienville/"
+    },
+    {
+      "title": "Aphria Typ 1 Bienville",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.13,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:06.659402",
+      "url": "https://medcanonestop.com/medcan_product/aphria-typ-1-bienville/"
+    },
+    {
+      "title": "Aphria Typ 1 Bienville",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 14.13,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:02.958261",
+      "url": "https://medcanonestop.com/medcan_product/aphria-typ-1-bienville/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:07.391508"
+  "last_updated": "2025-03-12T04:44:02.958261"
 }

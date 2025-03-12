@@ -231,7 +231,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:26.030586",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-light-ury-wg/"
+    },
+    {
+      "title": "Cannamedical Hybrid Light URY WG",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/White-Gorilla.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:12.047714",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-light-ury-wg/"
+    },
+    {
+      "title": "Cannamedical Hybrid Light URY WG",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/White-Gorilla.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:19.524667",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-light-ury-wg/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:26.030586"
+  "last_updated": "2025-03-12T04:48:19.524667"
 }

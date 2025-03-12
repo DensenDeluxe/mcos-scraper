@@ -2,7 +2,7 @@
   "title": "AURORA TYP 1 ISS",
   "url": "https://medcanonestop.com/medcan_product/aurora-typ-1-island-sweet-skunk/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:36.705129",
+  "last_updated": "2025-03-12T04:47:13.346838",
   "history": [
     {
       "title": "AURORA TYP 1 ISS",
@@ -210,6 +210,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/428_1308.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:36.705129",
+      "url": "https://medcanonestop.com/medcan_product/aurora-typ-1-island-sweet-skunk/"
+    },
+    {
+      "title": "AURORA TYP 1 ISS",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.74,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/428_1308.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:10.359379",
+      "url": "https://medcanonestop.com/medcan_product/aurora-typ-1-island-sweet-skunk/"
+    },
+    {
+      "title": "AURORA TYP 1 ISS",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.74,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.8,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/428_1308.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:13.346838",
       "url": "https://medcanonestop.com/medcan_product/aurora-typ-1-island-sweet-skunk/"
     }
   ]

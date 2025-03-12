@@ -173,7 +173,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:00.647156",
       "url": "https://medcanonestop.com/medcan_product/navcora-thc18-spotlight-porto-p/"
+    },
+    {
+      "title": "Navcora THC18 Spotlight Porto P",
+      "thc": {
+        "value": 19.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:23.608287",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc18-spotlight-porto-p/"
+    },
+    {
+      "title": "Navcora THC18 Spotlight Porto P",
+      "thc": {
+        "value": 19.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/627.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:24.951763",
+      "url": "https://medcanonestop.com/medcan_product/navcora-thc18-spotlight-porto-p/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:00.647156"
+  "last_updated": "2025-03-12T04:46:24.951763"
 }

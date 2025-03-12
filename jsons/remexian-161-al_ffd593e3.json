@@ -2,7 +2,7 @@
   "title": "Remexian 16/1 AL",
   "url": "https://medcanonestop.com/medcan_product/remexian-16-1-al/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:34.548781",
+  "last_updated": "2025-03-12T04:47:10.899747",
   "history": [
     {
       "title": "Remexian 16/1 AL",
@@ -210,6 +210,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8641.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:34.548781",
+      "url": "https://medcanonestop.com/medcan_product/remexian-16-1-al/"
+    },
+    {
+      "title": "Remexian 16/1 AL",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.1,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8641.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:07.646545",
+      "url": "https://medcanonestop.com/medcan_product/remexian-16-1-al/"
+    },
+    {
+      "title": "Remexian 16/1 AL",
+      "thc": {
+        "value": 16.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.1,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8641.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:10.899747",
       "url": "https://medcanonestop.com/medcan_product/remexian-16-1-al/"
     }
   ]

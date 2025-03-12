@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:20.583908",
       "url": "https://medcanonestop.com/medcan_product/all-nations-gm-pt/"
+    },
+    {
+      "title": "All Nations GM PT",
+      "thc": {
+        "value": 27.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.47,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/All-Nations-GM-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:05.251801",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-gm-pt/"
+    },
+    {
+      "title": "All Nations GM PT",
+      "thc": {
+        "value": 27.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.47,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/All-Nations-GM-PT.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:12.476854",
+      "url": "https://medcanonestop.com/medcan_product/all-nations-gm-pt/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:20.583908"
+  "last_updated": "2025-03-12T04:48:12.476854"
 }

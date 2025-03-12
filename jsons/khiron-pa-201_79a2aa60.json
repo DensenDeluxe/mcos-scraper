@@ -195,7 +195,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:19.440364",
       "url": "https://medcanonestop.com/medcan_product/khiron-pa-20-1/"
+    },
+    {
+      "title": "Khiron PA 20/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Khiron-PA-20-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:20.173716",
+      "url": "https://medcanonestop.com/medcan_product/khiron-pa-20-1/"
+    },
+    {
+      "title": "Khiron PA 20/1",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 10.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/Khiron-PA-20-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:32.394044",
+      "url": "https://medcanonestop.com/medcan_product/khiron-pa-20-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:19.440364"
+  "last_updated": "2025-03-12T04:49:32.394044"
 }

@@ -2,7 +2,7 @@
   "title": "Cannamedical Hybrid Classic Mac 1",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-mac-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:50.109728",
+  "last_updated": "2025-03-12T04:44:59.828152",
   "history": [
     {
       "title": "Cannamedical Hybrid Classic Mac 1",
@@ -132,6 +132,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/MAC1.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:50.109728",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-mac-1/"
+    },
+    {
+      "title": "Cannamedical Hybrid Classic Mac 1",
+      "thc": {
+        "value": 18.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.25,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.2,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/MAC1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:03.126486",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-mac-1/"
+    },
+    {
+      "title": "Cannamedical Hybrid Classic Mac 1",
+      "thc": {
+        "value": 18.7,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.25,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.2,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/MAC1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:59.828152",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-classic-mac-1/"
     }
   ]

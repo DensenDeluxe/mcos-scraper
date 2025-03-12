@@ -257,7 +257,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:36.942577",
       "url": "https://medcanonestop.com/medcan_product/indimed-20-1-iss/"
+    },
+    {
+      "title": "IndiMed 20/1 ISS",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.12,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/IndiMed-20_1-ISS-DE_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:54.246643",
+      "url": "https://medcanonestop.com/medcan_product/indimed-20-1-iss/"
+    },
+    {
+      "title": "IndiMed 20/1 ISS",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.5,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.12,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/IndiMed-20_1-ISS-DE_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:52.791147",
+      "url": "https://medcanonestop.com/medcan_product/indimed-20-1-iss/"
     }
   ],
-  "last_updated": "2025-03-12T02:32:36.942577"
+  "last_updated": "2025-03-12T04:45:52.791147"
 }

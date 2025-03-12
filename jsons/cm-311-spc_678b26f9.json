@@ -2,7 +2,7 @@
   "title": "CM 31/1 SPC",
   "url": "https://medcanonestop.com/medcan_product/cm-31-1-spc/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:08.647690",
+  "last_updated": "2025-03-12T04:44:03.970902",
   "history": [
     {
       "title": "CM 31/1 SPC",
@@ -210,6 +210,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Space_Cake.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:08.647690",
+      "url": "https://medcanonestop.com/medcan_product/cm-31-1-spc/"
+    },
+    {
+      "title": "CM 31/1 SPC",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.15,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Space_Cake.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:33.207201",
+      "url": "https://medcanonestop.com/medcan_product/cm-31-1-spc/"
+    },
+    {
+      "title": "CM 31/1 SPC",
+      "thc": {
+        "value": 31.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.15,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/10/Peace_Naturals_Space_Cake.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:03.970902",
       "url": "https://medcanonestop.com/medcan_product/cm-31-1-spc/"
     }
   ]

@@ -153,7 +153,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:43.326552",
       "url": "https://medcanonestop.com/medcan_product/becanex-piex-2-70-thc-rohextrakt/"
+    },
+    {
+      "title": "Becanex PIEX 2 70% THC Rohextrakt",
+      "thc": {
+        "value": 700.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 110.0,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 120.0,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:50.477224",
+      "url": "https://medcanonestop.com/medcan_product/becanex-piex-2-70-thc-rohextrakt/"
+    },
+    {
+      "title": "Becanex PIEX 2 70% THC Rohextrakt",
+      "thc": {
+        "value": 700.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 110.0,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 120.0,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:50:05.718713",
+      "url": "https://medcanonestop.com/medcan_product/becanex-piex-2-70-thc-rohextrakt/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:43.326552"
+  "last_updated": "2025-03-12T04:50:05.718713"
 }

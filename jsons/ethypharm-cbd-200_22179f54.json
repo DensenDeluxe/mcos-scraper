@@ -2,7 +2,7 @@
   "title": "Ethypharm CBD 200",
   "url": "https://medcanonestop.com/medcan_product/ethypharm-cbd-200/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:34:00.485931",
+  "last_updated": "2025-03-12T04:47:44.523570",
   "history": [
     {
       "title": "Ethypharm CBD 200",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:00.485931",
+      "url": "https://medcanonestop.com/medcan_product/ethypharm-cbd-200/"
+    },
+    {
+      "title": "Ethypharm CBD 200",
+      "thc": {
+        "value": 5.7,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 190.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:39.854767",
+      "url": "https://medcanonestop.com/medcan_product/ethypharm-cbd-200/"
+    },
+    {
+      "title": "Ethypharm CBD 200",
+      "thc": {
+        "value": 5.7,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 190.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:44.523570",
       "url": "https://medcanonestop.com/medcan_product/ethypharm-cbd-200/"
     }
   ]

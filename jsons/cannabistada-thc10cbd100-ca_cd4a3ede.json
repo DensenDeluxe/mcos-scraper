@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:46.245700",
       "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd100-ca/"
+    },
+    {
+      "title": "Cannabistada THC10/CBD100 CA",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 100.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 38.78,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 62.05,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:37.841225",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd100-ca/"
+    },
+    {
+      "title": "Cannabistada THC10/CBD100 CA",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 100.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 38.78,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 62.05,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:47.494920",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-thc10-cbd100-ca/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:46.245700"
+  "last_updated": "2025-03-12T04:48:47.494920"
 }

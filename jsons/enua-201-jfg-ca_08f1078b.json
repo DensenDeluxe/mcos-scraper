@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:39.457419",
       "url": "https://medcanonestop.com/medcan_product/enua-20-1-jfg-ca/"
+    },
+    {
+      "title": "enua 20/1 JFG CA",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/686.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:49.041746",
+      "url": "https://medcanonestop.com/medcan_product/enua-20-1-jfg-ca/"
+    },
+    {
+      "title": "enua 20/1 JFG CA",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/686.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:46.422389",
+      "url": "https://medcanonestop.com/medcan_product/enua-20-1-jfg-ca/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:39.457419"
+  "last_updated": "2025-03-12T04:44:46.422389"
 }

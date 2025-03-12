@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:36.418233",
       "url": "https://medcanonestop.com/medcan_product/somai-501/"
+    },
+    {
+      "title": "Somai Hybrid 50:1",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.4,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/16_9_Oil_Alemanha_Bottle_50-1_Hybrid.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:08.962346",
+      "url": "https://medcanonestop.com/medcan_product/somai-501/"
+    },
+    {
+      "title": "Somai Hybrid 50:1",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.4,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/16_9_Oil_Alemanha_Bottle_50-1_Hybrid.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:13.043755",
+      "url": "https://medcanonestop.com/medcan_product/somai-501/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:36.418233"
+  "last_updated": "2025-03-12T04:47:13.043755"
 }

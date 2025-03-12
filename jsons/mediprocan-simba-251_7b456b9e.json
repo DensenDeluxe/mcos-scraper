@@ -2,7 +2,7 @@
   "title": "MediproCan Simba 25/1",
   "url": "https://medcanonestop.com/medcan_product/mediprocan-simba-25-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:35:30.110697",
+  "last_updated": "2025-03-12T04:49:46.829580",
   "history": [
     {
       "title": "MediproCan Simba 25/1",
@@ -158,6 +158,58 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:30.110697",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-simba-25-1/"
+    },
+    {
+      "title": "MediproCan Simba 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:33.832362",
+      "url": "https://medcanonestop.com/medcan_product/mediprocan-simba-25-1/"
+    },
+    {
+      "title": "MediproCan Simba 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:46.829580",
       "url": "https://medcanonestop.com/medcan_product/mediprocan-simba-25-1/"
     }
   ]

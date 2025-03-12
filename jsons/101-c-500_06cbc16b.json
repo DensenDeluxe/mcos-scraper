@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:19.726351",
       "url": "https://medcanonestop.com/medcan_product/101-c-500/"
+    },
+    {
+      "title": "101-C 50:0",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 12.9,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 16.19,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:21.555299",
+      "url": "https://medcanonestop.com/medcan_product/101-c-500/"
+    },
+    {
+      "title": "101-C 50:0",
+      "thc": {
+        "value": 50.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 12.9,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 16.19,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:34.156374",
+      "url": "https://medcanonestop.com/medcan_product/101-c-500/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:19.726351"
+  "last_updated": "2025-03-12T04:49:34.156374"
 }

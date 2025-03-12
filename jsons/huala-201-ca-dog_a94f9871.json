@@ -2,7 +2,7 @@
   "title": "HUALA 20/1 CA DOG",
   "url": "https://medcanonestop.com/medcan_product/huala-20-1-ca-dog/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:13.105075",
+  "last_updated": "2025-03-12T04:46:41.178500",
   "history": [
     {
       "title": "HUALA 20/1 CA DOG",
@@ -184,6 +184,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7764.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:13.105075",
+      "url": "https://medcanonestop.com/medcan_product/huala-20-1-ca-dog/"
+    },
+    {
+      "title": "HUALA 20/1 CA DOG",
+      "thc": {
+        "value": 19.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7764.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:39.694742",
+      "url": "https://medcanonestop.com/medcan_product/huala-20-1-ca-dog/"
+    },
+    {
+      "title": "HUALA 20/1 CA DOG",
+      "thc": {
+        "value": 19.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7764.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:41.178500",
       "url": "https://medcanonestop.com/medcan_product/huala-20-1-ca-dog/"
     }
   ]

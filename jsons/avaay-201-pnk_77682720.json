@@ -231,7 +231,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:59.796239",
       "url": "https://medcanonestop.com/medcan_product/__trashed/"
+    },
+    {
+      "title": "avaay 20/1 PNK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8489.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:15.971224",
+      "url": "https://medcanonestop.com/medcan_product/__trashed/"
+    },
+    {
+      "title": "avaay 20/1 PNK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/8489.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:12.421460",
+      "url": "https://medcanonestop.com/medcan_product/__trashed/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:59.796239"
+  "last_updated": "2025-03-12T04:45:12.421460"
 }

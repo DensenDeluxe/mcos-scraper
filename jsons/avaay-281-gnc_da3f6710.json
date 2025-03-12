@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:06.565753",
       "url": "https://medcanonestop.com/medcan_product/avaay-28-1-gnc/"
+    },
+    {
+      "title": "avaay 28/1 GNC",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:47.366435",
+      "url": "https://medcanonestop.com/medcan_product/avaay-28-1-gnc/"
+    },
+    {
+      "title": "avaay 28/1 GNC",
+      "thc": {
+        "value": 28.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:54.006383",
+      "url": "https://medcanonestop.com/medcan_product/avaay-28-1-gnc/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:06.565753"
+  "last_updated": "2025-03-12T04:47:54.006383"
 }

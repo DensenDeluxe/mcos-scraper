@@ -2,7 +2,7 @@
   "title": "IMC TB THC24",
   "url": "https://medcanonestop.com/medcan_product/imc-tb-thc24/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:39.344350",
+  "last_updated": "2025-03-12T04:47:16.547163",
   "history": [
     {
       "title": "IMC TB THC24",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6065.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:39.344350",
+      "url": "https://medcanonestop.com/medcan_product/imc-tb-thc24/"
+    },
+    {
+      "title": "IMC TB THC24",
+      "thc": {
+        "value": 23.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6065.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:14.115501",
+      "url": "https://medcanonestop.com/medcan_product/imc-tb-thc24/"
+    },
+    {
+      "title": "IMC TB THC24",
+      "thc": {
+        "value": 23.2,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/6065.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:16.547163",
       "url": "https://medcanonestop.com/medcan_product/imc-tb-thc24/"
     }
   ]

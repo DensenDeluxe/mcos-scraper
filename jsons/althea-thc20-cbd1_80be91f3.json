@@ -195,7 +195,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:43.115270",
       "url": "https://medcanonestop.com/medcan_product/althea-thc20-cbd1/"
+    },
+    {
+      "title": "Althea THC20: CBD1",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:17.760140",
+      "url": "https://medcanonestop.com/medcan_product/althea-thc20-cbd1/"
+    },
+    {
+      "title": "Althea THC20: CBD1",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:21.854022",
+      "url": "https://medcanonestop.com/medcan_product/althea-thc20-cbd1/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:43.115270"
+  "last_updated": "2025-03-12T04:47:21.854022"
 }

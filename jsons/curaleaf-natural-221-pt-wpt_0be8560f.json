@@ -173,7 +173,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:49.546919",
       "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-22-1-pt-wpt/"
+    },
+    {
+      "title": "Curaleaf Natural 22/1 PT WPT",
+      "thc": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6116.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:02.335852",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-22-1-pt-wpt/"
+    },
+    {
+      "title": "Curaleaf Natural 22/1 PT WPT",
+      "thc": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/07/6116.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:59.430981",
+      "url": "https://medcanonestop.com/medcan_product/curaleaf-natural-22-1-pt-wpt/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:49.546919"
+  "last_updated": "2025-03-12T04:44:59.430981"
 }

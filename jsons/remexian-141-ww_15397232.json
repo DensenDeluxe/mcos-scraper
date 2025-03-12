@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:04.120463",
       "url": "https://medcanonestop.com/medcan_product/remexian-14-1-white-widow/"
+    },
+    {
+      "title": "Remexian 14/1 WW",
+      "thc": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/805.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:44.266567",
+      "url": "https://medcanonestop.com/medcan_product/remexian-14-1-white-widow/"
+    },
+    {
+      "title": "Remexian 14/1 WW",
+      "thc": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.2,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/805.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:49.748620",
+      "url": "https://medcanonestop.com/medcan_product/remexian-14-1-white-widow/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:04.120463"
+  "last_updated": "2025-03-12T04:47:49.748620"
 }

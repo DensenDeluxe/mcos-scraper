@@ -2,7 +2,7 @@
   "title": "Supreme 18/1",
   "url": "https://medcanonestop.com/medcan_product/supreme-18-1-white-widow/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:34.200088",
+  "last_updated": "2025-03-12T04:44:39.923958",
   "history": [
     {
       "title": "Supreme 18/1",
@@ -132,6 +132,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/331.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:34.200088",
+      "url": "https://medcanonestop.com/medcan_product/supreme-18-1-white-widow/"
+    },
+    {
+      "title": "Supreme 18/1",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.38,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/331.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:43.351921",
+      "url": "https://medcanonestop.com/medcan_product/supreme-18-1-white-widow/"
+    },
+    {
+      "title": "Supreme 18/1",
+      "thc": {
+        "value": 18.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.38,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.23,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/331.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:39.923958",
       "url": "https://medcanonestop.com/medcan_product/supreme-18-1-white-widow/"
     }
   ]

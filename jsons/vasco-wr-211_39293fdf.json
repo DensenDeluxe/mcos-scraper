@@ -2,7 +2,7 @@
   "title": "Vasco WR 21/1",
   "url": "https://medcanonestop.com/medcan_product/vasco-wr-21-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:41.206766",
+  "last_updated": "2025-03-12T04:45:59.581842",
   "history": [
     {
       "title": "Vasco WR 21/1",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Vasco-WR-White-Runtz.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:41.206766",
+      "url": "https://medcanonestop.com/medcan_product/vasco-wr-21-1/"
+    },
+    {
+      "title": "Vasco WR 21/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Vasco-WR-White-Runtz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:00.837669",
+      "url": "https://medcanonestop.com/medcan_product/vasco-wr-21-1/"
+    },
+    {
+      "title": "Vasco WR 21/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 8.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/Vasco-WR-White-Runtz.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:59.581842",
       "url": "https://medcanonestop.com/medcan_product/vasco-wr-21-1/"
     }
   ]

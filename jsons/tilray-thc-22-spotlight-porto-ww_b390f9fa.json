@@ -2,7 +2,7 @@
   "title": "TILRAY THC 22 Spotlight Porto WW",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc22-spotlight-porto-white-widow/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:48.428399",
+  "last_updated": "2025-03-12T04:46:10.490150",
   "history": [
     {
       "title": "TILRAY THC 22 Spotlight Porto WW",
@@ -262,6 +262,58 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:48.428399",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc22-spotlight-porto-white-widow/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto WW",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.54,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.48,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:09.728673",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc22-spotlight-porto-white-widow/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto WW",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.54,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.48,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:10.490150",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc22-spotlight-porto-white-widow/"
     }
   ]

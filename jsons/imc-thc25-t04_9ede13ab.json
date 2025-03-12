@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:08.402549",
       "url": "https://medcanonestop.com/medcan_product/imc-thc25-t04-strawberry-og/"
+    },
+    {
+      "title": "IMC THC25 T04",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/302.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:09.465949",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc25-t04-strawberry-og/"
+    },
+    {
+      "title": "IMC THC25 T04",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/302.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:05.768351",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc25-t04-strawberry-og/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:08.402549"
+  "last_updated": "2025-03-12T04:44:05.768351"
 }

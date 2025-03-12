@@ -2,7 +2,7 @@
   "title": "Canopy Bakerstreet 22",
   "url": "https://medcanonestop.com/medcan_product/canopy-bakerstreet-22/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:00.917369",
+  "last_updated": "2025-03-12T04:46:25.941649",
   "history": [
     {
       "title": "Canopy Bakerstreet 22",
@@ -184,6 +184,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/6761.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:00.917369",
+      "url": "https://medcanonestop.com/medcan_product/canopy-bakerstreet-22/"
+    },
+    {
+      "title": "Canopy Bakerstreet 22",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/6761.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:48.442211",
+      "url": "https://medcanonestop.com/medcan_product/canopy-bakerstreet-22/"
+    },
+    {
+      "title": "Canopy Bakerstreet 22",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.3,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/6761.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:25.941649",
       "url": "https://medcanonestop.com/medcan_product/canopy-bakerstreet-22/"
     }
   ]

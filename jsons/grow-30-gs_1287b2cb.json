@@ -2,7 +2,7 @@
   "title": "GROW 30 GS",
   "url": "https://medcanonestop.com/medcan_product/grow-30-gs/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:34:23.029036",
+  "last_updated": "2025-03-12T04:48:13.952158",
   "history": [
     {
       "title": "GROW 30 GS",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/4390.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:23.029036",
+      "url": "https://medcanonestop.com/medcan_product/grow-30-gs/"
+    },
+    {
+      "title": "GROW 30 GS",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 17.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/4390.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:08.398804",
+      "url": "https://medcanonestop.com/medcan_product/grow-30-gs/"
+    },
+    {
+      "title": "GROW 30 GS",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 17.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/01/4390.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:13.952158",
       "url": "https://medcanonestop.com/medcan_product/grow-30-gs/"
     }
   ]

@@ -151,7 +151,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:45.511195",
       "url": "https://medcanonestop.com/medcan_product/imc-k4-thc27/"
+    },
+    {
+      "title": "IMC K4 THC27",
+      "thc": {
+        "value": 24.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6527_17112_67289c1353b36_20241102_083326.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:21.133849",
+      "url": "https://medcanonestop.com/medcan_product/imc-k4-thc27/"
+    },
+    {
+      "title": "IMC K4 THC27",
+      "thc": {
+        "value": 24.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/6527_17112_67289c1353b36_20241102_083326.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:25.019551",
+      "url": "https://medcanonestop.com/medcan_product/imc-k4-thc27/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:45.511195"
+  "last_updated": "2025-03-12T04:47:25.019551"
 }

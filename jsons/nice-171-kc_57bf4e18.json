@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:51.098111",
       "url": "https://medcanonestop.com/medcan_product/nice-17-1-kc/"
+    },
+    {
+      "title": "NICE 17/1 KC",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image003-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:43:00.162557",
+      "url": "https://medcanonestop.com/medcan_product/nice-17-1-kc/"
+    },
+    {
+      "title": "NICE 17/1 KC",
+      "thc": {
+        "value": 17.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/image003-1-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:50:16.328674",
+      "url": "https://medcanonestop.com/medcan_product/nice-17-1-kc/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:51.098111"
+  "last_updated": "2025-03-12T04:50:16.328674"
 }

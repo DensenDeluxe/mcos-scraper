@@ -2,7 +2,7 @@
   "title": "madrecan 24/1 DGV",
   "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-dgv/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:57.134910",
+  "last_updated": "2025-03-12T04:46:20.233638",
   "history": [
     {
       "title": "madrecan 24/1 DGV",
@@ -236,6 +236,58 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:57.134910",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-dgv/"
+    },
+    {
+      "title": "madrecan 24/1 DGV",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:19.249060",
+      "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-dgv/"
+    },
+    {
+      "title": "madrecan 24/1 DGV",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:20.233638",
       "url": "https://medcanonestop.com/medcan_product/madrecan-24-1-dgv/"
     }
   ]

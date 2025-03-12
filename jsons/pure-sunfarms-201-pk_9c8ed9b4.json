@@ -173,7 +173,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:14.827347",
       "url": "https://medcanonestop.com/medcan_product/pure-sunfarms-20-1-pink-kush/"
+    },
+    {
+      "title": "Pure Sunfarms 20/1 PK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:41.022217",
+      "url": "https://medcanonestop.com/medcan_product/pure-sunfarms-20-1-pink-kush/"
+    },
+    {
+      "title": "Pure Sunfarms 20/1 PK",
+      "thc": {
+        "value": 20.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.25,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:43.008817",
+      "url": "https://medcanonestop.com/medcan_product/pure-sunfarms-20-1-pink-kush/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:14.827347"
+  "last_updated": "2025-03-12T04:46:43.008817"
 }

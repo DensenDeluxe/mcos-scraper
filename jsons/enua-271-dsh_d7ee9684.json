@@ -2,7 +2,7 @@
   "title": "enua 27/1 DSH",
   "url": "https://medcanonestop.com/medcan_product/enua-27-1-dsh/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:56.114653",
+  "last_updated": "2025-03-12T04:45:08.082955",
   "history": [
     {
       "title": "enua 27/1 DSH",
@@ -158,6 +158,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3528.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:56.114653",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-dsh/"
+    },
+    {
+      "title": "enua 27/1 DSH",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3528.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:10.970583",
+      "url": "https://medcanonestop.com/medcan_product/enua-27-1-dsh/"
+    },
+    {
+      "title": "enua 27/1 DSH",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.7,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/3528.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:08.082955",
       "url": "https://medcanonestop.com/medcan_product/enua-27-1-dsh/"
     }
   ]

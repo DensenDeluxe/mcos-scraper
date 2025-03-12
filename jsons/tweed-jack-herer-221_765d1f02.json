@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:04.390340",
       "url": "https://medcanonestop.com/medcan_product/tweed-jack-herer-22-1/"
+    },
+    {
+      "title": "Tweed Jack Herer 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:44.615829",
+      "url": "https://medcanonestop.com/medcan_product/tweed-jack-herer-22-1/"
+    },
+    {
+      "title": "Tweed Jack Herer 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 5.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:50.694966",
+      "url": "https://medcanonestop.com/medcan_product/tweed-jack-herer-22-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:04.390340"
+  "last_updated": "2025-03-12T04:47:50.694966"
 }

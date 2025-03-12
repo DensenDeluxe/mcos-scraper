@@ -2,7 +2,7 @@
   "title": "TILRAY THC 22 Spotlight Porto R",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-rockstar/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:48.971837",
+  "last_updated": "2025-03-12T04:46:10.874204",
   "history": [
     {
       "title": "TILRAY THC 22 Spotlight Porto R",
@@ -184,6 +184,58 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:48.971837",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-rockstar/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto R",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.21,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:10.046995",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-rockstar/"
+    },
+    {
+      "title": "TILRAY THC 22 Spotlight Porto R",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 15.21,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:10.874204",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc-22-spotlight-porto-rockstar/"
     }
   ]

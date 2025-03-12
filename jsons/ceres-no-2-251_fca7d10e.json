@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:11.373240",
       "url": "https://medcanonestop.com/medcan_product/ceres-no-2-25-1/"
+    },
+    {
+      "title": "Ceres No. 2 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.48,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Ceres-No.-2-Slurricane-Mint.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:53.788070",
+      "url": "https://medcanonestop.com/medcan_product/ceres-no-2-25-1/"
+    },
+    {
+      "title": "Ceres No. 2 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.48,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Ceres-No.-2-Slurricane-Mint.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:00.572642",
+      "url": "https://medcanonestop.com/medcan_product/ceres-no-2-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:11.373240"
+  "last_updated": "2025-03-12T04:48:00.572642"
 }

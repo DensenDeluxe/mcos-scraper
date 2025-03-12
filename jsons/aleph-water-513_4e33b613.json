@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:03.222968",
       "url": "https://medcanonestop.com/medcan_product/aleph-water-5-13/"
+    },
+    {
+      "title": "aleph water 5/13",
+      "thc": {
+        "value": 5.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 13.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-water.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:59.877269",
+      "url": "https://medcanonestop.com/medcan_product/aleph-water-5-13/"
+    },
+    {
+      "title": "aleph water 5/13",
+      "thc": {
+        "value": 5.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 13.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/aleph-water.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:10.534714",
+      "url": "https://medcanonestop.com/medcan_product/aleph-water-5-13/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:03.222968"
+  "last_updated": "2025-03-12T04:49:10.534714"
 }

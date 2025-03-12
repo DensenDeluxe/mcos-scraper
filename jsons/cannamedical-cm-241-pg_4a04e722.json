@@ -173,7 +173,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:53.028361",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-24-1-pg-platinum-grapes/"
+    },
+    {
+      "title": "Cannamedical CM 24/1 PG",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Platinum-Grapes-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:43:03.688501",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-24-1-pg-platinum-grapes/"
+    },
+    {
+      "title": "Cannamedical CM 24/1 PG",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/04/Platinum-Grapes-1.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:50:19.649014",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-cm-24-1-pg-platinum-grapes/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:53.028361"
+  "last_updated": "2025-03-12T04:50:19.649014"
 }

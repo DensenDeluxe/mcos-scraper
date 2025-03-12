@@ -2,7 +2,7 @@
   "title": "TYSON 2,0 24/1 NYC Diesel",
   "url": "https://medcanonestop.com/medcan_product/tyson-2-24-1-nyc-diesel/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:15.100261",
+  "last_updated": "2025-03-12T04:46:43.725311",
   "history": [
     {
       "title": "TYSON 2,0 24/1 NYC Diesel",
@@ -210,6 +210,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Tyson-NY-Diesel.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:15.100261",
+      "url": "https://medcanonestop.com/medcan_product/tyson-2-24-1-nyc-diesel/"
+    },
+    {
+      "title": "TYSON 2,0 24/1 NYC Diesel",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Tyson-NY-Diesel.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:42.441733",
+      "url": "https://medcanonestop.com/medcan_product/tyson-2-24-1-nyc-diesel/"
+    },
+    {
+      "title": "TYSON 2,0 24/1 NYC Diesel",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.29,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Tyson-NY-Diesel.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:43.725311",
       "url": "https://medcanonestop.com/medcan_product/tyson-2-24-1-nyc-diesel/"
     }
   ]

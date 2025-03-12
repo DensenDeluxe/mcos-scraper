@@ -2,7 +2,7 @@
   "title": "MGF CD 22/1",
   "url": "https://medcanonestop.com/medcan_product/mgf-cd-22-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:33:27.442131",
+  "last_updated": "2025-03-12T04:47:01.215526",
   "history": [
     {
       "title": "MGF CD 22/1",
@@ -156,6 +156,50 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:27.442131",
+      "url": "https://medcanonestop.com/medcan_product/mgf-cd-22-1/"
+    },
+    {
+      "title": "MGF CD 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:58.205932",
+      "url": "https://medcanonestop.com/medcan_product/mgf-cd-22-1/"
+    },
+    {
+      "title": "MGF CD 22/1",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 7.15,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:01.215526",
       "url": "https://medcanonestop.com/medcan_product/mgf-cd-22-1/"
     }
   ]

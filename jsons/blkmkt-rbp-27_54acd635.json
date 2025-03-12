@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:28.710539",
       "url": "https://medcanonestop.com/medcan_product/blkmkt-rbp-27/"
+    },
+    {
+      "title": "BLKMKT RBP 27",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7948.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:16.578625",
+      "url": "https://medcanonestop.com/medcan_product/blkmkt-rbp-27/"
+    },
+    {
+      "title": "BLKMKT RBP 27",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7948.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:23.335856",
+      "url": "https://medcanonestop.com/medcan_product/blkmkt-rbp-27/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:28.710539"
+  "last_updated": "2025-03-12T04:48:23.335856"
 }

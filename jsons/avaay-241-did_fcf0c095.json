@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:04.802349",
       "url": "https://medcanonestop.com/medcan_product/avaay-24-1-did-do-si-dos/"
+    },
+    {
+      "title": "avaay 24/1 DID",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/DiD_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:21.910021",
+      "url": "https://medcanonestop.com/medcan_product/avaay-24-1-did-do-si-dos/"
+    },
+    {
+      "title": "avaay 24/1 DID",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 12.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/DiD_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:18.632534",
+      "url": "https://medcanonestop.com/medcan_product/avaay-24-1-did-do-si-dos/"
     }
   ],
-  "last_updated": "2025-03-12T02:32:04.802349"
+  "last_updated": "2025-03-12T04:45:18.632534"
 }

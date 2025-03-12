@@ -2,7 +2,7 @@
   "title": "Stratus Indica 3",
   "url": "https://medcanonestop.com/medcan_product/stratus-indica-3/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:28.693595",
+  "last_updated": "2025-03-12T04:44:32.651289",
   "history": [
     {
       "title": "Stratus Indica 3",
@@ -178,6 +178,50 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Stratus-Indica-3.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:28.693595",
+      "url": "https://medcanonestop.com/medcan_product/stratus-indica-3/"
+    },
+    {
+      "title": "Stratus Indica 3",
+      "thc": {
+        "value": 19.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Stratus-Indica-3.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:36.805021",
+      "url": "https://medcanonestop.com/medcan_product/stratus-indica-3/"
+    },
+    {
+      "title": "Stratus Indica 3",
+      "thc": {
+        "value": 19.9,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 0.1,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/06/Stratus-Indica-3.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:32.651289",
       "url": "https://medcanonestop.com/medcan_product/stratus-indica-3/"
     }
   ]

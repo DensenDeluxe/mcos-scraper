@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:04.701463",
       "url": "https://medcanonestop.com/medcan_product/remexian-27-1-crx-gmo-breath/"
+    },
+    {
+      "title": "Remexian 27/1 CRX GMO Breath",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:02.332922",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-crx-gmo-breath/"
+    },
+    {
+      "title": "Remexian 27/1 CRX GMO Breath",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.95,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:43:58.622813",
+      "url": "https://medcanonestop.com/medcan_product/remexian-27-1-crx-gmo-breath/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:04.701463"
+  "last_updated": "2025-03-12T04:43:58.622813"
 }

@@ -173,7 +173,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:18.969875",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ury-wg/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte URY WG",
+      "thc": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/White-Gorilla.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:20.855068",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ury-wg/"
+    },
+    {
+      "title": "Cannamedical Hybrid forte URY WG",
+      "thc": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 11.9,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/White-Gorilla.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:32.010980",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-forte-ury-wg/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:18.969875"
+  "last_updated": "2025-03-12T04:49:32.010980"
 }

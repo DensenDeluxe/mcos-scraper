@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:52.170792",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-afsc-ca/"
+    },
+    {
+      "title": "enua 25/1 AFSC CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.65,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/enua_Freisteller_AFSC-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:30.410971",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-afsc-ca/"
+    },
+    {
+      "title": "enua 25/1 AFSC CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.65,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/11/enua_Freisteller_AFSC-1.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:33.813383",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-afsc-ca/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:52.170792"
+  "last_updated": "2025-03-12T04:47:33.813383"
 }

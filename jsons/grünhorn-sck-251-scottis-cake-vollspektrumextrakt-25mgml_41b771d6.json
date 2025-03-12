@@ -173,7 +173,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:52.470804",
       "url": "https://medcanonestop.com/medcan_product/gruenhorn-sck-25-1-scottis-cake-vollspektrumextrakt-25mg-ml/"
+    },
+    {
+      "title": "Grünhorn SCK 25/1: Scotti´s Cake Vollspektrumextrakt 25mg/ml",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 3.96,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:43:02.642135",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-sck-25-1-scottis-cake-vollspektrumextrakt-25mg-ml/"
+    },
+    {
+      "title": "Grünhorn SCK 25/1: Scotti´s Cake Vollspektrumextrakt 25mg/ml",
+      "thc": {
+        "value": 25.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "mg"
+      },
+      "price": {
+        "value": {
+          "value": 3.96,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:50:17.790104",
+      "url": "https://medcanonestop.com/medcan_product/gruenhorn-sck-25-1-scottis-cake-vollspektrumextrakt-25mg-ml/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:52.470804"
+  "last_updated": "2025-03-12T04:50:17.790104"
 }

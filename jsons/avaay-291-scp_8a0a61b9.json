@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:44.362708",
       "url": "https://medcanonestop.com/medcan_product/avaay-29-1-scp/"
+    },
+    {
+      "title": "avaay 29/1 SCP",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7938.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:51.904762",
+      "url": "https://medcanonestop.com/medcan_product/avaay-29-1-scp/"
+    },
+    {
+      "title": "avaay 29/1 SCP",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 9.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/7938.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:50:06.880329",
+      "url": "https://medcanonestop.com/medcan_product/avaay-29-1-scp/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:44.362708"
+  "last_updated": "2025-03-12T04:50:06.880329"
 }

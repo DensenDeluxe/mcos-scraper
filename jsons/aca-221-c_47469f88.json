@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:02.604222",
       "url": "https://medcanonestop.com/medcan_product/aca-22-1-c/"
+    },
+    {
+      "title": "ACA 22/1 C",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.06,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.26,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:26.686316",
+      "url": "https://medcanonestop.com/medcan_product/aca-22-1-c/"
+    },
+    {
+      "title": "ACA 22/1 C",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.06,
+          "unit": "g"
+        },
+        "max": {
+          "value": 7.26,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:28.084189",
+      "url": "https://medcanonestop.com/medcan_product/aca-22-1-c/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:02.604222"
+  "last_updated": "2025-03-12T04:46:28.084189"
 }

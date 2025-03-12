@@ -195,7 +195,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:24.151105",
       "url": "https://medcanonestop.com/medcan_product/bathera-28-1-velvet-glove/"
+    },
+    {
+      "title": "Bathera 28/1 Velvet Glove",
+      "thc": {
+        "value": 29.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Bathera-Velvet-Glove.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:26.765841",
+      "url": "https://medcanonestop.com/medcan_product/bathera-28-1-velvet-glove/"
+    },
+    {
+      "title": "Bathera 28/1 Velvet Glove",
+      "thc": {
+        "value": 29.1,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/08/Bathera-Velvet-Glove.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:39.107240",
+      "url": "https://medcanonestop.com/medcan_product/bathera-28-1-velvet-glove/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:24.151105"
+  "last_updated": "2025-03-12T04:49:39.107240"
 }

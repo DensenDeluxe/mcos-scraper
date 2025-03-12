@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:37.505680",
       "url": "https://medcanonestop.com/medcan_product/avextra-10-10/"
+    },
+    {
+      "title": "Avextra 10/10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.6,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.97,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:11.743555",
+      "url": "https://medcanonestop.com/medcan_product/avextra-10-10/"
+    },
+    {
+      "title": "Avextra 10/10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 3.6,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 7.97,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/extract-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:15.163532",
+      "url": "https://medcanonestop.com/medcan_product/avextra-10-10/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:37.505680"
+  "last_updated": "2025-03-12T04:47:15.163532"
 }

@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:24.947237",
       "url": "https://medcanonestop.com/medcan_product/cnbs-frf-21-1/"
+    },
+    {
+      "title": "CNBS FRF 21/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8428.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:11.370943",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-frf-21-1/"
+    },
+    {
+      "title": "CNBS FRF 21/1",
+      "thc": {
+        "value": 21.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 11.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8428.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:18.358768",
+      "url": "https://medcanonestop.com/medcan_product/cnbs-frf-21-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:24.947237"
+  "last_updated": "2025-03-12T04:48:18.358768"
 }

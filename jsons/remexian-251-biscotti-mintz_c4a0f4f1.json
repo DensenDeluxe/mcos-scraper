@@ -2,7 +2,7 @@
   "title": "Remexian 25/1 Biscotti Mintz",
   "url": "https://medcanonestop.com/medcan_product/remexian-25-1-biscotti-mintz/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:57.156465",
+  "last_updated": "2025-03-12T04:45:08.896861",
   "history": [
     {
       "title": "Remexian 25/1 Biscotti Mintz",
@@ -184,6 +184,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8481.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:57.156465",
+      "url": "https://medcanonestop.com/medcan_product/remexian-25-1-biscotti-mintz/"
+    },
+    {
+      "title": "Remexian 25/1 Biscotti Mintz",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8481.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:12.008020",
+      "url": "https://medcanonestop.com/medcan_product/remexian-25-1-biscotti-mintz/"
+    },
+    {
+      "title": "Remexian 25/1 Biscotti Mintz",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.65,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.98,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8481.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:08.896861",
       "url": "https://medcanonestop.com/medcan_product/remexian-25-1-biscotti-mintz/"
     }
   ]

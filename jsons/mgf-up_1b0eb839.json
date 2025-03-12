@@ -2,7 +2,7 @@
   "title": "MGF UP",
   "url": "https://medcanonestop.com/medcan_product/mgf-up/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:35:41.154616",
+  "last_updated": "2025-03-12T04:50:01.917789",
   "history": [
     {
       "title": "MGF UP",
@@ -200,6 +200,50 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:41.154616",
+      "url": "https://medcanonestop.com/medcan_product/mgf-up/"
+    },
+    {
+      "title": "MGF UP",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:47.658155",
+      "url": "https://medcanonestop.com/medcan_product/mgf-up/"
+    },
+    {
+      "title": "MGF UP",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:50:01.917789",
       "url": "https://medcanonestop.com/medcan_product/mgf-up/"
     }
   ]

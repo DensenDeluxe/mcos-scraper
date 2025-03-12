@@ -2,7 +2,7 @@
   "title": "Cannamedical Cannabisextrakt THC5:CBD20",
   "url": "https://medcanonestop.com/medcan_product/cannamedical-thc5cbd20/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:34:16.803275",
+  "last_updated": "2025-03-12T04:48:06.906561",
   "history": [
     {
       "title": "Cannamedical Cannabisextrakt THC5:CBD20",
@@ -210,6 +210,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC5_CBD20.jpg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:16.803275",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc5cbd20/"
+    },
+    {
+      "title": "Cannamedical Cannabisextrakt THC5:CBD20",
+      "thc": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 1.97,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC5_CBD20.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:00.803384",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-thc5cbd20/"
+    },
+    {
+      "title": "Cannamedical Cannabisextrakt THC5:CBD20",
+      "thc": {
+        "value": 5.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 1.97,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 10.5,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/Cannamedical-Cannabisextrakt-THC5_CBD20.jpg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:06.906561",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-thc5cbd20/"
     }
   ]

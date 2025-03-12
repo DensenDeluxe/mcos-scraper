@@ -195,7 +195,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:24.347010",
       "url": "https://medcanonestop.com/medcan_product/mecann-19-1-jack-herer/"
+    },
+    {
+      "title": "MeCann 19/1 Jack Herer",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:31.602704",
+      "url": "https://medcanonestop.com/medcan_product/mecann-19-1-jack-herer/"
+    },
+    {
+      "title": "MeCann 19/1 Jack Herer",
+      "thc": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 6.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:26.997054",
+      "url": "https://medcanonestop.com/medcan_product/mecann-19-1-jack-herer/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:24.347010"
+  "last_updated": "2025-03-12T04:44:26.997054"
 }

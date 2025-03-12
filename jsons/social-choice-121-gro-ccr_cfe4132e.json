@@ -2,7 +2,7 @@
   "title": "Social Choice 12/1 GRO CCR",
   "url": "https://medcanonestop.com/medcan_product/social-choice-12-1-gro-ccr/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:32:07.002278",
+  "last_updated": "2025-03-12T04:45:22.284706",
   "history": [
     {
       "title": "Social Choice 12/1 GRO CCR",
@@ -158,6 +158,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8010.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:07.002278",
+      "url": "https://medcanonestop.com/medcan_product/social-choice-12-1-gro-ccr/"
+    },
+    {
+      "title": "Social Choice 12/1 GRO CCR",
+      "thc": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.09,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8010.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:49.005256",
+      "url": "https://medcanonestop.com/medcan_product/social-choice-12-1-gro-ccr/"
+    },
+    {
+      "title": "Social Choice 12/1 GRO CCR",
+      "thc": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.09,
+          "unit": "g"
+        },
+        "max": {
+          "value": 6.0,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/02/8010.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:22.284706",
       "url": "https://medcanonestop.com/medcan_product/social-choice-12-1-gro-ccr/"
     }
   ]

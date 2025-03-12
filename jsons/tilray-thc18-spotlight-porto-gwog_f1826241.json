@@ -2,7 +2,7 @@
   "title": "Tilray THC18 Spotlight Porto GWOG",
   "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gwog/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:34:03.576632",
+  "last_updated": "2025-03-12T04:47:48.928420",
   "history": [
     {
       "title": "Tilray THC18 Spotlight Porto GWOG",
@@ -158,6 +158,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2263.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:03.576632",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gwog/"
+    },
+    {
+      "title": "Tilray THC18 Spotlight Porto GWOG",
+      "thc": {
+        "value": 17.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.19,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2263.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:43.918252",
+      "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gwog/"
+    },
+    {
+      "title": "Tilray THC18 Spotlight Porto GWOG",
+      "thc": {
+        "value": 17.5,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 4.9,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.19,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/2263.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:48.928420",
       "url": "https://medcanonestop.com/medcan_product/tilray-thc18-spotlight-porto-gwog/"
     }
   ]

@@ -231,7 +231,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:37.941211",
       "url": "https://medcanonestop.com/medcan_product/bc-green-sck-25-1/"
+    },
+    {
+      "title": "BC Green SCK 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3402.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:47.267064",
+      "url": "https://medcanonestop.com/medcan_product/bc-green-sck-25-1/"
+    },
+    {
+      "title": "BC Green SCK 25/1",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3402.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:44.211301",
+      "url": "https://medcanonestop.com/medcan_product/bc-green-sck-25-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:31:37.941211"
+  "last_updated": "2025-03-12T04:44:44.211301"
 }

@@ -231,7 +231,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:19.231892",
       "url": "https://medcanonestop.com/medcan_product/buuo-beat-26-1-chem-de-la-chem/"
+    },
+    {
+      "title": "Buuo Beat 26/1 Chem de la Chem",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/03/Buuo-26_1-Chem-de-La-Chem.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:20.524324",
+      "url": "https://medcanonestop.com/medcan_product/buuo-beat-26-1-chem-de-la-chem/"
+    },
+    {
+      "title": "Buuo Beat 26/1 Chem de la Chem",
+      "thc": {
+        "value": 26.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.4,
+          "unit": "g"
+        },
+        "max": {
+          "value": 8.4,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/03/Buuo-26_1-Chem-de-La-Chem.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:32.712685",
+      "url": "https://medcanonestop.com/medcan_product/buuo-beat-26-1-chem-de-la-chem/"
     }
   ],
-  "last_updated": "2025-03-12T02:35:19.231892"
+  "last_updated": "2025-03-12T04:49:32.712685"
 }

@@ -2,7 +2,7 @@
   "title": "Pedanios 27/1 FRG CA",
   "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-farm-gas-frg/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:35:28.479377",
+  "last_updated": "2025-03-12T04:49:44.554733",
   "history": [
     {
       "title": "Pedanios 27/1 FRG CA",
@@ -262,6 +262,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Pedanios-29_1-FRG-CA_Bluete.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:35:28.479377",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-farm-gas-frg/"
+    },
+    {
+      "title": "Pedanios 27/1 FRG CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Pedanios-29_1-FRG-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:42:31.733242",
+      "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-farm-gas-frg/"
+    },
+    {
+      "title": "Pedanios 27/1 FRG CA",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.89,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.42,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/06/Pedanios-29_1-FRG-CA_Bluete.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:49:44.554733",
       "url": "https://medcanonestop.com/medcan_product/pedanios-27-1-farm-gas-frg/"
     }
   ]

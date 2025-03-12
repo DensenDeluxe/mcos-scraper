@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:47.366259",
       "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-ultra-dk-28-1/"
+    },
+    {
+      "title": "Cannamedical Hybrid Ultra DK 28/1",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Ghost-Train-Haze.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:40:25.190097",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-ultra-dk-28-1/"
+    },
+    {
+      "title": "Cannamedical Hybrid Ultra DK 28/1",
+      "thc": {
+        "value": 29.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.99,
+          "unit": "g"
+        },
+        "max": {
+          "value": 16.66,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/07/Ghost-Train-Haze.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:29.394257",
+      "url": "https://medcanonestop.com/medcan_product/cannamedical-hybrid-ultra-dk-28-1/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:47.366259"
+  "last_updated": "2025-03-12T04:47:29.394257"
 }

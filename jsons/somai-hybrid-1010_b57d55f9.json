@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:18.115521",
       "url": "https://medcanonestop.com/medcan_product/somai-hybrid-1010/"
+    },
+    {
+      "title": "SOMAI Hybrid 10:10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 2.75,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/OralSolutionsBottle10_10.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:02.831330",
+      "url": "https://medcanonestop.com/medcan_product/somai-hybrid-1010/"
+    },
+    {
+      "title": "SOMAI Hybrid 10:10",
+      "thc": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 10.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 2.75,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 8.95,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/10/OralSolutionsBottle10_10.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:09.753941",
+      "url": "https://medcanonestop.com/medcan_product/somai-hybrid-1010/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:18.115521"
+  "last_updated": "2025-03-12T04:48:09.753941"
 }

@@ -2,7 +2,7 @@
   "title": "Soma OG FG 30/1 GS",
   "url": "https://medcanonestop.com/medcan_product/soma-og-fg-30-1/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:11.877759",
+  "last_updated": "2025-03-12T04:44:09.761198",
   "history": [
     {
       "title": "Soma OG FG 30/1 GS",
@@ -236,6 +236,58 @@
       "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:11.877759",
+      "url": "https://medcanonestop.com/medcan_product/soma-og-fg-30-1/"
+    },
+    {
+      "title": "Soma OG FG 30/1 GS",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:14.402439",
+      "url": "https://medcanonestop.com/medcan_product/soma-og-fg-30-1/"
+    },
+    {
+      "title": "Soma OG FG 30/1 GS",
+      "thc": {
+        "value": 30.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.8,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.5,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:09.761198",
       "url": "https://medcanonestop.com/medcan_product/soma-og-fg-30-1/"
     }
   ]

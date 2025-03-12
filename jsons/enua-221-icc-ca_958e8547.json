@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:36.496767",
       "url": "https://medcanonestop.com/medcan_product/enua-22-1-icc-ca/"
+    },
+    {
+      "title": "enua 22/1 ICC CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3809.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:55.646461",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-icc-ca/"
+    },
+    {
+      "title": "enua 22/1 ICC CA",
+      "thc": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 6.49,
+          "unit": "g"
+        },
+        "max": {
+          "value": 9.99,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/05/3809.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:53.889197",
+      "url": "https://medcanonestop.com/medcan_product/enua-22-1-icc-ca/"
     }
   ],
-  "last_updated": "2025-03-12T02:32:36.496767"
+  "last_updated": "2025-03-12T04:45:53.889197"
 }

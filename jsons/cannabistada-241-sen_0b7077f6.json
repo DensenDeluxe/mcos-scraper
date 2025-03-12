@@ -195,7 +195,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:35.392702",
       "url": "https://medcanonestop.com/medcan_product/cannabistada-24-1-sen/"
+    },
+    {
+      "title": "Cannabistada 24/1 SEN",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 15.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:54.527479",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-24-1-sen/"
+    },
+    {
+      "title": "Cannabistada 24/1 SEN",
+      "thc": {
+        "value": 24.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 15.85,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/themes/medcanonestop/assets/img/flower-icon.svg",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:53.413138",
+      "url": "https://medcanonestop.com/medcan_product/cannabistada-24-1-sen/"
     }
   ],
-  "last_updated": "2025-03-12T02:32:35.392702"
+  "last_updated": "2025-03-12T04:45:53.413138"
 }

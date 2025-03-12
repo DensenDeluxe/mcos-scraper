@@ -205,7 +205,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:24.279733",
       "url": "https://medcanonestop.com/medcan_product/demecan-2020-oktonia/"
+    },
+    {
+      "title": "DEMECAN 20:20 Oktonia",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 12.67,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 16.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/demecan-blueten-mockup-dose-15g-medizinal-cannabis-20-20.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:52.853872",
+      "url": "https://medcanonestop.com/medcan_product/demecan-2020-oktonia/"
+    },
+    {
+      "title": "DEMECAN 20:20 Oktonia",
+      "thc": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "cbd": {
+        "value": 20.0,
+        "unit": "mg"
+      },
+      "price": {
+        "min": {
+          "value": 12.67,
+          "unit": "ml"
+        },
+        "max": {
+          "value": 16.99,
+          "unit": "ml"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/05/demecan-blueten-mockup-dose-15g-medizinal-cannabis-20-20.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:46:55.298114",
+      "url": "https://medcanonestop.com/medcan_product/demecan-2020-oktonia/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:24.279733"
+  "last_updated": "2025-03-12T04:46:55.298114"
 }

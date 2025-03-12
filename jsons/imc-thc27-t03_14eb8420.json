@@ -151,7 +151,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:32:17.051911",
       "url": "https://medcanonestop.com/medcan_product/imc-thc27-t03-gg4-gorilla-glue/"
+    },
+    {
+      "title": "IMC THC27 T03",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/2145.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:38:36.789924",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc27-t03-gg4-gorilla-glue/"
+    },
+    {
+      "title": "IMC THC27 T03",
+      "thc": {
+        "value": 27.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "delivery_status": "Unbekannt",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/03/2145.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:45:35.918323",
+      "url": "https://medcanonestop.com/medcan_product/imc-thc27-t03-gg4-gorilla-glue/"
     }
   ],
-  "last_updated": "2025-03-12T02:32:17.051911"
+  "last_updated": "2025-03-12T04:45:35.918323"
 }

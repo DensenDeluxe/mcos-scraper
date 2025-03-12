@@ -179,7 +179,59 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:33:26.657843",
       "url": "https://medcanonestop.com/medcan_product/420-sungrown-25-1-ca-lly/"
+    },
+    {
+      "title": "420 Sungrown 25/1 CA LLY",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.57,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Sungrown_Legendary-Larry_LLY.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:39:56.865341",
+      "url": "https://medcanonestop.com/medcan_product/420-sungrown-25-1-ca-lly/"
+    },
+    {
+      "title": "420 Sungrown 25/1 CA LLY",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 8.35,
+          "unit": "g"
+        },
+        "max": {
+          "value": 13.57,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2025/01/Four20_Sungrown_Legendary-Larry_LLY.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:47:00.483097",
+      "url": "https://medcanonestop.com/medcan_product/420-sungrown-25-1-ca-lly/"
     }
   ],
-  "last_updated": "2025-03-12T02:33:26.657843"
+  "last_updated": "2025-03-12T04:47:00.483097"
 }

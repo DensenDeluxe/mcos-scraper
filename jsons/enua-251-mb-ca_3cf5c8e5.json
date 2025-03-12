@@ -2,7 +2,7 @@
   "title": "enua 25/1 MB CA",
   "url": "https://medcanonestop.com/medcan_product/enua-25-1-mb-ca/",
   "product_type": "Cannabisblüten",
-  "last_updated": "2025-03-12T02:31:46.599146",
+  "last_updated": "2025-03-12T04:44:55.330294",
   "history": [
     {
       "title": "enua 25/1 MB CA",
@@ -184,6 +184,58 @@
       "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MB.png",
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:31:46.599146",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-mb-ca/"
+    },
+    {
+      "title": "enua 25/1 MB CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MB.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:37:58.866138",
+      "url": "https://medcanonestop.com/medcan_product/enua-25-1-mb-ca/"
+    },
+    {
+      "title": "enua 25/1 MB CA",
+      "thc": {
+        "value": 25.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "min": {
+          "value": 7.97,
+          "unit": "g"
+        },
+        "max": {
+          "value": 10.49,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2024/09/MB.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:44:55.330294",
       "url": "https://medcanonestop.com/medcan_product/enua-25-1-mb-ca/"
     }
   ]

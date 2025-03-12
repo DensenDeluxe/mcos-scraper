@@ -151,7 +151,51 @@
       "product_type": "Cannabisblüten",
       "timestamp": "2025-03-12T02:34:48.683827",
       "url": "https://medcanonestop.com/medcan_product/avaay-signature-23-1-cr-crescendo/"
+    },
+    {
+      "title": "avaay Signature 23/1 CR",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 13.35,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/CRE_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T03:41:41.005621",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-23-1-cr-crescendo/"
+    },
+    {
+      "title": "avaay Signature 23/1 CR",
+      "thc": {
+        "value": 23.0,
+        "unit": "%"
+      },
+      "cbd": {
+        "value": 1.0,
+        "unit": "%"
+      },
+      "price": {
+        "value": {
+          "value": 13.35,
+          "unit": "g"
+        }
+      },
+      "delivery_status": "lieferbar",
+      "image_url": "https://medcanonestop.com/wp-content/uploads/2023/11/CRE_bud.png",
+      "product_type": "Cannabisblüten",
+      "timestamp": "2025-03-12T04:48:51.154366",
+      "url": "https://medcanonestop.com/medcan_product/avaay-signature-23-1-cr-crescendo/"
     }
   ],
-  "last_updated": "2025-03-12T02:34:48.683827"
+  "last_updated": "2025-03-12T04:48:51.154366"
 }
