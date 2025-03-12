@@ -183,347 +183,349 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
   <script>
-    // Debug-Funktion (umbenannt, um Konflikte zu vermeiden)
-    function myDebug(message) {
-      const debugDiv = document.getElementById('debugOutput');
-      if (debugDiv) {
-        const p = document.createElement('p');
-        p.textContent = new Date().toLocaleTimeString() + ' - ' + message;
-        debugDiv.appendChild(p);
-        debugDiv.scrollTop = debugDiv.scrollHeight;
-      }
-      console.error(message);
-    }
-    
-    // Jahr im Footer aktualisieren
-    document.getElementById('currentYear').textContent = new Date().getFullYear();
-    
-    let indexData = {};
-    let chart;
-    let dataTable;
-    let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
-    
-    // Hilfsfunktionen zur Extraktion innerer numerischer Werte
-    function getNumeric(obj) {
-      return (typeof obj === 'object' && obj.value !== undefined) ? obj.value : obj;
-    }
-    
-    function formatPrice(value) {
-      if (typeof value === 'number') {
-        return value.toFixed(2).replace('.', ',') + ' €';
-      }
-      return value;
-    }
-    
-    function formatTHC(thc) {
-      if (typeof thc === 'object' && thc.value !== undefined) {
-        return thc.value.toFixed(1).replace('.', ',') + ' ' + (thc.unit || '');
-      } else if (typeof thc === 'number') {
-        return thc.toFixed(1).replace('.', ',') + ' %';
-      }
-      return thc;
-    }
-    
-    function formatCBD(cbd) {
-      if (!cbd) return "n/a";
-      if (typeof cbd === 'object' && cbd.value !== undefined && cbd.value !== null) {
-        return cbd.value.toFixed(1).replace('.', ',') + ' ' + (cbd.unit || '');
-      } else if (typeof cbd === 'number') {
-        return cbd.toFixed(1).replace('.', ',') + ' %';
-      }
-      return cbd;
-    }
-    
-    function isValidProduct(prod) {
-      if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
-      if (!prod.price) return false;
-      let priceValid = true;
-      if (prod.price.value !== undefined && prod.price.value !== null) {
-        priceValid = getNumeric(prod.price.value) !== 0;
-      } else if (prod.price.min !== undefined && prod.price.max !== undefined) {
-        priceValid = (getNumeric(prod.price.min) !== 0 && getNumeric(prod.price.max) !== 0);
-      }
-      const thcValid = prod.thc && getNumeric(prod.thc) !== 0;
-      const cbdValid = prod.cbd && getNumeric(prod.cbd) !== 0;
-      return priceValid && (thcValid || cbdValid);
-    }
-    
-    // Manifest laden und alle Produkt-JSONs einlesen
-    async function fetchIndex() {
-      indexData = {};
-      try {
-        const timestamp = new Date().getTime();
-        const manifestResponse = await fetch('./manifest.json?ts=' + timestamp);
-        if (!manifestResponse.ok) throw new Error('Manifest konnte nicht geladen werden.');
-        const productFiles = await manifestResponse.json();
-        for (let file of productFiles) {
-          try {
-            const response = await fetch('./jsons/' + file + '?ts=' + timestamp);
-            if (!response.ok) throw new Error('Fehler beim Laden von ' + file);
-            const data = await response.json();
-            let prod = (data.history && data.history.length) ? data.history[data.history.length - 1] : data;
-            prod._filename = file;
-            if (isValidProduct(prod)) {
-              indexData[prod.title] = prod;
-            }
-          } catch (error) {
-            myDebug('Fehler in Datei ' + file + ': ' + error.message);
-          }
+    (function(){
+      // Debug-Funktion (umbenannt, um Konflikte zu vermeiden)
+      function myDebug(message) {
+        const debugDiv = document.getElementById('debugOutput');
+        if (debugDiv) {
+          const p = document.createElement('p');
+          p.textContent = new Date().toLocaleTimeString() + ' - ' + message;
+          debugDiv.appendChild(p);
+          debugDiv.scrollTop = debugDiv.scrollHeight;
         }
-      } catch (error) {
-        myDebug('Manifest-Fehler: ' + error.message);
+        console.error(message);
       }
-      updateProductSelect();
-      updateTable();
-    }
-    
-    function updateProductSelect() {
-      const select = document.getElementById('productSelect');
-      select.innerHTML = '<option value="">-- Alle Produkte --</option>';
-      const products = Object.keys(indexData)
-                            .filter(product => isValidProduct(indexData[product]))
-                            .sort((a, b) => a.localeCompare(b));
-      products.forEach(product => {
-        const option = document.createElement('option');
-        option.value = product;
-        option.textContent = product;
-        select.appendChild(option);
-      });
-    }
-    
-    function updateTable() {
-      const rowsData = [];
-      const products = Object.keys(indexData)
-                            .filter(product => isValidProduct(indexData[product]))
-                            .sort((a, b) => a.localeCompare(b));
-      products.forEach(product => {
-        const latest = indexData[product];
-        const thcValue = latest.thc ? formatTHC(latest.thc) : "n/a";
-        const cbdValue = latest.cbd ? formatCBD(latest.cbd) : "n/a";
-        
-        let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
-        let priceMinOrder = 0, priceMaxOrder = 0;
-        if (latest.price) {
-          if (latest.price.value !== undefined && latest.price.value !== null) {
-            priceMin = formatPrice(getNumeric(latest.price.value));
-            priceMax = formatPrice(getNumeric(latest.price.value));
-            priceMinOrder = parseFloat(getNumeric(latest.price.value));
-            priceMaxOrder = parseFloat(getNumeric(latest.price.value));
-          } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            priceMin = formatPrice(getNumeric(latest.price.min));
-            priceMax = formatPrice(getNumeric(latest.price.max));
-            priceMinOrder = parseFloat(getNumeric(latest.price.min));
-            priceMaxOrder = parseFloat(getNumeric(latest.price.max));
-          }
-        }
-        
-        let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
-        if (latest.price && latest.thc && getNumeric(latest.thc) > 0) {
-          let basePrice;
-          if (latest.price.value !== undefined && latest.price.value !== null) {
-            basePrice = parseFloat(getNumeric(latest.price.value));
-          } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
-            basePrice = parseFloat(getNumeric(latest.price.min));
-          }
-          if (basePrice !== undefined) {
-            let factor = 1;
-            if (latest.cbd && getNumeric(latest.cbd) > 0) {
-              factor = (getNumeric(latest.thc) + getNumeric(latest.cbd)) / getNumeric(latest.thc);
-            }
-            const calculated = basePrice * 100 / getNumeric(latest.thc) * factor;
-            pricePerGramTHC = formatPrice(calculated);
-            pricePerGramTHCOrder = parseFloat(calculated.toFixed(2));
-          }
-        }
-        
-        const row = [
-          product,
-          thcValue,
-          cbdValue,
-          `<span data-order="${pricePerGramTHCOrder}">${pricePerGramTHC}</span>`,
-          `<span data-order="${priceMinOrder}">${priceMin}</span>`,
-          `<span data-order="${priceMaxOrder}">${priceMax}</span>`,
-          new Date(latest.timestamp).toLocaleString()
-        ];
-        rowsData.push(row);
-      });
       
-      if (!dataTable) {
-        dataTable = $('#pricesTable').DataTable({
-          data: rowsData,
-          columns: [
-            { title: "Handelsname" },
-            { title: "THC Wert" },
-            { title: "CBD Wert" },
-            { title: "Preis pro Gramm THC" },
-            { title: "Tiefstpreis" },
-            { title: "Höchstpreis" },
-            { title: "Letztes Update", orderable: false }
-          ],
-          responsive: true,
-          searching: false,
-          lengthChange: false,
-          paging: true,
-          order: [[3, "asc"]],
-          language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
+      // Jahr im Footer aktualisieren
+      document.getElementById('currentYear').textContent = new Date().getFullYear();
+      
+      let indexData = {};
+      let chart;
+      let dataTable;
+      let detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
+      
+      // Hilfsfunktionen zur Extraktion innerer numerischer Werte
+      function getNumeric(obj) {
+        return (typeof obj === 'object' && obj.value != null) ? obj.value : obj;
+      }
+      
+      function formatPrice(value) {
+        if (typeof value === 'number') {
+          return value.toFixed(2).replace('.', ',') + ' €';
+        }
+        return value;
+      }
+      
+      function formatTHC(thc) {
+        if (typeof thc === 'object' && thc.value != null) {
+          return thc.value.toFixed(1).replace('.', ',') + ' ' + (thc.unit || '');
+        } else if (typeof thc === 'number') {
+          return thc.toFixed(1).replace('.', ',') + ' %';
+        }
+        return "n/a";
+      }
+      
+      function formatCBD(cbd) {
+        if (typeof cbd === 'object' && cbd.value != null) {
+          return cbd.value.toFixed(1).replace('.', ',') + ' ' + (cbd.unit || '');
+        } else if (typeof cbd === 'number') {
+          return cbd.toFixed(1).replace('.', ',') + ' %';
+        }
+        return "n/a";
+      }
+      
+      function isValidProduct(prod) {
+        if (!prod.title || prod.title.trim() === "" || prod.title.trim() === "101-C 50:0") return false;
+        if (!prod.price) return false;
+        let priceValid = true;
+        if (prod.price.value !== undefined && prod.price.value != null) {
+          priceValid = getNumeric(prod.price.value) !== 0;
+        } else if (prod.price.min !== undefined && prod.price.max !== undefined) {
+          priceValid = (getNumeric(prod.price.min) !== 0 && getNumeric(prod.price.max) !== 0);
+        }
+        const thcValid = prod.thc && getNumeric(prod.thc) !== 0;
+        const cbdValid = prod.cbd && getNumeric(prod.cbd) !== 0;
+        return priceValid && (thcValid || cbdValid);
+      }
+      
+      // Manifest laden und alle Produkt-JSONs einlesen
+      async function fetchIndex() {
+        indexData = {};
+        try {
+          const timestamp = new Date().getTime();
+          const manifestResponse = await fetch('./manifest.json?ts=' + timestamp);
+          if (!manifestResponse.ok) throw new Error('Manifest konnte nicht geladen werden.');
+          const productFiles = await manifestResponse.json();
+          for (let file of productFiles) {
+            try {
+              const response = await fetch('./jsons/' + file + '?ts=' + timestamp);
+              if (!response.ok) throw new Error('Fehler beim Laden von ' + file);
+              const data = await response.json();
+              let prod = (data.history && data.history.length) ? data.history[data.history.length - 1] : data;
+              prod._filename = file;
+              if (isValidProduct(prod)) {
+                indexData[prod.title] = prod;
+              }
+            } catch (error) {
+              myDebug('Fehler in Datei ' + file + ': ' + error.message);
+            }
+          }
+        } catch (error) {
+          myDebug('Manifest-Fehler: ' + error.message);
+        }
+        updateProductSelect();
+        updateTable();
+      }
+      
+      function updateProductSelect() {
+        const select = document.getElementById('productSelect');
+        select.innerHTML = '<option value="">-- Alle Produkte --</option>';
+        const products = Object.keys(indexData)
+                              .filter(product => isValidProduct(indexData[product]))
+                              .sort((a, b) => a.localeCompare(b));
+        products.forEach(product => {
+          const option = document.createElement('option');
+          option.value = product;
+          option.textContent = product;
+          select.appendChild(option);
         });
-      } else {
-        dataTable.clear();
-        dataTable.rows.add(rowsData);
-        dataTable.draw();
       }
-      applyProductTypeFilter();
-    }
-    
-    async function loadProductDetails(product) {
-      if (!product) return;
-      try {
-        const timestamp = new Date().getTime();
-        const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
-        if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
-        const details = await response.json();
-        let latest = (details.history && details.history.length) ? details.history[details.history.length - 1] : details;
-        showDetailModal(latest);
-      } catch (error) {
-        myDebug('Detail-JSON Error: ' + error.message);
-      }
-    }
-    
-    function showDetailModal(details) {
-      const modalTitle = document.getElementById('detailModalLabel');
-      const modalBody = document.getElementById('detailBody');
-      modalTitle.textContent = details.title;
-      let html = "";
-      if (details.image_url) {
-        html += `<div class="detail-section"><img src="${details.image_url}" alt="${details.title}" class="detail-img"></div>`;
-      }
-      html += `<div class="detail-section"><strong>Produkttyp:</strong> ${details.product_type}</div>`;
-      html += `<div class="detail-section"><strong>THC:</strong> ${formatTHC(details.thc)} &nbsp; <strong>CBD:</strong> ${formatCBD(details.cbd)}</div>`;
-      html += `<div class="detail-section"><strong>Preis:</strong> `;
-      if (details.price.value !== undefined && details.price.value !== null) {
-        html += formatPrice(getNumeric(details.price.value));
-      } else if (details.price.min !== undefined && details.price.max !== undefined) {
-        html += formatPrice(getNumeric(details.price.min)) + " - " + formatPrice(getNumeric(details.price.max));
-      } else {
-        html += "Keine Daten";
-      }
-      html += `</div>`;
-      if (details.delivery_status) {
-        html += `<div class="detail-section"><strong>Lieferstatus:</strong> ${details.delivery_status}</div>`;
-      }
-      if (details.url) {
-        html += `<div class="detail-section"><strong>Mehr Informationen:</strong> <a href="${details.url}" target="_blank">${details.url}</a></div>`;
-      }
-      modalBody.innerHTML = html;
-      detailModal.show();
-    }
-    
-    $('#pricesTable tbody').on('click', 'tr', function() {
-      const product = $(this).find('td:first').text();
-      loadProductDetails(indexData[product]);
-    });
-    
-    function applyProductTypeFilter() {
-      const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
-      const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
-      $('#pricesTable tbody tr').each(function() {
-        const prodType = $(this).attr('data-product-type');
-        if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
-          $(this).hide();
-        } else {
-          $(this).show();
-        }
-      });
-    }
-    
-    $(document).ready(function() {
-      fetchIndex();
-    });
-    
-    async function loadProductHistory(product) {
-      if (!product) {
-        if (chart) { chart.destroy(); }
-        return;
-      }
-      try {
-        const timestamp = new Date().getTime();
-        const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
-        if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
-        const history = await response.json();
-        updateChart(history);
-      } catch (error) {
-        myDebug('History-Error: ' + error.message);
-      }
-    }
-    
-    function updateChart(historyData) {
-      if (!historyData || historyData.length === 0) {
-        if (chart) { chart.destroy(); }
-        return;
-      }
-      let labels = [];
-      let minPrices = [];
-      let maxPrices = [];
       
-      historyData.forEach(entry => {
-        labels.push(new Date(entry.timestamp).toLocaleString());
-        if (entry.price) {
-          if (entry.price.value !== undefined && entry.price.value !== null) {
-            minPrices.push(getNumeric(entry.price.value));
-            maxPrices.push(getNumeric(entry.price.value));
-          } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
-            minPrices.push(getNumeric(entry.price.min));
-            maxPrices.push(getNumeric(entry.price.max));
+      function updateTable() {
+        const rowsData = [];
+        const products = Object.keys(indexData)
+                              .filter(product => isValidProduct(indexData[product]))
+                              .sort((a, b) => a.localeCompare(b));
+        products.forEach(product => {
+          const latest = indexData[product];
+          const thcValue = latest.thc ? formatTHC(latest.thc) : "n/a";
+          const cbdValue = latest.cbd ? formatCBD(latest.cbd) : "n/a";
+          
+          let priceMin = 'Keine Daten', priceMax = 'Keine Daten';
+          let priceMinOrder = 0, priceMaxOrder = 0;
+          if (latest.price) {
+            if (latest.price.value !== undefined && latest.price.value != null) {
+              priceMin = formatPrice(getNumeric(latest.price.value));
+              priceMax = formatPrice(getNumeric(latest.price.value));
+              priceMinOrder = parseFloat(getNumeric(latest.price.value));
+              priceMaxOrder = parseFloat(getNumeric(latest.price.value));
+            } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
+              priceMin = formatPrice(getNumeric(latest.price.min));
+              priceMax = formatPrice(getNumeric(latest.price.max));
+              priceMinOrder = parseFloat(getNumeric(latest.price.min));
+              priceMaxOrder = parseFloat(getNumeric(latest.price.max));
+            }
+          }
+          
+          let pricePerGramTHC = "n/a", pricePerGramTHCOrder = 0;
+          if (latest.price && latest.thc && getNumeric(latest.thc) > 0) {
+            let basePrice;
+            if (latest.price.value !== undefined && latest.price.value != null) {
+              basePrice = parseFloat(getNumeric(latest.price.value));
+            } else if (latest.price.min !== undefined && latest.price.max !== undefined) {
+              basePrice = parseFloat(getNumeric(latest.price.min));
+            }
+            if (basePrice !== undefined) {
+              let factor = 1;
+              if (latest.cbd && getNumeric(latest.cbd) > 0) {
+                factor = (getNumeric(latest.thc) + getNumeric(latest.cbd)) / getNumeric(latest.thc);
+              }
+              const calculated = basePrice * 100 / getNumeric(latest.thc) * factor;
+              pricePerGramTHC = formatPrice(calculated);
+              pricePerGramTHCOrder = parseFloat(calculated.toFixed(2));
+            }
+          }
+          
+          const row = [
+            product,
+            thcValue,
+            cbdValue,
+            `<span data-order="${pricePerGramTHCOrder}">${pricePerGramTHC}</span>`,
+            `<span data-order="${priceMinOrder}">${priceMin}</span>`,
+            `<span data-order="${priceMaxOrder}">${priceMax}</span>`,
+            new Date(latest.timestamp).toLocaleString()
+          ];
+          rowsData.push(row);
+        });
+        
+        if (!dataTable) {
+          dataTable = $('#pricesTable').DataTable({
+            data: rowsData,
+            columns: [
+              { title: "Handelsname" },
+              { title: "THC Wert" },
+              { title: "CBD Wert" },
+              { title: "Preis pro Gramm THC" },
+              { title: "Tiefstpreis" },
+              { title: "Höchstpreis" },
+              { title: "Letztes Update", orderable: false }
+            ],
+            responsive: true,
+            searching: false,
+            lengthChange: false,
+            paging: true,
+            order: [[3, "asc"]],
+            language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
+          });
+        } else {
+          dataTable.clear();
+          dataTable.rows.add(rowsData);
+          dataTable.draw();
+        }
+        applyProductTypeFilter();
+      }
+      
+      async function loadProductDetails(product) {
+        if (!product) return;
+        try {
+          const timestamp = new Date().getTime();
+          const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
+          if (!response.ok) throw new Error('Fehler beim Laden der Detail-JSON');
+          const details = await response.json();
+          let latest = (details.history && details.history.length) ? details.history[details.history.length - 1] : details;
+          showDetailModal(latest);
+        } catch (error) {
+          myDebug('Detail-JSON Error: ' + error.message);
+        }
+      }
+      
+      function showDetailModal(details) {
+        const modalTitle = document.getElementById('detailModalLabel');
+        const modalBody = document.getElementById('detailBody');
+        modalTitle.textContent = details.title;
+        let html = "";
+        if (details.image_url) {
+          html += `<div class="detail-section"><img src="${details.image_url}" alt="${details.title}" class="detail-img"></div>`;
+        }
+        html += `<div class="detail-section"><strong>Produkttyp:</strong> ${details.product_type}</div>`;
+        html += `<div class="detail-section"><strong>THC:</strong> ${formatTHC(details.thc)} &nbsp; <strong>CBD:</strong> ${formatCBD(details.cbd)}</div>`;
+        html += `<div class="detail-section"><strong>Preis:</strong> `;
+        if (details.price.value !== undefined && details.price.value != null) {
+          html += formatPrice(getNumeric(details.price.value));
+        } else if (details.price.min !== undefined && details.price.max !== undefined) {
+          html += formatPrice(getNumeric(details.price.min)) + " - " + formatPrice(getNumeric(details.price.max));
+        } else {
+          html += "Keine Daten";
+        }
+        html += `</div>`;
+        if (details.delivery_status) {
+          html += `<div class="detail-section"><strong>Lieferstatus:</strong> ${details.delivery_status}</div>`;
+        }
+        if (details.url) {
+          html += `<div class="detail-section"><strong>Mehr Informationen:</strong> <a href="${details.url}" target="_blank">${details.url}</a></div>`;
+        }
+        modalBody.innerHTML = html;
+        detailModal.show();
+      }
+      
+      $('#pricesTable tbody').on('click', 'tr', function() {
+        const product = $(this).find('td:first').text();
+        loadProductDetails(indexData[product]);
+      });
+      
+      function applyProductTypeFilter() {
+        const showExtrakte = document.getElementById('filterExtrakte') ? document.getElementById('filterExtrakte').checked : true;
+        const showCannabisblueten = document.getElementById('filterCannabisblueten') ? document.getElementById('filterCannabisblueten').checked : true;
+        $('#pricesTable tbody tr').each(function() {
+          const prodType = $(this).attr('data-product-type');
+          if ((prodType === "Extrakte" && !showExtrakte) || (prodType === "Cannabisblüten" && !showCannabisblueten)) {
+            $(this).hide();
+          } else {
+            $(this).show();
+          }
+        });
+      }
+      
+      $(document).ready(function() {
+        fetchIndex();
+      });
+      
+      async function loadProductHistory(product) {
+        if (!product) {
+          if (chart) { chart.destroy(); }
+          return;
+        }
+        try {
+          const timestamp = new Date().getTime();
+          const response = await fetch('./jsons/' + product._filename + '?ts=' + timestamp);
+          if (!response.ok) throw new Error('Fehler beim Laden der Produkt-JSON');
+          const history = await response.json();
+          updateChart(history);
+        } catch (error) {
+          myDebug('History-Error: ' + error.message);
+        }
+      }
+      
+      function updateChart(historyData) {
+        if (!historyData || historyData.length === 0) {
+          if (chart) { chart.destroy(); }
+          return;
+        }
+        let labels = [];
+        let minPrices = [];
+        let maxPrices = [];
+        
+        historyData.forEach(entry => {
+          labels.push(new Date(entry.timestamp).toLocaleString());
+          if (entry.price) {
+            if (entry.price.value !== undefined && entry.price.value != null) {
+              minPrices.push(getNumeric(entry.price.value));
+              maxPrices.push(getNumeric(entry.price.value));
+            } else if (entry.price.min !== undefined && entry.price.max !== undefined) {
+              minPrices.push(getNumeric(entry.price.min));
+              maxPrices.push(getNumeric(entry.price.max));
+            } else {
+              minPrices.push(null);
+              maxPrices.push(null);
+            }
           } else {
             minPrices.push(null);
             maxPrices.push(null);
           }
-        } else {
-          minPrices.push(null);
-          maxPrices.push(null);
+        });
+        
+        if (historyData.length === 1) {
+          labels.push(labels[0]);
+          minPrices.push(minPrices[0]);
+          maxPrices.push(maxPrices[0]);
         }
-      });
-      
-      if (historyData.length === 1) {
-        labels.push(labels[0]);
-        minPrices.push(minPrices[0]);
-        maxPrices.push(maxPrices[0]);
-      }
-      
-      const ctx = document.getElementById('priceChart').getContext('2d');
-      if (chart) { chart.destroy(); }
-      chart = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: labels,
-          datasets: [
-            { label: 'Tiefstpreis', data: minPrices, borderColor: 'rgba(75, 192, 192, 1)', backgroundColor: 'rgba(75, 192, 192, 0.2)', fill: false },
-            { label: 'Höchstpreis', data: maxPrices, borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)', fill: false }
-          ]
-        },
-        options: {
-          responsive: true,
-          maintainAspectRatio: false,
-          scales: {
-            x: { display: true, title: { display: true, text: 'Zeit' } },
-            y: { display: true, title: { display: true, text: 'Preis' } }
-          },
-          plugins: { legend: { display: true } }
-        }
-      });
-    }
-    
-    document.getElementById('productSelect').addEventListener('change', function() {
-      const selected = this.value;
-      if (selected === "") {
-        updateTable();
+        
+        const ctx = document.getElementById('priceChart').getContext('2d');
         if (chart) { chart.destroy(); }
-      } else {
-        const prod = indexData[selected];
-        updateTable();
-        loadProductHistory(prod);
+        chart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: labels,
+            datasets: [
+              { label: 'Tiefstpreis', data: minPrices, borderColor: 'rgba(75, 192, 192, 1)', backgroundColor: 'rgba(75, 192, 192, 0.2)', fill: false },
+              { label: 'Höchstpreis', data: maxPrices, borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)', fill: false }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+              x: { display: true, title: { display: true, text: 'Zeit' } },
+              y: { display: true, title: { display: true, text: 'Preis' } }
+            },
+            plugins: { legend: { display: true } }
+          }
+        });
       }
-    });
+      
+      document.getElementById('productSelect').addEventListener('change', function() {
+        const selected = this.value;
+        if (selected === "") {
+          updateTable();
+          if (chart) { chart.destroy(); }
+        } else {
+          const prod = indexData[selected];
+          updateTable();
+          loadProductHistory(prod);
+        }
+      });
+      
+    })();
   </script>
 </body>
 </html>
