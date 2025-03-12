@@ -19,6 +19,7 @@
       background-color: #1e1e1e;
       padding: 20px;
       border-radius: 8px;
+      max-width: 100%; /* Falls ein max-width-Wert gesetzt ist, übernimmt er diesen */
     }
     h1, label {
       color: #ffffff;
@@ -107,7 +108,7 @@
     #loadingBarContainer {
       margin-bottom: 20px;
     }
-    /* Debug Output Fenster - Breite angepasst */
+    /* Debug Output Fenster – innerhalb des Containers */
     #debugOutput {
       background-color: #333;
       color: #fff;
@@ -160,6 +161,9 @@
       </thead>
       <tbody></tbody>
     </table>
+    
+    <!-- Debug Output Fenster -->
+    <div id="debugOutput"></div>
   </div>
   
   <!-- Detail-Modal -->
@@ -184,9 +188,6 @@
   <footer>
     &copy; Daniel Pett <span id="currentYear"></span>
   </footer>
-  
-  <!-- Debug Output Fenster -->
-  <div id="debugOutput"></div>
   
   <!-- Scripte -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -432,7 +433,7 @@
             searching: false,
             lengthChange: false,
             paging: true,
-            order: [[3, "asc"]], // Standardmäßig nach "Preis pro Gramm THC" aufsteigend
+            order: [[3, "asc"]],
             language: { url: "//cdn.datatables.net/plug-ins/1.13.4/i18n/de-DE.json" }
           });
         } else {
