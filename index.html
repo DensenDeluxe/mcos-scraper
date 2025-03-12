@@ -103,6 +103,10 @@
     a:hover {
       color: #99ccff;
     }
+    /* Ladebalken */
+    #loadingBarContainer {
+      margin-bottom: 20px;
+    }
     /* Debug Output Fenster */
     #debugOutput {
       background-color: #333;
@@ -118,6 +122,13 @@
 <body>
   <div class="container">
     <h1 class="mb-4">Cannabis Preis Tracker</h1>
+    
+    <!-- Ladebalken -->
+    <div id="loadingBarContainer">
+      <div class="progress">
+        <div id="progressBar" class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+      </div>
+    </div>
     
     <!-- Dropdown für Produkte -->
     <div class="mb-4">
@@ -184,7 +195,7 @@
   
   <script>
     (function(){
-      // Debug-Funktion (umbenannt, um Konflikte zu vermeiden)
+      // Umbenannte Debug-Funktion
       function myDebug(message) {
         const debugDiv = document.getElementById('debugOutput');
         if (debugDiv) {
@@ -248,14 +259,17 @@
         return priceValid && (thcValid || cbdValid);
       }
       
-      // Manifest laden und alle Produkt-JSONs einlesen
+      // Manifest laden und alle Produkt-JSONs einlesen, dabei Fortschritt anzeigen
       async function fetchIndex() {
         indexData = {};
+        const progressBar = document.getElementById('progressBar');
         try {
           const timestamp = new Date().getTime();
           const manifestResponse = await fetch('./manifest.json?ts=' + timestamp);
           if (!manifestResponse.ok) throw new Error('Manifest konnte nicht geladen werden.');
           const productFiles = await manifestResponse.json();
+          const totalFiles = productFiles.length;
+          let counter = 0;
           for (let file of productFiles) {
             try {
               const response = await fetch('./jsons/' + file + '?ts=' + timestamp);
@@ -269,10 +283,16 @@
             } catch (error) {
               myDebug('Fehler in Datei ' + file + ': ' + error.message);
             }
+            counter++;
+            const progress = Math.floor((counter / totalFiles) * 100);
+            progressBar.style.width = progress + '%';
+            progressBar.textContent = progress + '%';
           }
         } catch (error) {
           myDebug('Manifest-Fehler: ' + error.message);
         }
+        // Ladebalken ausblenden
+        document.getElementById('loadingBarContainer').style.display = 'none';
         updateProductSelect();
         updateTable();
       }
@@ -524,7 +544,6 @@
           loadProductHistory(prod);
         }
       });
-      
     })();
   </script>
 </body>
